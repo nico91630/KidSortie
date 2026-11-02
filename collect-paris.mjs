@@ -48,7 +48,7 @@ try{
       counters.scheduled++;
       events.push({
        title,start:t.start,end:t.end,city:e.address_city||'Paris',lat,lon,
-       category:cat,minAge:null,maxAge:null,
+       category:cat,minAge:null,maxAge:null,familyVerified:true,
        price:e.price_type==='gratuit'?0:null,
        url:e.access_link?.startsWith('https://')?e.access_link:e.url,
        source:'Que faire à Paris — Ville de Paris',
