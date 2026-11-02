@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:14:51.022Z",
+  "updatedAt": "2026-11-02T21:18:59.438Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -6967,23 +6967,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
-      "title": "Jules Verne, le voyage extraordinaire",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8470440073158,
-      "lon": 2.35247500350349,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.legrandhoteldesreves.fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
-    },
-    {
       "title": "Histoires d'animaux pour petites et grandes oreilles",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -7016,6 +6999,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Pour ses dix ans, Pigeoncoq organise le samedi 7 novembre un atelier « Do It Yourself » géant à Paris, avec 200 kilos de cuirs dormants mis gratuitement à disposition du public.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-ad82a2998680bb3cd228a0fe423a5de6.jpg"
+    },
+    {
+      "title": "Jules Verne, le voyage extraordinaire",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8470440073158,
+      "lon": 2.35247500350349,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.legrandhoteldesreves.fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
     },
     {
       "title": "Georges Perec modes d'emploi",
@@ -7341,23 +7341,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-e7d527f5e69d4bc3c1c4d11988e99bb7.jpg"
     },
     {
-      "title": "RueWATT",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.827530014714,
-      "lon": 2.38098001218447,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.2r2c.coop/2r2cms/ateliers-intro/ateliers-baby-parents",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un temps de découverte et de jeu autour du mouvement et du cirque pour les 2-4 ans et leurs parents.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/30/huge-ddc23030e576d9de59f9d19bea661b9e.png"
-    },
-    {
       "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T17:30:00+02:00",
@@ -7373,6 +7356,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
+      "title": "RueWATT",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.827530014714,
+      "lon": 2.38098001218447,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.2r2c.coop/2r2cms/ateliers-intro/ateliers-baby-parents",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un temps de découverte et de jeu autour du mouvement et du cirque pour les 2-4 ans et leurs parents.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/30/huge-ddc23030e576d9de59f9d19bea661b9e.png"
     },
     {
       "title": "L'heure du conte des tout-petits",
@@ -7885,23 +7885,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
     },
     {
-      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Montreuil",
-      "lat": 48.8625910127827,
-      "lon": 2.44165702836665,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatrepublicmontreuil.com/olalaland",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
-    },
-    {
       "title": "Heure du conte",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T11:30:00+02:00",
@@ -7934,6 +7917,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+    },
+    {
+      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Montreuil",
+      "lat": 48.8625910127827,
+      "lon": 2.44165702836665,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://theatrepublicmontreuil.com/olalaland",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
     },
     {
       "title": "Stan Douglas. Parallax",
@@ -9228,23 +9228,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-9d3104645d0a48fa8394763b16cf936c.jpeg"
     },
     {
-      "title": "Conservatoire Léo Delibes",
-      "start": "2026-11-07T18:00:00+02:00",
-      "end": "2026-11-07T18:50:00+02:00",
-      "city": "Clichy",
-      "lat": 48.9025446953729,
-      "lon": 2.30653052325664,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.ville-clichy.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le trio Journal Intime revisite Le Livre de la Jungle en spectacle musical loufoque et burlesque. Concert, danse et théâtre visuel mêlés autour d'un Mowgli espiègle. Fête familiale jubilatoire et inventive.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/03/huge-2928e8030c2603edf7f39817f93f649e.jpg"
-    },
-    {
       "title": "Théâtre : Giordano",
       "start": "2026-11-07T18:00:00+02:00",
       "end": "2026-11-07T19:20:00+02:00",
@@ -9260,6 +9243,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "\"Vous avez sans doute plus peur, vous qui émettez ce jugement, que moi qui le reçois\".",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-8c85259eb88f1511d0fde56922dddf27.jpg"
+    },
+    {
+      "title": "Conservatoire Léo Delibes",
+      "start": "2026-11-07T18:00:00+02:00",
+      "end": "2026-11-07T18:50:00+02:00",
+      "city": "Clichy",
+      "lat": 48.9025446953729,
+      "lon": 2.30653052325664,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.ville-clichy.fr/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le trio Journal Intime revisite Le Livre de la Jungle en spectacle musical loufoque et burlesque. Concert, danse et théâtre visuel mêlés autour d'un Mowgli espiègle. Fête familiale jubilatoire et inventive.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/03/huge-2928e8030c2603edf7f39817f93f649e.jpg"
     },
     {
       "title": "Thérèse et Isabelle, Marie Fortuit",
@@ -10045,23 +10045,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
-      "title": "Jules Verne, le voyage extraordinaire",
-      "start": "2026-11-08T10:00:00+02:00",
-      "end": "2026-11-08T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8470440073158,
-      "lon": 2.35247500350349,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.legrandhoteldesreves.fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
-    },
-    {
       "title": "Paris Sport Dimanches",
       "start": "2026-11-08T10:00:00+02:00",
       "end": "2026-11-08T13:00:00+02:00",
@@ -10077,6 +10060,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris Sport Dimanches, c'est tout l'été l'occasion de pratiquer du sport gratuitement en extérieur, tous les dimanches matins, à 10H, dans les 4 coins de Paris.",
       "image": "https://cdn.paris.fr/qfapv4/2024/01/18/huge-563bde7ea759c8ddf762bef8d9839495.jpg"
+    },
+    {
+      "title": "Jules Verne, le voyage extraordinaire",
+      "start": "2026-11-08T10:00:00+02:00",
+      "end": "2026-11-08T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8470440073158,
+      "lon": 2.35247500350349,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.legrandhoteldesreves.fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
     },
     {
       "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
@@ -10742,23 +10742,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
     },
     {
-      "title": "Séances et représentations Relax : loisirs accessibles pour tous !",
-      "start": "2026-11-08T14:00:00+02:00",
-      "end": "2026-11-08T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8989989826917,
-      "lon": 2.37677699065617,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://culture-relax.org/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Aller au cinéma, au concert, à l’opéra, au théâtre : un acte banal mais qui, pour certains, paraît impossible ou se transforme en épreuve. Le dispositif Relax rend la culture accessible en inclusion à des personnes qui en sont privées par leur handicap (personnes autistes, polyhandicapées, avec un handicap intellectuel",
-      "image": "https://cdn.paris.fr/qfapv4/2024/07/22/huge-37efbca04648e019f210baa49cd9ebdd.jpg"
-    },
-    {
       "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
       "start": "2026-11-08T14:00:00+02:00",
       "end": "2026-11-08T16:00:00+02:00",
@@ -10791,6 +10774,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "[Conférence + Sortie] Savez-vous comment naissent les nuages que nous voyons chaque jour ? Cette conférence est une invitation à lever les yeux vers le ciel avec un regard neuf. Après une introduction accessible au monde de l’atmosphère et de la météorologie, nous explorerons les mécanismes de formation des nuages à tr",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2170fe9362cdd47411af683417b33d8b.jpg"
+    },
+    {
+      "title": "Séances et représentations Relax : loisirs accessibles pour tous !",
+      "start": "2026-11-08T14:00:00+02:00",
+      "end": "2026-11-08T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8989989826917,
+      "lon": 2.37677699065617,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://culture-relax.org/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Aller au cinéma, au concert, à l’opéra, au théâtre : un acte banal mais qui, pour certains, paraît impossible ou se transforme en épreuve. Le dispositif Relax rend la culture accessible en inclusion à des personnes qui en sont privées par leur handicap (personnes autistes, polyhandicapées, avec un handicap intellectuel",
+      "image": "https://cdn.paris.fr/qfapv4/2024/07/22/huge-37efbca04648e019f210baa49cd9ebdd.jpg"
     },
     {
       "title": "Augustin, Pirate des Indes",
