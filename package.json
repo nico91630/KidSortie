@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "collect": "node collect.mjs"
+    "collect": "node collect.mjs",
+    "test": "node --test event-core.test.mjs smoke.test.mjs"
   }
 }
