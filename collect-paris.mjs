@@ -1,3 +1,4 @@
+import { familyRelevant } from './family-filter.mjs';
 import fs from 'node:fs/promises';
 
 const base = 'https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/que-faire-a-paris-/records';
@@ -8,7 +9,6 @@ const km = (lat,lon) => {
   return 12742*Math.asin(Math.sqrt(a));
 };
 const plain = s => String(s||'').replace(/<[^>]*>/g,' ').replace(/&[a-z]+;/gi,' ').replace(/\s+/g,' ').trim();
-const family = /(enfant|famill|jeune.s? public|dès [23456789] ans|à partir de [23456789] ans|pour les [23456789].{0,3}ans|bébé|petit.s?|marionnette|conte.s?|comédie musicale|spectacle jeune|atelier enfant|animation enfant|kid|parent.enfant)/i;
 const show = /(spectacle|comédie musicale|théâtre|cirque|marionnette|magie|concert|musical|conte|danse)/i;
 let counters={read:0,close:0,family:0,scheduled:0}, events=[];
 function occurrences(e) {
@@ -41,7 +41,7 @@ try{
     const title=plain(e.title_event||e.title);
     if(!title||!e.url||!/^https:\/\//.test(e.url))continue;
     const corpus=[title,e.lead_text,e.audience,e.qfap_tags,e.universe_tags,e.description].map(plain).join(' ');
-    if(!family.test(corpus))continue;
+    if(!familyRelevant({title,description:[e.lead_text,e.description].map(plain).join(' '),audience:plain(e.audience),tags:[e.qfap_tags,e.universe_tags].map(plain).join(' ')}))continue;
     counters.family++;
     const cat=show.test(corpus)?'Spectacle':/atelier|jeux|loisirs/i.test(corpus)?'Loisir':/exposition|musée|visite/i.test(corpus)?'Découverte':'Événement';
     for(const t of occurrences(e)){
