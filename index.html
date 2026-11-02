@@ -65,11 +65,65 @@ function filteredEvents(){if(!eventCore)return[];return eventCore.filterEvents(e
 function media(e){const cover=el('div','cover');const image=validImage(e.image);if(image){const im=document.createElement('img');im.src=image;im.alt='Visuel de '+e.title;im.loading='lazy';im.referrerPolicy='no-referrer';im.addEventListener('error',()=>{im.remove();if(!cover.querySelector('.fallback'))cover.prepend(el('span','fallback',fallback[e.category]||'✨'))});cover.append(im)}else cover.append(el('span','fallback',fallback[e.category]||'✨'));cover.append(el('span','kind',e.category||'Sortie'));cover.append(el('span','distance',Math.round(distanceKm(e))+' km'));return cover}
 function openDetail(e,summaryOnly){const target=$('dialogContent');target.replaceChildren();if(validImage(e.image)){const im=el('img','modal-image');im.src=e.image;im.alt='Illustration de '+e.title;target.append(im)}const b=el('div','modal-body'),top=el('div','modal-top');top.append(el('span','flag',e.category||'Sortie'));const close=el('button','modal-close','×');close.type='button';close.setAttribute('aria-label','Fermer');close.addEventListener('click',()=> $('detailsDialog').close());top.append(close);b.append(top,el('h2','',e.title));const facts=el('div','fact');facts.append(el('div','', '📅 '+formatDate.format(new Date(e.start))),el('div','', '📍 '+(e.city||'Lieu non précisé')+' · '+Math.round(distanceKm(e))+' km de Brétigny'),el('div','', '👧 '+ageFor(e)),el('div','', '💶 '+priceFor(e)));b.append(facts);if(e.dates?.length>1){const section=el('div','sessions');section.append(el('h3','',e.dates.length+' séances disponibles'));const links=el('div','session-list');for(const date of e.dates.slice(0,24)){const link=el('a','',formatDate.format(new Date(date.start)));link.href=safeUrl(date.url)||e.url;link.rel='noopener noreferrer';link.target='_blank';links.append(link)}section.append(links);b.append(section)}const summary=summaryFor(e);b.append(el('span','flag',summary.ai?'✨ Résumé IA':'📝 Description de la source'));b.append(el('p','',summary.body));if(e.source)b.append(el('div','source','Source : '+e.source));const link=safeUrl(e.url);if(link){const a=el('a','open','Voir les dates et réserver ↗');a.href=link;a.target='_blank';a.rel='noopener noreferrer';b.append(a)}target.append(b);$('detailsDialog').showModal()}
 function render(){const list=filteredEvents();$('favCount').textContent=String(favorites.size);$('status').textContent=list.length+' sortie'+(list.length>1?'s':'')+' dans un rayon de '+$('radius').value+' km de Brétigny-sur-Orge';const zone=$('events');zone.replaceChildren();$('loadMore').hidden=mapMode||list.length<=visibleCount;if(mapMode){renderMap(list);return}if(!list.length){zone.append(el('div','empty',favoritesOnly?'Aucun favori pour le moment. Touchez le cœur d’une sortie pour la retrouver ici.':events.length?'Aucune sortie ne correspond aux filtres sélectionnés. Élargissez la période, l’âge ou le rayon.':'Aucune sortie jeune public vérifiée pour le moment : la nouvelle sélection est en cours d’actualisation.'));return}for(const e of list.slice(0,visibleCount)){const article=el('article','event');const cover=media(e);const heart=el('button','heart',favorites.has(eventKey(e))?'♥':'♡');heart.type='button';heart.setAttribute('aria-label',favorites.has(eventKey(e))?'Retirer des favoris':'Ajouter aux favoris');heart.setAttribute('aria-pressed',String(favorites.has(eventKey(e))));heart.addEventListener('click',()=>toggleFavorite(e));cover.append(heart);article.append(cover);const body=el('div','content');body.append(el('div','date',formatDate.format(new Date(e.start)).toUpperCase()),el('h3','',e.title),el('div','mini','📍 '+(e.city||'Lieu à vérifier')+' · '+ageFor(e)));if(e.dates?.length>1)body.append(el('div','date-count',e.dates.length+' dates disponibles'));const badges=el('div','badges');if(e.price===0)badges.append(el('span','','Gratuit'));if(e.minAge!=null)badges.append(el('span','','Dès '+e.minAge+' ans'));if(e.aiSummary)badges.append(el('span','','✨ Résumé IA'));if(badges.childElementCount)body.append(badges);const s=summaryFor(e);body.append(el('p','teaser',s.body));const summary=el('button','summary',s.ai?'✨ Résumé IA':'📝 Description');summary.type='button';summary.addEventListener('click',()=>openDetail(e,true));body.append(summary);const bottom=el('div','bottom');bottom.append(el('span','price',priceFor(e)));const more=el('button','details','Voir la sortie');more.type='button';more.addEventListener('click',()=>openDetail(e,false));bottom.append(more);body.append(bottom);article.append(body);zone.append(article)}}
-for(const id of ['q','cat','price','radius','sort'])$(id).addEventListener('input',()=>{visibleCount=18;render()});$('loadMore').addEventListener('click',()=>{visibleCount+=18;render()});$('favoritesChip').addEventListener('click',()=>setFavoritesMode(!favoritesOnly));
+let searchTimer=null;for(const id of ['cat','price','radius','sort'])$(id).addEventListener('input',()=>{visibleCount=18;savePreferences();render()});$('q').addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(()=>{visibleCount=18;render()},170)});$('loadMore').addEventListener('click',()=>{visibleCount+=18;render()});$('favoritesChip').addEventListener('click',()=>setFavoritesMode(!favoritesOnly));
 document.querySelectorAll('[name="age-group"]').forEach(c=>c.addEventListener('change',()=>{const n=document.querySelectorAll('[name="age-group"]:checked').length;$('age-label').textContent=n?'👧 '+n+' âge'+(n>1?'s':'')+' sélectionné'+(n>1?'s':''):'👧 Tous les âges';render()}));
-document.querySelectorAll('[data-period]').forEach(c=>c.addEventListener('click',()=>{visibleCount=18;period=c.dataset.period;document.querySelectorAll('[data-period]').forEach(b=>b.classList.toggle('active',b===c));render()}));
+document.querySelectorAll('[data-period]').forEach(c=>c.addEventListener('click',()=>{visibleCount=18;period=c.dataset.period;savePreferences();document.querySelectorAll('[data-period]').forEach(b=>b.classList.toggle('active',b===c));render()}));
 document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-tab]').forEach(t=>t.classList.toggle('active',t===b));if(b.dataset.tab==='filters'){document.querySelector('.filters').scrollIntoView({behavior:'smooth',block:'center'});return}if(b.dataset.tab==='favorites'){setFavoritesMode(true);return}setFavoritesMode(false);const target=b.dataset.tab==='weekend'?'weekend':'all';document.querySelector('[data-period="'+target+'"]').click();window.scrollTo({top:0,behavior:'smooth'})}));
 $('detailsDialog').addEventListener('click',e=>{if(e.target===$('detailsDialog'))$('detailsDialog').close()});
+const PREF_KEY='kidsorties-preferences-v2';
+function savePreferences(){try{localStorage.setItem(PREF_KEY,JSON.stringify({radius:$('radius').value,cat:$('cat').value,price:$('price').value,sort:$('sort').value,ages:[...document.querySelectorAll('[name="age-group"]:checked')].map(x=>x.value)}))}catch{}}
+function restorePreferences(){try{const p=JSON.parse(localStorage.getItem(PREF_KEY)||'{}');for(const id of ['radius','cat','price','sort'])if(p[id]&&[...$(id).options].some(o=>o.value===p[id]))$(id).value=p[id];document.querySelectorAll('[name="age-group"]').forEach(x=>x.checked=(p.ages||[]).includes(x.value));const n=document.querySelectorAll('[name="age-group"]:checked').length;$('age-label').textContent=n?'👧 '+n+' âges sélectionnés':'👧 Tous les âges'}catch{}}
+function migrateFavorites(){let changed=false;for(const e of events){if(favorites.has(e.key))continue;for(const d of e.dates||[]){const old=[String(e.title||'').trim().toLocaleLowerCase('fr'),String(e.city||'').trim().toLocaleLowerCase('fr'),String(d.url||'').split('?')[0]].join('|');if(favorites.has(old)){favorites.delete(old);favorites.add(e.key);changed=true}}}if(changed)try{localStorage.setItem(STORAGE,JSON.stringify([...favorites]))}catch{}}
+function setView(mapView){mapMode=mapView;$('mapPanel').hidden=!mapView;$('events').hidden=mapView;$('listView').setAttribute('aria-pressed',String(!mapView));$('mapView').setAttribute('aria-pressed',String(mapView));render()}
+$('listView').addEventListener('click',()=>setView(false));
+$('mapView').addEventListener('click',()=>setView(true));
+document.querySelectorAll('[data-shortcut]').forEach(b=>b.addEventListener('click',()=>{
+ setFavoritesMode(false);period='all';$('cat').value='all';$('price').value='all';
+ const name=b.dataset.shortcut;
+ if(name==='weekend')period='weekend';
+ if(name==='near'){$('radius').value='10';$('sort').value='distance'}
+ if(name==='spectacle')$('cat').value='Spectacle';
+ if(name==='free')$('price').value='free';
+ document.querySelectorAll('[data-period]').forEach(x=>x.classList.toggle('active',x.dataset.period===period));
+ savePreferences();visibleCount=18;render();
+ document.querySelector('.section-head').scrollIntoView({behavior:'smooth',block:'start'})
+}));
+let mapDrawId=0;
+async function loadLeaflet(){
+ if(window.L)return window.L;
+ if(leafletLoading)return leafletLoading;
+ leafletLoading=new Promise((resolve,reject)=>{
+  const css=document.createElement('link');css.rel='stylesheet';css.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';document.head.append(css);
+  const script=document.createElement('script');script.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+  script.onload=()=>window.L?resolve(window.L):reject(Error('Bibliothèque de carte indisponible'));
+  script.onerror=()=>reject(Error('Chargement de la carte impossible'));
+  document.head.append(script);
+ }).catch(error=>{leafletLoading=null;throw error});
+ return leafletLoading;
+}
+async function renderMap(list){
+ const drawId=++mapDrawId,panel=$('mapPanel');
+ try{
+  const L=await loadLeaflet();if(!mapMode||drawId!==mapDrawId)return;
+  if(!map){
+   panel.replaceChildren();map=L.map(panel,{scrollWheelZoom:false}).setView([48.611,2.305],10);
+   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap contributors'}).addTo(map);
+   mapLayer=L.layerGroup().addTo(map)
+  }
+  map.invalidateSize();mapLayer.clearLayers();
+  const bounds=[];
+  for(const e of list.slice(0,300)){
+   const p=[Number(e.lat),Number(e.lon)];if(!Number.isFinite(p[0])||!Number.isFinite(p[1]))continue;
+   bounds.push(p);const marker=L.marker(p),popup=document.createElement('div');
+   const heading=document.createElement('strong');heading.textContent=e.title;
+   const info=document.createElement('p');info.textContent=(e.city||'')+' · '+Math.round(eventCore.distanceKm(e))+' km';
+   const open=document.createElement('button');open.textContent='Voir cette sortie';open.type='button';open.addEventListener('click',()=>openDetail(e,false));
+   popup.append(heading,info,open);marker.bindPopup(popup);mapLayer.addLayer(marker);
+  }
+  if(bounds.length)map.fitBounds(bounds,{padding:[20,20],maxZoom:12});
+  else map.setView([48.611,2.305],10)
+ }catch(err){panel.replaceChildren();panel.append(el('div','map-fallback','Carte indisponible sans connexion. Utilisez le fil des sorties.'));console.warn(err)}
+}
 async function loadOutings(){
  const names=['./data/events.json','./data/paris.json'];
  const responses=await Promise.allSettled(names.map(async path=>{
