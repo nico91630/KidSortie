@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:41:42.881Z",
+  "updatedAt": "2026-11-02T19:43:47.121Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -11619,22 +11619,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
-      "title": "Ateliers d'écriture à Paris « Écrire en liberté »",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T12:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8728000032123,
-      "lon": 2.39984097070985,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "url": "https://ateliers-ecriture.fr/ateliers-ecriture-paris/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de vous mettre ou de vous remettre à l'écriture et de stimuler votre créativité ? Découvrez le plaisir d’écrire en atelier !",
-      "image": "https://cdn.paris.fr/qfapv4/2022/06/17/huge-219c48ff072cd632093806d7728dda2b.jpg"
-    },
-    {
       "title": "Mon premier atelier santé environnement",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -11665,6 +11649,22 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Cet automne, le Palais Galliera présente l’exposition « Un vestiaire à soi. Féminités dissidentes au 19e siècle » et met en lumière un phénomène encore largement méconnu : l’appropriation, par les femmes du 19e siècle, des codes vestimentaires masculins de leur temps.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-9f45228083f26c55bb0086929745c331.jpg"
+    },
+    {
+      "title": "Ateliers d'écriture à Paris « Écrire en liberté »",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T12:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8728000032123,
+      "lon": 2.39984097070985,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "url": "https://ateliers-ecriture.fr/ateliers-ecriture-paris/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de vous mettre ou de vous remettre à l'écriture et de stimuler votre créativité ? Découvrez le plaisir d’écrire en atelier !",
+      "image": "https://cdn.paris.fr/qfapv4/2022/06/17/huge-219c48ff072cd632093806d7728dda2b.jpg"
     },
     {
       "title": "GW BOT | GLYPHMAKER — La métamorphose des signes",
