@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'collect.mjs'
+      - 'collect-paris.mjs'
       - '.github/workflows/collect.yml'
   schedule:
     - cron: '17 */6 * * *'
@@ -18,13 +19,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm run collect
+      - name: Collecte OpenAgenda
+        run: npm run collect
         env:
           OPENAGENDA_API_KEY: ${{ secrets.OPENAGENDA_API_KEY }}
           OPENAGENDA_AGENDAS: ${{ vars.OPENAGENDA_AGENDAS }}
+      - name: Collecte spectacles Paris Data
+        run: node collect-paris.mjs
+        continue-on-error: true
       - name: Enregistrer les événements
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/events.json
+          git add data/events.json data/paris.json
           git diff --cached --quiet || (git commit -m 'Actualisation des sorties' && git push)
