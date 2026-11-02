@@ -78,7 +78,7 @@ for (const id of [...ids].slice(0, 45)) {
           if (!start || !Number.isFinite(Date.parse(start))) { count.withoutTiming++; continue; }
           if (Date.parse(end) < now) { count.past++; continue; }
           collected.push({
-            title, start, end, city: place.city || 'Essonne', lat, lon, category,
+            title, start, end, city: place.city || 'Essonne', lat, lon, category, familyVerified: true,
             minAge: event.age?.min ?? null, maxAge: event.age?.max ?? null,
             price: null,
             description: String(description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim().slice(0, 1400),
