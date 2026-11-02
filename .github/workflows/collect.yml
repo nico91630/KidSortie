@@ -1,5 +1,10 @@
 name: Collecte des événements
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'collect.mjs'
+      - '.github/workflows/collect.yml'
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
