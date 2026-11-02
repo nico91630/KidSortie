@@ -24,13 +24,14 @@ for (const id of ids) {
   console.log('--- Agenda ' + id + ' ---');
   const startReceived = count.received;
   try {
+    let cursor = null;
     for (let page = 0; page < maximumPages; page++) {
       const url = new URL('https://api.openagenda.com/v2/agendas/' + encodeURIComponent(id) + '/events');
       url.searchParams.set('key', key);
       url.searchParams.set('size', '100');
-      url.searchParams.set('from', String(page * 100));
+      if (cursor) for (const value of cursor) url.searchParams.append('after[]', String(value));
       url.searchParams.set('detailed', '1');
-      url.searchParams.append('relative[]', 'ongoing');
+      url.searchParams.append('relative[]', 'current');
       url.searchParams.append('relative[]', 'upcoming');
       const res = await fetch(url, { signal: AbortSignal.timeout(25000) });
       if (!res.ok) throw Error('OpenAgenda HTTP ' + res.status);
@@ -68,7 +69,8 @@ for (const id of ids) {
           count.retained++;
         }
       }
-      if (events.length < 100) break;
+      cursor = Array.isArray(body.after) && body.after.length ? body.after : null;
+      if (!cursor || !events.length) break;
     }
     success++;
   } catch (error) { console.error('Erreur agenda ' + id + ' : ' + error.message); }
