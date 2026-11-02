@@ -8,7 +8,7 @@ if (!apiKey) {
   console.log('GEMINI_API_KEY absente : résumés IA désactivés, descriptions des sources conservées.');
   process.exit(0);
 }
-const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const model = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
 const maxNew = 12; // Limite le quota par exécution.
 let generated = 0;
 const files = ['data/events.json','data/paris.json'];
