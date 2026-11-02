@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:18:59.438Z",
+  "updatedAt": "2026-11-02T21:25:19.558Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -333,23 +333,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-bd1e68a439606940552d6119a0087a2e.jpg"
     },
     {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-03T10:00:00+02:00",
-      "end": "2026-11-03T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
-    },
-    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-11-03T10:00:00+02:00",
       "end": "2026-11-03T18:00:00+02:00",
@@ -382,6 +365,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Quel meilleur endroit que le Musée en Herbe — lieu ludique, joyeux et intergénérationnel — pour célébrer les 30 ans de Pokémon ?",
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
+    },
+    {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-03T10:00:00+02:00",
+      "end": "2026-11-03T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
     },
     {
       "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
@@ -418,23 +418,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-03T10:00:00+02:00",
-      "end": "2026-11-03T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-03T10:00:00+02:00",
       "end": "2026-11-03T18:00:00+02:00",
@@ -450,6 +433,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-03T10:00:00+02:00",
+      "end": "2026-11-03T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
@@ -1541,23 +1541,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-55ae62ebbf223ebead4723f8aad36e54.jpg"
     },
     {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-04T10:00:00+02:00",
-      "end": "2026-11-04T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
-    },
-    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-11-04T10:00:00+02:00",
       "end": "2026-11-04T18:00:00+02:00",
@@ -1592,6 +1575,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
     },
     {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-04T10:00:00+02:00",
+      "end": "2026-11-04T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
       "title": "Magie",
       "start": "2026-11-04T10:00:00+02:00",
       "end": "2026-11-04T19:00:00+02:00",
@@ -1609,23 +1609,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-04T10:00:00+02:00",
-      "end": "2026-11-04T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-04T10:00:00+02:00",
       "end": "2026-11-04T18:00:00+02:00",
@@ -1641,6 +1624,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-04T10:00:00+02:00",
+      "end": "2026-11-04T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
@@ -3259,23 +3259,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-bd1e68a439606940552d6119a0087a2e.jpg"
     },
     {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-05T10:00:00+02:00",
-      "end": "2026-11-05T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
-    },
-    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-11-05T10:00:00+02:00",
       "end": "2026-11-05T18:00:00+02:00",
@@ -3308,6 +3291,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Quel meilleur endroit que le Musée en Herbe — lieu ludique, joyeux et intergénérationnel — pour célébrer les 30 ans de Pokémon ?",
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
+    },
+    {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-05T10:00:00+02:00",
+      "end": "2026-11-05T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
     },
     {
       "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
@@ -3344,23 +3344,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-05T10:00:00+02:00",
-      "end": "2026-11-05T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-05T10:00:00+02:00",
       "end": "2026-11-05T18:00:00+02:00",
@@ -3376,6 +3359,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-05T10:00:00+02:00",
+      "end": "2026-11-05T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Opération \"Mammographie sans RDV\" à Hôtel Dieu",
@@ -3412,6 +3412,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/14/huge-da3d92c99beed3e3670ca00a11c1694a.jpg"
     },
     {
+      "title": "Sport Séniors en Plein Air",
+      "start": "2026-11-05T10:00:00+02:00",
+      "end": "2026-11-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.832693,
+      "lon": 2.300441,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/gym-douce-jeux-d-adresse-et-d-equilibre-avec-union-regionale-sportive-leo-lagrange-ile-de-france-114789",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une séance de sport hebdomadaire variée et adaptée, proposée par l'Union Régionale Sportive Léo Lagrange, combinant des jeux d'adresse et d'équilibre ainsi que de la Gym douce pour entretenir sa forme en douceur et en plein air.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/07/huge-ad5059ef7eff7ed6c7c375225ec6d24c.png"
+    },
+    {
       "title": "Visionnaires. Carte blanche à Prune Nourry",
       "start": "2026-11-05T10:00:00+02:00",
       "end": "2026-11-05T18:00:00+02:00",
@@ -3444,23 +3461,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Cité internationale des arts présente l'installation p. 39 de Nina Wakeford, du 20 octobre au 21 novembre 2026 dans la Vitrine.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-e7d527f5e69d4bc3c1c4d11988e99bb7.jpg"
-    },
-    {
-      "title": "Sport Séniors en Plein Air",
-      "start": "2026-11-05T10:00:00+02:00",
-      "end": "2026-11-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.832693,
-      "lon": 2.300441,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/gym-douce-jeux-d-adresse-et-d-equilibre-avec-union-regionale-sportive-leo-lagrange-ile-de-france-114789",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une séance de sport hebdomadaire variée et adaptée, proposée par l'Union Régionale Sportive Léo Lagrange, combinant des jeux d'adresse et d'équilibre ainsi que de la Gym douce pour entretenir sa forme en douceur et en plein air.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/07/huge-ad5059ef7eff7ed6c7c375225ec6d24c.png"
     },
     {
       "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
@@ -4024,23 +4024,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-39acf93c8c9e15014e9efa54d41741ff.jpg"
     },
     {
-      "title": "DISCO",
-      "start": "2026-11-05T19:00:00+02:00",
-      "end": "2026-11-05T20:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8292379951241,
-      "lon": 2.35603002009728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://le13emeart.com/les-evenements/d-i-s-c-o/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une performance solaire et exigeante portée par l'une des chorégraphes les plus en vue de sa génération.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png"
-    },
-    {
       "title": "BiblioCréation à Paris 18 : quand les livres ouvrent la voie à l’écriture et à la rencontre",
       "start": "2026-11-05T19:00:00+02:00",
       "end": "2026-11-05T20:30:00+02:00",
@@ -4056,6 +4039,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Et si la lecture devenait un point de départ plutôt qu’une fin ? BiblioCréation propose une expérience originale de bibliothérapie créative où les mots, les émotions et l’imaginaire se rencontrent. À travers des extraits littéraires, des temps d’écriture et de partage, offrez-vous une parenthèse hors du temps entre cul",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-b68d710f26cbabb0ed68bdf21eb82599.jpeg"
+    },
+    {
+      "title": "DISCO",
+      "start": "2026-11-05T19:00:00+02:00",
+      "end": "2026-11-05T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8292379951241,
+      "lon": 2.35603002009728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://le13emeart.com/les-evenements/d-i-s-c-o/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une performance solaire et exigeante portée par l'une des chorégraphes les plus en vue de sa génération.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png"
     },
     {
       "title": "Théâtre : Giordano",
@@ -4841,23 +4841,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-bd1e68a439606940552d6119a0087a2e.jpg"
     },
     {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
-    },
-    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T18:00:00+02:00",
@@ -4892,6 +4875,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
     },
     {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-06T10:00:00+02:00",
+      "end": "2026-11-06T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
       "title": "Magie",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T19:00:00+02:00",
@@ -4909,23 +4909,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T20:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T18:00:00+02:00",
@@ -4941,6 +4924,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-06T10:00:00+02:00",
+      "end": "2026-11-06T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
@@ -5742,23 +5742,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/31/huge-77d5ceff899362d7b7002b9984b3f571.jpg"
     },
     {
-      "title": "Chroniques vénitiennes",
-      "start": "2026-11-06T19:30:00+02:00",
-      "end": "2026-11-06T21:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8744760066618,
-      "lon": 2.32702000174999,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/ensemble-barroque-la-livri/evenements/chroniques-venitiennes-vendredi-06-novemvre",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "« Chroniques vénitiennes », un spectacle où musique, théâtre et humour se rencontrent pour faire vivre la Venise baroque.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-9d3104645d0a48fa8394763b16cf936c.jpeg"
-    },
-    {
       "title": "« Radio Live - le jour d'après Egypte » de Aurélie Charon & le collectif Radio Live",
       "start": "2026-11-06T19:30:00+02:00",
       "end": "2026-11-06T22:00:00+02:00",
@@ -5774,6 +5757,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Aurélie Charon tend son micro et recueille les confessions familiales, intimes, sociales, militantes de gens du pays qu’elle parcourt. Une enquête journalistique qui se réinvente chaque soir par le biais du dessin, de la vidéo et de la musique. Un spectacle hybride écrit en Egypte.",
       "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-6b293077d8872bd109d0ec9417e23167.jpg"
+    },
+    {
+      "title": "Chroniques vénitiennes",
+      "start": "2026-11-06T19:30:00+02:00",
+      "end": "2026-11-06T21:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8744760066618,
+      "lon": 2.32702000174999,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.helloasso.com/associations/ensemble-barroque-la-livri/evenements/chroniques-venitiennes-vendredi-06-novemvre",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "« Chroniques vénitiennes », un spectacle où musique, théâtre et humour se rencontrent pour faire vivre la Venise baroque.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-9d3104645d0a48fa8394763b16cf936c.jpeg"
     },
     {
       "title": "Street Jam Paris, événements 26-27",
@@ -6405,6 +6405,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-11-07T09:30:00+02:00",
+      "end": "2026-11-07T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg"
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Popincourt",
       "start": "2026-11-07T09:30:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -6437,23 +6454,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Crimée et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
-    },
-    {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-11-07T09:30:00+02:00",
-      "end": "2026-11-07T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg"
     },
     {
       "title": "Nicolas Flamel. Alchimiste de papier",
@@ -6899,23 +6899,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     },
     {
-      "title": "Expo « Chiens et chats » à la Cité des sciences",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8972399984008,
-      "lon": 2.38557497150524,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/expo-chiens-et-chats-a-la-cite-des-sciences-79799",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ils nous tiennent compagnie depuis des millénaires, on en compte près de 23 millions dans les foyers français, ils nous mènent parfois par le bout de la truffe… Chiens et chats mettent la patte sur la Cité des sciences et de l’industrie. Tout, vous saurez tout sur les toutous et les matous dans cette exposition.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/04/huge-c834e6e9985ad633ea9eb45c45afefec.jpg"
-    },
-    {
       "title": "Visite-atelier Origami à l'Arc de triomphe",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -6931,6 +6914,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Les voûtes et sculptures de l'Arc de triomphe sont ornées de fleurs et de couronnes de lauriers. Saurez-vous les reproduire ?",
       "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-258377723749c8eeef4524c00bd7a097.png"
+    },
+    {
+      "title": "Expo « Chiens et chats » à la Cité des sciences",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8972399984008,
+      "lon": 2.38557497150524,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/expo-chiens-et-chats-a-la-cite-des-sciences-79799",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ils nous tiennent compagnie depuis des millénaires, on en compte près de 23 millions dans les foyers français, ils nous mènent parfois par le bout de la truffe… Chiens et chats mettent la patte sur la Cité des sciences et de l’industrie. Tout, vous saurez tout sur les toutous et les matous dans cette exposition.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/04/huge-c834e6e9985ad633ea9eb45c45afefec.jpg"
     },
     {
       "title": "Atelier Couture - Fabrication de livres en tissus",
@@ -6967,6 +6967,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
+      "title": "Jules Verne, le voyage extraordinaire",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8470440073158,
+      "lon": 2.35247500350349,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.legrandhoteldesreves.fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
+    },
+    {
       "title": "Histoires d'animaux pour petites et grandes oreilles",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -7001,23 +7018,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-ad82a2998680bb3cd228a0fe423a5de6.jpg"
     },
     {
-      "title": "Jules Verne, le voyage extraordinaire",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8470440073158,
-      "lon": 2.35247500350349,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.legrandhoteldesreves.fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
-    },
-    {
       "title": "Georges Perec modes d'emploi",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T19:00:00+02:00",
@@ -7050,23 +7050,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Ronde des histoires revient pour le plus grand bonheur des tout-petits ! Un moment de lecture et comptines pour les tout-petits.",
       "image": "https://cdn.paris.fr/qfapv4/2026/05/19/huge-f4b64d9aa16c32d99f8441afee7abe50.png"
-    },
-    {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
     },
     {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
@@ -7118,6 +7101,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Quel meilleur endroit que le Musée en Herbe — lieu ludique, joyeux et intergénérationnel — pour célébrer les 30 ans de Pokémon ?",
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
+    },
+    {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
     },
     {
       "title": "Gérer son budget familial grâce au tableur",
@@ -7188,6 +7188,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
+      "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/esprit-critique-a-la-cite-des-sciences-et-de-l-industrie-venez-vous-tester-124252",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
       "title": "Balades conviviales Paris & environs",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T13:00:00+02:00",
@@ -7220,23 +7237,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
-      "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/esprit-critique-a-la-cite-des-sciences-et-de-l-industrie-venez-vous-tester-124252",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
       "title": "Mon premier atelier santé environnement",
@@ -7341,23 +7341,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-e7d527f5e69d4bc3c1c4d11988e99bb7.jpg"
     },
     {
-      "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-jeux-a-la-rencontre-des-animaux-mal-aimes-126390",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
-    },
-    {
       "title": "RueWATT",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T11:00:00+02:00",
@@ -7373,6 +7356,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un temps de découverte et de jeu autour du mouvement et du cirque pour les 2-4 ans et leurs parents.",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/30/huge-ddc23030e576d9de59f9d19bea661b9e.png"
+    },
+    {
+      "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/exposition-jeux-a-la-rencontre-des-animaux-mal-aimes-126390",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
     },
     {
       "title": "L'heure du conte des tout-petits",
@@ -7698,40 +7698,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2023/10/23/huge-071547b2651ab14f3e1fef25ffc9cabf.jpg"
     },
     {
-      "title": "Ateliers numériques jeunesse",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.859839,
-      "lon": 2.403227,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/ateliers-numeriques-jeunesse-septembre-decembre-113325",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des applications ludiques et créatives sélectionnées avec soins par les bibliothécaires.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-5e7ab60fc37d0ca09a7d86feae47d63c.png"
-    },
-    {
-      "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T12:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.9013260085607,
-      "lon": 2.37174600473222,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.le19m.com/fr/agenda",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg"
-    },
-    {
       "title": "Paris Sportives",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -7764,6 +7730,40 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez écouter les bibliothécaires vous lire leurs plus belles histoires ! Un samedi par mois, pour les 3-6 ans et leurs parents.",
       "image": "https://cdn.paris.fr/qfapv4/2022/07/06/huge-d24a9747790d739dbc418a8be4aefe41.png"
+    },
+    {
+      "title": "Ateliers numériques jeunesse",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.859839,
+      "lon": 2.403227,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/ateliers-numeriques-jeunesse-septembre-decembre-113325",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des applications ludiques et créatives sélectionnées avec soins par les bibliothécaires.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-5e7ab60fc37d0ca09a7d86feae47d63c.png"
+    },
+    {
+      "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T12:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.9013260085607,
+      "lon": 2.37174600473222,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.le19m.com/fr/agenda",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg"
     },
     {
       "title": "Portraits de famille",
@@ -7885,6 +7885,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
     },
     {
+      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Montreuil",
+      "lat": 48.8625910127827,
+      "lon": 2.44165702836665,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://theatrepublicmontreuil.com/olalaland",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
+    },
+    {
       "title": "Heure du conte",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T11:30:00+02:00",
@@ -7917,23 +7934,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
-    },
-    {
-      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Montreuil",
-      "lat": 48.8625910127827,
-      "lon": 2.44165702836665,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatrepublicmontreuil.com/olalaland",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
     },
     {
       "title": "Stan Douglas. Parallax",
@@ -8854,23 +8854,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-04801bf7080d6cf445ceddbb833776e0.jpg"
     },
     {
-      "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8705560000942,
-      "lon": 2.3476659703756,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.u-play.fr/harrypottercineconcert1",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Du 04 au 08 novembre 2026 au Grand Rex, revivez cette extraordinaire histoire d’amitié, de magie et d’aventure lors d’un ciné-concert exceptionnel !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-90a9cb228cb7edee40271c0351bf354a.jpg"
-    },
-    {
       "title": "« Radio Live - le jour d'après Ukraine » de Aurélie Charon & le collectif Radio Live",
       "start": "2026-11-07T15:00:00+02:00",
       "end": "2026-11-07T17:20:00+02:00",
@@ -8886,6 +8869,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Depuis plus de 10 ans, la productrice et animatrice radiophonique Aurélie Charon part, micro en main à la rencontre de femmes et d'hommes témoignant de leur réalité dans des zones ébranlées. Ce spectacle hors norme est consacré à l' Ukraine où il a été écrit.",
       "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-2a342d3bc2a7aacf91251dc253f86d94.jpg"
+    },
+    {
+      "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
+      "start": "2026-11-07T15:00:00+02:00",
+      "end": "2026-11-07T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8705560000942,
+      "lon": 2.3476659703756,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.u-play.fr/harrypottercineconcert1",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Du 04 au 08 novembre 2026 au Grand Rex, revivez cette extraordinaire histoire d’amitié, de magie et d’aventure lors d’un ciné-concert exceptionnel !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-90a9cb228cb7edee40271c0351bf354a.jpg"
     },
     {
       "title": "QUAND J'ETAIS VIEILLE",
@@ -9228,23 +9228,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-9d3104645d0a48fa8394763b16cf936c.jpeg"
     },
     {
-      "title": "Théâtre : Giordano",
-      "start": "2026-11-07T18:00:00+02:00",
-      "end": "2026-11-07T19:20:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/theatre-giordano-118398",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "\"Vous avez sans doute plus peur, vous qui émettez ce jugement, que moi qui le reçois\".",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-8c85259eb88f1511d0fde56922dddf27.jpg"
-    },
-    {
       "title": "Conservatoire Léo Delibes",
       "start": "2026-11-07T18:00:00+02:00",
       "end": "2026-11-07T18:50:00+02:00",
@@ -9260,6 +9243,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le trio Journal Intime revisite Le Livre de la Jungle en spectacle musical loufoque et burlesque. Concert, danse et théâtre visuel mêlés autour d'un Mowgli espiègle. Fête familiale jubilatoire et inventive.",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/03/huge-2928e8030c2603edf7f39817f93f649e.jpg"
+    },
+    {
+      "title": "Théâtre : Giordano",
+      "start": "2026-11-07T18:00:00+02:00",
+      "end": "2026-11-07T19:20:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/theatre-giordano-118398",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "\"Vous avez sans doute plus peur, vous qui émettez ce jugement, que moi qui le reçois\".",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-8c85259eb88f1511d0fde56922dddf27.jpg"
     },
     {
       "title": "Thérèse et Isabelle, Marie Fortuit",
@@ -10045,23 +10045,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
-      "title": "Paris Sport Dimanches",
-      "start": "2026-11-08T10:00:00+02:00",
-      "end": "2026-11-08T13:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8658390002632,
-      "lon": 2.38621702528849,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sport-dimanches-multisports-au-tep-angelique-duchemin-ex-amandiers-69426",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris Sport Dimanches, c'est tout l'été l'occasion de pratiquer du sport gratuitement en extérieur, tous les dimanches matins, à 10H, dans les 4 coins de Paris.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/01/18/huge-563bde7ea759c8ddf762bef8d9839495.jpg"
-    },
-    {
       "title": "Jules Verne, le voyage extraordinaire",
       "start": "2026-11-08T10:00:00+02:00",
       "end": "2026-11-08T17:00:00+02:00",
@@ -10077,6 +10060,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des profondeurs des océans aux confins du ciel, Jules Verne n'a jamais cessé de repousser les frontières de l'imaginaire. Au Grand Hôtel des Rêves, ses aventures prennent vie dans un spectacle immersif qui invite toute la famille à vivre l'extraordinaire !",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-06bfad467f7b3551fc8a4ccee7d9e91b.png"
+    },
+    {
+      "title": "Paris Sport Dimanches",
+      "start": "2026-11-08T10:00:00+02:00",
+      "end": "2026-11-08T13:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8658390002632,
+      "lon": 2.38621702528849,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/paris-sport-dimanches-multisports-au-tep-angelique-duchemin-ex-amandiers-69426",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris Sport Dimanches, c'est tout l'été l'occasion de pratiquer du sport gratuitement en extérieur, tous les dimanches matins, à 10H, dans les 4 coins de Paris.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/01/18/huge-563bde7ea759c8ddf762bef8d9839495.jpg"
     },
     {
       "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
@@ -10198,6 +10198,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
+      "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
+      "start": "2026-11-08T10:00:00+02:00",
+      "end": "2026-11-08T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/esprit-critique-a-la-cite-des-sciences-et-de-l-industrie-venez-vous-tester-124252",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
       "title": "Ateliers en famille Danse-Yoga parent-enfant 3-6 ans",
       "start": "2026-11-08T10:00:00+02:00",
       "end": "2026-11-08T11:00:00+02:00",
@@ -10230,23 +10247,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
-      "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
-      "start": "2026-11-08T10:00:00+02:00",
-      "end": "2026-11-08T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/esprit-critique-a-la-cite-des-sciences-et-de-l-industrie-venez-vous-tester-124252",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
       "title": "Baby balade au Petit Palais",
@@ -10470,23 +10470,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
     },
     {
-      "title": "Ateliers en famille Danse-Yoga parent-enfant 3-6 ans",
-      "start": "2026-11-08T11:00:00+02:00",
-      "end": "2026-11-08T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.86153598263,
-      "lon": 2.37471797614111,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ateliers en famille dès 3 ans! Dimanche 11h-12h Renseignements: www.compagniemaya.com contact@compagniemaya.com ou 06 12 96 65 98",
-      "image": "https://cdn.paris.fr/qfapv4/2022/10/03/huge-3c1f5ff5c8308ce3c059bfb3ce89afce.jpeg"
-    },
-    {
       "title": "Stan Douglas. Parallax",
       "start": "2026-11-08T11:00:00+02:00",
       "end": "2026-11-08T19:00:00+02:00",
@@ -10502,6 +10485,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Depuis la fin des années 1980, Stan Douglas développe une œuvre ambitieuse qui interroge la manière dont l’histoire se construit, se représente et se transmet. À travers des dispositifs narratifs complexes, il met en lumière les mécanismes par lesquels les images façonnent notre perception du réel et révèlen",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-ed62c58fbbd75241e247eb4753d2bce7.jpg"
+    },
+    {
+      "title": "Ateliers en famille Danse-Yoga parent-enfant 3-6 ans",
+      "start": "2026-11-08T11:00:00+02:00",
+      "end": "2026-11-08T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.86153598263,
+      "lon": 2.37471797614111,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ateliers en famille dès 3 ans! Dimanche 11h-12h Renseignements: www.compagniemaya.com contact@compagniemaya.com ou 06 12 96 65 98",
+      "image": "https://cdn.paris.fr/qfapv4/2022/10/03/huge-3c1f5ff5c8308ce3c059bfb3ce89afce.jpeg"
     },
     {
       "title": "Paris Sportives",
@@ -10742,6 +10742,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
     },
     {
+      "title": "Séances et représentations Relax : loisirs accessibles pour tous !",
+      "start": "2026-11-08T14:00:00+02:00",
+      "end": "2026-11-08T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8989989826917,
+      "lon": 2.37677699065617,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://culture-relax.org/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Aller au cinéma, au concert, à l’opéra, au théâtre : un acte banal mais qui, pour certains, paraît impossible ou se transforme en épreuve. Le dispositif Relax rend la culture accessible en inclusion à des personnes qui en sont privées par leur handicap (personnes autistes, polyhandicapées, avec un handicap intellectuel",
+      "image": "https://cdn.paris.fr/qfapv4/2024/07/22/huge-37efbca04648e019f210baa49cd9ebdd.jpg"
+    },
+    {
       "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
       "start": "2026-11-08T14:00:00+02:00",
       "end": "2026-11-08T16:00:00+02:00",
@@ -10774,23 +10791,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "[Conférence + Sortie] Savez-vous comment naissent les nuages que nous voyons chaque jour ? Cette conférence est une invitation à lever les yeux vers le ciel avec un regard neuf. Après une introduction accessible au monde de l’atmosphère et de la météorologie, nous explorerons les mécanismes de formation des nuages à tr",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2170fe9362cdd47411af683417b33d8b.jpg"
-    },
-    {
-      "title": "Séances et représentations Relax : loisirs accessibles pour tous !",
-      "start": "2026-11-08T14:00:00+02:00",
-      "end": "2026-11-08T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8989989826917,
-      "lon": 2.37677699065617,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://culture-relax.org/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Aller au cinéma, au concert, à l’opéra, au théâtre : un acte banal mais qui, pour certains, paraît impossible ou se transforme en épreuve. Le dispositif Relax rend la culture accessible en inclusion à des personnes qui en sont privées par leur handicap (personnes autistes, polyhandicapées, avec un handicap intellectuel",
-      "image": "https://cdn.paris.fr/qfapv4/2024/07/22/huge-37efbca04648e019f210baa49cd9ebdd.jpg"
     },
     {
       "title": "Augustin, Pirate des Indes",
@@ -12020,23 +12020,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-10T10:00:00+02:00",
-      "end": "2026-11-10T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-10T10:00:00+02:00",
       "end": "2026-11-10T18:00:00+02:00",
@@ -12052,6 +12035,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-10T10:00:00+02:00",
+      "end": "2026-11-10T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
@@ -13092,23 +13092,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
     },
     {
-      "title": "Eva Gonzalès. Parcours d'une artiste libre",
-      "start": "2026-11-11T10:00:00+02:00",
-      "end": "2026-11-11T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.866246,
-      "lon": 2.313855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
-    },
-    {
       "title": "Esprit critique à la Cité des sciences et de l'industrie : venez vous tester",
       "start": "2026-11-11T10:00:00+02:00",
       "end": "2026-11-11T18:00:00+02:00",
@@ -13124,6 +13107,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-11T10:00:00+02:00",
+      "end": "2026-11-11T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",

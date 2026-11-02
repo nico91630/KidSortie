@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:18:54.314Z",
+  "updatedAt": "2026-11-02T21:25:12.900Z",
   "events": [
     {
       "title": "Prix des lecteurs 2026",
@@ -216,6 +216,24 @@
       "source": "OpenAgenda · agenda 50008175",
       "url": "https://openagenda.com/mediatheques-de-meudon/events/46897965_mini-crocmusique-7283805",
       "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
+    },
+    {
+      "title": "Poste restante, escales sur la ligne - Léna d'Azy",
+      "start": "2026-11-06T12:00:00+01:00",
+      "end": "2026-11-06T19:00:00+01:00",
+      "city": "Montigny-le-Bretonneux",
+      "lat": 48.783857,
+      "lon": 2.042855,
+      "category": "Spectacle",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Embarquement immédiat sur les traces de l’Aéropostale ! Des cabines animées de voix et de lumière jalonnent un parcours immersif et sensoriel où chacun devient l’explorateur d’une mémoire. Sept maquettes comme autant d’escales incroyables et un cockpit à taille réelle : casque sur les oreilles, le spectateur active la scène devant lui et voit surgir tout un monde. Un manège sous la neige à Toulouse. Un pilote perdu dans le désert. Un hangar devenu piste de danse en Amérique du Sud. Chaque étape de cette installation immersive fait résonner l’épopée des pionnières et des pionniers de l’Aéropostale, la première ligne aérienne transatlantique tracée en 1918 par Pierre-Georges Latécoère. Depuis 2008, Cécile Léna façonne des scénographies qui sont des machines à rêver. Mêlant théâtre, arts plastiques, cinéma et création radiophonique, ce voyage relie l’infiniment petit des vies humaines à l’immensité des imaginaires",
+      "image": null,
+      "source": "OpenAgenda · agenda 60701331",
+      "url": "https://openagenda.com/theatre-de-saint-quentin-en-yvelines-scene-nationale/events/91376241_poste-restante-escales-sur-la-ligne-lena-dazy",
+      "aiSummary": "Embarquez pour un parcours immersif et sensoriel sur les traces de l’Aéropostale, jalonné de cabines animées, de sept maquettes et d'un cockpit à taille réelle. Casque sur les oreilles, les enfants activent des scènes pleines de vie pour revivre les escales de cette épopée aéronautique. Une sortie originale qui mêle théâtre, arts plastiques et création radiophonique pour faire rêver petits et grands."
     },
     {
       "title": "Salon d'automne des artistes de la vallée de la Bièvre",
@@ -1132,7 +1150,8 @@
       "description": "« Une Vie » \\[Chanson\\]\n\n### L’icône de la chanson française, Julien Clerc, repart sur les routes de France pour une nouvelle tournée exceptionnelle.\n\nJulien Clerc, c’est plus de 50 ans de tubes, une voix unique et une carrière hors normes ! Révélé en 1968 avec La Cavalerie, il enchaîne rapidement les succès : Ce n’est rien, Si on chantait, Ma préférence... Son style inimitable, entre variété et pop, séduit toutes les générations.  \nAvec son répertoire culte et son énergie captivante, l’artiste promet un retour inoubliable !",
       "image": null,
       "source": "OpenAgenda · agenda 15004001",
-      "url": "https://openagenda.com/theatre-de-longjumeau/events/82868770_julien-clerc-271348"
+      "url": "https://openagenda.com/theatre-de-longjumeau/events/82868770_julien-clerc-271348",
+      "aiSummary": "À Longjumeau, venez applaudir l'icône de la chanson française Julien Clerc lors d'une tournée exceptionnelle. Les enfants découvriront une voix unique et des tubes incontournables qui traversent les générations depuis plus de 50 ans. Cette sortie musicale est idéale pour partager un moment intergénérationnel autour du répertoire culte d'un artiste aux mélodies inoubliables."
     },
     {
       "title": "Freestyle",
@@ -1167,7 +1186,8 @@
       "description": "Souvenez-vous… Le match d’improvisation théâtrale apparaît en France dans les années 80. Pour cette 11e édition, Trappes Impro Family replonge dans l’esprit de l’époque ! Dans cette patinoire, on retrouve le cœur de troupe de la compagnie qui fait battre l’impro au quotidien sur le territoire, rejoint pour l’occasion par des comédiens et comédiennes ayant contribué à faire grandir cette aventure artistique et humaine unique en son genre : une famille d’artistes liés par le théâtre et les valeurs citoyennes et fondatrices de la compagnie.\n\nEntre retrouvailles, complicité de jeu, transmission et plaisir de la scène, cette soirée célèbre une improvisation vivante, généreuse et exigeante. Et comme toujours, c’est le public qui tranche : à l’issue de chaque improvisation, vos votes départageront les deux équipes. À vos cartons de vote !  \n**AVEC**  \n**Maîtresse de Cérémonie :** Mélanie Lemoine  \n**Arbitre :** Nour El Yakinn Louiz  \n**Avec** Amel Amziane, Yann Berriet, Mounir Dhane, Alexandra Feignez, Virginie Gritten, Arnaud Joyet, Caroline Marre, Fierdaws Lachgar, Lilian Mézières, Hélène Rigole, Andy Pimor et Antoine Rabault.  \n**Coachs :** Marion Collet et Ali Hocine.  \n**Musique :** Oliv & ses Noyaux.  \n**Lumières :** Arnaud Le Dû.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/sqy-associations/events/34473442_trappes-impro-family-11"
+      "url": "https://openagenda.com/sqy-associations/events/34473442_trappes-impro-family-11",
+      "aiSummary": "À Trappes, assistez à un match d'improvisation théatrale festif réunissant le cœur de troupe et des comédiens historiques de la compagnie. Petits et grands verront s'affronter deux équipes dans une ambiance généreuse, guidées par un arbitre et une maîtresse de cérémonie. Ce qui rend cette sortie intéressante, c'est l'interactivité : le public participe activement en votant avec ses cartons à la fin de chaque sketch."
     },
     {
       "title": "LE PROCES DE LA MUSIQUE",
@@ -1184,7 +1204,8 @@
       "description": "Bertrand Périer, avocat, enseignant, spécialiste de l’art oratoire et son ami, le pianiste virtuose Nicolas Stavy jonglent entre plaidoiries et « ripostes musicales ». Poursuivi notamment pour maltraitance sur enfants, troubles de voisinage, virtuosité gratuite, mièvrerie salonarde, plagiat vocal ou orchestral, le piano saura-t-il se défendre ? À coup de mots et de notes, de plaidoiries et de musique, un avocat et un pianiste s’affrontent devant vous, jury d’un soir, pour répondre à cette question essentielle : le piano doit-il finir au violon ? Un concert spectacle avec le célèbre avocat Bertrand Périer, formateur du projet Eloquentia mis en lumière par le documentaire « À voix haute », nommé aux Césars.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/theatre-coluche-plaisir/events/15541585_le-proces-de-la-musique"
+      "url": "https://openagenda.com/theatre-coluche-plaisir/events/15541585_le-proces-de-la-musique",
+      "aiSummary": "Dans ce concert-spectacle original à Plaisir, un avocat et un pianiste virtuose transforment la scène en tribunal pour juger le piano de tous les maux. Entre plaidoiries percutantes et intermèdes musicaux, le public devient le jury d'un soir et doit décider du sort de l'instrument. Une confrontation artistique et verbale surprenante et rythmée, portée par le célèbre avocat Bertrand Périer."
     },
     {
       "title": "1er Salon / Bourse Philatélique (Plaisir 78)",
@@ -1201,7 +1222,8 @@
       "description": "1er Salon / Bourse Philatélique. Une belle occasion de faire vivre la passion des Timbres et de la carte postale orientée sur le voyage, le patrimoine et les personnages célèbres. 1er Salon / Bourse Philatélique (Plaisir)  \norganisée par le Club Philatélique de Plaisir (CPP78 - Loisirs et Culture), en partenariat avec les clubs Philatéliques de SQY.  \nC'est la première mouture de cette expo / bourse et elle sera conviviale et 100 % gratuite pour permettre aux familles de re-découvrir la philatélie et la carte postale autrement. Une belle occasion de faire vivre la passion des Timbres et de la carte postale orientée sur le voyage, le patrimoine et les personnages célèbre, dans une commune déjà très active en matière de culture et de loisirs.  \nUne journée dédiée à la passion des timbres à collectionner !  \nDe 9h à 18h, la Salle des fêtes des Gâtines « Le 25/64 », accueillera les visiteurs autour du Timbre et de la Carte Postale.  \n📅 Date : Samedi 21 novembre 2026  \n🕘 Horaires : de 9h à 18h  \n📏 Expositions, Bourse, Echanges : Plus de 60 mètres linéaires de tables  \n🍩 Sur place : Café et viennoiseries  \n🎟 Entrée : Libre et gratuite  \n👥 Organisateur : Club Philatélique de Plaisir (CPP78)  \n📧 Contact : Frédéric - Vincent - Jean-Marc - [loisirstculture@gmail.com](mailto:loisirstculture@gmail.com)  \n📞 Téléphone : 06.59.14.69.91 / 09.81.06.77.05 (si réel besoin)  \n🔗 Facebook :",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/loisirsetcultureplaisir78/events/97206328_1er-salon-bourse-philatelique-plaisir-78"
+      "url": "https://openagenda.com/loisirsetcultureplaisir78/events/97206328_1er-salon-bourse-philatelique-plaisir-78",
+      "aiSummary": "À Plaisir, ce salon gratuit invite les familles à découvrir des collections de timbres et de cartes postales consacrées au voyage, au patrimoine et aux personnages célèbres. Les visiteurs pourront parcourir de nombreux stands d'exposition et d'échanges pour explorer cet univers de collection dans une ambiance conviviale."
     },
     {
       "title": "Les P'tits Ateliers : éveil musical",
@@ -1218,7 +1240,8 @@
       "description": "Séance d’éveil musical pour les tout petits (0 à 3 ans) par Marie-Laure Fessler, musicienne.\nQue ce soit avec des objets du quotidien, la voix, des petites percussions ou de plus grands instruments, tout est prétexte à jouer ensemble avec les sons et les transformer en jeu musical. C’est par le plaisir et le jeu partagé que l’enfant s’éveille à la musique. L'atelier d'éveil musical est un moment privilégié de partage parent-enfant en musique.",
       "image": null,
       "source": "OpenAgenda · agenda 16624806",
-      "url": "https://openagenda.com/mediatheques-issy/events/87126021_les-ptits-ateliers-eveil-musical-999390"
+      "url": "https://openagenda.com/mediatheques-issy/events/87126021_les-ptits-ateliers-eveil-musical-999390",
+      "aiSummary": "À Issy-les-Moulineaux, les tout-petits de 0 à 3 ans découvrent l'univers sonore aux côtés de la musicienne Marie-Laure Fessler. À travers des objets du quotidien, leur voix, des percussions et divers instruments, ils s'initient à la musique en s'amusant. Cet atelier offre un moment privilégié de partage et de complicité en musique entre l'enfant et son parent."
     },
     {
       "title": "Créé un objet personnalisé au Fablab",
@@ -1235,7 +1258,8 @@
       "description": "Personnalisez et fabriquez grâce aux outils numériques du Fablab! Accompagnés par notre équipe, imaginez et réalisez un objet unique : mug, textile, badge, porte-clé… Initiez-vous aux outils de la fabrication numérique en toute simplicité lors d'un atelier ou d'un rendez-vous de projet personnel !\n\nNos ateliers numériques sont des temps d’initiation pédagogique destinés à découvrir les machines du fablab. Animés par le fabmanager, ils permettent d’apprendre les bases de la fabrication numérique.\n\nA partir de 8 ans avec accompagnement  \nA partir de 14 ans sans accompagnement\n\n2H00 d'atelier les mercrecredis de 15H à 17H\n\nLa Comm@nderie - cité du numérique  \nFablab - Batiment des Gardes",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab"
+      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab",
+      "aiSummary": "Guidés par l'équipe du Fablab de l'Essonne, les enfants découvrent la fabrication numérique en concevant leur propre objet personnalisé, comme un mug, un textile, un badge ou un porte-clé. Cet atelier pédagogique de deux heures, animé par le fabmanager, permet d'apprendre facilement les bases de l'utilisation des machines et des outils numériques pour réaliser une création unique."
     },
     {
       "title": "Salle gaming",
@@ -1252,7 +1276,8 @@
       "description": "Partagez une expérience de gaming ludique, en équipe ou en duo adulte-enfant Partagez une expérience de gaming, en équipe ou en duo adulte-enfant afin de plonger dans l’univers du jeu vidéo (mécaniques de jeu, design et enjeux numériques).  \nTravail d’équipe, stratégie ou amusement : chaque session est pensée pour favoriser l’interaction entre générations, pour jouer ensemble.\n\n2H00 d'atelier les samedis de 15h à 17H\n\nA partir de 8 ans avec accompagnement  \nA partir de 14 ans sans accompagnement\n\nLa Comm@nderie - cité du numérique  \nSalle gaming - Batiment de Bièvre 2",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/commanderie/events/55513753_salle-gaming-6188140"
+      "url": "https://openagenda.com/commanderie/events/55513753_salle-gaming-6188140",
+      "aiSummary": "Cet atelier de deux heures invite les duos adulte-enfant et les équipes à découvrir l'univers du jeu vidéo à travers ses mécaniques, son design et ses enjeux. Cette sortie favorise le partage et l'interaction intergénérationnelle grâce à des sessions ludiques axées sur la stratégie, le travail d'équipe et l'amusement."
     },
     {
       "title": "Atelier petite enfance Microsens",
@@ -1269,7 +1294,8 @@
       "description": "Compagnie La Cour des Contes Accompagnez votre tout petit dans la découverte de gestes artistiques dansés et improvisés dans un moment partagé entre parent et enfant.  \nUne bulle toute douce pour découvrir le corps à travers la sensibilité des mouvements.  \nCes ateliers accueillent les tout-petits de 6 mois à 4 ans.",
       "image": null,
       "source": "OpenAgenda · agenda 5712743",
-      "url": "https://openagenda.com/festival-performa-2026/events/86870476_atelier-petite-enfance-microsens-5796302"
+      "url": "https://openagenda.com/festival-performa-2026/events/86870476_atelier-petite-enfance-microsens-5796302",
+      "aiSummary": "À Saint-Germain-lès-Arpajon, la Compagnie La Cour des Contes propose un atelier partagé entre parent et enfant de 6 mois à 4 ans. Les tout-petits découvrent des gestes artistiques dansés et improvisés à travers la sensibilité des mouvements. Cette bulle toute douce permet d'explorer le corps en douceur lors d'un moment privilégié d'éveil corporel."
     },
     {
       "title": "Journée Nationale de lutte contre le harcèlement à l'école",
@@ -1286,7 +1312,8 @@
       "description": "En partenariat avec le Relais Marianne du Pôle Solidarité de Maurepas **Le TAC s’associe avec le Relais Marianne pour lutter contre toutes formes d’intimidation et de harcèlement.**\n\nC’est autour d’un spectacle que nous vous proposons d’amener notre réflexion sur le bien-être de nos enfants et le vivre-ensemble. A l’issue de ce spectacle ludique adressé aux enfants de 7 à 11 ans, vous aurez l’occasion de pouvoir échanger avec les nombreux partenaires qui œuvrent au quotidien en faveur des enfants : Education Nationale, associations locales et tant d’autres.\n\n**Il était une fois Sara Jane| 17h**  \nSi Sara Jane disparaissait à cause du harcèlement, où se cacherait-elle ? Comment réagir face à une agression répétée ? Où commence et s’arrête le harcèlement ?\n\nSpectacle, débat et jeu de rôle pour comprendre le mécanisme du harcèlement scolaire.\n\n**Informations**  \nThéâtre Albert Camus  \nSamedi 21 novembre 2026  \nA 17h  \nEntrée gratuite sur réservation  \n**Mail :** [relais.famille@maurepas.fr](mailto:relais.famille@maurepas.fr) / 01 30 66 53 47",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/theatre-albert-camus-maurepas/events/68606619_journee-nationale-de-lutte-contre-le-harcelement-a-lecole"
+      "url": "https://openagenda.com/theatre-albert-camus-maurepas/events/68606619_journee-nationale-de-lutte-contre-le-harcelement-a-lecole",
+      "aiSummary": "À Maurepas, participez à une journée de sensibilisation autour du spectacle ludique « Il était une fois Sara Jane ». Les enfants découvriront un format mêlant théâtre, débat et jeux de rôle pour aborder le mécanisme du harcèlement scolaire. Cette sortie gratuite au Théâtre Albert Camus se prolonge par un temps d'échange avec l'Éducation nationale et des associations locales."
     },
     {
       "title": "13e festival « Les musicales d’automne »",
@@ -1321,7 +1348,8 @@
       "description": "Projection du dessin animé « À deux c’est mieux » 🐰✨ 🎬🥐 CINÉ PETIT DÉJ : UN DIMANCHE MATIN QUI VA FAIRE DES HEUREUX ! 🎨🎉\n\n📣 Rendez-vous le dimanche 22 novembre 2026 au cinéma Jacques Brel pour une nouvelle formule du Ciné Petit Déj !\n\nUn moment convivial à partager en famille, avec plein d’activités pour les enfants avant la séance de cinéma ! 😍\n\n🎈 AU PROGRAMME :\n\n🕤 Dès 9h45  \n💄 Maquillage  \n🎲 Espaces jeux  \n📚 Coin lecture  \n✏️ Dessin  \n🥐 Petit déjeuner pour les enfants et thé/café pour les adultes\n\n🎥 À 11h : place au cinéma !  \nProjection du dessin animé « À deux c’est mieux » 🐰✨\n\n🎟️ Tarif unique : 5,50 € par personne (dès 3 ans)\n\n📅 Dimanche 22 novembre 2026  \n📍 Cinéma Jacques Brel\n\n🎫 Billetterie au cinéma Jacques Brel le 18 novembre à 18h.\n\nℹ️ Renseignements : Direction de la Culture – 01 39 30 30 49\n\n💛 Un petit-déjeuner, des activités et un joli film à partager : le rendez-vous idéal pour une sortie en famille !\n\n👉 Pensez à réserver la date et à partager l’info autour de vous !\n\n#CinéPetitDéj #CinémaJacquesBrel #SortieEnFamille #Cinéma #JeunePublic #MontignyLeBretonneux #Culture",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/la-ferme-du-manet-et-la-salle-jacques-brel-montigny-le-bretonneux/events/46572377_cine-petit-dej-un-dimanche-matin-qui-va-faire-des-heureux"
+      "url": "https://openagenda.com/la-ferme-du-manet-et-la-salle-jacques-brel-montigny-le-bretonneux/events/46572377_cine-petit-dej-un-dimanche-matin-qui-va-faire-des-heureux",
+      "aiSummary": "Le dimanche 22 novembre 2026, le cinéma Jacques Brel à Montigny-le-Bretonneux propose une matinée familiale avec le Ciné Petit Déj. Avant la projection du dessin animé « À deux c’est mieux » à 11h, les enfants profiteront d'un petit-déjeuner et d'animations dès 9h45, incluant maquillage, jeux, lecture et dessin. Une formule conviviale idéale pour partager un bon moment en famille."
     },
     {
       "title": "Spectacle de magie",
@@ -1374,7 +1402,8 @@
       "description": "Un homme assis sur son or confond l’argent et le bonheur. Il est drôle sans le vouloir, méchant sans le savoir… Harpagon, le célèbre avare, organise pour ses enfants des mariages d’intérêt. Pour lui-même, il réserve la jeune et charmante Marianne. Mais c’est sans compter sur la rébellion de ses enfants, amoureux en secret, bien décidés à ne pas se laisser sacrifier sur l’autel du profit. Quand la précieuse cassette de l’avare est volée, la folie s’installe et le chantage devient la clé d’une possible victoire de l’amour.  \nÀ l’heure où l’argent se dématérialise, la Compagnie Colette Roumanoff confronte ce texte séculaire à ce que nous savons de l’avarice d’aujourd’hui. Face à la peur du lendemain et de l’éphémère, Harpagon s’enferme dans ses propres contradictions, devenant un clown moderne, burlesque et tragiquement attachant. Grâce à une mise en scène rythmée, la troupe de Colette Roumanoff insuffle une énergie communicative qui captive toutes les générations !  \n_Avec : Serge Catanèse, Valérie Roumanoff, Patrice Vion, Géraldine Adams, Renaud Heine, Richard Delestre, Jean Louis Laurent, Valentine Erlich, Jauffre de Pons / Mise en scène de Colette Roumanoff._",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/14504370_lavare-4504706"
+      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/14504370_lavare-4504706",
+      "aiSummary": "À Magny-les-Hameaux, les spectateurs découvrent la célèbre pièce de Molière mise en scène par la Compagnie Colette Roumanoff. Les enfants verront un Harpagon comique et tyrannique s'opposer aux projets amoureux de ses enfants pour préserver sa fortune. Cette adaptation rythmée offre une réflexion burlesque et actuelle sur l'argent, portée par une troupe énergique qui captive toutes les générations."
     },
     {
       "title": "L'avare",
@@ -1391,7 +1420,8 @@
       "description": "Un homme assis sur son or confond l’argent et le bonheur. Il est drôle sans le vouloir, méchant sans le savoir… Harpagon, le célèbre avare, organise pour ses enfants des mariages d’intérêt. Pour lui-même, il réserve la jeune et charmante Marianne. Mais c’est sans compter sur la rébellion de ses enfants, amoureux en secret, bien décidés à ne pas se laisser sacrifier sur l’autel du profit. Quand la précieuse cassette de l’avare est volée, la folie s’installe et le chantage devient la clé d’une possible victoire de l’amour.  \nÀ l’heure où l’argent se dématérialise, la Compagnie Colette Roumanoff confronte ce texte séculaire à ce que nous savons de l’avarice d’aujourd’hui. Face à la peur du lendemain et de l’éphémère, Harpagon s’enferme dans ses propres contradictions, devenant un clown moderne, burlesque et tragiquement attachant. Grâce à une mise en scène rythmée, la troupe de Colette Roumanoff insuffle une énergie communicative qui captive toutes les générations !  \n_Avec : Serge Catanèse, Valérie Roumanoff, Patrice Vion, Géraldine Adams, Renaud Heine, Richard Delestre, Jean Louis Laurent, Valentine Erlich, Jauffre de Pons / Mise en scène de Colette Roumanoff._",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/14504370_lavare-4504706"
+      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/14504370_lavare-4504706",
+      "aiSummary": "À Magny-les-Hameaux, les spectateurs découvrent la célèbre pièce de Molière mise en scène par la Compagnie Colette Roumanoff. Les enfants verront un Harpagon comique et tyrannique s'opposer aux projets amoureux de ses enfants pour préserver sa fortune. Cette adaptation rythmée offre une réflexion burlesque et actuelle sur l'argent, portée par une troupe énergique qui captive toutes les générations."
     },
     {
       "title": "On ne jouait pas à la pétanque dans le ghetto de Varsovie - Eric Feldman",
@@ -1685,7 +1715,8 @@
       "description": "Personnalisez et fabriquez grâce aux outils numériques du Fablab! Accompagnés par notre équipe, imaginez et réalisez un objet unique : mug, textile, badge, porte-clé… Initiez-vous aux outils de la fabrication numérique en toute simplicité lors d'un atelier ou d'un rendez-vous de projet personnel !\n\nNos ateliers numériques sont des temps d’initiation pédagogique destinés à découvrir les machines du fablab. Animés par le fabmanager, ils permettent d’apprendre les bases de la fabrication numérique.\n\nA partir de 8 ans avec accompagnement  \nA partir de 14 ans sans accompagnement\n\n2H00 d'atelier les mercrecredis de 15H à 17H\n\nLa Comm@nderie - cité du numérique  \nFablab - Batiment des Gardes",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab"
+      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab",
+      "aiSummary": "Guidés par l'équipe du Fablab de l'Essonne, les enfants découvrent la fabrication numérique en concevant leur propre objet personnalisé, comme un mug, un textile, un badge ou un porte-clé. Cet atelier pédagogique de deux heures, animé par le fabmanager, permet d'apprendre facilement les bases de l'utilisation des machines et des outils numériques pour réaliser une création unique."
     },
     {
       "title": "Adoration eucharistique",
@@ -1926,7 +1957,8 @@
       "description": "Séance d’éveil musical pour les tout petits (0 à 3 ans) par Marie-Laure Fessler, musicienne.\nQue ce soit avec des objets du quotidien, la voix, des petites percussions ou de plus grands instruments, tout est prétexte à jouer ensemble avec les sons et les transformer en jeu musical. C’est par le plaisir et le jeu partagé que l’enfant s’éveille à la musique. L'atelier d'éveil musical est un moment privilégié de partage parent-enfant en musique.",
       "image": null,
       "source": "OpenAgenda · agenda 16624806",
-      "url": "https://openagenda.com/mediatheques-issy/events/78199011_les-ptits-ateliers-eveil-musical-8825661"
+      "url": "https://openagenda.com/mediatheques-issy/events/78199011_les-ptits-ateliers-eveil-musical-8825661",
+      "aiSummary": "À Issy-les-Moulineaux, les tout-petits de 0 à 3 ans découvrent l'univers sonore aux côtés de la musicienne Marie-Laure Fessler. À travers des objets du quotidien, leur voix, des percussions et divers instruments, ils s'initient à la musique en s'amusant. Cet atelier offre un moment privilégié de partage et de complicité en musique entre l'enfant et son parent."
     },
     {
       "title": "Atelier bruitage avec La Cordonnerie",
@@ -1977,7 +2009,8 @@
       "description": "Personnalisez et fabriquez grâce aux outils numériques du Fablab! Accompagnés par notre équipe, imaginez et réalisez un objet unique : mug, textile, badge, porte-clé… Initiez-vous aux outils de la fabrication numérique en toute simplicité lors d'un atelier ou d'un rendez-vous de projet personnel !\n\nNos ateliers numériques sont des temps d’initiation pédagogique destinés à découvrir les machines du fablab. Animés par le fabmanager, ils permettent d’apprendre les bases de la fabrication numérique.\n\nA partir de 8 ans avec accompagnement  \nA partir de 14 ans sans accompagnement\n\n2H00 d'atelier les mercrecredis de 15H à 17H\n\nLa Comm@nderie - cité du numérique  \nFablab - Batiment des Gardes",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab"
+      "url": "https://openagenda.com/commanderie/events/8070017_cree-un-objet-personnalise-au-fablab",
+      "aiSummary": "Guidés par l'équipe du Fablab de l'Essonne, les enfants découvrent la fabrication numérique en concevant leur propre objet personnalisé, comme un mug, un textile, un badge ou un porte-clé. Cet atelier pédagogique de deux heures, animé par le fabmanager, permet d'apprendre facilement les bases de l'utilisation des machines et des outils numériques pour réaliser une création unique."
     },
     {
       "title": "Salle gaming",
@@ -1994,7 +2027,25 @@
       "description": "Partagez une expérience de gaming ludique, en équipe ou en duo adulte-enfant Partagez une expérience de gaming, en équipe ou en duo adulte-enfant afin de plonger dans l’univers du jeu vidéo (mécaniques de jeu, design et enjeux numériques).  \nTravail d’équipe, stratégie ou amusement : chaque session est pensée pour favoriser l’interaction entre générations, pour jouer ensemble.\n\n2H00 d'atelier les samedis de 15h à 17H\n\nA partir de 8 ans avec accompagnement  \nA partir de 14 ans sans accompagnement\n\nLa Comm@nderie - cité du numérique  \nSalle gaming - Batiment de Bièvre 2",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/commanderie/events/55513753_salle-gaming-6188140"
+      "url": "https://openagenda.com/commanderie/events/55513753_salle-gaming-6188140",
+      "aiSummary": "Cet atelier de deux heures invite les duos adulte-enfant et les équipes à découvrir l'univers du jeu vidéo à travers ses mécaniques, son design et ses enjeux. Cette sortie favorise le partage et l'interaction intergénérationnelle grâce à des sessions ludiques axées sur la stratégie, le travail d'équipe et l'amusement."
+    },
+    {
+      "title": "Parvis en fête - Marché de Noël",
+      "start": "2026-12-12T15:00:00+01:00",
+      "end": "2026-12-12T18:00:00+01:00",
+      "city": "Magny-les-Hameaux",
+      "lat": 48.723938,
+      "lon": 2.083469,
+      "category": "Spectacle",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Samedi 12 décembre, de 15 heures à 18 heures, vivez la magie de Noël sur le parvis de l’Hôtel de Ville, entre spectacles, ateliers, gourmandises et feux d’artifice ! Venez célébrer la magie de Noël ! À l’occasion de l’événement Parvis en fête, la Ville de Magny-les-Hameaux, accompagnée des associations locales, vous invite à une fête chaleureuse pour petits et grands. Sur le parvis de l’Hôtel de Ville, profitez de gourmandises préparées par les associations, d’ateliers créatifs, de la visite du Père Noël et d’un feu d’artifice ! Plongez dans l’univers onirique et fantastique du spectacle “Féerie”, de la Cie Luminescence, un monde merveilleux aux couleurs pastelles où des fées malicieuses jouent avec les lumières et dansent avec les étoiles !  \nLe spectacle sera suivi du traditionnel feu d’artifice !  \n**Rendez-vous également autour du Parvis de l’Hôtel de Ville pour découvrir le Marché de Noël de 9h à 20h !**",
+      "image": null,
+      "source": "OpenAgenda · agenda 60701331",
+      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/14904276_parvis-en-fete-marche-de-noel"
     },
     {
       "title": "CASSE-NOISETTE - SPECTACLE DE NOËL",
