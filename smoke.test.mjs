@@ -16,3 +16,17 @@ test('manifest and PWA resources present',()=>{
  assert.ok(manifest.icons.length);
  for(const path of ['sw.js','icons/kidsorties.svg','event-core.mjs'])assert.ok(fs.statSync(path).size>100);
 });
+
+test('Essonne nature and family catalogue is geolocated and public',()=>{
+ const catalogue=JSON.parse(fs.readFileSync('data/places.json','utf8'));
+ assert.ok(catalogue.places.length>=20);
+ const keys=new Set();
+ for(const place of catalogue.places){
+  assert.ok(place.id&&!keys.has(place.id),'Duplicate or missing place id');
+  keys.add(place.id);
+  assert.equal(place.kind,'place');
+  assert.ok(Number.isFinite(place.lat)&&Number.isFinite(place.lon));
+  assert.ok(place.url.startsWith('https://'));
+  assert.ok(place.title&&place.description&&place.category);
+ }
+});
