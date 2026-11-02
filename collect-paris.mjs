@@ -60,7 +60,8 @@ try{
   if(list.length<100||offset+list.length>=body.total_count)break;
  }
  if(counters.read===0)throw Error('API vide');
- const unique=[...new Map(events.map(e=>[(e.title+'|'+e.start+'|'+e.city).toLowerCase(),e])).values()].sort((a,b)=>Date.parse(a.start)-Date.parse(b.start));
+ const horizon=now+90*24*60*60*1000;
+ const unique=[...new Map(events.filter(e=>Date.parse(e.start)<=horizon).map(e=>[(e.title+'|'+e.start+'|'+e.city).toLowerCase(),e])).values()].sort((a,b)=>Date.parse(a.start)-Date.parse(b.start)).slice(0,800);
  await fs.mkdir('data',{recursive:true});
  await fs.writeFile('data/paris.json',JSON.stringify({updatedAt:new Date().toISOString(),source:'Ville de Paris, ODbL',events:unique},null,2)+'\n');
  console.log('Paris Data : '+JSON.stringify(counters)+' ; '+unique.length+' sorties publiées');
