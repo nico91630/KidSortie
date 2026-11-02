@@ -1,3 +1,4 @@
+import { familyRelevant } from './family-filter.mjs';
 import fs from 'node:fs/promises';
 
 const configuredIds = (process.env.OPENAGENDA_AGENDAS || '').split(',').map(s => s.trim()).filter(Boolean);
@@ -68,7 +69,7 @@ for (const id of [...ids].slice(0, 45)) {
         const description = localized(event.description) + ' ' + localized(event.longDescription);
         const keywords = Array.isArray(event.keywords) ? event.keywords.join(' ') : localized(event.keywords);
         const test = (title + ' ' + description + ' ' + keywords).toLocaleLowerCase('fr');
-        const child = /enfant|famill|jeune public|bébé|tout public|petits|atelier|marionnette|conte|cirque|ludique|spectacle|fête|animation|parc|jeu|magie|cinéma|festival|visite|musée|exposition|bibliothè|médiathè/.test(test);
+        const child = familyRelevant({title, description, keywords, minAge: event.age?.min ?? null});
         if (!child) { count.notFamily++; continue; }
         const category = /spectacle|théâtre|cirque|concert|marionnette|magie/.test(test) ? 'Spectacle' : /atelier|parc|jeu|loisir/.test(test) ? 'Loisir' : /musée|exposition|visite/.test(test) ? 'Découverte' : 'Événement';
         for (const time of timings) {
