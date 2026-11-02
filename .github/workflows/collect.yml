@@ -5,6 +5,7 @@ on:
     paths:
       - 'collect.mjs'
       - 'collect-paris.mjs'
+      - 'family-filter.mjs'
       - 'summarize.mjs'
       - '.github/workflows/collect.yml'
   schedule:
