@@ -6,7 +6,7 @@ const ids = new Set(configuredIds);
 const key = process.env.OPENAGENDA_API_KEY || '';
 const center = [48.611, 2.305]; // Brétigny-sur-Orge
 const now = Date.now();
-const maximumPages = 2;
+const maximumPages = 3;
 const count = { received: 0, withoutCoordinates: 0, outsideRadius: 0, withoutTitle: 0, withoutTiming: 0, past: 0, notFamily: 0, retained: 0 };
 const kilometers = (lat, lon) => {
   const p = Math.PI / 180;
@@ -19,8 +19,18 @@ if (!key) {
   process.exit(1);
 }
 // Discover local public agendas automatically using the existing API key.
-const searches = ['Essonne', 'Brétigny', 'Arpajon', 'Sainte-Geneviève-des-Bois', 'Massy', 'Évry', 'Palaiseau', 'Dourdan', 'Étampes', 'Savigny-sur-Orge', 'Longjumeau'];
+const searches = [
+ 'Brétigny-sur-Orge','La Norville','Arpajon','Saint-Germain-lès-Arpajon','Leuville-sur-Orge',
+ 'Marolles-en-Hurepoix','Saint-Michel-sur-Orge','Sainte-Geneviève-des-Bois','Longpont-sur-Orge',
+ 'Morsang-sur-Orge','Breuillet','Ollainville','Égly','Le Plessis-Pâté','Leudeville',
+ 'Vert-le-Grand','Lardy','Cheptainville','Ballancourt-sur-Essonne','Mennecy',
+ 'Montlhéry','Marcoussis','Épinay-sur-Orge','La Ville-du-Bois','Ris-Orangis',
+ 'Corbeil-Essonnes','Évry-Courcouronnes','Massy','Palaiseau','Dourdan','Étampes',
+ 'Essonne tourisme','Cœur d’Essonne','Val d’Essonne','Paris-Saclay',
+ 'médiathèques Essonne','spectacles jeune public Essonne','agenda des petits curieux'
+];
 let discovered = 0;
+const agendaScores = new Map();
 for (const term of searches) {
   try {
     const url = new URL('https://api.openagenda.com/v2/agendas');
@@ -30,14 +40,21 @@ for (const term of searches) {
     const response = await fetch(url, {signal: AbortSignal.timeout(20000)});
     if (!response.ok) throw Error('HTTP '+response.status);
     const body = await response.json();
-    for (const agenda of body.agendas || []) if (agenda.uid) { ids.add(String(agenda.uid)); discovered++; }
+    for (const agenda of body.agendas || []) if (agenda.uid) {
+      const uid=String(agenda.uid);
+      ids.add(uid); discovered++;
+      const label=String([agenda.title?.fr||agenda.title,agenda.description?.fr||agenda.description].filter(Boolean).join(' ')).toLocaleLowerCase('fr');
+      const local=/bretigny|arpajon|norville|coeur d.essonne|saint.michel|breuillet|ballancourt|mennecy|sainte.genevieve|essonne tourisme|mediatheque|petits curieux/i.test(label.normalize('NFD').replace(/[\u0300-\u036f]/g,''));
+      agendaScores.set(uid,(agendaScores.get(uid)||0)+(local?5:1));
+    }
     console.log('Recherche '+term+' : '+(body.agendas || []).length+' agendas trouvés');
   } catch (e) { console.warn('Découverte '+term+' : '+e.message); }
 }
 console.log('Agendas distincts à explorer : '+ids.size+' ('+discovered+' résultats de recherche)');
 const collected = [];
 let success = 0;
-for (const id of [...ids].slice(0, 45)) {
+const ordered=[...ids].sort((a,b)=>(configuredIds.includes(b)?100:0)+(agendaScores.get(b)||0)-(configuredIds.includes(a)?100:0)-(agendaScores.get(a)||0));
+for (const id of ordered.slice(0, 100)) {
   console.log('--- Agenda ' + id + ' ---');
   const startReceived = count.received;
   try {
@@ -69,6 +86,8 @@ for (const id of [...ids].slice(0, 45)) {
         const description = localized(event.description) + ' ' + localized(event.longDescription);
         const keywords = Array.isArray(event.keywords) ? event.keywords.join(' ') : localized(event.keywords);
         const test = (title + ' ' + description + ' ' + keywords).toLocaleLowerCase('fr');
+        const normalizedTitle=title.toLocaleLowerCase('fr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+        if (/preinscription|inscriptions? ouvertes?|sejours? (?:hiver|printemps|ete)|sont en ligne|recrutement|appel a candidatures|votez pour|webinaire|conference|formation professionnelle|don du sang/.test(normalizedTitle)) {count.notFamily++;continue;}
         const child = familyRelevant({title, description, keywords, minAge: event.age?.min ?? null});
         if (!child) { count.notFamily++; continue; }
         const category = /spectacle|théâtre|cirque|concert|marionnette|magie/.test(test) ? 'Spectacle' : /atelier|parc|jeu|loisir/.test(test) ? 'Loisir' : /musée|exposition|visite/.test(test) ? 'Découverte' : 'Événement';
@@ -82,7 +101,7 @@ for (const id of [...ids].slice(0, 45)) {
             minAge: event.age?.min ?? null, maxAge: event.age?.max ?? null,
             price: null,
             description: String(description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim().slice(0, 1400),
-            image: event.image?.base || event.image?.url || null,
+            image: (()=>{const im=event.image;const v=typeof im==='string'?im:(im?.base||im?.url||'');return /^https?:\/\//.test(v)&&!v.endsWith('/main/')?v:null})(),
             source: 'OpenAgenda · agenda ' + id,
             url: event.canonicalUrl || 'https://openagenda.com/fr/agendas/' + encodeURIComponent(id) + '/events/' + encodeURIComponent(event.uid)
           });
