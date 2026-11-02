@@ -40,6 +40,12 @@ const CENTER={lat:48.611,lon:2.305};
 const formatDate=new Intl.DateTimeFormat('fr-FR',{weekday:'short',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
 let events=[],period='all',activeId=0;
 const fallback={Spectacle:'🎭',Loisir:'🛝',Découverte:'🏛️','Événement':'🎉'};
+function familyEligible(e){
+ if(e.familyVerified===true)return true;
+ const v=[e.title,e.description,e.audience,e.tags].filter(Boolean).join(' ').toLocaleLowerCase('fr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+ if(/reserve aux adultes|interdit aux mineurs|pour adultes uniquement|public adulte/.test(v))return false;
+ return /enfants?|famill(?:e|es|ial|iale)|jeune public|tout.petit|bebes?|parents?.enfants?|marionnettes?|conte pour enfants|[2-9] ans|10 ans|11 ans|12 ans|ferme pedagogique|ludotheque|eveil musical|chasse au tresor/.test(v);
+}
 function distanceKm(e){const lat=Number(e.lat),lon=Number(e.lon);if(e.lat==null||e.lon==null||!Number.isFinite(lat)||!Number.isFinite(lon))return Infinity;const p=Math.PI/180,a=Math.sin((lat-CENTER.lat)*p/2)**2+Math.cos(CENTER.lat*p)*Math.cos(lat*p)*Math.sin((lon-CENTER.lon)*p/2)**2;return 12742*Math.asin(Math.sqrt(a))}
 function safeUrl(v){try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:null}catch{return null}}
 function validImage(v){return safeUrl(v)}
@@ -58,5 +64,5 @@ document.querySelectorAll('[name="age-group"]').forEach(c=>c.addEventListener('c
 document.querySelectorAll('[data-period]').forEach(c=>c.addEventListener('click',()=>{period=c.dataset.period;document.querySelectorAll('[data-period]').forEach(b=>b.classList.toggle('active',b===c));render()}));
 document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-tab]').forEach(t=>t.classList.toggle('active',t===b));if(b.dataset.tab==='filters'){document.querySelector('.filters').scrollIntoView({behavior:'smooth',block:'center'});return}const target=b.dataset.tab==='weekend'?'weekend':'all';document.querySelector('[data-period="'+target+'"]').click();window.scrollTo({top:0,behavior:'smooth'})}));
 $('detailsDialog').addEventListener('click',e=>{if(e.target===$('detailsDialog'))$('detailsDialog').close()});
-Promise.allSettled(['./data/events.json','./data/paris.json'].map(p=>fetch(p+'?ts='+Date.now()).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}))).then(results=>{const all=results.filter(x=>x.status==='fulfilled').flatMap(x=>x.value.events||[]);events=[...new Map(all.filter(e=>e.familyVerified===true&&e.title&&e.start&&safeUrl(e.url)&&Date.parse(e.end||e.start)>=Date.now()-86400000).map(e=>[(e.title+'|'+e.start+'|'+e.city).toLocaleLowerCase('fr'),e])).values()];render()}).catch(()=>{$('status').textContent='Impossible de charger les sorties.'});
+Promise.allSettled(['./data/events.json','./data/paris.json'].map(p=>fetch(p+'?ts='+Date.now()).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}))).then(results=>{const all=results.filter(x=>x.status==='fulfilled').flatMap(x=>x.value.events||[]);events=[...new Map(all.filter(e=>familyEligible(e)&&e.title&&e.start&&safeUrl(e.url)&&Date.parse(e.end||e.start)>=Date.now()-86400000).map(e=>[(e.title+'|'+e.start+'|'+e.city).toLocaleLowerCase('fr'),e])).values()];render()}).catch(()=>{$('status').textContent='Impossible de charger les sorties.'});
 </script></body></html>
