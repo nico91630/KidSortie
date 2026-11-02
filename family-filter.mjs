@@ -10,6 +10,7 @@ const signals=[
  /\bsorties? en famille\b/,/\bcomedie musicale pour enfants?\b/,
  /\baires? de jeux\b/,/\bjeux? de piste\b/,/\bchasse au tresor\b/,/\brandoland\b/,/\bbaludik\b/,
  /\bparcours ludique\b/,/\bpromenade ludique\b/,/\bsentier pedagogique\b/,/\bfermes? pedagogiques?\b/,
+ /\b(?:fetes? foraines?|fetes? du village|fetes? communales?|fetes? des enfants|fetes? de l.enfance|maneges?|carrousels?|kermesses?|parcs? d.attractions|village des enfants|animations? pour enfants|festivals? jeune public|fetes? de quartier|fetes? de noel|marches? de noel|chateaux? gonflables?|structures? gonflables?)\b/,
  /\bjeux? pour enfants?\b/,/\bparcours? des petits\b/,/\binitiation pour enfants?\b/,
  /\batelier parents?[- ]enfants?\b/,/\bactivites? familiales?\b/,/\bvisite ludique\b/
 ];
