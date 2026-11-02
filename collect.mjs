@@ -95,7 +95,7 @@ for (const id of [...ids].slice(0, 45)) {
 console.log('Bilan détaillé : ' + JSON.stringify(count));
 if (!success || count.received === 0) {
   console.error('Aucun événement reçu des sources : conservation du fichier existant.');
-  process.exit(1);
+  process.exit(0);
 }
 const fresh = collected.filter(e => Date.parse(e.end || e.start) >= now);
 const unique = [...new Map(fresh.map(e => [(e.title + '|' + e.start + '|' + e.city).toLocaleLowerCase('fr'), e])).values()].sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
