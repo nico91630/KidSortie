@@ -34,18 +34,31 @@ export function periodAllowed(start,period,now=new Date()){
  if(period==='weekend'){const sat=new Date(now);sat.setDate(now.getDate()+(now.getDay()===0?-1:(6-now.getDay()+7)%7));sat.setHours(0,0,0,0);const mon=new Date(sat);mon.setDate(sat.getDate()+2);return t>=sat.getTime()&&t<mon.getTime()}
  const end=new Date(now);end.setDate(now.getDate()+Number(period));return t>=now.getTime()&&t<=end.getTime();
 }
+// Classement éditorial automatique : une sortie vécue prime sur une annonce ou un événement généraliste.
+const unwanted=/\b(?:preinscription|inscription(?:s)? ouverte(?:s)?|recrutement|appel a candidature|portes ouvertes? (?:des ecoles|scolaires)|sejours? (?:hiver|printemps|ete|vacances) 20\d\d|conference|colloque|webinaire|reunion d information|assemblee generale|vente de livres|don du sang|afterwork|formation professionnelle|ph[eè]dre|trag[eé]die classique)\b/;
+const kidActivity=/\b(?:spectacle(?:s)? (?:pour enfants?|jeune public)|jeune public|marionnette|cirque|magie|chasse au tresor|jeu de piste|atelier(?:s)? (?:creatif|ludique|enfant|famill)|ferme pedagogique|parc animalier|conte(?:s)? pour enfants?|animation(?:s)? (?:pour enfants?|familial)|ludotheque|escape game|parcours aventure|visite ludique|bebe(?:s)?|tout petits?)\b/;
 export function relevanceScore(e){
- const v=normalize([e.title,e.description].join(' '));let score=0;
- if(/jeune public|pour enfants|en famille|familial|spectacle enfant/.test(v))score+=6;
- if(/bebes|tout petit|marionnettes|eveil|ludotheque|conte/.test(v))score+=4;
- if(e.minAge!=null||e.maxAge!=null)score+=3;
- if(e.image)score+=1;if(e.price===0)score+=1;
+ const title=normalize(e.title),v=normalize([e.title,e.description].join(' '));let score=0;
+ if(unwanted.test(title))score-=30;
+ if(/\b(?:inscription|preinscription|information|programme|planning|annonce|appel a|stage vacances|sejour vacances)\b/.test(title))score-=12;
+ if(/\b(?:jeune public|pour enfants|en famille|tout petits|marionnettes|spectacle enfants|ludique|familles)\b/.test(title))score+=12;
+ if(kidActivity.test(v))score+=8;
+ if(/\b(?:festival|fete|atelier|cirque|parc|animaux|ferme|magie|spectacle|chasse au tresor|jeu de piste|conte|visite guidee|exposition interactive)\b/.test(title))score+=5;
+ if(/\b(?:conference|debats?|rencontre litteraire|table ronde|theatre classique|lecture adulte|exposition professionnelle)\b/.test(title))score-=15;
+ if(e.minAge!=null&&Number(e.minAge)<=10)score+=3;
+ if(e.image&& !/img\.openagenda\.com\/main\/$/.test(e.image))score+=2;
+ if(e.price===0)score+=2;
+ score+=Math.max(0,6-distanceKm(e)/7);
  return score;
+}
+export function worthwhile(e){
+ const title=normalize(e.title);
+ return !unwanted.test(title)&&relevanceScore(e)>=2;
 }
 export function filterEvents(events,{q='',category='all',ages=[],price='all',radius=40,sort='date',period='all',favoritesOnly=false,favorites=new Set(),now=new Date()}={}){
  const needle=normalize(q);
  const list=(events||[]).filter(e=>{
-  if(distanceKm(e)>Number(radius))return false;
+  if(distanceKm(e)>Number(radius)||(!favoritesOnly&&!worthwhile(e)))return false;
   if(favoritesOnly&&!favorites.has(e.key))return false;
   if(category!=='all'&&e.category!==category)return false;
   if(needle&&!normalize([e.title,e.city,e.description].join(' ')).includes(needle))return false;
@@ -53,6 +66,6 @@ export function filterEvents(events,{q='',category='all',ages=[],price='all',rad
   if(ages.length&&!(e.minAge==null&&e.maxAge==null)&&!ages.some(age=>Number(age)>=Number(e.minAge??0)&&Number(age)<=Number(e.maxAge??99)))return false;
   return e.dates?.some(d=>periodAllowed(d.start,period,now))??periodAllowed(e.start,period,now)
  });
- list.sort((a,b)=>sort==='distance'?distanceKm(a)-distanceKm(b)||Date.parse(a.start)-Date.parse(b.start):sort==='relevance'?relevanceScore(b)-relevanceScore(a)||distanceKm(a)-distanceKm(b):Date.parse(a.start)-Date.parse(b.start)||distanceKm(a)-distanceKm(b));
+ list.sort((a,b)=>sort==='distance'?distanceKm(a)-distanceKm(b)||Date.parse(a.start)-Date.parse(b.start):sort==='relevance'?relevanceScore(b)-relevanceScore(a)||distanceKm(a)-distanceKm(b):relevanceScore(b)-relevanceScore(a)||Date.parse(a.start)-Date.parse(b.start)||distanceKm(a)-distanceKm(b));
  return list;
 }
