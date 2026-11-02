@@ -639,6 +639,30 @@
       "maxAge": null,
       "kind": "place",
       "seasonal": true
+    },
+    {
+      "id": "essonne-027",
+      "title": "Parc Beaulieu et aire de jeux",
+      "city": "La Ville-du-Bois",
+      "lat": 48.658235,
+      "lon": 2.269024,
+      "category": "Jeux",
+      "description": "Parc avec étang, pelouse et aire de jeux pour les enfants. Une promenade facile à faire en famille.",
+      "price": 0,
+      "url": "https://www.essonnetourisme.com/p/parc-beaulieu/",
+      "keywords": [
+        "parc",
+        "aire de jeux",
+        "étang",
+        "promenade",
+        "gratuit"
+      ],
+      "source": "Essonne Tourisme",
+      "image": null,
+      "minAge": null,
+      "maxAge": null,
+      "kind": "place",
+      "seasonal": false
     }
   ]
 }
