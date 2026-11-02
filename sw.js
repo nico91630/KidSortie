@@ -1,4 +1,4 @@
-const CACHE='kidsorties-shell-v3';
+const CACHE='kidsorties-shell-v4';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icons/kidsorties.svg'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
