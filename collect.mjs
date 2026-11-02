@@ -1,9 +1,86 @@
 import fs from 'node:fs/promises';
-const ids=(process.env.OPENAGENDA_AGENDAS||'').split(',').map(x=>x.trim()).filter(Boolean);
-const key=process.env.OPENAGENDA_API_KEY||'';
-const center=[48.611,2.305];const distance=(lat,lon)=>{const p=Math.PI/180,a=Math.sin((lat-center[0])*p/2)**2+Math.cos(lat*p)*Math.cos(center[0]*p)*Math.sin((lon-center[1])*p/2)**2;return 12742*Math.asin(Math.sqrt(a))};
-if(!ids.length||!key){console.log('Configurez OPENAGENDA_API_KEY et OPENAGENDA_AGENDAS. Aucun événement inventé.');process.exit(0)}
-let previous=[];try{previous=JSON.parse(await fs.readFile('data/events.json','utf8')).events||[]}catch{}
-const found=[];let successes=0;
-for(const id of ids){try{for(let offset=0;offset<500;offset+=100){const u=new URL('https://api.openagenda.com/v2/agendas/'+encodeURIComponent(id)+'/events');u.searchParams.set('key',key);u.searchParams.set('size','100');u.searchParams.set('from',String(offset));u.searchParams.set('timings[gte]',new Date().toISOString().slice(0,10));const res=await fetch(u,{signal:AbortSignal.timeout(20000)});if(!res.ok)throw Error('HTTP '+res.status);const data=await res.json();const list=data.events||[];for(const e of list){const loc=e.location||{};let lat=Number(loc.latitude??loc.coordinates?.latitude),lon=Number(loc.longitude??loc.coordinates?.longitude);if(!Number.isFinite(lat)||!Number.isFinite(lon)||distance(lat,lon)>40)continue;let title=typeof e.title==='object'?(e.title.fr||e.title.en):e.title;let description=typeof e.description==='object'?(e.description.fr||''):e.description||'';if(!title)continue;let summary=(title+' '+description+' '+(e.keywords?.fr||[]).join(' ')).toLowerCase();if(!/enfant|famille|jeune public|tout.public|bébé|petit|atelier|marionnette|conte|cirque|ludique|spectacle|fête|animation|parc|jeu|magie/.test(summary))continue;let category=/spectacle|théâtre|cirque|concert|marionnette|magie/.test(summary)?'Spectacle':/atelier|parc|jeu|loisir/.test(summary)?'Loisir':/musée|exposition|visite/.test(summary)?'Découverte':'Événement';for(let t of e.timings||[]){if(!t.begin||new Date(t.end||t.begin).getTime()<Date.now()-86400000)continue;found.push({title,start:t.begin,end:t.end||t.begin,city:loc.city||'Essonne',lat,lon,category,minAge:e.age?.min??null,maxAge:e.age?.max??null,price:null,url:e.canonicalUrl||'https://openagenda.com/'});}}if(list.length<100)break;}successes++}catch(err){console.error('Agenda '+id+': '+err.message)}}
-if(!successes){console.error('Aucune source n’a répondu : conservation des données existantes.');process.exitCode=1}else{const merged=[...found,...previous].filter(e=>new Date(e.end||e.start).getTime()>=Date.now()-86400000);const unique=[...new Map(merged.reverse().map(e=>[(e.title+'|'+e.start+'|'+e.city).toLowerCase(),e])).values()].reverse().sort((a,b)=>new Date(a.start)-new Date(b.start));await fs.mkdir('data',{recursive:true});await fs.writeFile('data/events.json',JSON.stringify({updatedAt:new Date().toISOString(),events:unique},null,2)+'\n');console.log(unique.length+' sorties conservées')}
+
+const ids = (process.env.OPENAGENDA_AGENDAS || '').split(',').map(s => s.trim()).filter(Boolean);
+const key = process.env.OPENAGENDA_API_KEY || '';
+const center = [48.611, 2.305]; // Brétigny-sur-Orge
+const now = Date.now();
+const maximumPages = 10;
+const count = { received: 0, withoutCoordinates: 0, outsideRadius: 0, withoutTitle: 0, withoutTiming: 0, past: 0, notFamily: 0, retained: 0 };
+const kilometers = (lat, lon) => {
+  const p = Math.PI / 180;
+  const a = Math.sin((lat - center[0]) * p / 2) ** 2 + Math.cos(lat * p) * Math.cos(center[0] * p) * Math.sin((lon - center[1]) * p / 2) ** 2;
+  return 12742 * Math.asin(Math.sqrt(a));
+};
+const localized = val => typeof val === 'string' ? val : (val?.fr || val?.en || Object.values(val || {})[0] || '');
+if (!key || !ids.length) {
+  console.error('Configuration incomplète : OPENAGENDA_API_KEY et OPENAGENDA_AGENDAS sont nécessaires.');
+  process.exit(1);
+}
+let oldEvents = [];
+try { oldEvents = JSON.parse(await fs.readFile('data/events.json', 'utf8')).events || []; } catch {}
+const collected = [];
+let success = 0;
+for (const id of ids) {
+  console.log('--- Agenda ' + id + ' ---');
+  const startReceived = count.received;
+  try {
+    for (let page = 0; page < maximumPages; page++) {
+      const url = new URL('https://api.openagenda.com/v2/agendas/' + encodeURIComponent(id) + '/events');
+      url.searchParams.set('key', key);
+      url.searchParams.set('size', '100');
+      url.searchParams.set('from', String(page * 100));
+      url.searchParams.set('detailed', '1');
+      url.searchParams.append('relative[]', 'ongoing');
+      url.searchParams.append('relative[]', 'upcoming');
+      const res = await fetch(url, { signal: AbortSignal.timeout(25000) });
+      if (!res.ok) throw Error('OpenAgenda HTTP ' + res.status);
+      const body = await res.json();
+      const events = body.events || [];
+      console.log('Page ' + (page + 1) + ' : ' + events.length + ' événements reçus / total annoncé ' + (body.total ?? 'inconnu'));
+      count.received += events.length;
+      for (const event of events) {
+        const place = event.location || {};
+        const lat = Number(place.latitude ?? place.coordinates?.latitude ?? (Array.isArray(place.coordinates) ? place.coordinates[1] : NaN));
+        const lon = Number(place.longitude ?? place.coordinates?.longitude ?? (Array.isArray(place.coordinates) ? place.coordinates[0] : NaN));
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) { count.withoutCoordinates++; continue; }
+        if (kilometers(lat, lon) > 40) { count.outsideRadius++; continue; }
+        const title = localized(event.title);
+        if (!title) { count.withoutTitle++; continue; }
+        const timings = event.timings || [];
+        if (!timings.length) { count.withoutTiming++; continue; }
+        const description = localized(event.description) + ' ' + localized(event.longDescription);
+        const keywords = Array.isArray(event.keywords) ? event.keywords.join(' ') : localized(event.keywords);
+        const test = (title + ' ' + description + ' ' + keywords).toLocaleLowerCase('fr');
+        const child = /enfant|famill|jeune public|bébé|tout public|petits|atelier|marionnette|conte|cirque|ludique|spectacle|fête|animation|parc|jeu|magie|cinéma|festival|visite|musée|exposition|bibliothè|médiathè/.test(test);
+        if (!child) { count.notFamily++; continue; }
+        const category = /spectacle|théâtre|cirque|concert|marionnette|magie/.test(test) ? 'Spectacle' : /atelier|parc|jeu|loisir/.test(test) ? 'Loisir' : /musée|exposition|visite/.test(test) ? 'Découverte' : 'Événement';
+        for (const time of timings) {
+          const start = time.begin || time.start;
+          const end = time.end || start;
+          if (!start || !Number.isFinite(Date.parse(start))) { count.withoutTiming++; continue; }
+          if (Date.parse(end) < now) { count.past++; continue; }
+          collected.push({
+            title, start, end, city: place.city || 'Essonne', lat, lon, category,
+            minAge: event.age?.min ?? null, maxAge: event.age?.max ?? null,
+            price: null,
+            url: event.canonicalUrl || 'https://openagenda.com/fr/agendas/' + encodeURIComponent(id) + '/events/' + encodeURIComponent(event.uid)
+          });
+          count.retained++;
+        }
+      }
+      if (events.length < 100) break;
+    }
+    success++;
+  } catch (error) { console.error('Erreur agenda ' + id + ' : ' + error.message); }
+  console.log('Agenda ' + id + ' : ' + (count.received - startReceived) + ' événements lus');
+}
+console.log('Bilan détaillé : ' + JSON.stringify(count));
+if (!success) {
+  console.error('Aucun agenda accessible : conservation du fichier existant.');
+  process.exit(1);
+}
+const fresh = collected.filter(e => Date.parse(e.end || e.start) >= now);
+const unique = [...new Map(fresh.map(e => [(e.title + '|' + e.start + '|' + e.city).toLocaleLowerCase('fr'), e])).values()].sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
+await fs.mkdir('data', { recursive: true });
+await fs.writeFile('data/events.json', JSON.stringify({ updatedAt: new Date().toISOString(), events: unique }, null, 2) + '\n');
+console.log(unique.length + ' sorties publiées. Anciennes entrées non présentes dans la collecte retirées.');
