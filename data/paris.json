@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:35:24.783Z",
+  "updatedAt": "2026-11-02T21:14:51.022Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -19,24 +19,6 @@
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
       "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
-    {
-      "title": "Phèdre de Jean Racine",
-      "start": "2026-11-02T21:00:00+02:00",
-      "end": "2026-11-02T22:50:00+02:00",
-      "city": "Paris",
-      "lat": 48.8682640105804,
-      "lon": 2.39479598700757,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.theatrelucas-paumier.fr/phedre",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Et si la plus violente des passions avait été écrite il y a plus de trois siècles? Elle aime celui qu'elle ne devrait pas aimer. Elle lutte contre un désir qu'elle ne peut ni avouer ni faire taire. Autour d'elle, les êtres se déchirent, les mots deviennent des armes, les silences des aveux. Et ce qui semblait pouvoir r",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-ef11353067299ac18301433e42ef8aad.jpg",
-      "aiSummary": "Les jeunes spectateurs découvrent la célèbre tragédie de Jean Racine à travers l'histoire poignante d'une femme luttant contre un amour interdit. Cette représentation met en scène des personnages déchirés où les mots et les silences se transformennt en armes. C'est une occasion unique de se familiariser avec un grand classique de la littérature française dans une mise en scène théâtrale intense."
     },
     {
       "title": "Cric, Crac, Croc ... Corentin !",
@@ -13618,6 +13600,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L'artiste Gloria Friedmann à Transfo - Emmaüs Solidarité pour l'exposition Entre deux vertiges.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-cfed57e64fa3825031a1fc9f33f6a3bd.jpg"
+    },
+    {
+      "title": "La Bande à Bas Nylon",
+      "start": "2026-11-11T14:00:00+02:00",
+      "end": "2026-11-11T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842093,
+      "lon": 2.325682,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/exposition-cabaret-la-bande-a-bas-nylon-125773",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le collectif de Cabaret Artistique « Les Nuits Bas Nylon » vous ouvre les portes de leurs loges !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/09/huge-a6369ecc3310991e39c8983e1909638a.jpg"
     }
   ]
 }
