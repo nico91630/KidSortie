@@ -1,10 +1,11 @@
 import fs from 'node:fs/promises';
 
-const ids = (process.env.OPENAGENDA_AGENDAS || '').split(',').map(s => s.trim()).filter(Boolean);
+const configuredIds = (process.env.OPENAGENDA_AGENDAS || '').split(',').map(s => s.trim()).filter(Boolean);
+const ids = new Set(configuredIds);
 const key = process.env.OPENAGENDA_API_KEY || '';
 const center = [48.611, 2.305]; // Brétigny-sur-Orge
 const now = Date.now();
-const maximumPages = 10;
+const maximumPages = 3;
 const count = { received: 0, withoutCoordinates: 0, outsideRadius: 0, withoutTitle: 0, withoutTiming: 0, past: 0, notFamily: 0, retained: 0 };
 const kilometers = (lat, lon) => {
   const p = Math.PI / 180;
@@ -12,15 +13,30 @@ const kilometers = (lat, lon) => {
   return 12742 * Math.asin(Math.sqrt(a));
 };
 const localized = val => typeof val === 'string' ? val : (val?.fr || val?.en || Object.values(val || {})[0] || '');
-if (!key || !ids.length) {
+if (!key) {
   console.error('Configuration incomplète : OPENAGENDA_API_KEY et OPENAGENDA_AGENDAS sont nécessaires.');
   process.exit(1);
 }
-let oldEvents = [];
-try { oldEvents = JSON.parse(await fs.readFile('data/events.json', 'utf8')).events || []; } catch {}
+// Discover local public agendas automatically using the existing API key.
+const searches = ['Essonne', 'Brétigny', 'Arpajon', 'Sainte-Geneviève-des-Bois', 'Massy', 'Évry', 'Palaiseau', 'Dourdan', 'Étampes', 'Savigny-sur-Orge', 'Longjumeau'];
+let discovered = 0;
+for (const term of searches) {
+  try {
+    const url = new URL('https://api.openagenda.com/v2/agendas');
+    url.searchParams.set('key', key);
+    url.searchParams.set('search', term);
+    url.searchParams.set('size', '30');
+    const response = await fetch(url, {signal: AbortSignal.timeout(20000)});
+    if (!response.ok) throw Error('HTTP '+response.status);
+    const body = await response.json();
+    for (const agenda of body.agendas || []) if (agenda.uid) { ids.add(String(agenda.uid)); discovered++; }
+    console.log('Recherche '+term+' : '+(body.agendas || []).length+' agendas trouvés');
+  } catch (e) { console.warn('Découverte '+term+' : '+e.message); }
+}
+console.log('Agendas distincts à explorer : '+ids.size+' ('+discovered+' résultats de recherche)');
 const collected = [];
 let success = 0;
-for (const id of ids) {
+for (const id of [...ids].slice(0, 100)) {
   console.log('--- Agenda ' + id + ' ---');
   const startReceived = count.received;
   try {
