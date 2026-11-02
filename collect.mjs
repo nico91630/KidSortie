@@ -80,6 +80,9 @@ for (const id of [...ids].slice(0, 45)) {
             title, start, end, city: place.city || 'Essonne', lat, lon, category,
             minAge: event.age?.min ?? null, maxAge: event.age?.max ?? null,
             price: null,
+            description: String(description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim().slice(0, 1400),
+            image: event.image?.base || event.image?.url || event.image?.filename && ('https://cdn.openagenda.com/main/' + event.image.filename) || null,
+            source: 'OpenAgenda · agenda ' + id,
             url: event.canonicalUrl || 'https://openagenda.com/fr/agendas/' + encodeURIComponent(id) + '/events/' + encodeURIComponent(event.uid)
           });
           count.retained++;
