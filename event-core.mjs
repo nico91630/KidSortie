@@ -66,6 +66,8 @@ export function filterEvents(events,{q='',category='all',ages=[],price='all',rad
   if(ages.length&&!(e.minAge==null&&e.maxAge==null)&&!ages.some(age=>Number(age)>=Number(e.minAge??0)&&Number(age)<=Number(e.maxAge??99)))return false;
   return e.dates?.some(d=>periodAllowed(d.start,period,now))??periodAllowed(e.start,period,now)
  });
- list.sort((a,b)=>sort==='distance'?distanceKm(a)-distanceKm(b)||Date.parse(a.start)-Date.parse(b.start):sort==='relevance'?relevanceScore(b)-relevanceScore(a)||distanceKm(a)-distanceKm(b):relevanceScore(b)-relevanceScore(a)||Date.parse(a.start)-Date.parse(b.start)||distanceKm(a)-distanceKm(b));
+ // Classement chronologique du fil : prochaine séance à venir pour chaque événement.
+ const nextDate=e=>{const future=(e.dates||[]).map(d=>Date.parse(d.start)).filter(t=>Number.isFinite(t)&&t>=now.getTime()).sort((a,b)=>a-b);return future[0]??Date.parse(e.start)};
+ list.sort((a,b)=>sort==='distance'?distanceKm(a)-distanceKm(b)||nextDate(a)-nextDate(b):sort==='relevance'?relevanceScore(b)-relevanceScore(a)||nextDate(a)-nextDate(b):nextDate(a)-nextDate(b)||distanceKm(a)-distanceKm(b));
  return list;
 }
