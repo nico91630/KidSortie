@@ -1,0 +1,8 @@
+{
+  "name": "kidsorties",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node collect.mjs"
+  }
+}
