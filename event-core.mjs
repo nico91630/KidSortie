@@ -36,7 +36,7 @@ export function periodAllowed(start,period,now=new Date()){
 }
 // Classement éditorial automatique : une sortie vécue prime sur une annonce ou un événement généraliste.
 const unwanted=/\b(?:preinscription|inscription(?:s)? ouverte(?:s)?|recrutement|appel a candidature|portes ouvertes? (?:des ecoles|scolaires)|sejours? (?:hiver|printemps|ete|vacances) 20\d\d|conference|colloque|webinaire|reunion d information|assemblee generale|vente de livres|don du sang|afterwork|formation professionnelle|ph[eè]dre|trag[eé]die classique)\b/;
-const kidActivity=/\b(?:spectacle(?:s)? (?:pour enfants?|jeune public)|jeune public|marionnette|cirque|magie|chasse au tresor|jeu de piste|atelier(?:s)? (?:creatif|ludique|enfant|famill)|ferme pedagogique|parc animalier|conte(?:s)? pour enfants?|animation(?:s)? (?:pour enfants?|familial)|ludotheque|escape game|parcours aventure|visite ludique|bebe(?:s)?|tout petits?)\b/;
+const kidActivity=/\b(?:fete foraine|fetes foraines|manege|maneges|carrousel|kermesse|fete de village|fete communale|fete des enfants|village des enfants|chateau gonflable|parc d attractions|animation pour enfants|spectacle(?:s)? (?:pour enfants?|jeune public)|jeune public|marionnette|cirque|magie|chasse au tresor|jeu de piste|atelier(?:s)? (?:creatif|ludique|enfant|famill)|ferme pedagogique|parc animalier|conte(?:s)? pour enfants?|animation(?:s)? (?:pour enfants?|familial)|ludotheque|escape game|parcours aventure|visite ludique|bebe(?:s)?|tout petits?)\b/;
 export function relevanceScore(e){
  const title=normalize(e.title),v=normalize([e.title,e.description].join(' '));let score=0;
  if(unwanted.test(title))score-=30;
