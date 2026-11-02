@@ -7,7 +7,11 @@ const signals=[
  /\bmarionnettes?\b/,/\bcontes? pour enfants?\b/,/\bspectacle(?:s)? (?:pour enfants?|jeune public|familial)\b/,
  /\bateliers? (?:pour enfants?|parents?[- ]enfants?|famille)\b/,/\beveil (?:musical|artistique|corporel)\b/,
  /\bludotheque\b/,/\bparc de loisirs\b/,/\bferme pedagogique\b/,/\bchasse au tresor\b/,
- /\bsorties? en famille\b/,/\bcomedie musicale pour enfants?\b/
+ /\bsorties? en famille\b/,/\bcomedie musicale pour enfants?\b/,
+ /\baires? de jeux\b/,/\bjeux? de piste\b/,/\bchasse au tresor\b/,/\brandoland\b/,/\bbaludik\b/,
+ /\bparcours ludique\b/,/\bpromenade ludique\b/,/\bsentier pedagogique\b/,/\bfermes? pedagogiques?\b/,
+ /\bjeux? pour enfants?\b/,/\bparcours? des petits\b/,/\binitiation pour enfants?\b/,
+ /\batelier parents?[- ]enfants?\b/,/\bactivites? familiales?\b/,/\bvisite ludique\b/
 ];
 const adult=[
  /\breserve aux adultes\b/,/\binterdit aux mineurs\b/,/\bpublic adulte\b/,
