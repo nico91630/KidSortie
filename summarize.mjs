@@ -15,7 +15,7 @@ const files = ['data/events.json','data/paris.json'];
 const cacheFile = 'data/summary-cache.json';
 let cache = {};
 try { cache = JSON.parse(await fs.readFile(cacheFile,'utf8')); } catch {}
-const normalize = x => String(x || '').replace(/<[^>]*>/g,' ').replace(/\\s+/g,' ').trim();
+const normalize = x => String(x || '').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 const signature = e => createHash('sha256').update([e.title,normalize(e.description)].join('|')).digest('hex');
 let errorCount = 0;
 for (const path of files) {
@@ -41,7 +41,7 @@ for (const path of files) {
       'Titre : ' + normalize(e.title),
       'Ville : ' + normalize(e.city),
       'Description fournie par l’organisateur : ' + description.slice(0,1800)
-    ].join('\\n');
+    ].join('\n');
     try {
       const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(model)+':generateContent',{
         method:'POST',
@@ -63,7 +63,7 @@ for (const path of files) {
       if (errorCount >= 3) break;
     }
   }
-  if (changed) await fs.writeFile(path,JSON.stringify(doc,null,2)+'\\n');
+  if (changed) await fs.writeFile(path,JSON.stringify(doc,null,2)+'\n');
 }
-await fs.writeFile(cacheFile,JSON.stringify(cache,null,2)+'\\n');
+await fs.writeFile(cacheFile,JSON.stringify(cache,null,2)+'\n');
 console.log('Résumés IA créés : '+generated+' ; erreurs : '+errorCount);
