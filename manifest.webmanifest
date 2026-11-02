@@ -1,0 +1,21 @@
+{
+  "id": "/KidSortie/",
+  "name": "KidSorties — sorties enfants",
+  "short_name": "KidSorties",
+  "description": "Sorties et spectacles pour enfants autour de Brétigny-sur-Orge",
+  "start_url": "/KidSortie/",
+  "scope": "/KidSortie/",
+  "display": "standalone",
+  "background_color": "#10121d",
+  "theme_color": "#121421",
+  "lang": "fr",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/kidsorties.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
