@@ -129,7 +129,7 @@ const PHOTO_COVERS={
  event:'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=600&q=75'
 };
 function coverTheme(e){
- const n=String([e.title,e.description,e.category,...(e.keywords||[])].join(' ')).toLocaleLowerCase('fr').normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+ const n=String([e.title,e.description,e.category,...(e.keywords||[])].join(' ')).toLocaleLowerCase('fr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
  if(/fete foraine|manege|carrousel|attraction|kermesse|grande roue/.test(n))return 'fair';
  if(/ferme|animal|chevre|mouton|zoo|poney/.test(n))return 'animals';
  if(/atelier|creatif|peinture|bricolage|dessin/.test(n))return 'workshop';
