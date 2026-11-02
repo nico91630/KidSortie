@@ -177,14 +177,14 @@ async function renderMap(list){
  }catch(err){panel.replaceChildren();panel.append(el('div','map-fallback','Carte indisponible sans connexion. Utilisez le fil des sorties.'));console.warn(err)}
 }
 async function loadOutings(){
- const names=['./data/events.json','./data/paris.json'];
+ const names=['./data/events.json','./data/paris.json','./data/essonne.json'];
  const responses=await Promise.allSettled(names.map(async path=>{
    const response=await fetch(path+'?version=20261102c&ts='+Date.now(),{cache:'no-store'});
    if(!response.ok)throw Error(path+' : HTTP '+response.status);
    return await response.json();
  }));
  const loaded=responses.filter(r=>r.status==='fulfilled').flatMap(r=>r.value.events||[]);
- const failed=responses.filter(r=>r.status==='rejected').map(r=>String(r.reason?.message||r.reason));
+ const failed=responses.filter((r,i)=>r.status==='rejected'&&i<2).map(r=>String(r.reason?.message||r.reason));
  const live=loaded.filter(e=>e.title&&e.start&&safeUrl(e.url)&&Date.parse(e.end||e.start)>=Date.now()-86400000);
  const family=live.filter(familyEligible);
  events=eventCore.groupEvents(family);migrateFavorites();try{const pr=await fetch('./data/places.json?v=1',{cache:'no-store'});if(pr.ok){const pj=await pr.json();places=(pj.places||[]).filter(p=>p.kind==='place'&&safeUrl(p.url)&&Number.isFinite(eventCore.distanceKm(p))&&eventCore.distanceKm(p)<=40)}renderLocalPreview();}catch(err){console.warn('Catalogue de sorties permanentes indisponible',err)}
