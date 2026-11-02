@@ -5,6 +5,7 @@ on:
     paths:
       - 'collect.mjs'
       - 'collect-paris.mjs'
+      - 'summarize.mjs'
       - '.github/workflows/collect.yml'
   schedule:
     - cron: '17 */6 * * *'
@@ -27,9 +28,13 @@ jobs:
       - name: Collecte spectacles Paris Data
         run: node collect-paris.mjs
         continue-on-error: true
+      - name: Créer les résumés IA (si configuré)
+        run: node summarize.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: Enregistrer les événements
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/events.json data/paris.json
+          git add data/events.json data/paris.json data/summary-cache.json
           git diff --cached --quiet || (git commit -m 'Actualisation des sorties' && git push)
