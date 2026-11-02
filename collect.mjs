@@ -5,7 +5,7 @@ const ids = new Set(configuredIds);
 const key = process.env.OPENAGENDA_API_KEY || '';
 const center = [48.611, 2.305]; // Brétigny-sur-Orge
 const now = Date.now();
-const maximumPages = 3;
+const maximumPages = 2;
 const count = { received: 0, withoutCoordinates: 0, outsideRadius: 0, withoutTitle: 0, withoutTiming: 0, past: 0, notFamily: 0, retained: 0 };
 const kilometers = (lat, lon) => {
   const p = Math.PI / 180;
@@ -36,7 +36,7 @@ for (const term of searches) {
 console.log('Agendas distincts à explorer : '+ids.size+' ('+discovered+' résultats de recherche)');
 const collected = [];
 let success = 0;
-for (const id of [...ids].slice(0, 100)) {
+for (const id of [...ids].slice(0, 45)) {
   console.log('--- Agenda ' + id + ' ---');
   const startReceived = count.received;
   try {
@@ -93,8 +93,8 @@ for (const id of [...ids].slice(0, 100)) {
   console.log('Agenda ' + id + ' : ' + (count.received - startReceived) + ' événements lus');
 }
 console.log('Bilan détaillé : ' + JSON.stringify(count));
-if (!success) {
-  console.error('Aucun agenda accessible : conservation du fichier existant.');
+if (!success || count.received === 0) {
+  console.error('Aucun événement reçu des sources : conservation du fichier existant.');
   process.exit(1);
 }
 const fresh = collected.filter(e => Date.parse(e.end || e.start) >= now);
