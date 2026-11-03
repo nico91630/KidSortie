@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:10:39.090Z",
+  "updatedAt": "2026-11-03T19:14:36.190Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -21,40 +21,6 @@
       "aiSummary": "Découvrez une exposition hommage dédiée au célèbre auteur et illustrateur jeunesse Philippe Corentin. Les enfants pourront admirer son univers artistique singulier à travers ses histoires drôles et attachantes. Cette sortie culturelle à Paris ravira les petits et grands amateurs de ses albums incontournables."
     },
     {
-      "title": "Le Ballon de Paris",
-      "start": "2026-11-03T09:00:00+02:00",
-      "end": "2026-11-03T20:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.843422,
-      "lon": 2.274664,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://ballondeparis.com/infos-pratiques",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Ballon Generali de Paris a (enfin) réouvert, rendez-vous au parc André Citroën pour admirer la capitale de haut !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/04/17/huge-738c5e0115daf6058aac67460385f4f7.jpg"
-    },
-    {
-      "title": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
-      "start": "2026-11-03T09:00:00+02:00",
-      "end": "2026-11-03T21:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.84156,
-      "lon": 2.411535,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-portraits-de-resistantes-memoire-et-liberte-au-centre-paris-anim-maurice-ravel-126017",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Du 3 au 26 novembre, la galerie du CPA Maurice Ravel accueille une nouvelle exposition : Portraits de Résistantes, Mémoire et Liberté de Katia Odartchenko et Maria Reyes, avec les participations de Maria Luisa Muller et de Federica Matta.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-6f1e144805dc19d7b714a4c5a5acc53e.jpg"
-    },
-    {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
       "start": "2026-11-03T09:30:00+02:00",
       "end": "2026-11-03T23:30:00+02:00",
@@ -69,126 +35,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
-    },
-    {
-      "title": "Stan Douglas. Parallax",
-      "start": "2026-11-03T11:00:00+02:00",
-      "end": "2026-11-03T21:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8659869827637,
-      "lon": 2.3232000331968,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://jeudepaume.org/evenement/stan-douglas/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Depuis la fin des années 1980, Stan Douglas développe une œuvre ambitieuse qui interroge la manière dont l’histoire se construit, se représente et se transmet. À travers des dispositifs narratifs complexes, il met en lumière les mécanismes par lesquels les images façonnent notre perception du réel et révèlen",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-ed62c58fbbd75241e247eb4753d2bce7.jpg"
-    },
-    {
-      "title": "Ateliers Mordus du manga à la bibliothèque Claire Bretécher",
-      "start": "2026-11-03T18:00:00+02:00",
-      "end": "2026-11-03T19:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.869387,
-      "lon": 2.360108,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mordus-du-manga-a-la-bibliotheque-claire-bretecher-90321",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Retrouvez-nous pour 4 animations spécial Japon!",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/12/huge-a57a8f8e255ffe695959545d2f3bc22b.jpg"
-    },
-    {
-      "title": "Paris Sportives : Boxe thaï / Muay Boxing avec l'association MuayBoxing75",
-      "start": "2026-11-03T18:00:00+02:00",
-      "end": "2026-11-03T20:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8658390002632,
-      "lon": 2.38621702528849,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sportives-boxe-thai-au-centre-sportif-angelique-duchemin-81444",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une séance hebdomadaire de boxe thaïlandaise ouverte aux adolescents dès 14 ans et aux adultes, pour apprendre, progresser et se dépasser dans un cadre dynamique et accessible.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-7a54e7be61474eacf645a10190fd5e10.jpg"
-    },
-    {
-      "title": "Le Cid Pète Un Câble",
-      "start": "2026-11-03T19:00:00+02:00",
-      "end": "2026-11-03T20:20:00+02:00",
-      "city": "Paris",
-      "lat": 48.8825109828648,
-      "lon": 2.32142600338972,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
-    },
-    {
-      "title": "Paris Sportives : Rugby par le Rugby Club Paris 15",
-      "start": "2026-11-03T19:00:00+02:00",
-      "end": "2026-11-03T20:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.833071,
-      "lon": 2.276576,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sportives-rugby-au-centre-sportif-suzanne-lenglen-82764",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des entraînements de rugby pour les adolescentes et les femmes adultes, dans un esprit de progression, de cohésion et de convivialité au cœur du 15e arrondissement.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/04/28/huge-0ce485012aafee319de8af80e09b39f3.png"
-    },
-    {
-      "title": "Ix : variations - Marcos Caramés-Blanco et Sacha Starck",
-      "start": "2026-11-03T19:00:00+02:00",
-      "end": "2026-11-03T20:10:00+02:00",
-      "city": "Paris",
-      "lat": 48.855907,
-      "lon": 2.375347,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.theatre-bastille.com/spectacle?id_spectacle=551",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ix : variations vient éclairer, depuis l’enfance et l’adolescence, l’existence d’un personnage intersexe qui doit se construire au sein de notre société discriminante.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-d9882cdc77a34d25f7d892067730c2a0.jpg"
-    },
-    {
-      "title": "Sofia Belabbes dans Ketchup mayo, nouvelle édition",
-      "start": "2026-11-03T19:00:00+02:00",
-      "end": "2026-11-03T20:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.870710017565,
-      "lon": 2.35672596951795,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie-lesplendid.tickandlive.com/evenement/sofia-belabbes-ketchup-mayo-nouvelle-version",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Révélée sur les réseaux sociaux avec des centaines de milliers d'abonnés, Sofia Belabbes s'impose comme une figure montante de l'humour français. Originaire de Perpignan, elle revient dans sa ville avec « Ketchup Mayo », un spectacle en tournée dans toute la France.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-e070e159d577a3a401b814483cff895b.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Quelle place pour les artistes femmes et queer sur la scène des Musiques Actuelles ?",
@@ -206,74 +54,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Début de saison culturelle 2026-2027, avec nos prochaines Rencontres Fem'Artistik Queer, le mardi 03 novembre au Point Ephémère Paris. Table-ronde, projection court-métrage documentaire et concert ! Tu viens ?",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/24/huge-d4edc036cf0656375bf2d964194bb539.png"
-    },
-    {
-      "title": "Atelier d'écriture du mardi 3 novembre de 19h à 20h",
-      "start": "2026-11-03T19:00:00+02:00",
-      "end": "2026-11-03T21:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.873432,
-      "lon": 2.340437,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-d-ecriture-106436",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Développer votre créativité et votre goût de l'écriture auprès de bibliothécaires",
-      "image": "https://cdn.paris.fr/qfapv4/2025/04/16/huge-9078afce2567624bf130be1abe05e732.jpg"
-    },
-    {
-      "title": "Très chair corps",
-      "start": "2026-11-03T19:15:00+02:00",
-      "end": "2026-11-03T20:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.8859380077971,
-      "lon": 2.39320803545098,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.theatredariusmilhaud.fr/spectacles-tout-public/tres-chair-corps/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Quels rapports avons-nous au corps, le nôtre, celui des autres ? Très chair corps explore ce lien indéfectible, complexe et ambigu.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/26/huge-f278dacd2521a86a7a77584bf4cf6e78.jpg"
-    },
-    {
-      "title": "Le Bruit des Mouches - Compagnie La Page du Phenix",
-      "start": "2026-11-03T19:30:00+02:00",
-      "end": "2026-11-03T20:40:00+02:00",
-      "city": "Paris",
-      "lat": 48.8872449979592,
-      "lon": 2.33453697633675,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.billetreduc.com/spectacle/le-bruit-des-mouches-408241",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Découvrez ce thriller comique déjanté au théâtre Montmartre Galabru tous les mardis à 19h30 du 15 Septembre au 1er Décembre !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-fdd1350e4a217a41ce4c745103c7afa1.jpg"
-    },
-    {
-      "title": "24 Place Beaumarchais",
-      "start": "2026-11-03T19:30:00+02:00",
-      "end": "2026-11-03T20:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.8674259879009,
-      "lon": 2.31892802860537,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229902386949",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Comment se construire quand tout, autour de soi, semble déjà avoir décidé de la place qu’on occupera ? Brahim Koutari porte à la scène un récit intime et politique, né de son parcours d’enfant d’Échirolles devenu acteur. Une trajectoire singulière, traversée par les contrôles policiers, les assignations sociales, les r",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/06/huge-5b1fd8db9b2ec43cf949eb7437e88f7f.jpg"
     },
     {
       "title": "Le premier homme",
@@ -579,7 +359,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -905,23 +686,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
-      "title": "Des livres et des biberons",
-      "start": "2026-11-04T10:00:00+02:00",
-      "end": "2026-11-04T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.851596,
-      "lon": 2.38396,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/des-livres-et-des-biberons-113764",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Prenez rendez-vous pour un temps de lecture consacré aux tout-petits !",
-      "image": "https://cdn.paris.fr/qfapv4/2023/12/26/huge-5f6b12b9ed6c97025d6bf67206b38d81.jpg"
-    },
-    {
       "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
       "start": "2026-11-04T10:00:00+02:00",
       "end": "2026-11-04T17:30:00+02:00",
@@ -937,6 +701,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
+      "title": "Des livres et des biberons",
+      "start": "2026-11-04T10:00:00+02:00",
+      "end": "2026-11-04T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.851596,
+      "lon": 2.38396,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/des-livres-et-des-biberons-113764",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Prenez rendez-vous pour un temps de lecture consacré aux tout-petits !",
+      "image": "https://cdn.paris.fr/qfapv4/2023/12/26/huge-5f6b12b9ed6c97025d6bf67206b38d81.jpg"
     },
     {
       "title": "Expo « Chiens et chats » à la Cité des sciences",
@@ -1075,23 +856,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg"
     },
     {
-      "title": "musée d'art et d'histoire du Judaïsme",
-      "start": "2026-11-04T11:00:00+02:00",
-      "end": "2026-11-04T21:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8610102,
-      "lon": 2.3556112,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://mahj.tickeasy.com/fr-FR/produits?famille=2132834270070400042",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Exposition d'une centaine de dessins à l'encre extraite d’une monumentale œuvre dessinée sur l’Occupation à Bruxelles, constituée de plus de cinq mille dessins de Chaïm-Charles Kaliski (1929-2015), être singulier dont l’existence fut à jamais marquée par la Shoah.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
-    },
-    {
       "title": "Petit sculpteur à quatre mains",
       "start": "2026-11-04T11:00:00+02:00",
       "end": "2026-11-04T12:30:00+02:00",
@@ -1107,6 +871,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Suite à une visite contée, petits et grands sont invités à réaliser un modelage en terre, en écho avec l’œuvre de Bourdelle.",
       "image": "https://cdn.paris.fr/qfapv4/2023/05/04/huge-fcc1c5a4705d6857dd135f9bb7985936.jpg"
+    },
+    {
+      "title": "musée d'art et d'histoire du Judaïsme",
+      "start": "2026-11-04T11:00:00+02:00",
+      "end": "2026-11-04T21:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8610102,
+      "lon": 2.3556112,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://mahj.tickeasy.com/fr-FR/produits?famille=2132834270070400042",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Exposition d'une centaine de dessins à l'encre extraite d’une monumentale œuvre dessinée sur l’Occupation à Bruxelles, constituée de plus de cinq mille dessins de Chaïm-Charles Kaliski (1929-2015), être singulier dont l’existence fut à jamais marquée par la Shoah.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
       "title": "Rafael Pavarotti, photographe",
@@ -1228,23 +1009,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
-      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
-      "start": "2026-11-04T12:00:00+02:00",
-      "end": "2026-11-04T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8401410071366,
-      "lon": 2.35418097225678,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://studio-dmt.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
-    },
-    {
       "title": "Ce qui nous restera",
       "start": "2026-11-04T12:00:00+02:00",
       "end": "2026-11-04T19:00:00+02:00",
@@ -1260,6 +1024,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
+    },
+    {
+      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
+      "start": "2026-11-04T12:00:00+02:00",
+      "end": "2026-11-04T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8401410071366,
+      "lon": 2.35418097225678,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://studio-dmt.fr/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
     },
     {
       "title": "Jules Verne, le voyage extraordinaire",
@@ -1534,6 +1315,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     },
     {
+      "title": "La Maison des Petits au CentQuatre",
+      "start": "2026-11-04T14:30:00+02:00",
+      "end": "2026-11-04T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.889982,
+      "lon": 2.37143379999998,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-des-petits-au-centquatre-124890",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg"
+    },
+    {
       "title": "Un atelier frise animalière avec Capucine Mazille \"",
       "start": "2026-11-04T14:30:00+02:00",
       "end": "2026-11-04T16:00:00+02:00",
@@ -1566,23 +1364,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
-    },
-    {
-      "title": "La Maison des Petits au CentQuatre",
-      "start": "2026-11-04T14:30:00+02:00",
-      "end": "2026-11-04T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.889982,
-      "lon": 2.37143379999998,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-des-petits-au-centquatre-124890",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg"
     },
     {
       "title": "Une heure entière dans les histoires",
@@ -2197,23 +1978,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/21/huge-aef78829c027f16aff66d51e516142e5.png"
     },
     {
-      "title": "Spectacle : Portrait hypothétique de deux tueurs en série",
-      "start": "2026-11-05T00:00:00+00:00",
-      "end": "2026-11-07T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.8569999899981,
-      "lon": 2.36431704012878,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://programmation.maifsocialclub.fr/evenements/portrait-hypothetique-de-deux-tueurs-en-serie/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Inspirée d’un fait divers réel, la pièce de Yacine Sif El Islam mêle archives, fiction et autofiction pour dresser le portrait fragmenté de corps abîmés par le racisme, la domination sociale et les violences intimes.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-55278a68a682be4ee5f055b83b9d2a46.png"
-    },
-    {
       "title": "The Maker (Le Créateur ) : Dan Colley / Manus Halligan / Raymond Keane",
       "start": "2026-11-05T00:00:00+00:00",
       "end": "2026-11-08T23:59:59+00:00",
@@ -2229,6 +1993,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Burlesque et sans paroles, un duo de clowns métaphysiques parfaitement Beckettien. Première en France.",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/16/huge-9b57c0f0728a45de709fb747ef234711.jpg"
+    },
+    {
+      "title": "Spectacle : Portrait hypothétique de deux tueurs en série",
+      "start": "2026-11-05T00:00:00+00:00",
+      "end": "2026-11-07T23:59:59+00:00",
+      "city": "Paris",
+      "lat": 48.8569999899981,
+      "lon": 2.36431704012878,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://programmation.maifsocialclub.fr/evenements/portrait-hypothetique-de-deux-tueurs-en-serie/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Inspirée d’un fait divers réel, la pièce de Yacine Sif El Islam mêle archives, fiction et autofiction pour dresser le portrait fragmenté de corps abîmés par le racisme, la domination sociale et les violences intimes.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-55278a68a682be4ee5f055b83b9d2a46.png"
     },
     {
       "title": "Théâtre le Funambule Montmartre",
@@ -2330,7 +2111,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -2588,23 +2370,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2025/03/07/huge-ad5059ef7eff7ed6c7c375225ec6d24c.png"
     },
     {
-      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
-      "start": "2026-11-05T10:00:00+02:00",
-      "end": "2026-11-05T11:00:00+02:00",
-      "city": "Montreuil",
-      "lat": 48.8625910127827,
-      "lon": 2.44165702836665,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatrepublicmontreuil.com/olalaland",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
-    },
-    {
       "title": "Magie",
       "start": "2026-11-05T10:00:00+02:00",
       "end": "2026-11-05T19:00:00+02:00",
@@ -2620,6 +2385,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Entre surprise et émerveillement, l’exposition temporaire Magie n’a pas fini de vous questionner et fasciner ! Comment la magie contemporaine puise-t-elle son inspiration dans les sciences et les techniques ? Comment nous convainc-elle de l'impossible ? Comment peut-elle aiguiser notre sens critique ? La Cité des scien",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
+    },
+    {
+      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
+      "start": "2026-11-05T10:00:00+02:00",
+      "end": "2026-11-05T11:00:00+02:00",
+      "city": "Montreuil",
+      "lat": 48.8625910127827,
+      "lon": 2.44165702836665,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://theatrepublicmontreuil.com/olalaland",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
     },
     {
       "title": "Georges Perec modes d'emploi",
@@ -3285,23 +3067,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-546c0bbce2dcbdb548b94b5e2673447e.png"
     },
     {
-      "title": "BiblioCréation à Paris 18 : quand les livres ouvrent la voie à l’écriture et à la rencontre",
-      "start": "2026-11-05T19:00:00+02:00",
-      "end": "2026-11-05T20:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8940309867701,
-      "lon": 2.34317201298811,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/bibliocreation-a-paris-18-quand-les-livres-ouvrent-la-voie-a-l-ecriture-et-a-la-rencontre-113360",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Et si la lecture devenait un point de départ plutôt qu’une fin ? BiblioCréation propose une expérience originale de bibliothérapie créative où les mots, les émotions et l’imaginaire se rencontrent. À travers des extraits littéraires, des temps d’écriture et de partage, offrez-vous une parenthèse hors du temps entre cul",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-b68d710f26cbabb0ed68bdf21eb82599.jpeg"
-    },
-    {
       "title": "Le Branleur, les aventures d’Edgar Hilsenrath de François‑Xavier Destors",
       "start": "2026-11-05T19:00:00+02:00",
       "end": "2026-11-05T21:00:00+02:00",
@@ -3317,6 +3082,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "AVANT-PREMIÈRE Dans le cadre du Mois du film documentaire France, documentaire, 52 min, Solent Production, Saule Production, Les films de la mémoire, Ma.ja.de, 2026.",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-a3848e612f07ca0c6423a7fd93f9e677.png"
+    },
+    {
+      "title": "BiblioCréation à Paris 18 : quand les livres ouvrent la voie à l’écriture et à la rencontre",
+      "start": "2026-11-05T19:00:00+02:00",
+      "end": "2026-11-05T20:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8940309867701,
+      "lon": 2.34317201298811,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/bibliocreation-a-paris-18-quand-les-livres-ouvrent-la-voie-a-l-ecriture-et-a-la-rencontre-113360",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Et si la lecture devenait un point de départ plutôt qu’une fin ? BiblioCréation propose une expérience originale de bibliothérapie créative où les mots, les émotions et l’imaginaire se rencontrent. À travers des extraits littéraires, des temps d’écriture et de partage, offrez-vous une parenthèse hors du temps entre cul",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-b68d710f26cbabb0ed68bdf21eb82599.jpeg"
     },
     {
       "title": "Paris Sportives : Rugby par le Rugby Club Paris 15",
@@ -3911,7 +3693,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -4220,23 +4003,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
-      "title": "Formation au conte et aux arts du récit : l'Atelier mensuel du vendredi",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T17:00:00+02:00",
-      "city": "Paris 20",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://lavagabonde.eu/les-evenements/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plutôt qu’un cours, un laboratoire, un espace où essayer Plutôt qu’une professeure, une provocatrice une initiatrice de jeu.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-f6d296f54161c73804428a367f62f075.jpg"
-    },
-    {
       "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T17:30:00+02:00",
@@ -4252,6 +4018,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
+      "title": "Formation au conte et aux arts du récit : l'Atelier mensuel du vendredi",
+      "start": "2026-11-06T10:00:00+02:00",
+      "end": "2026-11-06T17:00:00+02:00",
+      "city": "Paris 20",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://lavagabonde.eu/les-evenements/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plutôt qu’un cours, un laboratoire, un espace où essayer Plutôt qu’une professeure, une provocatrice une initiatrice de jeu.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-f6d296f54161c73804428a367f62f075.jpg"
     },
     {
       "title": "Expo « Chiens et chats » à la Cité des sciences",
@@ -4866,23 +4649,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png"
     },
     {
-      "title": "Darkness Picnic • DOM-",
-      "start": "2026-11-06T19:00:00+02:00",
-      "end": "2026-11-06T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.867741,
-      "lon": 2.377855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
-    },
-    {
       "title": "IMPRO!",
       "start": "2026-11-06T19:00:00+02:00",
       "end": "2026-11-06T20:10:00+02:00",
@@ -4898,6 +4664,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Accompagné·es de musique live, les comédien·nes improvisent sur vos propositions !",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/12/huge-c5976b6be6521c7e82fe43d157e3d61f.jpg"
+    },
+    {
+      "title": "Darkness Picnic • DOM-",
+      "start": "2026-11-06T19:00:00+02:00",
+      "end": "2026-11-06T22:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.867741,
+      "lon": 2.377855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
     },
     {
       "title": "Ils divorcèrent pour le meilleur et pour le pire !",
@@ -5815,7 +5598,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Les Samedis en Famille · Crèche Villiot",
@@ -5971,6 +5755,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-11-07T09:30:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Bichat",
       "start": "2026-11-07T09:30:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -6020,23 +5821,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
-    },
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-07T09:30:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -6226,23 +6010,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-ad82a2998680bb3cd228a0fe423a5de6.jpg"
     },
     {
-      "title": "Mon premier atelier santé environnement",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.822707,
-      "lon": 2.373421,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-du-49-massena-102065",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Disponible au centre de PMI 49 Masséna dans le 13ème.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg"
-    },
-    {
       "title": "Atelier Couture - Fabrication de livres en tissus",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T13:00:00+02:00",
@@ -6275,6 +6042,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Marcher ensemble pour apprendre à bien vivre ensemble !",
       "image": "https://cdn.paris.fr/qfapv4/2025/10/23/huge-f21c82bf030180933fb7687f99cde6be.jpg"
+    },
+    {
+      "title": "Mon premier atelier santé environnement",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.822707,
+      "lon": 2.373421,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-du-49-massena-102065",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Disponible au centre de PMI 49 Masséna dans le 13ème.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg"
     },
     {
       "title": "Gérer son budget familial grâce au tableur",
@@ -6345,23 +6129,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-623ca0ad491b0a6b06e13fdd4e158b9b.png"
     },
     {
-      "title": "Balades conviviales Paris & environs",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T13:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8414689939662,
-      "lon": 2.37324401846772,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://claje.aniapp.fr/activites/convivialite/sortie-famille-balade-dans-la-ville",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Marcher ensemble pour découvrir Paris et ses environs, mais surtout pour passer de bons moments ensemble !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-94032fd23516ba7753c9c545526ac59d.jpg"
-    },
-    {
       "title": "Fabrique ton masque ou ta couronne d'automne !",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -6377,6 +6144,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Drrring, c'est la rentrée ! Le moment de se parer de ses plus beaux atours made in nature !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-dedbc3b92c7253cdf2ee145dc9d98e23.png"
+    },
+    {
+      "title": "Balades conviviales Paris & environs",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T13:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8414689939662,
+      "lon": 2.37324401846772,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://claje.aniapp.fr/activites/convivialite/sortie-famille-balade-dans-la-ville",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Marcher ensemble pour découvrir Paris et ses environs, mais surtout pour passer de bons moments ensemble !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-94032fd23516ba7753c9c545526ac59d.jpg"
     },
     {
       "title": "La Maison de l'animal : toute la programmation",
@@ -6600,23 +6384,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg"
     },
     {
-      "title": "Visite-atelier Origami à l'Arc de triomphe",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8738452251745,
-      "lon": 2.29590512337051,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris-arc-de-triomphe.fr/agenda/visite-atelier-decors-en-origami",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Les voûtes et sculptures de l'Arc de triomphe sont ornées de fleurs et de couronnes de lauriers. Saurez-vous les reproduire ?",
-      "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-258377723749c8eeef4524c00bd7a097.png"
-    },
-    {
       "title": "Exposition & jeux : à la rencontre des animaux mal-aimés",
       "start": "2026-11-07T10:00:00+02:00",
       "end": "2026-11-07T17:30:00+02:00",
@@ -6632,6 +6399,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À la Maison de l’animal, les corneilles, rats, chauve-souris, renards et autres créatures mal-aimées prennent leur revanche ! Une expo ludique et instructive pour bousculer les idées reçues et s’amuser en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg"
+    },
+    {
+      "title": "Visite-atelier Origami à l'Arc de triomphe",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8738452251745,
+      "lon": 2.29590512337051,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris-arc-de-triomphe.fr/agenda/visite-atelier-decors-en-origami",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les voûtes et sculptures de l'Arc de triomphe sont ornées de fleurs et de couronnes de lauriers. Saurez-vous les reproduire ?",
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-258377723749c8eeef4524c00bd7a097.png"
     },
     {
       "title": "Expo « Chiens et chats » à la Cité des sciences",
@@ -6923,23 +6707,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-096c286032364925e0fe652975ef9b46.jpg"
     },
     {
-      "title": "Performance dansée et contée",
-      "start": "2026-11-07T10:30:00+02:00",
-      "end": "2026-11-07T10:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.857995,
-      "lon": 2.308717,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/performance-dansee-et-contee-a-un-fil-108315",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À travers la dentelle, matière de pleins et de vides, se tissent des liens entre le danseur et le public, entre le passé et le présent, le réel et l’imaginaire… Petits et grands entrent dans la délicatesse et la poésie des dentelles, et s’inventent mille histoires visuelles et narratives.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/19/huge-bd11310fe1bfea32d0433a677138c810.jpg"
-    },
-    {
       "title": "L'Heure du cinéma : Le Moyen Âge au cinéma",
       "start": "2026-11-07T10:30:00+02:00",
       "end": "2026-11-07T11:30:00+02:00",
@@ -6972,6 +6739,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
+    },
+    {
+      "title": "Performance dansée et contée",
+      "start": "2026-11-07T10:30:00+02:00",
+      "end": "2026-11-07T10:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.857995,
+      "lon": 2.308717,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/performance-dansee-et-contee-a-un-fil-108315",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À travers la dentelle, matière de pleins et de vides, se tissent des liens entre le danseur et le public, entre le passé et le présent, le réel et l’imaginaire… Petits et grands entrent dans la délicatesse et la poésie des dentelles, et s’inventent mille histoires visuelles et narratives.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/19/huge-bd11310fe1bfea32d0433a677138c810.jpg"
     },
     {
       "title": "Atelier créatif - Initiation au trapilho",
@@ -7025,23 +6809,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2022/07/06/huge-d24a9747790d739dbc418a8be4aefe41.png"
     },
     {
-      "title": "Rafael Pavarotti, photographe",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8632139977362,
-      "lon": 2.33331598450118,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
-    },
-    {
       "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T12:30:00+02:00",
@@ -7057,6 +6824,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+    },
+    {
+      "title": "Rafael Pavarotti, photographe",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8632139977362,
+      "lon": 2.33331598450118,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
     },
     {
       "title": "Paris Sportives",
@@ -7161,23 +6945,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
     },
     {
-      "title": "Les racontinettes",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T11:20:00+02:00",
-      "city": "Paris",
-      "lat": 48.863702,
-      "lon": 2.359974,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/les-racontinettes-115556",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le rendez-vous pour lire en famille à la bibliothèque !",
-      "image": "https://cdn.paris.fr/qfapv4/2024/08/24/huge-45ebab9616f45c82476d9751827e7509.png"
-    },
-    {
       "title": "Samedi des tout-petits",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T11:45:00+02:00",
@@ -7193,6 +6960,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un temps de lecture pour les tout-petits et celles et ceux qui les accompagnent.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-7cbf683e295ea2cd56c1c40a64a637eb.jpg"
+    },
+    {
+      "title": "Les racontinettes",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T11:20:00+02:00",
+      "city": "Paris",
+      "lat": 48.863702,
+      "lon": 2.359974,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/les-racontinettes-115556",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le rendez-vous pour lire en famille à la bibliothèque !",
+      "image": "https://cdn.paris.fr/qfapv4/2024/08/24/huge-45ebab9616f45c82476d9751827e7509.png"
     },
     {
       "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
@@ -7229,23 +7013,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-b40b5c949044397746ad5f444ec01c77.png"
     },
     {
-      "title": "Heure du conte",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T11:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.860096,
-      "lon": 2.379035,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/les-bons-contes-font-les-bons-amis-123690",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Les bibliothécaires lisent des histoires, font découvrir des albums et des comptines…",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/19/huge-134854067d353dac1461765dbb5db79b.png"
-    },
-    {
       "title": "L'arbre d'Hippolène",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -7261,6 +7028,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "LIBRE ADAPTATION D’AYMERIC DE NADAILLAC ET KADER TAIBAOUI : “L’ARBRE SANS FIN” DE CLAUDE PONTI",
       "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-20bc337534f94f986d6f6fc625ee5580.jpg"
+    },
+    {
+      "title": "Heure du conte",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.860096,
+      "lon": 2.379035,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/les-bons-contes-font-les-bons-amis-123690",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les bibliothécaires lisent des histoires, font découvrir des albums et des comptines…",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/19/huge-134854067d353dac1461765dbb5db79b.png"
     },
     {
       "title": "Jean Marquis, arpenteur du quotidien. Photographies 1951-1983",
@@ -7348,23 +7132,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/29/huge-ca7a7325a86f8653f74f3b922055aed9.jpg"
     },
     {
-      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
-      "start": "2026-11-07T12:00:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8401410071366,
-      "lon": 2.35418097225678,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://studio-dmt.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
-    },
-    {
       "title": "Ce qui nous restera",
       "start": "2026-11-07T12:00:00+02:00",
       "end": "2026-11-07T19:00:00+02:00",
@@ -7382,21 +7149,21 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
     },
     {
-      "title": "Ouverture et ateliers - Ferme urbaine René-Binet",
-      "start": "2026-11-07T13:30:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
+      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
+      "start": "2026-11-07T12:00:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
       "city": "Paris",
-      "lat": 48.899404,
-      "lon": 2.338062,
-      "category": "Loisir",
+      "lat": 48.8401410071366,
+      "lon": 2.35418097225678,
+      "category": "Spectacle",
       "minAge": null,
       "maxAge": null,
       "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/equipements/jardin-rene-binet-2685",
+      "price": null,
+      "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
-      "description": "La ferme urbaine pédagogique est un outil de choix pour sensibiliser petits et grands à l’agriculture urbaine et au bien-être animal. Rendez-vous à la ferme René Binet tous les samedis pour en discuter !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/12/huge-0511f56df80b2035ecbd125267bc254e.jpg"
+      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
     },
     {
       "title": "Venez célébrer les 10 ans de LIMBO",
@@ -7705,23 +7472,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-bbe128e4df92bf5dbe61713c875ef9fd.jpeg"
     },
     {
-      "title": "Atelier de collage sur toile à Paris 20 (proche Nation)",
-      "start": "2026-11-07T14:30:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8577220071376,
-      "lon": 2.40521301627402,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/les-ateliers-du-point-bleu/evenements/atelier-collage-sur-toile-samedi-7-novembre-2026",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier de collage sur toile ou sur un format leporello selon l'envie. Le samedi 7 novembre à 14 h 30.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/30/huge-24bc77b9ef5fd1adc7ff289a9ac6daed.png"
-    },
-    {
       "title": "Bienvenue à la Cité des bébés",
       "start": "2026-11-07T14:30:00+02:00",
       "end": "2026-11-07T17:30:00+02:00",
@@ -7737,6 +7487,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
+    },
+    {
+      "title": "Atelier de collage sur toile à Paris 20 (proche Nation)",
+      "start": "2026-11-07T14:30:00+02:00",
+      "end": "2026-11-07T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8577220071376,
+      "lon": 2.40521301627402,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.helloasso.com/associations/les-ateliers-du-point-bleu/evenements/atelier-collage-sur-toile-samedi-7-novembre-2026",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier de collage sur toile ou sur un format leporello selon l'envie. Le samedi 7 novembre à 14 h 30.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/30/huge-24bc77b9ef5fd1adc7ff289a9ac6daed.png"
     },
     {
       "title": "Atelier créatif - Brico électro",
@@ -7773,23 +7540,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/10/18/huge-1a8b7c830c2c55ce53cc06e84f203703.jpg"
     },
     {
-      "title": "Augustin, Pirate des Indes",
-      "start": "2026-11-07T14:30:00+02:00",
-      "end": "2026-11-07T15:25:00+02:00",
-      "city": "Paris",
-      "lat": 48.86153598263,
-      "lon": 2.37471797614111,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
-    },
-    {
       "title": "La Maison des Petits au CentQuatre",
       "start": "2026-11-07T14:30:00+02:00",
       "end": "2026-11-07T18:00:00+02:00",
@@ -7805,6 +7555,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg"
+    },
+    {
+      "title": "Augustin, Pirate des Indes",
+      "start": "2026-11-07T14:30:00+02:00",
+      "end": "2026-11-07T15:25:00+02:00",
+      "city": "Paris",
+      "lat": 48.86153598263,
+      "lon": 2.37471797614111,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
     },
     {
       "title": "Ciné Relax UGC Ciné Cité Paris 19",
@@ -8147,23 +7914,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-2a342d3bc2a7aacf91251dc253f86d94.jpg"
     },
     {
-      "title": "Atelier de doublage",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.817383,
-      "lon": 2.359182,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mordus-du-manga-donnez-de-la-voix-112467",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plongez dans les coulisses du doublage et incarnez vos personnages préférés aux côtés du comédien professionnel Alexis Bourtereau.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/05/huge-4416729d2d4d7e6e3d495156dd6bb672.png"
-    },
-    {
       "title": "Projection à contre-courant",
       "start": "2026-11-07T15:00:00+02:00",
       "end": "2026-11-07T16:30:00+02:00",
@@ -8179,6 +7929,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Assistez à la projection de trois courts métrages pour découvrir que le hors champ est parfois plus révélateur que l'image.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/05/huge-df511e552d3aafc9f679318f37ba37fc.jpg"
+    },
+    {
+      "title": "Atelier de doublage",
+      "start": "2026-11-07T15:00:00+02:00",
+      "end": "2026-11-07T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.817383,
+      "lon": 2.359182,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/mordus-du-manga-donnez-de-la-voix-112467",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plongez dans les coulisses du doublage et incarnez vos personnages préférés aux côtés du comédien professionnel Alexis Bourtereau.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/05/huge-4416729d2d4d7e6e3d495156dd6bb672.png"
     },
     {
       "title": "Samedi réalité virtuelle",
@@ -8793,23 +8560,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-6b293077d8872bd109d0ec9417e23167.jpg"
     },
     {
-      "title": "Darkness Picnic • DOM-",
-      "start": "2026-11-07T19:00:00+02:00",
-      "end": "2026-11-07T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.867741,
-      "lon": 2.377855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
-    },
-    {
       "title": "IMPRO!",
       "start": "2026-11-07T19:00:00+02:00",
       "end": "2026-11-07T20:10:00+02:00",
@@ -8825,6 +8575,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Accompagné·es de musique live, les comédien·nes improvisent sur vos propositions !",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/12/huge-c5976b6be6521c7e82fe43d157e3d61f.jpg"
+    },
+    {
+      "title": "Darkness Picnic • DOM-",
+      "start": "2026-11-07T19:00:00+02:00",
+      "end": "2026-11-07T22:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.867741,
+      "lon": 2.377855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
     },
     {
       "title": "Ils divorcèrent pour le meilleur et pour le pire !",
@@ -9249,7 +9016,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -9337,23 +9105,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ed63875b6ceb2bfe19b94ae2858e04cb.jpg"
     },
     {
-      "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
-      "start": "2026-11-08T10:00:00+02:00",
-      "end": "2026-11-08T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.858585,
-      "lon": 2.381744,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ateliers en famille ludiques et bienveillants: Théâtre & émotions parent-enfant 4-8 ans Inscription à la séance 2025-2026 www.compagniemaya.com Renseignements: 06 12 96 65 98 / contact@compagniemaya.com",
-      "image": "https://cdn.paris.fr/qfapv4/2021/11/08/huge-85ab275ef26827a34b3c9574665b05e7.jpeg"
-    },
-    {
       "title": "Paris Sport Dimanches",
       "start": "2026-11-08T10:00:00+02:00",
       "end": "2026-11-08T12:00:00+02:00",
@@ -9369,6 +9120,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris Sport Dimanches, c'est l'occasion de pratiquer du sport gratuitement en extérieur, tous les dimanches matins, à 10H, dans les 4 coins de Paris.",
       "image": "https://cdn.paris.fr/qfapv4/2023/10/16/huge-9212d154e2a4c355163bf39ecc1f0142.jpg"
+    },
+    {
+      "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
+      "start": "2026-11-08T10:00:00+02:00",
+      "end": "2026-11-08T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.858585,
+      "lon": 2.381744,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ateliers en famille ludiques et bienveillants: Théâtre & émotions parent-enfant 4-8 ans Inscription à la séance 2025-2026 www.compagniemaya.com Renseignements: 06 12 96 65 98 / contact@compagniemaya.com",
+      "image": "https://cdn.paris.fr/qfapv4/2021/11/08/huge-85ab275ef26827a34b3c9574665b05e7.jpeg"
     },
     {
       "title": "musée d'art et d'histoire du Judaïsme",
@@ -9660,23 +9428,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/12/huge-e24a8eb90a58cc383107e4a01c5ba33e.jpg"
     },
     {
-      "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
-      "start": "2026-11-08T11:00:00+02:00",
-      "end": "2026-11-08T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.858585,
-      "lon": 2.381744,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ateliers en famille ludiques et bienveillants: Théâtre & émotions parent-enfant 4-8 ans Inscription à la séance 2025-2026 www.compagniemaya.com Renseignements: 06 12 96 65 98 / contact@compagniemaya.com",
-      "image": "https://cdn.paris.fr/qfapv4/2021/11/08/huge-85ab275ef26827a34b3c9574665b05e7.jpeg"
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-11-08T11:00:00+02:00",
       "end": "2026-11-08T18:00:00+02:00",
@@ -9692,6 +9443,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg"
+    },
+    {
+      "title": "Ateliers en duo Parent-Enfant Théâtre et émotions 4-8 ans",
+      "start": "2026-11-08T11:00:00+02:00",
+      "end": "2026-11-08T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.858585,
+      "lon": 2.381744,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ateliers en famille ludiques et bienveillants: Théâtre & émotions parent-enfant 4-8 ans Inscription à la séance 2025-2026 www.compagniemaya.com Renseignements: 06 12 96 65 98 / contact@compagniemaya.com",
+      "image": "https://cdn.paris.fr/qfapv4/2021/11/08/huge-85ab275ef26827a34b3c9574665b05e7.jpeg"
     },
     {
       "title": "Goûter musical - Musiques de Papier par l'ensemble Le Concert Impromptu",
@@ -9711,23 +9479,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-7d81393bbdaa71c4b28589d572fefc26.jpg"
     },
     {
-      "title": "Rafael Pavarotti, photographe",
-      "start": "2026-11-08T11:00:00+02:00",
-      "end": "2026-11-08T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8632139977362,
-      "lon": 2.33331598450118,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
-    },
-    {
       "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
       "start": "2026-11-08T11:00:00+02:00",
       "end": "2026-11-08T12:30:00+02:00",
@@ -9743,6 +9494,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+    },
+    {
+      "title": "Rafael Pavarotti, photographe",
+      "start": "2026-11-08T11:00:00+02:00",
+      "end": "2026-11-08T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8632139977362,
+      "lon": 2.33331598450118,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
     },
     {
       "title": "François Morellet, traits d'esprit",
@@ -9830,23 +9598,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-ed62c58fbbd75241e247eb4753d2bce7.jpg"
     },
     {
-      "title": "Nanténé Traoré — pays des merveilles",
-      "start": "2026-11-08T11:00:00+02:00",
-      "end": "2026-11-08T19:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.85508,
-      "lon": 2.359244,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.mep-fr.org/event/nantene-traore-pays-des-merveilles/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Du 30 septembre au 29 novembre 2026, le MEP Studio accueille pays des merveilles, la première exposition monographique muséale de Nanténé Traoré. À travers une iconographie vivante de l’intime, son travail propose une méditation sur la mémoire, l'attachement et la disparition.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
-    },
-    {
       "title": "Ateliers en famille Danse-Yoga parent-enfant 3-6 ans",
       "start": "2026-11-08T11:00:00+02:00",
       "end": "2026-11-08T12:00:00+02:00",
@@ -9862,6 +9613,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ateliers en famille dès 3 ans! Dimanche 11h-12h Renseignements: www.compagniemaya.com contact@compagniemaya.com ou 06 12 96 65 98",
       "image": "https://cdn.paris.fr/qfapv4/2022/10/03/huge-3c1f5ff5c8308ce3c059bfb3ce89afce.jpeg"
+    },
+    {
+      "title": "Nanténé Traoré — pays des merveilles",
+      "start": "2026-11-08T11:00:00+02:00",
+      "end": "2026-11-08T19:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.85508,
+      "lon": 2.359244,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.mep-fr.org/event/nantene-traore-pays-des-merveilles/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Du 30 septembre au 29 novembre 2026, le MEP Studio accueille pays des merveilles, la première exposition monographique muséale de Nanténé Traoré. À travers une iconographie vivante de l’intime, son travail propose une méditation sur la mémoire, l'attachement et la disparition.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
     },
     {
       "title": "Visite en langue des signes française de l'exposition Images de la rafle du « billet vert »",
@@ -10068,23 +9836,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-394c1faaece314d73bf207dd9eb5d6ea.png"
     },
     {
-      "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
-      "start": "2026-11-08T14:00:00+02:00",
-      "end": "2026-11-08T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8755589904615,
-      "lon": 2.35350002644282,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://ceca-riovermelho.org.br/ceca/paris-%c2%b7-fr/?lang=fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Activité collective et culturelle pour développer sa condition physique, rythme et coordination. Mouvements d'attaque, défense, équilibre du corps et musique. Pas besoin d’être en forme, coordonné ou à l’aise avec ton corps pour commencer.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-7ee411eafd8c91411e6803d82d4db1f1.png"
-    },
-    {
       "title": "Introduction aux nuages",
       "start": "2026-11-08T14:00:00+02:00",
       "end": "2026-11-08T16:00:00+02:00",
@@ -10100,6 +9851,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "[Conférence + Sortie] Savez-vous comment naissent les nuages que nous voyons chaque jour ? Cette conférence est une invitation à lever les yeux vers le ciel avec un regard neuf. Après une introduction accessible au monde de l’atmosphère et de la météorologie, nous explorerons les mécanismes de formation des nuages à tr",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2170fe9362cdd47411af683417b33d8b.jpg"
+    },
+    {
+      "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
+      "start": "2026-11-08T14:00:00+02:00",
+      "end": "2026-11-08T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8755589904615,
+      "lon": 2.35350002644282,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://ceca-riovermelho.org.br/ceca/paris-%c2%b7-fr/?lang=fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Activité collective et culturelle pour développer sa condition physique, rythme et coordination. Mouvements d'attaque, défense, équilibre du corps et musique. Pas besoin d’être en forme, coordonné ou à l’aise avec ton corps pour commencer.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-7ee411eafd8c91411e6803d82d4db1f1.png"
     },
     {
       "title": "Séances et représentations Relax : loisirs accessibles pour tous !",
@@ -10136,23 +9904,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     },
     {
-      "title": "Augustin, Pirate des Indes",
-      "start": "2026-11-08T14:30:00+02:00",
-      "end": "2026-11-08T15:25:00+02:00",
-      "city": "Paris",
-      "lat": 48.86153598263,
-      "lon": 2.37471797614111,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
-    },
-    {
       "title": "La Maison des Petits au CentQuatre",
       "start": "2026-11-08T14:30:00+02:00",
       "end": "2026-11-08T18:00:00+02:00",
@@ -10168,6 +9919,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg"
+    },
+    {
+      "title": "Augustin, Pirate des Indes",
+      "start": "2026-11-08T14:30:00+02:00",
+      "end": "2026-11-08T15:25:00+02:00",
+      "city": "Paris",
+      "lat": 48.86153598263,
+      "lon": 2.37471797614111,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
     },
     {
       "title": "L'arbre d'Hippolène",
@@ -10561,23 +10329,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-b5692aa2b403da12abedb53e184e84ff.jpg"
     },
     {
-      "title": "Darkness Picnic • DOM-",
-      "start": "2026-11-08T19:00:00+02:00",
-      "end": "2026-11-08T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.867741,
-      "lon": 2.377855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
-    },
-    {
       "title": "Croire (?) - Mentalisme - Spectacles & Conférences",
       "start": "2026-11-08T19:00:00+02:00",
       "end": "2026-11-08T22:00:00+02:00",
@@ -10593,6 +10344,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "\"Croire(?)\" est un seul-en-scène de mentalisme interactif, très ludique et déstabilisant, qui interroge notre rapport aux croyances et à l'esprit critique.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-411630fce9a6a82fc3b7195f941c9f67.jpg"
+    },
+    {
+      "title": "Darkness Picnic • DOM-",
+      "start": "2026-11-08T19:00:00+02:00",
+      "end": "2026-11-08T22:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.867741,
+      "lon": 2.377855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg"
     },
     {
       "title": "Une jeunesse dans le Yiddishland de Jonathan Hayoun",
@@ -10745,7 +10513,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "La carte de France de Cassini. Une encyclopédie du territoire",
@@ -11119,7 +10888,8 @@
       "url": "https://www.theatrelucas-paumier.fr/phedre",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Et si la plus violente des passions avait été écrite il y a plus de trois siècles? Elle aime celui qu'elle ne devrait pas aimer. Elle lutte contre un désir qu'elle ne peut ni avouer ni faire taire. Autour d'elle, les êtres se déchirent, les mots deviennent des armes, les silences des aveux. Et ce qui semblait pouvoir r",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-ef11353067299ac18301433e42ef8aad.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-ef11353067299ac18301433e42ef8aad.jpg",
+      "aiSummary": "Les jeunes spectateurs découvrent la célèbre tragédie de Jean Racine à travers l'histoire poignante d'une femme luttant contre un amour interdit. Cette représentation met en scène des personnages déchirés où les mots et les silences se transformennt en armes. C'est une occasion unique de se familiariser avec un grand classique de la littérature française dans une mise en scène théâtrale intense."
     },
     {
       "title": "Paradise Lost (Lies unopened beside me) _ Ben Duke",
@@ -11204,7 +10974,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -11394,23 +11165,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg"
     },
     {
-      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
-      "start": "2026-11-10T10:00:00+02:00",
-      "end": "2026-11-10T11:00:00+02:00",
-      "city": "Montreuil",
-      "lat": 48.8625910127827,
-      "lon": 2.44165702836665,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatrepublicmontreuil.com/olalaland",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
-    },
-    {
       "title": "Magie",
       "start": "2026-11-10T10:00:00+02:00",
       "end": "2026-11-10T19:00:00+02:00",
@@ -11426,6 +11180,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Entre surprise et émerveillement, l’exposition temporaire Magie n’a pas fini de vous questionner et fasciner ! Comment la magie contemporaine puise-t-elle son inspiration dans les sciences et les techniques ? Comment nous convainc-elle de l'impossible ? Comment peut-elle aiguiser notre sens critique ? La Cité des scien",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
+    },
+    {
+      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
+      "start": "2026-11-10T10:00:00+02:00",
+      "end": "2026-11-10T11:00:00+02:00",
+      "city": "Montreuil",
+      "lat": 48.8625910127827,
+      "lon": 2.44165702836665,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://theatrepublicmontreuil.com/olalaland",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
     },
     {
       "title": "Georges Perec modes d'emploi",
@@ -11870,6 +11641,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-7a54e7be61474eacf645a10190fd5e10.jpg"
     },
     {
+      "title": "QSP en mouvement — Corps, récits & mémoires",
+      "start": "2026-11-10T18:30:00+02:00",
+      "end": "2026-11-10T22:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8291359873624,
+      "lon": 2.35373203752272,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://forms.gle/fV2zn6xZzmMiqhRW7",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une soirée gratuite de création et de rencontres queer : danse, performances chantées, exposition, cinéma et convivialité au cœur du 13e arrondissement !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-8554d719ea686fbb84699cce52db6ffd.png"
+    },
+    {
       "title": "Le Cid Pète Un Câble",
       "start": "2026-11-10T19:00:00+02:00",
       "end": "2026-11-10T20:20:00+02:00",
@@ -12275,7 +12063,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -12686,23 +12475,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg"
     },
     {
-      "title": "Rafael Pavarotti, photographe",
-      "start": "2026-11-11T11:00:00+02:00",
-      "end": "2026-11-11T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8632139977362,
-      "lon": 2.33331598450118,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
-    },
-    {
       "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
       "start": "2026-11-11T11:00:00+02:00",
       "end": "2026-11-11T12:30:00+02:00",
@@ -12718,6 +12490,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+    },
+    {
+      "title": "Rafael Pavarotti, photographe",
+      "start": "2026-11-11T11:00:00+02:00",
+      "end": "2026-11-11T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8632139977362,
+      "lon": 2.33331598450118,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://madparis.fr/Rafael-Pavarotti-photographe",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le musée des Arts décoratifs présente pour la première fois en France du 2 octobre 2026 au 2 mai 2027 le travail du photographe brésilien, Rafael Pavarotti.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-eea872c97d413ebbe1cac166627d2350.png"
     },
     {
       "title": "François Morellet, traits d'esprit",
@@ -12839,23 +12628,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
-      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
-      "start": "2026-11-11T12:00:00+02:00",
-      "end": "2026-11-11T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8401410071366,
-      "lon": 2.35418097225678,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://studio-dmt.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
-    },
-    {
       "title": "Ce qui nous restera",
       "start": "2026-11-11T12:00:00+02:00",
       "end": "2026-11-11T19:00:00+02:00",
@@ -12871,6 +12643,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
+    },
+    {
+      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
+      "start": "2026-11-11T12:00:00+02:00",
+      "end": "2026-11-11T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8401410071366,
+      "lon": 2.35418097225678,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://studio-dmt.fr/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
     },
     {
       "title": "Mercredi jeux vidéo",
@@ -13094,23 +12883,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     },
     {
-      "title": "Augustin, Pirate des Indes",
-      "start": "2026-11-11T14:30:00+02:00",
-      "end": "2026-11-11T15:25:00+02:00",
-      "city": "Paris",
-      "lat": 48.86153598263,
-      "lon": 2.37471797614111,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
-    },
-    {
       "title": "La Maison des Petits au CentQuatre",
       "start": "2026-11-11T14:30:00+02:00",
       "end": "2026-11-11T18:00:00+02:00",
@@ -13126,6 +12898,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg"
+    },
+    {
+      "title": "Augustin, Pirate des Indes",
+      "start": "2026-11-11T14:30:00+02:00",
+      "end": "2026-11-11T15:25:00+02:00",
+      "city": "Paris",
+      "lat": 48.86153598263,
+      "lon": 2.37471797614111,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://folietheatre.com/spectacles/augustin-pirate-des-indes/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Comme déjà plus de 150 000 moussaillons, montez à bord du bateau d’Augustin pour découvrir un mystérieux trésor d’épices. Une aventure… en odorama !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-232d8cc139dfac4cc08865c4afbc05f3.jpg"
     },
     {
       "title": "Une heure entière dans les histoires",
@@ -13550,7 +13339,8 @@
       "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
+      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
     },
     {
       "title": "Mary Cassatt. L'indépendante",
@@ -13602,6 +13392,227 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg"
+    },
+    {
+      "title": "Nicolas Flamel. Alchimiste de papier",
+      "start": "2026-11-12T09:30:00+02:00",
+      "end": "2026-11-12T17:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.8505250117045,
+      "lon": 2.34322699827291,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.musee-moyenage.fr/en-ce-moment/exposition-nicolas-flamel",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Alchimiste visionnaire, immortel, magicien, détenteur de secrets universels… Nicolas Flamel est de ces figures qui nourrissent les fantasmes ! Mais qu’en est-il de la réalité historique de ce bourgeois parisien du XIVe siècle ?",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-546b4c3ea6f6963388dc7ad7636456a2.jpg"
+    },
+    {
+      "title": "Une statue pour la liberté, le rêve de Bartholdi, de Paris à New York. Expérience immersive en réalité virtuelle",
+      "start": "2026-11-12T09:30:00+02:00",
+      "end": "2026-11-12T21:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.8603522858312,
+      "lon": 2.32675478488623,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.musee-orsay.fr/fr/programme/agenda/expositions/une-statue-pour-la-liberte-le-reve-de-bartholdi-de-paris-new-york",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "En parallèle de l’exposition « Auguste Bartholdi, La Liberté éclairant le monde », le musée d’Orsay présente l’expérience inédite en réalité virtuelle « Une Statue pour la Liberté, le rêve de Bartholdi, de Paris à New York » déployée sur près de 700 m² dans la Galerie Amont du musée.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ed63875b6ceb2bfe19b94ae2858e04cb.jpg"
+    },
+    {
+      "title": "La carte de France de Cassini. Une encyclopédie du territoire",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8599629927706,
+      "lon": 2.3572719666908,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.archives-nationales.culture.gouv.fr/evenements/la-carte-de-france-de-cassini-une-encyclopedie-du-territoire",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Chef d’œuvre cartographique du XVIIIe siècle, la carte de France de Cassini est la première carte de France levée géométriquement à l’échelle d’un pays entier. Document historique emblématique, composé de 181 feuilles, c’est aussi un objet d’art monumental de onze mètres de largeur sur douze mètres de hauteur. S’appuya",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-066e932726e22e6618a39f8f97e43815.jpg"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png"
+    },
+    {
+      "title": "Admirez les tous ! Une exposition hommage à Pokémon",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8600868774336,
+      "lon": 2.34210654675006,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/admirez-les-tous-une-exposition-hommage-a-pokemon-109297",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Quel meilleur endroit que le Musée en Herbe — lieu ludique, joyeux et intergénérationnel — pour célébrer les 30 ans de Pokémon ?",
+      "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
+    },
+    {
+      "title": "p. 39 | Nina Wakeford",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8539130188776,
+      "lon": 2.35720298362764,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.citeinternationaledesarts.fr/evenements/p-39-nina-wakeford/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité internationale des arts présente l'installation p. 39 de Nina Wakeford, du 20 octobre au 21 novembre 2026 dans la Vitrine.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-e7d527f5e69d4bc3c1c4d11988e99bb7.jpg"
+    },
+    {
+      "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8725270046259,
+      "lon": 2.34223399420372,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://studiorama.art/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Studiorama : vivez l'expérience du cinéma en photo, sur les toits de Paris.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/14/huge-da3d92c99beed3e3670ca00a11c1694a.jpg"
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg"
+    },
+    {
+      "title": "Sport Séniors en Plein Air",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.832693,
+      "lon": 2.300441,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/gym-douce-jeux-d-adresse-et-d-equilibre-avec-union-regionale-sportive-leo-lagrange-ile-de-france-114789",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une séance de sport hebdomadaire variée et adaptée, proposée par l'Union Régionale Sportive Léo Lagrange, combinant des jeux d'adresse et d'équilibre ainsi que de la Gym douce pour entretenir sa forme en douceur et en plein air.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/07/huge-ad5059ef7eff7ed6c7c375225ec6d24c.png"
+    },
+    {
+      "title": "Stage Dessin-Peinture",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8289219973744,
+      "lon": 2.36817003338047,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris-ateliers.org/nos-ateliers/ateliers-a-l-annee/arts-plastiques/stage-dessin-peinture/Stages",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre du partenariat avec le Grand-Palais, ce stage explore Paul Cézanne et les artistes qui ont prolongé son regard.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-34b85b96f9357e7c70bab3def4ee3329.jpg"
+    },
+    {
+      "title": "Magie",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.cite-sciences.fr/fr/au-programme/expos-temporaires/magie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Entre surprise et émerveillement, l’exposition temporaire Magie n’a pas fini de vous questionner et fasciner ! Comment la magie contemporaine puise-t-elle son inspiration dans les sciences et les techniques ? Comment nous convainc-elle de l'impossible ? Comment peut-elle aiguiser notre sens critique ? La Cité des scien",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg"
+    },
+    {
+      "title": "Georges Perec modes d'emploi",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8339434622285,
+      "lon": 2.3775583691161,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.bnf.fr/fr/agenda/georges-perec-modes-demploi",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La BnF consacre à l’écrivain Georges Perec (1936-1982), figure majeure de la littérature française du XXe siècle et membre emblématique de l’Oulipo, une grande exposition de près de 300 pièces. Auteur notamment des Choses, de La Disparition et de La Vie mode d’emploi, traduit dans de très nombreuses langues, Perec deme",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-bd1e68a439606940552d6119a0087a2e.jpg"
+    },
+    {
+      "title": "Visionnaires. Carte blanche à Prune Nourry",
+      "start": "2026-11-12T10:00:00+02:00",
+      "end": "2026-11-12T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.petitpalais.paris.fr/expositions/prune-nourry",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais invite Prune Nourry à investir l’ensemble du musée pour mettre en lumière, dans son exposition « Visionnaires », des femmes sculptrices méconnues ou oubliées par l’Histoire de l’art.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-684eac921ec901258807bb34d4c5e106.jpg"
     }
   ]
 }
