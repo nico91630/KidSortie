@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:33:39.475Z",
+  "updatedAt": "2026-11-03T13:27:38.317Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -141,23 +141,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg"
     },
     {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-03T09:30:00+02:00",
-      "end": "2026-11-03T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
-    },
-    {
       "title": "Nicolas Flamel. Alchimiste de papier",
       "start": "2026-11-03T09:30:00+02:00",
       "end": "2026-11-03T17:45:00+02:00",
@@ -243,23 +226,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png"
     },
     {
-      "title": "avec le soutien de l'association Kokoya",
-      "start": "2026-11-03T10:00:00+02:00",
-      "end": "2026-11-03T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.863702,
-      "lon": 2.359974,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/cafe-litteraire-123701",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Nous vous invitons à venir poser vos questions sur le numérique dans un atelier convivial à la bibliothèque. Atelier pour adulte, gratuit sur inscription.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-3ee5e7bc71401308b712f0f77eb06b7d.jpg"
-    },
-    {
       "title": "p. 39 | Nina Wakeford",
       "start": "2026-11-03T10:00:00+02:00",
       "end": "2026-11-03T19:00:00+02:00",
@@ -309,23 +275,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
       "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg"
-    },
-    {
-      "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
-      "start": "2026-11-03T10:00:00+02:00",
-      "end": "2026-11-03T11:00:00+02:00",
-      "city": "Montreuil",
-      "lat": 48.8625910127827,
-      "lon": 2.44165702836665,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatrepublicmontreuil.com/olalaland",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Bienvenue dans Olalaland, un spectacle visuel et musical à l’excentricité débordante, conçu comme une énigme. Dans cette épopée insolite, on suit les aventures de Madame Olala déambulant dans un monde foisonnant d’images et de formes graphiques, où le quotidien et le fantastique se confondent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-6473d49a70a3b687c7c4a2a09044e905.jpg"
     },
     {
       "title": "Magie",
@@ -549,40 +498,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
-      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
-      "start": "2026-11-03T12:00:00+02:00",
-      "end": "2026-11-03T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8401410071366,
-      "lon": 2.35418097225678,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://studio-dmt.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
-    },
-    {
-      "title": "Aquagym à la piscine de la Plaine",
-      "start": "2026-11-03T12:15:00+02:00",
-      "end": "2026-11-03T13:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.828033,
-      "lon": 2.293328,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/aquagym-a-la-piscine-de-la-plaine-98171",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plongez dans la forme avec les cours d'aquagym à la Piscine de la Plaine.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/10/23/huge-071547b2651ab14f3e1fef25ffc9cabf.jpg"
-    },
-    {
       "title": "Exposition de Gloria Friedmann - Entre deux vertiges",
       "start": "2026-11-03T14:00:00+02:00",
       "end": "2026-11-03T19:00:00+02:00",
@@ -598,23 +513,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L'artiste Gloria Friedmann à Transfo - Emmaüs Solidarité pour l'exposition Entre deux vertiges.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-cfed57e64fa3825031a1fc9f33f6a3bd.jpg"
-    },
-    {
-      "title": "Peinture sèche",
-      "start": "2026-11-03T14:00:00+02:00",
-      "end": "2026-11-03T15:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.875241,
-      "lon": 2.404133,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-peinture-parent-bebe-117461",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Initiation à la peinture sèche et moment d'exploration avec bébé sur de la musique douce.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/20/huge-12925852e8f92b5ca1560f509bde75d2.jpg"
     },
     {
       "title": "Couleurs de la Mémoire",
@@ -1910,23 +1808,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
-      "title": "Ce qui nous restera",
-      "start": "2026-11-04T12:00:00+02:00",
-      "end": "2026-11-04T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8323680073174,
-      "lon": 2.33106502440342,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
-    },
-    {
       "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
       "start": "2026-11-04T12:00:00+02:00",
       "end": "2026-11-04T12:00:00+02:00",
@@ -1942,6 +1823,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
       "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+    },
+    {
+      "title": "Ce qui nous restera",
+      "start": "2026-11-04T12:00:00+02:00",
+      "end": "2026-11-04T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8323680073174,
+      "lon": 2.33106502440342,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
     },
     {
       "title": "Jules Verne, le voyage extraordinaire",
@@ -2282,6 +2180,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L'heure du conte de la médiathèque Marguerite Duras",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-2a35ef11ca321a015715e17cab5128f3.png"
+    },
+    {
+      "title": "Arbre, le nouveau spectacle du Cirque Bormann",
+      "start": "2026-11-04T15:00:00+02:00",
+      "end": "2026-11-04T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8372950157324,
+      "lon": 2.27086996765382,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.cirquebormann.fr/reservation-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plongez dans l’univers fantastique de cette nouvelle création ! Ce spectacle unique mêle performances de cirque, danse, théâtre et effets spéciaux pour rendre hommage à nos racines. « Arbre » est une bouffée de fantaisie et d’oxygène, une invitation à explorer un monde merveilleux.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-d3c695410ec532a8f7c68835c98e56dd.png"
     },
     {
       "title": "De bouche à oreilles",
@@ -5924,6 +5839,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-5c50fb3198fe82aea01c6d6f645e3370.jpg"
     },
     {
+      "title": "Eiffel Follie's : cabaret burlesque à Paris",
+      "start": "2026-11-06T21:00:00+02:00",
+      "end": "2026-11-06T22:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetreduc.com/spectacle/eiffel-follie-s-cabaret-burlesque-416745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ouvrez grand les yeux et les oreilles pour un voyage éblouissant au coeur du cabaret parisien.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-4ee9ac096d1a277df859151b304f2a0b.jpg"
+    },
+    {
       "title": "Le poids de l'eau",
       "start": "2026-11-06T21:30:00+02:00",
       "end": "2026-11-06T22:45:00+02:00",
@@ -5939,6 +5871,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans les vestiaires d’une piscine, deux hommes se croisent pour la première fois. Le décor est banal, mais la rencontre, unique.",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg"
+    },
+    {
+      "title": "Le Cabaret Burlesque",
+      "start": "2026-11-06T22:30:00+02:00",
+      "end": "2026-11-06T23:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetreduc.com/spectacle/le-cabaret-burlesque-340579",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les artistes du Burlesque Klub présentent un show détonnant alliant glamour et humour.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-636ccdfe45d3f00e3a17c5deeaa9a1c2.jpg"
     },
     {
       "title": "Le temps des histoires",
@@ -7608,6 +7557,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-09be2c53a3e484c62fcfe8af8d70025f.jpg"
     },
     {
+      "title": "L'Heure du cinéma : Le Moyen Âge au cinéma",
+      "start": "2026-11-07T10:30:00+02:00",
+      "end": "2026-11-07T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.851596,
+      "lon": 2.38396,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-cinema-le-moyen-age-au-cinema-126985",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "L'Heure du ciné, des extraits de films commentés par les bibliothécaires",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-43a7d648e934aa9765322276acd6d1c8.jpg"
+    },
+    {
       "title": "Portraits de famille",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T18:00:00+02:00",
@@ -7778,23 +7744,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg"
     },
     {
-      "title": "Samedi des tout-petits",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T11:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.88486,
-      "lon": 2.382934,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/samedi-des-tout-petits-123210",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un temps de lecture pour les tout-petits et celles et ceux qui les accompagnent.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-7cbf683e295ea2cd56c1c40a64a637eb.jpg"
-    },
-    {
       "title": "Les racontinettes",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T11:20:00+02:00",
@@ -7810,6 +7759,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le rendez-vous pour lire en famille à la bibliothèque !",
       "image": "https://cdn.paris.fr/qfapv4/2024/08/24/huge-45ebab9616f45c82476d9751827e7509.png"
+    },
+    {
+      "title": "Samedi des tout-petits",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T11:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.88486,
+      "lon": 2.382934,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/samedi-des-tout-petits-123210",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un temps de lecture pour les tout-petits et celles et ceux qui les accompagnent.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-7cbf683e295ea2cd56c1c40a64a637eb.jpg"
     },
     {
       "title": "Olalaland – Lionel Dray & Clémence Jeanguillaume",
@@ -7965,23 +7931,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/29/huge-ca7a7325a86f8653f74f3b922055aed9.jpg"
     },
     {
-      "title": "Ce qui nous restera",
-      "start": "2026-11-07T12:00:00+02:00",
-      "end": "2026-11-07T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8323680073174,
-      "lon": 2.33106502440342,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
-    },
-    {
       "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
       "start": "2026-11-07T12:00:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -7997,6 +7946,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
       "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+    },
+    {
+      "title": "Ce qui nous restera",
+      "start": "2026-11-07T12:00:00+02:00",
+      "end": "2026-11-07T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8323680073174,
+      "lon": 2.33106502440342,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
     },
     {
       "title": "Ouverture et ateliers - Ferme urbaine René-Binet",
@@ -8524,6 +8490,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Salaire, épargne, patrimoine, carrière : le samedi 7 novembre, une conférence, une rencontre-dédicace et un podcast enregistré en public vous permettent d’examiner où en sont vraiment les écarts entre femmes et hommes.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-8a530a2c6125167bafca3e6e2c7d257e.png"
+    },
+    {
+      "title": "Arbre, le nouveau spectacle du Cirque Bormann",
+      "start": "2026-11-07T15:00:00+02:00",
+      "end": "2026-11-07T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8372950157324,
+      "lon": 2.27086996765382,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.cirquebormann.fr/reservation-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plongez dans l’univers fantastique de cette nouvelle création ! Ce spectacle unique mêle performances de cirque, danse, théâtre et effets spéciaux pour rendre hommage à nos racines. « Arbre » est une bouffée de fantaisie et d’oxygène, une invitation à explorer un monde merveilleux.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-d3c695410ec532a8f7c68835c98e56dd.png"
     },
     {
       "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
@@ -9750,6 +9733,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg"
     },
     {
+      "title": "Le Cabaret Burlesque",
+      "start": "2026-11-07T22:30:00+02:00",
+      "end": "2026-11-07T23:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetreduc.com/spectacle/le-cabaret-burlesque-340579",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les artistes du Burlesque Klub présentent un show détonnant alliant glamour et humour.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-636ccdfe45d3f00e3a17c5deeaa9a1c2.jpg"
+    },
+    {
       "title": "Les sons du papier à la Philharmonie des enfants",
       "start": "2026-11-08T00:00:00+00:00",
       "end": "2027-03-07T23:59:59+00:00",
@@ -10771,6 +10771,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-20bc337534f94f986d6f6fc625ee5580.jpg"
     },
     {
+      "title": "Arbre, le nouveau spectacle du Cirque Bormann",
+      "start": "2026-11-08T15:00:00+02:00",
+      "end": "2026-11-08T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8372950157324,
+      "lon": 2.27086996765382,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.cirquebormann.fr/reservation-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plongez dans l’univers fantastique de cette nouvelle création ! Ce spectacle unique mêle performances de cirque, danse, théâtre et effets spéciaux pour rendre hommage à nos racines. « Arbre » est une bouffée de fantaisie et d’oxygène, une invitation à explorer un monde merveilleux.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-d3c695410ec532a8f7c68835c98e56dd.png"
+    },
+    {
       "title": "Cycle de réécriture Honorine",
       "start": "2026-11-08T15:00:00+02:00",
       "end": "2026-11-08T17:00:00+02:00",
@@ -10820,6 +10837,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+    },
+    {
+      "title": "Olivia Graines de botaniste",
+      "start": "2026-11-08T15:30:00+02:00",
+      "end": "2026-11-08T16:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.839473,
+      "lon": 2.438106,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://buytickets.at/grainesdebotaniste/2506694",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "2 ateliers pour apprendre à réaliser de jolies créations végétales.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-9de8325b02a0a72792dff6f5258a321e.jpeg"
     },
     {
       "title": "Goûter musical - Musiques de Papier par l'ensemble Le Concert Impromptu",
@@ -11452,6 +11486,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-aaf8e0c1109688a2041e39f91a94e187.jpg"
     },
     {
+      "title": "Olivia Graines de botaniste",
+      "start": "2026-11-09T11:00:00+02:00",
+      "end": "2026-11-09T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839473,
+      "lon": 2.438106,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://buytickets.at/grainesdebotaniste/2506694",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "2 ateliers pour apprendre à réaliser de jolies créations végétales.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-9de8325b02a0a72792dff6f5258a321e.jpeg"
+    },
+    {
       "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
       "start": "2026-11-09T12:00:00+02:00",
       "end": "2026-11-09T12:00:00+02:00",
@@ -11467,6 +11518,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
       "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+    },
+    {
+      "title": "Olivia Graines de botaniste",
+      "start": "2026-11-09T12:30:00+02:00",
+      "end": "2026-11-09T13:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.839473,
+      "lon": 2.438106,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://buytickets.at/grainesdebotaniste/2506694",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "2 ateliers pour apprendre à réaliser de jolies créations végétales.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-9de8325b02a0a72792dff6f5258a321e.jpeg"
     },
     {
       "title": "Groupe de parole, futurs parents",
@@ -12661,23 +12729,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/02/29/huge-648db72854546c3cc21380be2a38d566.jpg"
     },
     {
-      "title": "Exposition photographique \"Amorces\" de Kostia Hernain-Debain",
-      "start": "2026-11-11T00:00:00+00:00",
-      "end": "2026-12-05T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-photographique-amorces-de-kostia-hernain-debain-126890",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À l'occasion de Paris Photo, la galerie Area présente les oeuvres photographiques de Kostia Hernain Debain.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-c2e5fbcc21bc489d94cd827a630e4bcb.jpg"
-    },
-    {
       "title": "Théâtre le Funambule Montmartre",
       "start": "2026-11-11T00:00:00+00:00",
       "end": "2027-01-03T23:59:59+00:00",
@@ -12693,6 +12744,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un magicien et son acolyte partent gaiement à l'aventure pour sauver noël !",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/22/huge-6b55794c644c4108d2f43cdd9cc8032f.jpeg"
+    },
+    {
+      "title": "Exposition photographique \"Amorces\" de Kostia Hernain-Debain",
+      "start": "2026-11-11T00:00:00+00:00",
+      "end": "2026-12-05T23:59:59+00:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/exposition-photographique-amorces-de-kostia-hernain-debain-126890",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À l'occasion de Paris Photo, la galerie Area présente les oeuvres photographiques de Kostia Hernain Debain.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-c2e5fbcc21bc489d94cd827a630e4bcb.jpg"
     },
     {
       "title": "Le Giornate del Cinema Muto, sélection du festival de Pordenone 2026",
@@ -13359,23 +13427,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg"
     },
     {
-      "title": "Ce qui nous restera",
-      "start": "2026-11-11T12:00:00+02:00",
-      "end": "2026-11-11T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8323680073174,
-      "lon": 2.33106502440342,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
-    },
-    {
       "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
       "start": "2026-11-11T12:00:00+02:00",
       "end": "2026-11-11T12:00:00+02:00",
@@ -13391,6 +13442,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
       "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+    },
+    {
+      "title": "Ce qui nous restera",
+      "start": "2026-11-11T12:00:00+02:00",
+      "end": "2026-11-11T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8323680073174,
+      "lon": 2.33106502440342,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/exposition-ce-qui-nous-restera-125326",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ce qui nous restera. Le festival des fierté·es réunit une dizaine d’artistes de la communauté LGBTQIA+ autour de la transmission et de la mémoire, intime ou collective.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-050f223ad551d3286f216fc2f4366513.jpeg"
     },
     {
       "title": "Mercredi jeux vidéo",
@@ -13544,74 +13612,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "LIBRE ADAPTATION D’AYMERIC DE NADAILLAC ET KADER TAIBAOUI : “L’ARBRE SANS FIN” DE CLAUDE PONTI",
       "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-20bc337534f94f986d6f6fc625ee5580.jpg"
-    },
-    {
-      "title": "Couleurs de la Mémoire",
-      "start": "2026-11-11T14:00:00+02:00",
-      "end": "2026-11-11T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8456239871893,
-      "lon": 2.3819050390189,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-collective-couleurs-de-la-memoire-126481",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Exposition · Ateliers · Kermesse · Tombola.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-5e91718dc6c06ab3021dd51eecac2b2b.png"
-    },
-    {
-      "title": "Trico'thé",
-      "start": "2026-11-11T14:30:00+02:00",
-      "end": "2026-11-11T16:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.875241,
-      "lon": 2.404133,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/trico-the-a-la-maison-des-1000-premiers-jours-105366",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Atelier convivial tricot, thé et parentalité.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/05/huge-2adab21f41e73942ab677d168dc98a84.png"
-    },
-    {
-      "title": "Paris sport familles : multisports au TEP Les Amandiers",
-      "start": "2026-11-11T14:30:00+02:00",
-      "end": "2026-11-11T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.865839,
-      "lon": 2.386217,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sport-familles-multisports-au-gymnase-atlas-123237",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/09/huge-c8c21998c686d3d184b6983a6cb73156.jpg"
-    },
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-11T14:30:00+02:00",
-      "end": "2026-11-11T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg"
     }
   ]
 }

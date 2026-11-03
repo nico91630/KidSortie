@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:33:29.288Z",
+  "updatedAt": "2026-11-03T13:27:27.801Z",
   "events": [
     {
       "title": "Prix des lecteurs 2026",
@@ -452,24 +452,6 @@
       "aiSummary": "À Bièvres, les familles découvriront les œuvres variées des artistes de la vallée de la Bièvre autour du thème original « Le temps et le temps, vingt ans après ». Cette exposition artistique propose de voir des créations surprenantes et renouvelées, avec en point d'orgue la cérémonie de remise des prix du jury."
     },
     {
-      "title": "L'Esprit du 7ème Art (salle de Compostelle)",
-      "start": "2026-11-08T14:00:00+01:00",
-      "end": "2026-11-08T18:00:00+01:00",
-      "city": "Paris",
-      "lat": 48.8438,
-      "lon": 2.341584,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Séance introductive dimanche 8 novembre 2026 de 14h30 à 18h salle Compostelle avec la projection d'un moyen métrage d'Arnaud Desplechin. Ce ciné-club paroissial se veut une approche chrétienne, en parcourant l’histoire et la géographie du 7ème art, de quelques films remarquables dont la qualité cinématographique (plus que le sujet ou la popularité) appelle à discerner des traces de l’Esprit Créateur à l’œuvre. Avec cette année, la vie de famille, pour fil conducteur. Jamais plus de deux heures de projection pour laisser place à un échange d’observations précises et de « points de vue » à l’aide d’une petite méthode.",
-      "image": null,
-      "source": "OpenAgenda · agenda 45811693",
-      "url": "https://openagenda.com/saint-jacques-du-haut-pas/events/78112833_lesprit-du-7eme-art-salle-de-compostelle",
-      "aiSummary": "Ce ciné-club paroissial parisien propose de découvrir un moyen métrage d'Arnaud Desplechin axé sur la vie de famille. La séance de moins de deux heures se prolonge par un échange d'observations et de points de vue guidé par une méthode spécifique, offrant une approche originale du septième art."
-    },
-    {
       "title": "Salon d'automne des artistes de la vallée de la Bièvre",
       "start": "2026-11-08T14:30:00+01:00",
       "end": "2026-11-08T18:00:00+01:00",
@@ -560,24 +542,6 @@
       "aiSummary": "Les médiathèques de Meudon vous invitent à découvrir une sélection de cinq romans passionnants pour élire votre livre préféré. Cette animation littéraire permet aux participants de se laisser embarquer dans de belles histoires et de partager leurs coups de cœur de lecture."
     },
     {
-      "title": "Les P'tites Histoires",
-      "start": "2026-11-11T10:30:00+01:00",
-      "end": "2026-11-11T11:00:00+01:00",
-      "city": "Issy-les-Moulineaux",
-      "lat": 48.822908,
-      "lon": 2.254294,
-      "category": "Événement",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Histoires à savourer pour les petites oreilles ! Dès 2 ans. Une sélection des lectures sera choisie par les bibliothécaires.  \nPour le confort de tous, aucune entrée ne sera possible après le début de l'animation. Merci de votre compréhension.",
-      "image": null,
-      "source": "OpenAgenda · agenda 16624806",
-      "url": "https://openagenda.com/mediatheques-issy/events/94228615_les-ptites-histoires-9074815",
-      "aiSummary": "À Issy-les-Moulineaux, les enfants dès 2 ans découvrent une sélection d'histoires lues à voix haute par les bibliothécaires. Ce rendez-vous littéraire propose une écoute attentive et adaptée aux plus jeunes, idéale pour partager un moment calme autour des livres."
-    },
-    {
       "title": "Salon d'automne des artistes de la vallée de la Bièvre",
       "start": "2026-11-11T10:30:00+01:00",
       "end": "2026-11-11T13:00:00+01:00",
@@ -594,6 +558,24 @@
       "source": "OpenAgenda · agenda 98961436",
       "url": "https://openagenda.com/bievres/events/64147770_salon-dautomne-des-artistes-de-la-vallee-de-la-bievre-968977",
       "aiSummary": "À Bièvres, les familles découvriront les œuvres variées des artistes de la vallée de la Bièvre autour du thème original « Le temps et le temps, vingt ans après ». Cette exposition artistique propose de voir des créations surprenantes et renouvelées, avec en point d'orgue la cérémonie de remise des prix du jury."
+    },
+    {
+      "title": "Les P'tites Histoires",
+      "start": "2026-11-11T10:30:00+01:00",
+      "end": "2026-11-11T11:00:00+01:00",
+      "city": "Issy-les-Moulineaux",
+      "lat": 48.822908,
+      "lon": 2.254294,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Histoires à savourer pour les petites oreilles ! Dès 2 ans. Une sélection des lectures sera choisie par les bibliothécaires.  \nPour le confort de tous, aucune entrée ne sera possible après le début de l'animation. Merci de votre compréhension.",
+      "image": null,
+      "source": "OpenAgenda · agenda 16624806",
+      "url": "https://openagenda.com/mediatheques-issy/events/94228615_les-ptites-histoires-9074815",
+      "aiSummary": "À Issy-les-Moulineaux, les enfants dès 2 ans découvrent une sélection d'histoires lues à voix haute par les bibliothécaires. Ce rendez-vous littéraire propose une écoute attentive et adaptée aux plus jeunes, idéale pour partager un moment calme autour des livres."
     },
     {
       "title": "Salon d'automne des artistes de la vallée de la Bièvre",
@@ -1995,8 +1977,9 @@
       "price": null,
       "description": "Venez visionner des épisodes et rencontrer l'équipe de production derrière le dessin animé « Petit Malabar » Petit Malabar est un personnage de fiction malicieux et imaginatif qui explore l’univers avec ses amis les animaux. Lors de leurs voyages, ils rencontrent des personnages d’un autre genre : des particules, des animaux primitifs, des étoiles, et même des galaxies. Ce sont souvent des personnages exceptionnellement petits ou grands, terriblement chauds ou froids, aux caractères toujours très amusants.  \nDans des lieux extraordinaires, les jeux enfantins de Petit Malabar se transforment en aventures inattendues : une partie de cache-cache dans les cratères de Mercure, une chasse aux empreintes à travers la Pangée, une course avec Baleine, et du surf sur l’onde de choc d’une supernova ! Ici, tout ce qui est dit sur l’univers repose sur nos connaissances scientifiques actuelles.\n\nL'événement comprendra :\n\n*   \\- Des projections d'épisodes\n*   \\- Une expo des dessins originaux des dessins animés\n*   \\- Une séance dédicace et des temps d'échange avec l'équipe\n\nSeront présents :  \nLa maison de production : TCHACK  \nJean Duprat, astrophysicien, chercheur au CNRS et co-auteur de la série  \nNelly Blumenthal, directrice artistique de la série",
       "image": null,
-      "source": "OpenAgenda · agenda 86184123",
-      "url": "https://openagenda.com/universite-paris-saclay/events/10902807_le-cine-rencontre-des-enfants-petit-malabar-12-dec-2026-a-15h"
+      "source": "OpenAgenda · agenda 99562952",
+      "url": "https://openagenda.com/universite-paris-saclay/events/10902807_le-cine-rencontre-des-enfants-petit-malabar-12-dec-2026-a-15h",
+      "aiSummary": "À Gif-sur-Yvette, les enfants découvrent des épisodes du dessin animé Petit Malabar et explorent l'univers aux côtés de personnages amusants et d'animaux. Cette sortie originale propose également une exposition de dessins originaux, une séance de dédicaces et un échange privilégié avec la maison de production, un astrophysicien et la directrice artistique de la série."
     },
     {
       "title": "Créé un objet personnalisé au Fablab",
@@ -2463,7 +2446,8 @@
       "description": "Un spectacle unique et grisant qui oscille entre le pince-sans-rire et le décapant. Philippe-Audrey Larrue-St-Jacques met son intelligence hors normes et sa culture stupéfiante au service de l’humour.  \nCe HPI hypersensible touche tous les publics par son écriture et son inclusivité naturelle, il est devenu le chouchou des québécois tant au théâtre, sur le net qu’à la télévision.  \nVenir voir Philippe-Audrey Larrue-St-Jacques c’est découvrir un monde hilarant où Garou croise Victor Hugo, tandis que Sartre s’en prend plein la tête dans un sketch délirant et surtout, rire aux éclats pendant une heure.  \nUn spectacle unique et grisant qui oscille entre le pince-sans-rire et le décapant.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/espace-philippe-noiret-les-clayes-sous-bois/events/82561483_enfant-du-siecle"
+      "url": "https://openagenda.com/espace-philippe-noiret-les-clayes-sous-bois/events/82561483_enfant-du-siecle",
+      "aiSummary": "À Les Clayes-sous-Bois, ce spectacle humoristique propose de découvrir l'univers singulier de Philippe-Audrey Larrue-St-Jacques. Les spectateurs assisteront à une représentation décapante et pince-sans-rire où se croisent des références culturelles variées, de Victor Hugo à Sartre. Cette sortie culturelle offre l'occasion de rire aux éclats pendant une heure grâce à une écriture originale qui touche tous les publics."
     },
     {
       "title": "PLAN B",
@@ -2480,7 +2464,8 @@
       "description": "COMPAGNIE LA PETITE HURLANTE Plan B est une histoire de mots. Ou même, disons carrément une aventure de lettres. Echappées d’un livre, les lettres partent à l’aventure !  \nSur scène, un joyeux trio de marionnettistes transforme un grand livre en scène de crime jubilatoire, où chaque mot cache un rebondissement. Loufoque, haletant et plein de malice, le spectacle plonge les enfants dans la mécanique secrète du langage et leur donne, en riant, le goût des mots et des jeux de mots. Un spectacle",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/la-ferme-du-manet-et-la-salle-jacques-brel-montigny-le-bretonneux/events/12966500_plan-b-9137154"
+      "url": "https://openagenda.com/la-ferme-du-manet-et-la-salle-jacques-brel-montigny-le-bretonneux/events/12966500_plan-b-9137154",
+      "aiSummary": "À Montigny-le-Bretonneux, les enfants découvrent une aventure loufoque où des lettres échappées d'un livre mènent l'enquête sur scène. Porté par un trio de marionnettistes, ce spectacle jubilatoire transforme la lecture en une véritable scène de crime pleine de rebondissements. Une proposition originale et malicieuse pour explorer les secrets du langage et s'amuser avec les mots en riant."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2497,7 +2482,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2514,7 +2500,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "Adoration eucharistique",
@@ -2549,7 +2536,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2566,7 +2554,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "Toutes les choses géniales",
@@ -2583,7 +2572,8 @@
       "description": "Un spectacle « coup de cœur » du Festival d’Avignon, drôle, délicat et intensément vivant ! Pour redonner le goût de vivre à sa mère, un enfant commence à dresser la liste de tout ce qui est génial dans le monde : les glaces, les batailles d’eau, le droit de regarder la télé... L’enfant grandit et la liste atteint bientôt un million de raisons de savourer l’existence !  \nSuccès international depuis dix ans, ce spectacle unique mêle comédie et improvisation dans une expérience collective touchante où le public est invité à prendre part à l’histoire !  \n_Texte : Duncan Macmillan, avec Jonny Donahoe / Traduction : Ronan Mancec / Mise en scène : Stéphane Daurat et Catherine Hauseux / Jeu : Catherine Hauseux ou Stéphane Daurat / Lumières : James Groguelin / Production : Compagnie Caravane._",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/896360_toutes-les-choses-geniales-3713665"
+      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/896360_toutes-les-choses-geniales-3713665",
+      "aiSummary": "À Magny-les-Hameaux, découvrez ce spectacle touchant et drôle où un enfant dresse la liste de tout ce qui rend la vie belle pour redonner le sourire à sa mère. Cette création à succès mêle habilement comédie et improvisation dans une expérience collective unique, invitant directement le public à participer à cette grande aventure humaine."
     },
     {
       "title": "Toutes les choses géniales",
@@ -2600,7 +2590,8 @@
       "description": "Un spectacle « coup de cœur » du Festival d’Avignon, drôle, délicat et intensément vivant ! Pour redonner le goût de vivre à sa mère, un enfant commence à dresser la liste de tout ce qui est génial dans le monde : les glaces, les batailles d’eau, le droit de regarder la télé... L’enfant grandit et la liste atteint bientôt un million de raisons de savourer l’existence !  \nSuccès international depuis dix ans, ce spectacle unique mêle comédie et improvisation dans une expérience collective touchante où le public est invité à prendre part à l’histoire !  \n_Texte : Duncan Macmillan, avec Jonny Donahoe / Traduction : Ronan Mancec / Mise en scène : Stéphane Daurat et Catherine Hauseux / Jeu : Catherine Hauseux ou Stéphane Daurat / Lumières : James Groguelin / Production : Compagnie Caravane._",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/896360_toutes-les-choses-geniales-3713665"
+      "url": "https://openagenda.com/lestaminet-magny-les-hameaux/events/896360_toutes-les-choses-geniales-3713665",
+      "aiSummary": "À Magny-les-Hameaux, découvrez ce spectacle touchant et drôle où un enfant dresse la liste de tout ce qui rend la vie belle pour redonner le sourire à sa mère. Cette création à succès mêle habilement comédie et improvisation dans une expérience collective unique, invitant directement le public à participer à cette grande aventure humaine."
     },
     {
       "title": "ETRE OU NE PAS NAITRE",
@@ -2617,7 +2608,8 @@
       "description": "Un duo de comédienne drôle et touchant qui crie le droit à la différence **Grand Prix du Théâtre Mohamed V - FIESAD (Maroc)**  \n**2e prix du Jury du festival des Deux Mondes de Spoleto (Italie)**\n\nNadine et Lisa se retrouvent dans la salle d'attente de la vie. Elles ne peuvent pas y entrer. En réalité on ne veut pas qu'elles y entrent. Elles n'entrent pas dans la norme. Une naine et une obèse ça pique les yeux.\n\nDans ce monde où nous pouvons à présent choisir le sexe de notre enfant, sa couleur de cheveux, ses yeux, choisir qu'il ne soit porteur d'aucune maladie génétique, ou encore qu'il n’ait pas de prédominance à l’obésité...\n\nDans ce monde-là, qui choisirait d'avoir comme enfant Nadine, naine d’1m42 ? Certes grande pour une naine, mais ses petits bras et son front ne trompent personne. Ou bien encore Lisa, malgré sa taille fine, que son IMC de 34,3 place directement dans la case Obésité ? Dans ce monde-là, Nadine et Lisa, n'existeraient pas. Elles n'auraient pas leur place. Dans ce monde-là, elles resteraient toute leur vie dans la salle d'attente.\n\nDans ce monde-là, elles vont décider d'être les héroïnes de leur propre vie, en dehors des normes, et cases qu'on leur a attribuées\n\n**Le spectacle sera suivi d’un bord plateau**\n\n_« Spectacle très fort, deux actrices au top \\[…\\] Génial et plein d’émotions, d’énergie solaire et de féminisme. On a adoré. »_  \n_Théâtre Online_  \n",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/theatre-albert-camus-maurepas/events/93794121_etre-ou-ne-pas-naitre"
+      "url": "https://openagenda.com/theatre-albert-camus-maurepas/events/93794121_etre-ou-ne-pas-naitre",
+      "aiSummary": "À Maurepas, deux comédiennes incarnent avec humour et émotion deux femmes hors normes bloquées dans la salle d'attente de la vie, car elles ne correspondent pas aux critères de perfection actuels. Récompensé à l'international, ce duo solaire aborde la différence et le droit d'exister à travers un spectacle fort. La représentation sera prolongée par un temps d'échange bienvenu avec le public."
     },
     {
       "title": "NANOULAK",
@@ -2634,7 +2626,8 @@
       "description": "Danse L’histoire s’inspire du **NANOULAK**, nom donné par les  \nInuits à l’ours polaire métis né de la rencontre entre  \nune mère ourse polaire et un père grizzly.\n\nSur scène, deux êtres- danseurs, mimes et musiciens –  \ninventent des univers changeants, où se rencontrent  \nle bois et la glace, la forêt et la banquise, le chaud et le  \nfroid. Ils apprennent l’un de l’autre, s’hybrident et jouent.  \nDe la rencontre du grizzly et de l’ourse polaire à la rencontre  \ndu petit Nanoulak, ils cheminent côte à côte,  \ncréant un univers tendre et drôle à la fois dans cette pièce  \noù la question de la différence s’invite à chaque instant.\n\n« _Racontée en musique et en mouvements par un formidable_  \n_duo d’artistes, l’histoire poétique de cet ursidé hybride, est_  \n_celle d’un monde en transformation, d’un avenir possible._  \n_La scène est le lieu des rencontres, celle de l’ourse blanche_  \n_et de l’ours brun et de leurs milieux naturels respectifs. Un_  \n_métissage qui se lit aussi dans la danse et dans la création_  \n_musicale._ » Françoise Sabatier Morel – Télérama",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/la-merise-trappes/events/99928695_nanoulak-9345847"
+      "url": "https://openagenda.com/la-merise-trappes/events/99928695_nanoulak-9345847",
+      "aiSummary": "À Trappes, ce spectacle de danse, mime et musique met en scène deux artistes incarnant un ours polaire et un grizzly. Les enfants découvrent l'histoire poétique et tendre du Nanoulak, un ursidé hybride né de la rencontre de ces deux animaux. Cette création originale aborde avec humour la question de la différence à travers des univers naturels changeants."
     },
     {
       "title": "À ma place",
@@ -2651,7 +2644,8 @@
       "description": "Une pièce inspirée de témoignages d'adolescents Comment trouver sa place quand personne ne donne les règles ? À ma place s’inspire de témoignages d’adolescent·es pour raconter ce moment où tout se complique. Au collège, un mot de travers, un sweat mal choisi ou un goût musical peuvent tout faire basculer. Trois jeunes, X, Y et Z, se jettent dans l’existence, entre famille, école, réseaux sociaux et refuges imaginaires. Sur un plateau transformé en tangram géant, le groupe teste, déplace, recommence. Peu à peu, chacun·e cherche sa voie, à sa manière, en composant avec les autres.",
       "image": null,
       "source": "OpenAgenda · agenda 86184123",
-      "url": "https://openagenda.com/universite-paris-saclay/events/34780536_a-ma-place-2932007"
+      "url": "https://openagenda.com/universite-paris-saclay/events/34780536_a-ma-place-2932007",
+      "aiSummary": "Ce spectacle théâtral s'inspire de témoignages d'adolescents pour raconter le moment où tout se complique au collège entre école, famille et réseaux sociaux. Sur un plateau transformé en tangram géant, trois jeunes testent, se déplacent et recommencent pour chercher leur voie. Cette création offre une réflexion touchante sur la quête d'identité et la place de chacun face au regard des autres."
     },
     {
       "title": "MENTISSA",
@@ -2668,7 +2662,8 @@
       "description": "Enfants Difficiles, deuxième album de Mentissa, marque une nouvelle ère. Moins métaphorique, plus frontal. Moins pudique, plus incarné. Ici, les mots ne suggèrent plus : ils disent. L’enfance, la famille, l’identité, la colère, le besoin de contrôle, l’amour comme refuge. Mentissa écrit pour se libérer.\n\nLa tournée précédente a laissé son empreinte : des titres plus rythmiques, notamment pensés pour respirer sur scène, dialoguer avec le public, offrir un espace d’énergie autant que d’intimité.\n\nL’influence anglo-saxonne – d’Adele à Gracie Abrams, en passant par Olivia Rodrigo – s’y fait encore plus palpable, avec quelques incursions en anglais. La voix reste le centre de gravité : puissante, intime et fragile.\n\nC’est cette Mentissa que vous retrouverez en concert à La Batterie.\n\n[https://www.youtube.com/watch?v=\\_XYQ9N2zBqQ](https://www.youtube.com/watch?v=_XYQ9N2zBqQ)",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/scenes-2-guyancourt-la-batterie-ferme-de-bel-ebat/events/18448737_mentissa-9535477"
+      "url": "https://openagenda.com/scenes-2-guyancourt-la-batterie-ferme-de-bel-ebat/events/18448737_mentissa-9535477",
+      "aiSummary": "À La Batterie de Guyancourt, découvrez le concert de Mentissa autour de son deuxième album, *Enfants Difficiles*. Ce spectacle met en avant des morceaux plus rythmiques et incarnés, inspirés par la scène anglo-saxonne, tout en conservant une voix puissante et intime. Le public profitera d'un espace d'énergie et de partage, où l'artiste aborde des thèmes comme l'enfance, la famille et l'amour."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2685,7 +2680,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2702,7 +2698,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2719,7 +2716,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2736,7 +2734,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2753,7 +2752,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2770,7 +2770,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2787,7 +2788,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2804,7 +2806,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "LA FEMME LA PLUS RICHE DU MONDE",
@@ -2821,7 +2824,8 @@
       "description": "Les services seniors et culturel de Magny-les-Hameaux, en partenariat avec LE CINOCHE, vous donnent rendez-vous pour la projection du film \"La Femme la plus riche du monde\" jeudi 28 janvier à 15h30. **Synopsis :**  \nLa rencontre incandescente entre la femme la plus riche du monde, dotée d'une beauté et d'un pouvoir immenses, et un photographe ambitieux et insolent. Un véritable coup de foudre les emporte, déclenchant une guerre sans merci autour de donations astronomiques, de secrets de famille, et sous le regard d'une héritière méfiante et d'un majordome qui en sait trop.  \n  \n**Réalisateur :** Thierry Klifa  \n**Date de sortie :** 29 octobre 2025  \n**Durée :** 2h03",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/56269567_la-femme-la-plus-riche-du-monde-580022"
+      "url": "https://openagenda.com/lecinoche/events/56269567_la-femme-la-plus-riche-du-monde-580022",
+      "aiSummary": "Les habitants de Magny-les-Hameaux ont rendez-vous au cinéma Le Cinoche pour découvrir la projection du film \"La Femme la plus riche du monde\" réalisé par Thierry Klifa. Cette séance propose de suivre une histoire intense mêlant coup de foudre, secrets de famille et donations astronomiques entre une femme immensément riche et un photographe ambitieux."
     },
     {
       "title": "Adoration eucharistique",
@@ -2856,7 +2860,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "FESTIVAL CINÉ JUNIOR - 37ÈME ÉDITION",
@@ -2873,7 +2878,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "La belle au bois dormant",
@@ -2890,7 +2896,8 @@
       "description": "Grand Ballet de Kiev \\[Danse\\]\n\n### Merveilleux mouvements d’ensemble, pas de deux ensorcelants, envols irréels... Pour Rudolf Noureev, il était le « ballet des ballets ».\n\nEn effet, La Belle au bois dormant de Tchaïkovski, chorégraphié par Marius Petipa d'après le conte de Perrault et des frères Grimm, fait partie des ballets classiques les plus populaires. Combinant magie de l'argument et virtuosité des rôles, il est repris aujourd'hui dans la plupart des grandes compagnies classiques. Des interprètes d’exception, des décors et des costumes qui restituent intacte la facture de ce classique des classiques... Une belle occasion de vivre une véritable symphonie de danse en famille, petits et grands !\n\nDistribution\n\n*   Musique : Piotr Ilitch Tchaïkovski\n*   Chorégraphie : Marius Petipa\n*   Par le Grand Ballet de Kiev\n*   Direction Artisitque : Alexandre Stoyanov",
       "image": null,
       "source": "OpenAgenda · agenda 15004001",
-      "url": "https://openagenda.com/theatre-de-longjumeau/events/29978023_la-belle-au-bois-dormant-8482651"
+      "url": "https://openagenda.com/theatre-de-longjumeau/events/29978023_la-belle-au-bois-dormant-8482651",
+      "aiSummary": "À Longjumeau, le Grand Ballet de Kiev interprète le chef-d’œuvre classique de Tchaïkovski sur une chorégraphie de Marius Petipa. Petits et grands découvriront ce célèbre conte à travers des décors, des costumes et des pas de deux ensorcelants. C'est une belle occasion de partager en famille un spectacle féerique porté par des interprètes d'exception."
     },
     {
       "title": "LE COMTE DE BOUDERBALA 4",
@@ -2907,7 +2914,8 @@
       "description": "A.S. PROD Tout public à partir de 10 ans\n\nLe Comte de Bouderbala, aka Sami Améziane, fait partie des humoristes français les plus populaires, puisqu'il a rassemblé plus de deux millions de spectateurs en France en quinze ans de carrière.\n\nIl est en parallèle le premier humoriste français à être monté au prestigieux Comedy Cellar de New York.\n\nIl revient plus affûté que jamais avec un quatrième opus en abordant les grands thèmes qui divisent le monde avec un seul objectif : rire ensemble.\n\nOu comment débuter cette nouvelle année dans la bonne humeur !",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/le-scarabee-la-verriere/events/27857384_le-compte-de-bouderbala-4"
+      "url": "https://openagenda.com/le-scarabee-la-verriere/events/27857384_le-compte-de-bouderbala-4",
+      "aiSummary": "Les adolescents et leurs parents assisteront au nouveau spectacle de l'humoriste Sami Améziane, alias Le Comte de Bouderbala. Avec ce quatrième one-man-show, l'artiste aborde les grands thèmes qui divisent le monde avec l'unique objectif de faire rire le public ensemble et de débuter l'année dans la bonne humeur."
     },
     {
       "title": "Atelier d'initiation à la danse basque",
@@ -2941,7 +2949,8 @@
       "description": "Rendez-vous incontournable d’éducation à l’image et d’ouverture au monde pour les enfants de 2 à 15 ans. Le festival Ciné Junior, organisé par l’association Cinéma Public, rassemble chaque année 40 000 cinéphiles dans plus de cinquante lieux du Val-de- Marne et d’Île-de-France. Le Festival Ciné Junior a pour ambition de permettre aux enfants et adolescents de découvrir des films français et étrangers de qualité et d’aider à leur diffusion.  \nProgrammation à découvir fin 2026.",
       "image": null,
       "source": "OpenAgenda · agenda 60701331",
-      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition"
+      "url": "https://openagenda.com/lecinoche/events/5116831_festival-cine-junior-37eme-edition",
+      "aiSummary": "Le festival Ciné Junior invite les enfants et adolescents de 2 à 15 ans à découvrir une sélection variée de films français et étrangers de qualité. Cet événement d'éducation à l'image propose une belle ouverture sur le monde à travers une programmation cinématographique soigneusement choisie."
     },
     {
       "title": "La Vie secrète des vieux - Mohamed El Khatib",
