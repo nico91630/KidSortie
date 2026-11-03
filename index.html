@@ -220,7 +220,7 @@ async function renderMap(list){
  }catch(err){panel.replaceChildren();panel.append(el('div','map-fallback','Carte indisponible sans connexion. Utilisez le fil des sorties.'));console.warn(err)}
 }
 async function loadOutings(){
- const names=['./data/events.json','./data/paris.json','./data/essonne.json'];
+ const names=['./data/events.json','./data/paris.json','./data/essonne.json','./data/familinparis.json'];
  const responses=await Promise.allSettled(names.map(async path=>{
    const response=await fetch(path+'?version=20261102c&ts='+Date.now(),{cache:'no-store'});
    if(!response.ok)throw Error(path+' : HTTP '+response.status);
