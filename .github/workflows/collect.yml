@@ -6,6 +6,7 @@ on:
       - 'collect.mjs'
       - 'collect-paris.mjs'
       - 'collect-essonne.mjs'
+      - 'collect-familinparis.mjs'
       - 'family-filter.mjs'
       - 'summarize.mjs'
       - '.github/workflows/collect.yml'
@@ -36,6 +37,9 @@ jobs:
       - name: Collecte des sorties Essonne Tourisme
         run: node collect-essonne.mjs
         continue-on-error: true
+      - name: Collecte complémentaire FamilinParis
+        run: node collect-familinparis.mjs
+        continue-on-error: true
       - name: Créer les résumés IA (si configuré)
         run: node summarize.mjs
         env:
@@ -46,4 +50,5 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/events.json data/paris.json data/summary-cache.json
           if [ -f data/essonne.json ]; then git add data/essonne.json; fi
+          if [ -f data/familinparis.json ]; then git add data/familinparis.json; fi
           git diff --cached --quiet || (git commit -m 'Actualisation des sorties' && git pull --rebase origin main && git push origin HEAD:main)
