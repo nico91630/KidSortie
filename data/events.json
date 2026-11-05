@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-11-04T19:19:41.979Z",
+  "updatedAt": "2026-11-05T01:29:40.578Z",
   "events": [
-    {
-      "title": "Concours de Crèches",
-      "start": "2026-11-04T00:00:00+01:00",
-      "end": "2026-11-04T23:58:00+01:00",
-      "city": "Paris",
-      "lat": 48.840519,
-      "lon": 2.312848,
-      "category": "Événement",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Inscrivez vous au concours de crèches du 2 au 5 novembre 2026. Vous pourrez installer votre crèche pendant les journées d'amitié du 27, 28 et 29 novembre 2026. Dans un esprit de Noël, et pour favoriser la convivialité entre les Paroissiens et les habitants du Quartier, la paroisse Saint-Jean-Baptiste de la Salle vous invite à un concours de crèches qui se déroulera lors des Journées d’Amitié de la Paroisse du 27 au 29 Novembre 2026. Ce concours est ouvert à tous ceux qui souhaitent réaliser une crèche en mettant en valeur tout ce qu’elle représente : la Célébration de la naissance de Jésus, la Famille, la Créativité, le Partage. La participation est gratuite. Chaque participant pourra présenter UNE crèche, seul, en famille ou à plusieurs.  \nLes crèches, de dimension 60 cm x 60 cm seront réalisées au domicile du (des) participant(s). Vous pourrez les installer entre le 23 et le 26 Novembre à la Paroisse St Jean-Baptiste de la Salle.  \nCritères d’évaluation : Esprit de Noël, Créativité, Qualité de la réalisation, Originalité...  \nLe(s) participant(s) autorise(nt) la prise de photos de sa (leur) crèche dans le cadre du concours.  \nMesure de Sécurité : Interdiction de toute alimentation électrique sur secteur dans l’Eglise SJBS. Les organisateurs ne peuvent garantir contre le vol ou la dégradation des crèches (santons, matériel utilisé).  \nLes inscriptions seront ouvertes à compter",
-      "image": null,
-      "source": "OpenAgenda · agenda 70373762",
-      "url": "https://openagenda.com/saint-jean-baptiste-de-la-salle/events/34342506_concours-de-creches",
-      "aiSummary": "À Paris, la paroisse Saint-Jean-Baptiste de la Salle organise un concours de crèches chaleureux et convivial, ouvert à tous pour célébrer l'esprit de Noël. En participant seul, en famille ou à plusieurs, petits et grands pourront laisser parler leur créativité en réalisant une crèche à la maison. Cette belle initiative favorise le partage et permet d'exposer les créations lors des Journées d’Amitié."
-    },
-    {
-      "title": "Prix des lecteurs 2026",
-      "start": "2026-11-04T23:00:00+01:00",
-      "end": "2026-11-04T23:59:00+01:00",
-      "city": "Meudon",
-      "lat": 48.812669,
-      "lon": 2.238543,
-      "category": "Événement",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Les médiathèques vous invitent à élire votre roman préféré parmi cinq titres que nous avons adorés . Découvrez la sélection de cette année et laissez-vous embarquer dans des histoires... ![](/Default/basicimagedownload.ashx?itemGuid=4FCD84C4-7A1E-423C-827C-F60538189CF1)  \n\nLes médiathèques vous invitent à élire votre roman préféré parmi cinq titres que nous avons adorés. Découvrez la sélection de cette année et laissez-vous embarquer dans des histoires passionnantes.  \n  \n  \n\nLa sélection  \n\\- [Eclaircie](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=730638&TITLE=eclaircie-carys-davies) de Carys Davies (La Table ronde)  \n\\- [Ma vie sans moustache](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=739243&TITLE=ma-vie-sans-moustache-romain-puertolas) de Romain Puértolas (Albin Michel)  \n\\- [Le Livre de Joan](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=707809&TITLE=le-livre-de-joan-paul-thurin) de Paul Thurin (Stock)  \n\\- [Des enfants uniques](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=726367&TITLE=des-enfants-uniques-gabrielle-de-tournemire) de Gabrielle de Tournemire (Flammarion)  \n\\- [Les Sœurs Field](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=724632&TITLE=les-soeurs-field-dorothy-whipple) de Dorothy Whipple (La Table ron",
-      "image": null,
-      "source": "OpenAgenda · agenda 50008175",
-      "url": "https://openagenda.com/mediatheques-de-meudon/events/78891680_prix-des-lecteurs-2026-4831404",
-      "aiSummary": "Les médiathèques de Meudon vous invitent à découvrir une sélection de cinq romans passionnants pour élire votre livre préféré. Cette animation littéraire permet aux participants de se laisser embarquer dans de belles histoires et de partager leurs coups de cœur de lecture."
-    },
     {
       "title": "Concours de Crèches",
       "start": "2026-11-05T00:00:00+01:00",
@@ -3940,7 +3904,8 @@
       "description": "Vivre à la paroisse un temps privilégié : vie fraternelle, prière, liturgie, enseignements, services. **Programme**  \n_Posez le vendredi Saint !_\n\n**Jeudi Saint**  \n7h30 Office des ténèbres, suivi d’un café  \n9h-10h Lectio Divina guidée  \n12h15 Office du milieu du jour  \n17h30 Enseignement  \n19h30 Office de la Cène  \n21h-7h Adoration au reposoir\n\n**Vendredi Saint**  \n7h30 Office des ténèbres, suivi d’un café  \n9h-10h Lectio Divina guidée  \n12h15 chemin de croix dans la rue ou  \n15h chemin de croix dans l’église  \n17h30 Enseignement  \n19h30 Office de la Croix\n\n**Samedi Saint**  \n9h Office des ténèbres  \n15h Enseignement  \n21h Vigile pascale\n\nTous les paroissiens qui désirent peuvent s’associer à ce programme en fonction de leur disponibilité",
       "image": null,
       "source": "OpenAgenda · agenda 70373762",
-      "url": "https://openagenda.com/saint-jean-baptiste-de-la-salle/events/19179744_vivre-autrement-la-semaine-sainte-pour-les-18-30-ans"
+      "url": "https://openagenda.com/saint-jean-baptiste-de-la-salle/events/19179744_vivre-autrement-la-semaine-sainte-pour-les-18-30-ans",
+      "aiSummary": "Cette proposition s'adresse exclusivement aux jeunes adultes de 18 à 30 ans à Paris. Les participants partagent un temps fort autour de la vie fraternelle, de la prière, de la liturgie, d'enseignements et de services. C'est l'occasion de vivre la Semaine Sainte au sein de la paroisse grâce à un programme spirituel complet."
     },
     {
       "title": "Adoration eucharistique",
