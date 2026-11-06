@@ -1,383 +1,7 @@
 {
-  "updatedAt": "2026-11-05T19:16:37.632Z",
+  "updatedAt": "2026-11-06T01:31:05.930Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Une statue pour la liberté, le rêve de Bartholdi, de Paris à New York. Expérience immersive en réalité virtuelle",
-      "start": "2026-11-05T09:30:00+02:00",
-      "end": "2026-11-05T21:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.8603522858312,
-      "lon": 2.32675478488623,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.musee-orsay.fr/fr/programme/agenda/expositions/une-statue-pour-la-liberte-le-reve-de-bartholdi-de-paris-new-york",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "En parallèle de l’exposition « Auguste Bartholdi, La Liberté éclairant le monde », le musée d’Orsay présente l’expérience inédite en réalité virtuelle « Une Statue pour la Liberté, le rêve de Bartholdi, de Paris à New York » déployée sur près de 700 m² dans la Galerie Amont du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ed63875b6ceb2bfe19b94ae2858e04cb.jpg",
-      "aiSummary": "Le musée d’Orsay propose une expérience immersive inédite en réalité virtuelle autour de la création de la célèbre statue. Sur près de 700 mètres carrés, les enfants découvrent le projet et le voyage de ce monument emblématique, de Paris à New York, en écho à l'exposition consacrée au sculpteur Auguste Bartholdi."
-    },
-    {
-      "title": "Mary Cassatt. L'indépendante",
-      "start": "2026-11-05T09:30:00+02:00",
-      "end": "2026-11-05T21:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.8603522858312,
-      "lon": 2.32675478488623,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.musee-orsay.fr/fr/programme/agenda/expositions/mary-cassatt-lindependante",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Pour marquer le centième anniversaire de la mort de l’artiste, le musée d’Orsay organise une grande exposition consacrée à Mary Cassatt (1844-1926). Il s’agit, en France, d’un événement attendu : les musées nationaux n’ont encore jamais dédié d’exposition majeure à Mary Cassatt, membre actif du groupe impressionniste e",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-0066fdb5b77c183fab979b53a0857b04.jpg",
-      "aiSummary": "Le musée d’Orsay présente une grande exposition consacrée à Mary Cassatt, artiste majeure et membre actif du groupe impressionniste. Cet événement exceptionnel marque le centième anniversaire de sa mort et constitue la première exposition d’envergure que les musées nationaux français lui dédient."
-    },
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-05T09:30:00+02:00",
-      "end": "2026-11-05T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
-    {
-      "title": "Nanténé Traoré — pays des merveilles",
-      "start": "2026-11-05T11:00:00+02:00",
-      "end": "2026-11-05T21:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.85508,
-      "lon": 2.359244,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.mep-fr.org/event/nantene-traore-pays-des-merveilles/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Du 30 septembre au 29 novembre 2026, le MEP Studio accueille pays des merveilles, la première exposition monographique muséale de Nanténé Traoré. À travers une iconographie vivante de l’intime, son travail propose une méditation sur la mémoire, l'attachement et la disparition.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-624a6fa7b3caebf8438038678677ab48.jpeg",
-      "aiSummary": "Le MEP Studio présente la première exposition monographique muséale de Nanténé Traoré, intitulée \"pays des merveilles\". À travers une iconographie vivante axée sur l'intime, cette présentation artistique invite les visiteurs à découvrir un travail visuel méditatif explorant la mémoire, l'attachement et la disparition, à voir à Paris."
-    },
-    {
-      "title": "Nuits de lumière au Château de Vincennes",
-      "start": "2026-11-05T18:30:00+02:00",
-      "end": "2026-11-05T23:00:00+02:00",
-      "city": "Vincennes",
-      "lat": 48.8455103296908,
-      "lon": 2.42806381276569,
-      "category": "Découverte",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://nuitsdelumiere.placeminute.com/event/spectacle-immersif/nuits-de-lumiere-au-chateau-de-vincennes,48694.html?sl=3690&_locale=fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Participez à une expérience monumentale. Réservez dès maintenant votre place pour un parcours immersif au cœur du Château de Vincennes !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-b5692aa2b403da12abedb53e184e84ff.jpg",
-      "aiSummary": "Partez pour une expérience monumentale lors d'un parcours immersif au cœur du Château de Vincennes. Cette visite nocturne spectaculaire propose de découvrir le monument illuminé d'une manière totalement inédite. Une sortie culturelle originale qui ravira toute la famille à la tombée de la nuit."
-    },
-    {
-      "title": "Darkness Picnic • DOM-",
-      "start": "2026-11-05T19:00:00+02:00",
-      "end": "2026-11-05T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.867741,
-      "lon": 2.377855,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://maisondesmetallos-billetterie.mapado.com/event/707480-darkness-picnic-dom",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "DOM- s’inspire librement de \"Picnic at Hanging Rock\" (1975) de Peter Weir, adapté du roman éponyme de Joan Lindsay. À partir de cette fiction inquiétante teintée d’onirisme — la disparition énigmatique de jeunes filles bourgeoises dans l’Australie coloniale des années 1900, la compagnie italienne interroge notre présen",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/16/huge-67bbd90ad24fc50ed06982c2d43281c0.jpg",
-      "aiSummary": "Inspiré librement du film \"Picnic at Hanging Rock\", le spectacle Darkness Picnic plonge le public dans une fiction inquiétante et onirique évoquant la disparition énigmatique de jeunes filles dans l'Australie coloniale. Cette création de la compagnie italienne DOM- propose aux spectateurs une réflexion originale qui interroge habilement notre époque à travers ce mystère historique."
-    },
-    {
-      "title": "« Radio Live - le jour d'après Ukraine » de Aurélie Charon & le collectif Radio Live",
-      "start": "2026-11-05T19:30:00+02:00",
-      "end": "2026-11-05T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8629049988756,
-      "lon": 2.28834196100399,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://indiv.themisweb.fr/0218/fChoixSeanceWidget.aspx?idstructure=0218&EventId=1731&request=QcE+w0WHSuBQMpsjSY4ol/xOunNtETpTWilB08NP2m5eAoR3LX+iQqtINQ/47TRYytvAX/0i3m5g6VKQv0I1qts+WYS1LLY8mV4h+hGj93M=",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Depuis plus de 10 ans, la productrice et animatrice radiophonique Aurélie Charon part, micro en main à la rencontre de femmes et d'hommes témoignant de leur réalité dans des zones ébranlées. Ce spectacle hors norme est consacré à l' Ukraine où il a été écrit.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-2a342d3bc2a7aacf91251dc253f86d94.jpg",
-      "aiSummary": "Ce spectacle documentaire propose de découvrir les témoignages recueillis micro en main par Aurélie Charon auprès d'habitants de zones ébranlées, avec une création consacrée à l'Ukraine. Cette proposition artistique hors norme offre aux spectateurs une immersion sonore et visuelle unique au cœur des réalités vécues là-bas."
-    },
-    {
-      "title": "Thérèse et Isabelle, Marie Fortuit",
-      "start": "2026-11-05T20:00:00+02:00",
-      "end": "2026-11-05T21:35:00+02:00",
-      "city": "Paris",
-      "lat": 48.827601,
-      "lon": 2.377226,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.theatre13.com/spectacle?id_spectacle=556&lng=1",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Écrit en 1954 par Violette Leduc et longtemps censuré, le texte « Thérèse et Isabelle » retrace la passion absolue de deux adolescentes dans le pensionnat d’un collège. Une langue poétique y dit la sensualité féminine et le désir lesbien.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-10cf6628a5ad56fae7062fc6631cadb8.jpg",
-      "aiSummary": "Ce spectacle théâtral invite à découvrir le texte de Violette Leduc, écrit en 1954 et longtemps censuré, qui retrace la passion amoureuse de deux adolescentes dans un pensionnat. Cette adaptation met en valeur une langue poétique pour exprimer la sensualité féminine et le désir. C'est une proposition culturelle singulière à Paris pour aborder cette œuvre littéraire marquante."
-    },
-    {
-      "title": "Grand Prix T13 2026",
-      "start": "2026-11-05T20:00:00+02:00",
-      "end": "2026-11-05T21:20:00+02:00",
-      "city": "Paris",
-      "lat": 48.83037,
-      "lon": 2.345697,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.theatre13.com/spectacle?id_spectacle=558&lng=1",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "07 83 63 54 73 est une performance théâtrale sur Cécile, travailleuse du sexe de 20 ans qui se fait appeler Douce sur un site d’escorting.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-6587b8266904dccafd83bb30ce17b66b.jpg",
-      "aiSummary": "Cette performance théâtrale invite à découvrir l'histoire de Cécile, une jeune femme de 20 ans exerçant comme travailleuse du sexe sous le pseudonyme de Douce sur un site d'escorting. Cette création aborde des sujets de société contemporains à travers une mise en scène intimiste, offrant ainsi une réflexion percutante sur le parcours et la réalité de ce personnage."
-    },
-    {
-      "title": "Nos corps désirants",
-      "start": "2026-11-05T20:00:00+02:00",
-      "end": "2026-11-05T21:30:00+02:00",
-      "city": "Paris 12",
-      "lat": 48.8355687984872,
-      "lon": 2.45233560472765,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.la-tempete.fr/infos-pratiques-tempete/tarifs",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle qui questionne les fantasmes et les représentations du désir véhiculés par la société en puisant dans l’histoire de l’art et dans les chansons populaires.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/16/huge-c92f967baf82cf1cca0f852831deb473.jpg",
-      "aiSummary": "Ce spectacle invite à explorer les fantasmes et les représentations du désir véhiculés par la société à travers l'histoire de l'art et les chansons populaires. Cette création originale propose ainsi de questionner notre rapport à ces sujets en s'appuyant sur des références culturelles variées."
-    },
-    {
-      "title": "Paris Sportives : Rugby par le Rugby Club Paris 15",
-      "start": "2026-11-05T20:00:00+02:00",
-      "end": "2026-11-05T21:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.833071,
-      "lon": 2.276576,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sportives-rugby-au-centre-sportif-suzanne-lenglen-82764",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des entraînements de rugby pour les adolescentes et les femmes adultes, dans un esprit de progression, de cohésion et de convivialité au cœur du 15e arrondissement.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/04/28/huge-0ce485012aafee319de8af80e09b39f3.png",
-      "aiSummary": "Ce club du 15e arrondissement de Paris propose des entraînements de rugby dédiés aux adolescentes et aux femmes adultes. Cette activité permet de progresser sportivement tout en profitant d'un cadre fondé sur la cohésion et la convivialité."
-    },
-    {
-      "title": "Djamil le Shlag | Humour",
-      "start": "2026-11-05T20:00:00+02:00",
-      "end": "2026-11-05T21:20:00+02:00",
-      "city": "Paris",
-      "lat": 48.8461370015732,
-      "lon": 2.37111903837467,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatre-traversiere.mapado.com/event/761338-djamil-le-shlag",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plein d’énergie et d’autodérision, Djamil Le Shlag revient sur son parcours fait de petits et grands cheminements. De la campagne à la ville, de l’Afrique à l’Europe, du célibat à la vie de famille, de l’anonymat à la notoriété… À partir de ses différentes expériences, il tire la conclusion que le mouvement, c’est la v",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-97cbbb539b1ce9e6740baae72583ebf2.jpg",
-      "aiSummary": "Dans ce spectacle d'humour plein d'énergie, l'artiste partage son parcours de vie avec beaucoup d'autodérision. Les spectateurs découvriront ses réflexions sur son passage de la campagne à la ville, de l'Afrique à l'Europe, ainsi que sur sa transition du célibat à la vie de famille. Une sortie divertissante qui aborde avec humour les petits et grands cheminements de l'existence."
-    },
-    {
-      "title": "Élixirs du territoire de Notre-Dame, sur les traces de Viollet-le-Duc à la Bibliothèque Historique de la Ville de Paris",
-      "start": "2026-11-05T20:30:00+02:00",
-      "end": "2026-11-05T21:40:00+02:00",
-      "city": "Paris",
-      "lat": 48.857065,
-      "lon": 2.361696,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/art-r-2026-elixirs-de-territoire-de-notre-dame-compagnie-tangible-117790",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ponctuations artistiques de « Élixirs de territoire de Notre-Dame », de la Compagnie Tangible dans le cadre d'Art'R - Saison des arts de la rue - Automne 2026.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-39acf93c8c9e15014e9efa54d41741ff.jpg",
-      "aiSummary": "À la Bibliothèque Historique de la Ville de Paris, découvrez les ponctuations artistiques de la Compagnie Tangible autour de l'œuvre de Viollet-le-Duc. Cette proposition originale dans le cadre de la saison des arts de la rue permet aux familles de vivre une expérience culturelle insolite au cœur de la capitale."
-    },
-    {
-      "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
-      "start": "2026-11-05T20:30:00+02:00",
-      "end": "2026-11-05T23:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8705560000942,
-      "lon": 2.3476659703756,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.u-play.fr/harrypottercineconcert1",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Du 04 au 08 novembre 2026 au Grand Rex, revivez cette extraordinaire histoire d’amitié, de magie et d’aventure lors d’un ciné-concert exceptionnel !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-90a9cb228cb7edee40271c0351bf354a.jpg",
-      "aiSummary": "Plongez dans la magie de Poudlard au Grand Rex de Paris grâce à un ciné-concert exceptionnel qui fait revivre sur grand écran le premier volet de la saga. Les enfants découvriront ou redécouvriront cette extraordinaire aventure fantastique rythmée par la musique du film interprétée en direct. Une expérience immersive unique pour partager un grand moment d'amitié et de sorcellerie en famille."
-    },
-    {
-      "title": "La Meute, murder party d'Halloween",
-      "start": "2026-11-05T20:30:00+02:00",
-      "end": "2026-11-05T22:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8525370037428,
-      "lon": 2.35660602448351,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://fr.gamescape.fr/escape-game-murder-halloween.html",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Pour Halloween, Gamescape transforme le célèbre jeu du loup-garou en une murder party de 24 joueurs, menée par des comédiens dans les caves voûtées de l'île Saint-Louis.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-5d9eab213c61b410f188d8a079a5bfdd.jpg",
-      "aiSummary": "Plongez dans les caves voûtées de l'île Saint-Louis pour une murder party géante inspirée du célèbre jeu du loup-garou. Guidés par des comédiens professionnels, les participants mènent l'enquête au cœur d'un décor historique insolite. Cette expérience immersive et originale offre une façon frissonnante et ludique de célébrer Halloween en famille."
-    },
-    {
-      "title": "LET'S GO !",
-      "start": "2026-11-05T21:00:00+02:00",
-      "end": "2026-11-05T22:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8292379951241,
-      "lon": 2.35603002009728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://le13emeart.com/les-evenements/lets-go/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "LET’S GO! est un carrefour d’énergies, une aventure collective où les différences deviennent une force et où la danse se fait langage viscéral.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/14/huge-9cdd4da7133097b3bfe99665a30b820f.jpg",
-      "aiSummary": "Cette aventure collective et carrefour d'énergies propose aux enfants de découvrir un langage viscéral à travers la danse. Ce spectacle met en avant la force de la différence dans une démarche artistique unique et stimulante."
-    },
-    {
-      "title": "L'amour et la violence",
-      "start": "2026-11-05T21:00:00+02:00",
-      "end": "2026-11-05T22:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.888741000038,
-      "lon": 2.35350497176569,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://lmp-billetterie.mapado.com/event/581127-lamour-et-la-violence",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Découvrez \"L'amour et la violence\", une pièce de théâtre captivante au Lavoir Moderne Parisien à Paris, du 12 au 30 novembre 2025. Sous la direction de Fernanda Barth, plongez dans les histoires d'amour poignantes des locataires d'un immeuble parisien. Ne manquez pas cette expérience riche en émotions!",
-      "image": "https://cdn.paris.fr/qfapv4/2025/11/25/huge-d890de21dcd28d2a8f71df336e31a4db.png",
-      "aiSummary": "Au Lavoir Moderne Parisien, découvrez la pièce de théâtre \"L'amour et la violence \" mise en scène par Fernanda Barth. Ce spectacle captivant plonge le public dans les histoires d'amour poignantes des différents locataires d'un immeuble parisien, offrant ainsi une expérience théâtrale riche en émotions à vivre en famille."
-    },
-    {
-      "title": "Théâtre : La Permanence des rêves",
-      "start": "2026-11-05T21:00:00+02:00",
-      "end": "2026-11-05T22:40:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://indiv.themisweb.fr/0564/fChoixSeanceWidget.aspx?idstructure=0564&EventId=550&request=QcE+w0WHSuAkSQcRYa88s8uxfI7h/xpcJrMzCXfzC5NakbyqdGdxYHYwM/ndJraIQIku/PF1hEnCWf6jnqne+9QNYCkvCLCj&yymm=20261021",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Il y avait donc urgence : crier la colère.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-f240a94d5e8764cf447027a3da7ea78f.jpg"
-    },
-    {
-      "title": "Le poids de l'eau",
-      "start": "2026-11-05T21:30:00+02:00",
-      "end": "2026-11-05T22:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://folietheatre.com/spectacles/le-poids-de-leau/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans les vestiaires d’une piscine, deux hommes se croisent pour la première fois. Le décor est banal, mais la rencontre, unique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg"
-    },
-    {
-      "title": "Thomas Nguyen, l'Orchestre Tout Puissant Marcel Duchamp, Anthony Laguerre & les Percussions de Strasbourg, La Sirène, La Fanfort",
-      "start": "2026-11-06T00:00:00+00:00",
-      "end": "2026-11-08T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.830303,
-      "lon": 2.301819,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatresilviamonfort.eu/events/festival-sonore-3/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Troisième édition du Festival Sonore ! Trois jours pour tendre l’oreille et laisser le son prendre toute la place. Un festival de découvertes ludique et débridé, où la création sonore devient un terrain de jeu à explorer sous toutes les coutures. Ici, pas de frontières : les esthétiques se croisent, les formats se réin",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-8323b8307d7b034d1587e043ec37dc74.jpg",
-      "aiSummary": "Ce troisième Festival Sonore propose trois jours de découvertes ludiques et débridées autour de la création sonore. Les enfants exploreront le son sans frontières à travers des esthétiques variées et des formats réinventés, offrant un terrain de jeu musical original et inattendu."
-    },
-    {
-      "title": "La Mort du môme",
-      "start": "2026-11-06T00:00:00+00:00",
-      "end": "2026-12-12T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.8645460078793,
-      "lon": 2.39765899367521,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.colline.fr/spectacles/la-mort-du-mome",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "« Enterrez-moi là où j’aurai vécu. » Dans un foyer Emmaüs, un père est mort. Il laisse pour testament cette phrase, découverte par l’Enfant au même instant que son corps, et une question qui divise les siens : où enterrer un homme dont la vie s’est tenue entre deux langues, entre deux rives ?",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/14/huge-b90f2fdf2e35ba06867871055cfe5574.jpeg",
-      "aiSummary": "Dans ce spectacle présenté à Paris, un enfant découvre le corps de son père dans un foyer Emmaüs, accompagné d'un mystérieux testament. Les spectateurs suivent cette quête intime et poétique qui interroge les racines, l'identité et le lieu d'inhumation d'un homme partagé entre deux cultures. Une œuvre théâtrale forte et touchante qui aborde la transmission familiale et le deuil."
-    },
     {
       "title": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
       "start": "2026-11-06T09:00:00+02:00",
@@ -769,7 +393,8 @@
       "url": "https://www.paris.fr/evenements/exposition-mosaique-d-atelier-123635",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À l'occasion de ses vingt ans, le Groupe d'Entraide Mutuelle (GEM) Connexion Plus expose les créations de ses adhérentes et adhérents.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-150d9f515ebe8b17faf7f10296605a85.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-150d9f515ebe8b17faf7f10296605a85.jpg",
+      "aiSummary": "À Paris, l'exposition « Mosaïque d'atelier » célèbre les vingt ans du Groupe d'Entraide Mutuelle Connexion Plus en présentant les créations artistiques réalisées par ses adhérents. Les visiteurs pourront ainsi découvrir la diversité des œuvres issues de ce travail collectif. Cette sortie culturelle offre l'opportunité d'admirer des réalisations variées et de soutenir l'expression artistique locale."
     },
     {
       "title": "Expo « Chiens et chats » à la Cité des sciences",
@@ -1038,7 +663,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -1216,7 +842,8 @@
       "url": "https://www.billetweb.fr/bbg-06112026",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Comment trouver des mots parmi d’autres pour se raconter soi-même ? Et si les mots des autres devenaient la matière première de notre propre récit. C’est en retravaillant la page que vous ferez émerger le matériau de votre imaginaire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-9fe5f7cdd8201041a71be04d8388d524.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-9fe5f7cdd8201041a71be04d8388d524.jpg",
+      "aiSummary": "Cet atelier d'écriture invite les participants à utiliser les mots d'autrui comme matière première pour se raconter. En retravaillant la page, les enfants et les jeunes feront émerger le matériau de leur propre imaginaire pour composer un récit unique."
     },
     {
       "title": "Initiation au coréen à la bibliothèque Germaine Tillion",
@@ -1233,7 +860,8 @@
       "url": "https://www.billetweb.fr/initiation-au-coreen-chaque-vendredi-du-6-novembre-au-11-decembre",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre de notre partenariat avec le Centre français de l'Institut Roi Sejong , initiez-vous à l'alphabet coréen, le Hangeul et aux rudiments de la langue coréenne !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-a90a1e2907654be116b8d24a77f4c803.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-a90a1e2907654be116b8d24a77f4c803.png",
+      "aiSummary": "À la bibliothèque Germaine Tillion à Paris, découvrez l'alphabet coréen, le Hangeul, ainsi que les rudiments de la langue coréenne. Cette initiation inédite est proposée dans le cadre d'un partenariat avec le Centre français de l'Institut Roi Sejong, offrant une belle occasion d'éveil culturel et linguistique pour les enfants curieux d'apprendre de nouveaux horizons."
     },
     {
       "title": "Atelier de conversation en français",
@@ -1250,7 +878,8 @@
       "url": "https://www.paris.fr/evenements/atelier-de-conversation-en-francais-101787",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Chaque semaine, on échange, on se raconte, on se rencontre autour d'un café… en français. Le vendredi à 17h30, hors vacances scolaires",
-      "image": "https://cdn.paris.fr/qfapv4/2025/11/25/huge-3ab21aa869f2293daccb79547c80672c.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/11/25/huge-3ab21aa869f2293daccb79547c80672c.png",
+      "aiSummary": "Lors de cet atelier hebdomadaire à Paris, les participants se retrouvent pour échanger et discuter en français dans une ambiance conviviale. Cette sortie offre un moment d'échange chaleureux et de partage autour de la conversation, idéal pour se rencontrer en fin de semaine hors vacances scolaires."
     },
     {
       "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
@@ -1267,7 +896,8 @@
       "url": "https://ceca-riovermelho.org.br/ceca/paris-%c2%b7-fr/?lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L’agilité d’un cours de sport, la coordination et créativité d’un cours de musique, l’expression corporelle d’un cours de danse. L’activité qui réunit tout ce qu’un parent cherche à développer chez son fils de façon ludique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-9380b5c6b38e595dd7bd6fa432916e17.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-9380b5c6b38e595dd7bd6fa432916e17.png",
+      "aiSummary": "Ce cours de Capoeira Angola traditionnelle animé par Mestre Faísca propose une activité ludique mêlant sport, musique, danse et expression corporelle. Les enfants pourront ainsi développer leur agilité, leur coordination et leur créativité dans une ambiance rythmée. C'est une sortie idéale pour stimuler à la fois le corps et l'esprit des plus jeunes."
     },
     {
       "title": "Dédicace - Irène Jonas, «Soviet à l’Atelier» à la Galerie Taylor",
@@ -1284,7 +914,8 @@
       "url": "https://www.paris.fr/evenements/dedicace-irene-jonas-soviet-a-l-atelier-galerie-taylor-126897",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À l’occasion de la parution de son nouveau livre Soviet, la photographe dédicacera son livre et présentera quelques photographies à l’Atelier Galerie Taylor vendredi 6 novembre à partir de 18h.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/31/huge-0d0c99d9e49d93ed822e54ca1db4a3bc.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/31/huge-0d0c99d9e49d93ed822e54ca1db4a3bc.png",
+      "aiSummary": "La photographe Irène Jonas vous invite à découvrir son nouveau livre « Soviet » lors d'une séance de dédicaces exceptionnelle. Les visiteurs pourront également admirer sur place plusieurs photographies originales tirées de l'ouvrage. C'est l'occasion idéale pour les amateurs d'art et de découverte de rencontrer l'artiste et d'échanger avec elle autour de son travail."
     },
     {
       "title": "Nuits de lumière au Château de Vincennes",
@@ -1305,6 +936,24 @@
       "aiSummary": "Partez pour une expérience monumentale lors d'un parcours immersif au cœur du Château de Vincennes. Cette visite nocturne spectaculaire propose de découvrir le monument illuminé d'une manière totalement inédite. Une sortie culturelle originale qui ravira toute la famille à la tombée de la nuit."
     },
     {
+      "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
+      "start": "2026-11-06T18:30:00+02:00",
+      "end": "2026-11-06T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
+    },
+    {
       "title": "Élixirs du territoire de Notre-Dame, sur les traces de Viollet-le-Duc à la Bibliothèque Historique de la Ville de Paris",
       "start": "2026-11-06T18:30:00+02:00",
       "end": "2026-11-06T19:40:00+02:00",
@@ -1321,23 +970,6 @@
       "description": "Ponctuations artistiques de « Élixirs de territoire de Notre-Dame », de la Compagnie Tangible dans le cadre d'Art'R - Saison des arts de la rue - Automne 2026.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-39acf93c8c9e15014e9efa54d41741ff.jpg",
       "aiSummary": "À la Bibliothèque Historique de la Ville de Paris, découvrez les ponctuations artistiques de la Compagnie Tangible autour de l'œuvre de Viollet-le-Duc. Cette proposition originale dans le cadre de la saison des arts de la rue permet aux familles de vivre une expérience culturelle insolite au cœur de la capitale."
-    },
-    {
-      "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
-      "start": "2026-11-06T18:30:00+02:00",
-      "end": "2026-11-06T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.842975,
-      "lon": 2.318588,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
     },
     {
       "title": "Darkness Picnic • DOM-",
@@ -1389,7 +1021,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "DISCO",
@@ -1406,7 +1039,8 @@
       "url": "https://le13emeart.com/les-evenements/d-i-s-c-o/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une performance solaire et exigeante portée par l'une des chorégraphes les plus en vue de sa génération.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png",
+      "aiSummary": "Découvrez une performance chorégraphique solaire et exigeante à Paris, signée par l'une des créatrices les plus en vue de sa génération. Cette création contemporaine invite le jeune public à partager un moment artistique fort et stimulant, porté par une écriture chorégraphique audacieuse et résolument moderne."
     },
     {
       "title": "IMPRO!",
@@ -1440,7 +1074,8 @@
       "url": "https://billetterie.theatre-bastille.com/spectacle?id_spectacle=551",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ix : variations vient éclairer, depuis l’enfance et l’adolescence, l’existence d’un personnage intersexe qui doit se construire au sein de notre société discriminante.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-d9882cdc77a34d25f7d892067730c2a0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-d9882cdc77a34d25f7d892067730c2a0.jpg",
+      "aiSummary": "Ce spectacle théâtral invite le public à suivre le parcours d'un personnage intersexe depuis l'enfance et l'adolescence, confronté aux difficultés de construction dans une société discriminante. Cette création aborde avec sensibilité des thématiques sociétales actuelles importantes, offrant ainsi un moment de réflexion et de découverte artistique accessible aux jeunes spectateurs."
     },
     {
       "title": "Rencontre avec Marion Dubreuil",
@@ -1457,7 +1092,8 @@
       "url": "https://www.billetweb.fr/pro/agendayourcenar",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Rencontre avec la journaliste et dessinatrice judiciaire Marion Dubreuil qui publie sa première bande dessinée \"Pelicot : Un procès pour l'Histoire\" en octobre 2026 aux éditions Futuropolis.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-181e3412d62363ad636148dba4d18146.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-181e3412d62363ad636148dba4d18146.png",
+      "aiSummary": "Les enfants et adolescents vont à la rencontre de la journaliste et dessinatrice judiciaire Marion Dubreuil pour découvrir son travail. Cette sortie parisienne offre une occasion unique d'échanger sur la création de sa première bande dessinée consacrée à un procès historique."
     },
     {
       "title": "24 Place Beaumarchais",
@@ -1700,24 +1336,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/14/huge-51212ada6a8dcce595fc9c8f95d07b3a.jpg"
     },
     {
-      "title": "Élixirs du territoire de Notre-Dame, sur les traces de Viollet-le-Duc à la Bibliothèque Historique de la Ville de Paris",
-      "start": "2026-11-06T20:30:00+02:00",
-      "end": "2026-11-06T21:40:00+02:00",
-      "city": "Paris",
-      "lat": 48.857065,
-      "lon": 2.361696,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/art-r-2026-elixirs-de-territoire-de-notre-dame-compagnie-tangible-117790",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Ponctuations artistiques de « Élixirs de territoire de Notre-Dame », de la Compagnie Tangible dans le cadre d'Art'R - Saison des arts de la rue - Automne 2026.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-39acf93c8c9e15014e9efa54d41741ff.jpg",
-      "aiSummary": "À la Bibliothèque Historique de la Ville de Paris, découvrez les ponctuations artistiques de la Compagnie Tangible autour de l'œuvre de Viollet-le-Duc. Cette proposition originale dans le cadre de la saison des arts de la rue permet aux familles de vivre une expérience culturelle insolite au cœur de la capitale."
-    },
-    {
       "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
       "start": "2026-11-06T20:30:00+02:00",
       "end": "2026-11-06T23:00:00+02:00",
@@ -1752,6 +1370,24 @@
       "description": "Pour Halloween, Gamescape transforme le célèbre jeu du loup-garou en une murder party de 24 joueurs, menée par des comédiens dans les caves voûtées de l'île Saint-Louis.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-5d9eab213c61b410f188d8a079a5bfdd.jpg",
       "aiSummary": "Plongez dans les caves voûtées de l'île Saint-Louis pour une murder party géante inspirée du célèbre jeu du loup-garou. Guidés par des comédiens professionnels, les participants mènent l'enquête au cœur d'un décor historique insolite. Cette expérience immersive et originale offre une façon frissonnante et ludique de célébrer Halloween en famille."
+    },
+    {
+      "title": "Élixirs du territoire de Notre-Dame, sur les traces de Viollet-le-Duc à la Bibliothèque Historique de la Ville de Paris",
+      "start": "2026-11-06T20:30:00+02:00",
+      "end": "2026-11-06T21:40:00+02:00",
+      "city": "Paris",
+      "lat": 48.857065,
+      "lon": 2.361696,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/art-r-2026-elixirs-de-territoire-de-notre-dame-compagnie-tangible-117790",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ponctuations artistiques de « Élixirs de territoire de Notre-Dame », de la Compagnie Tangible dans le cadre d'Art'R - Saison des arts de la rue - Automne 2026.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-39acf93c8c9e15014e9efa54d41741ff.jpg",
+      "aiSummary": "À la Bibliothèque Historique de la Ville de Paris, découvrez les ponctuations artistiques de la Compagnie Tangible autour de l'œuvre de Viollet-le-Duc. Cette proposition originale dans le cadre de la saison des arts de la rue permet aux familles de vivre une expérience culturelle insolite au cœur de la capitale."
     },
     {
       "title": "Retour aux sources - Tunisie",
@@ -3307,23 +2943,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-7cbf683e295ea2cd56c1c40a64a637eb.jpg"
     },
     {
-      "title": "L'Heure du cinéma : Le Moyen Âge au cinéma",
-      "start": "2026-11-07T10:30:00+02:00",
-      "end": "2026-11-07T11:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.851596,
-      "lon": 2.38396,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/l-heure-du-cinema-le-moyen-age-au-cinema-126985",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "L'Heure du ciné, des extraits de films commentés par les bibliothécaires",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-43a7d648e934aa9765322276acd6d1c8.jpg"
-    },
-    {
       "title": "Voir Tahiti. Premières photographies 1859-1870",
       "start": "2026-11-07T10:30:00+02:00",
       "end": "2026-11-07T19:00:00+02:00",
@@ -3357,6 +2976,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Il s’en passe des choses quand Bulle et Bob cuisinent !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/12/huge-4f69a3a587a5b65a638d1e40e86a8117.png"
+    },
+    {
+      "title": "L'Heure du cinéma : Le Moyen Âge au cinéma",
+      "start": "2026-11-07T10:30:00+02:00",
+      "end": "2026-11-07T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.851596,
+      "lon": 2.38396,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-cinema-le-moyen-age-au-cinema-126985",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "L'Heure du ciné, des extraits de films commentés par les bibliothécaires",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/03/huge-43a7d648e934aa9765322276acd6d1c8.jpg"
     },
     {
       "title": "Racontines des Batignolles",
@@ -3788,7 +3424,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
@@ -3925,7 +3562,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Ce qui nous restera",
@@ -4153,23 +3791,6 @@
       "aiSummary": "Dans cette exposition à Paris, les jeunes visiteurs découvrent des films construits à partir d'histoires, de souvenirs et d'anecdotes recueillis par Rayane Mcirdi auprès de ses proches et des habitants d'Asnières-sur-Seine et de Gennevilliers. Cette sortie culturelle offre un regard touchant sur les récits familiaux et les liens entre l'Algérie et la France, mis en scène à travers le travail artistique du cinéaste."
     },
     {
-      "title": "Les Voûtes en fête : ateliers, fanfare et concert",
-      "start": "2026-11-07T14:00:00+02:00",
-      "end": "2026-11-07T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8872139849175,
-      "lon": 2.38478397130257,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/les-voutes-en-fete-ateliers-fanfare-et-concert-126817",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le samedi 7 novembre, venez découvrir les Voûtes dans le 19e ! Cuisine mexicaine, ateliers créatifs, fanfare et concert de Syamka : un après-midi pour expérimenter, se rencontrer et imaginer ensemble l’avenir du lieu.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-84ce86c184b25b86d92fb04ce8b884c3.jpg"
-    },
-    {
       "title": "Atelier Toupies en origami",
       "start": "2026-11-07T14:00:00+02:00",
       "end": "2026-11-07T16:00:00+02:00",
@@ -4185,6 +3806,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Initiez-vous aux pliages selon l'art traditionnel japonais",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-a6d493d0b78298a5365347980d41bc58.jpg"
+    },
+    {
+      "title": "Les Voûtes en fête : ateliers, fanfare et concert",
+      "start": "2026-11-07T14:00:00+02:00",
+      "end": "2026-11-07T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8872139849175,
+      "lon": 2.38478397130257,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/les-voutes-en-fete-ateliers-fanfare-et-concert-126817",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le samedi 7 novembre, venez découvrir les Voûtes dans le 19e ! Cuisine mexicaine, ateliers créatifs, fanfare et concert de Syamka : un après-midi pour expérimenter, se rencontrer et imaginer ensemble l’avenir du lieu.",
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-84ce86c184b25b86d92fb04ce8b884c3.jpg"
     },
     {
       "title": "L'Usine de Films Amateurs de Michel Gondry à la Galerie du 19M",
@@ -4322,7 +3960,8 @@
       "url": "https://ceca-riovermelho.org.br/ceca/paris-%c2%b7-fr/?lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L’agilité d’un cours de sport, la coordination et créativité d’un cours de musique, l’expression corporelle d’un cours de danse. L’activité qui réunit tout ce qu’un parent cherche à développer chez son fils de façon ludique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-7fdb9b9f9a314556bab1afcc32f90059.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-7fdb9b9f9a314556bab1afcc32f90059.png",
+      "aiSummary": "Ce cours de Capoeira Angola traditionnelle animé par Mestre Faísca propose une activité ludique mêlant sport, musique, danse et expression corporelle. Les enfants pourront ainsi développer leur agilité, leur coordination et leur créativité dans une ambiance rythmée. C'est une sortie idéale pour stimuler à la fois le corps et l'esprit des plus jeunes."
     },
     {
       "title": "Ciné Relax UGC Ciné Cité Paris 19",
@@ -5300,7 +4939,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "« Radio Live - le jour d'après Egypte » de Aurélie Charon & le collectif Radio Live",
@@ -5334,7 +4974,8 @@
       "url": "https://le13emeart.com/les-evenements/d-i-s-c-o/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une performance solaire et exigeante portée par l'une des chorégraphes les plus en vue de sa génération.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-fae0e8cf07343a2f88fe15f0311ee437.png",
+      "aiSummary": "Découvrez une performance chorégraphique solaire et exigeante à Paris, signée par l'une des créatrices les plus en vue de sa génération. Cette création contemporaine invite le jeune public à partager un moment artistique fort et stimulant, porté par une écriture chorégraphique audacieuse et résolument moderne."
     },
     {
       "title": "Le Spectateur condamné à mort",
@@ -5402,7 +5043,8 @@
       "url": "https://billetterie.theatre-bastille.com/spectacle?id_spectacle=551",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ix : variations vient éclairer, depuis l’enfance et l’adolescence, l’existence d’un personnage intersexe qui doit se construire au sein de notre société discriminante.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-d9882cdc77a34d25f7d892067730c2a0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-d9882cdc77a34d25f7d892067730c2a0.jpg",
+      "aiSummary": "Ce spectacle théâtral invite le public à suivre le parcours d'un personnage intersexe depuis l'enfance et l'adolescence, confronté aux difficultés de construction dans une société discriminante. Cette création aborde avec sensibilité des thématiques sociétales actuelles importantes, offrant ainsi un moment de réflexion et de découverte artistique accessible aux jeunes spectateurs."
     },
     {
       "title": "24 Place Beaumarchais",
@@ -6433,7 +6075,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Goûter musical - Musiques de Papier par l'ensemble Le Concert Impromptu",
@@ -6553,7 +6196,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Paris Sportives : Basketball avec l'association La Domremy Basket 13",
@@ -6691,7 +6335,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
@@ -6882,7 +6527,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "Olivia Graines de botaniste",
@@ -7543,7 +7189,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Olivia Graines de botaniste",
@@ -7594,7 +7241,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "Masterclass de Trompette avec Lucienne Renaudin",
@@ -8251,7 +7899,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Aquagym à la piscine de la Plaine",
@@ -8407,7 +8056,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Coup 2 Pouce",
@@ -8560,7 +8210,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "Paris Sportives : Rugby par le Rugby Club Paris 15",
@@ -9457,7 +9108,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Stan Douglas. Parallax",
@@ -9528,7 +9180,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Ce qui nous restera",
@@ -9667,7 +9320,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371079",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
+      "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
     },
     {
       "title": "Couleurs de la Mémoire",
@@ -9874,7 +9528,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "Goûter Philo",
@@ -10827,7 +10482,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "Aquagym à la piscine de la Plaine",
@@ -11019,7 +10675,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "Ce qui nous restera",
@@ -12178,7 +11835,8 @@
       "url": "https://studio-dmt.fr/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
+      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -12372,7 +12030,8 @@
       "url": "https://www.paris.fr/evenements/atelier-de-conversation-en-francais-101787",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Chaque semaine, on échange, on se raconte, on se rencontre autour d'un café… en français. Le vendredi à 17h30, hors vacances scolaires",
-      "image": "https://cdn.paris.fr/qfapv4/2025/11/25/huge-3ab21aa869f2293daccb79547c80672c.png"
+      "image": "https://cdn.paris.fr/qfapv4/2025/11/25/huge-3ab21aa869f2293daccb79547c80672c.png",
+      "aiSummary": "Lors de cet atelier hebdomadaire à Paris, les participants se retrouvent pour échanger et discuter en français dans une ambiance conviviale. Cette sortie offre un moment d'échange chaleureux et de partage autour de la conversation, idéal pour se rencontrer en fin de semaine hors vacances scolaires."
     },
     {
       "title": "Cours de Capoeira Angola traditionnelle avec Mestre Faísca",
@@ -12389,7 +12048,8 @@
       "url": "https://ceca-riovermelho.org.br/ceca/paris-%c2%b7-fr/?lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "L’agilité d’un cours de sport, la coordination et créativité d’un cours de musique, l’expression corporelle d’un cours de danse. L’activité qui réunit tout ce qu’un parent cherche à développer chez son fils de façon ludique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-9380b5c6b38e595dd7bd6fa432916e17.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-9380b5c6b38e595dd7bd6fa432916e17.png",
+      "aiSummary": "Ce cours de Capoeira Angola traditionnelle animé par Mestre Faísca propose une activité ludique mêlant sport, musique, danse et expression corporelle. Les enfants pourront ainsi développer leur agilité, leur coordination et leur créativité dans une ambiance rythmée. C'est une sortie idéale pour stimuler à la fois le corps et l'esprit des plus jeunes."
     },
     {
       "title": "Soirée jeux de société chocolat chaud et chamallow - Bibliothèque Claire Bretécher",
@@ -12443,23 +12103,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/01/23/huge-f1a2c65ba3cc83e9227269fd83d3246a.jpg"
     },
     {
-      "title": "Satie en fête !",
-      "start": "2026-11-13T19:00:00+02:00",
-      "end": "2026-11-13T20:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.86106,
-      "lon": 2.307581,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/satie-en-fete-125429",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "A l'occasion de l'inauguration de la salle Erik Satie, les professeurs du conservatoire vous invitent à un concert, autour de l'œuvre du compositeur et de ses amis.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-95a4442822008f78018d8c05c4fe4729.jpg"
-    },
-    {
       "title": "Avec les pieds, Jeanne Desoubeaux → de Nicole Genovese",
       "start": "2026-11-13T19:00:00+02:00",
       "end": "2026-11-13T20:15:00+02:00",
@@ -12477,6 +12120,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/29/huge-6117ce5b10912ec50a18691d883f0b1f.jpg"
     },
     {
+      "title": "Satie en fête !",
+      "start": "2026-11-13T19:00:00+02:00",
+      "end": "2026-11-13T20:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.86106,
+      "lon": 2.307581,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/satie-en-fete-125429",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "A l'occasion de l'inauguration de la salle Erik Satie, les professeurs du conservatoire vous invitent à un concert, autour de l'œuvre du compositeur et de ses amis.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-95a4442822008f78018d8c05c4fe4729.jpg"
+    },
+    {
       "title": "Le Cid Pète Un Câble",
       "start": "2026-11-13T19:00:00+02:00",
       "end": "2026-11-13T20:20:00+02:00",
@@ -12491,7 +12151,8 @@
       "url": "https://www.theatrehebertot.com/spectacle/le-cid-pete-1-cable",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez découvrir Le Cid Pète Un Câble, un spectacle familial, drôle, co-écrit par Pierre Corneille et Caroline Vigneaux, chanté par Mc Solaar avec une mise en scène inventive, qui vous donnera envie de (re)découvrir l’œuvre originale !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-073d5c89d49d67fb9ea1f2111ce613b0.jpg",
+      "aiSummary": "Ce spectacle familial et drôle revisite le classique de Corneille à travers une mise en scène inventive, mêlant le texte d'origine, des chansons de MC Solaar et une écriture complice avec Caroline Vigneaux. Cette relecture originale et rythmée promet de faire rire petits et grands tout en donnant envie de se replonger dans l'œuvre littéraire."
     },
     {
       "title": "A vous de jouer ! soirée jeux de société (15 ans et +)",
@@ -12836,23 +12497,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-8dc0c960d58fca61061984fa0456793e.png"
     },
     {
-      "title": "Frédérique, Le Banc Public",
-      "start": "2026-11-13T20:30:00+02:00",
-      "end": "2026-11-13T21:40:00+02:00",
-      "city": "Paris",
-      "lat": 48.840562994052,
-      "lon": 2.32232496250529,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.guichetmontparnasse.com/frederique-le-banc-public/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Assis sur Frédérique, on ne fait jamais que passer… Mais parfois, on y laisse un bout de son histoire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png"
-    },
-    {
       "title": "Conservatoire Léo Delibes",
       "start": "2026-11-13T20:30:00+02:00",
       "end": "2026-11-13T22:00:00+02:00",
@@ -12868,6 +12512,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Tigran Mekhitarian adapte La Promesse de l'aube de Romain Gary : le destin d'un fils porté par l'amour fusionnel de sa mère. Trois interprètes, musique live, mise en scène sensible et épurée.",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/03/huge-31150191482e306378a93b9511a0d238.png"
+    },
+    {
+      "title": "Frédérique, Le Banc Public",
+      "start": "2026-11-13T20:30:00+02:00",
+      "end": "2026-11-13T21:40:00+02:00",
+      "city": "Paris",
+      "lat": 48.840562994052,
+      "lon": 2.32232496250529,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.guichetmontparnasse.com/frederique-le-banc-public/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Assis sur Frédérique, on ne fait jamais que passer… Mais parfois, on y laisse un bout de son histoire.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png"
     },
     {
       "title": "Moby Dick, Yngvild Aspeli → d’après Herman Melville",
@@ -13934,6 +13595,371 @@
       "description": "Sous le déluge d’images, informations, incitations qui nous assaille de toutes parts, comment se forger un jugement éclairé ? Affûtez votre esprit critique à la Cité des sciences et de l’industrie ! Cette exposition temporaire ludique, à la trame narrative décalée, invite à explorer nos mécanismes cognitifs et les phén",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-0e7b3724ea1d2625d472a49d27b139c9.jpg",
       "aiSummary": "À la Cité des sciences et de l'industrie à Paris, cette exposition temporaire ludique à la trame narrative décalée invite à explorer nos mécanismes cognitifs. Les enfants pourront s'y tester pour apprendre à se forger un jugement éclairé face au déluge d'images, d'informations et d'incitations qui nous assaille de toutes parts."
+    },
+    {
+      "title": "Admirez les tous ! Une exposition hommage à Pokémon",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8600868774336,
+      "lon": 2.34210654675006,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/admirez-les-tous-une-exposition-hommage-a-pokemon-109297",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Quel meilleur endroit que le Musée en Herbe — lieu ludique, joyeux et intergénérationnel — pour célébrer les 30 ans de Pokémon ?",
+      "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-b833ce2e43a677be04784cd7438b5da2.png",
+      "aiSummary": "Le Musée en Herbe à Paris invite les familles à célébrer les trente ans de Pokémon à travers une exposition hommage inédite. Les enfants pourront ainsi découvrir cet univers intergénérationnel dans un lieu à la fois ludique et joyeux, idéal pour partager un moment complice."
+    },
+    {
+      "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8725270046259,
+      "lon": 2.34223399420372,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://studiorama.art/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Studiorama : vivez l'expérience du cinéma en photo, sur les toits de Paris.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/14/huge-da3d92c99beed3e3670ca00a11c1694a.jpg"
+    },
+    {
+      "title": "Visionnaires. Carte blanche à Prune Nourry",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.petitpalais.paris.fr/expositions/prune-nourry",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais invite Prune Nourry à investir l’ensemble du musée pour mettre en lumière, dans son exposition « Visionnaires », des femmes sculptrices méconnues ou oubliées par l’Histoire de l’art.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-684eac921ec901258807bb34d4c5e106.jpg",
+      "aiSummary": "Le Petit Palais invite l'artiste Prune Nourry à investir l'ensemble de ses espaces pour une exposition d'envergure. Les visiteurs découvriront ainsi des œuvres mettant en lumière des femmes sculptrices injustement méconnues ou oubliées par l'Histoire de l'art. Cette carte blanche offre une belle occasion de redécouvrir le musée sous un angle artistique inédit et engagé."
+    },
+    {
+      "title": "Musée de la musique - Collection permanente",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8891921088251,
+      "lon": 2.39355686595773,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://philharmoniedeparis.fr/fr/activite/exposition/28825-collection-permanente?itemId",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Pour accompagner en 2025 le 30e anniversaire de la Cité de la musique et le 10e anniversaire de la Philharmonie, le Musée dévoile la nouvelle présentation de sa collection. Plus inclusive, la muséographie favorise la reconnexion des patrimoines musicaux à travers le monde, tout en soulignant leurs évolutions historique",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg",
+      "aiSummary": "À Paris, le Musée de la musique dévoile la nouvelle présentation de sa collection permanente à l'occasion des anniversaires de la Cité de la musique et de la Philharmonie. Les enfants découvriront un parcours plus inclusif qui relie les patrimoines musicaux du monde entier et met en valeur leurs évolutions historiques. Cette sortie culturelle permet d'explorer la richesse des traditions musicales à travers une muséographie entièrement renouvelée."
+    },
+    {
+      "title": "Atelier dessin de personnages de manga",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.877975,
+      "lon": 2.34501,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-dessin-de-personnages-de-manga-118207",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre des Mordus du manga, la bibliothèque Valeyre vous propose un atelier de création de personnages de manga avec Gwendoline Simon",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-21ae698659b04e91a99d998c0696c6ca.jpg"
+    },
+    {
+      "title": "Ciné-débat \"Ces violences qui nous échappent\"",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8291359873624,
+      "lon": 2.35373203752272,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/cine-debat-ces-violences-qui-nous-echappent-126304",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un ciné-débat autour du film documentaire \"Ces violences qui nous échappent\" sur la thématique des violences éducatives ordinaires.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-ff2a32752e058c7b63f970fa281277bb.png"
+    },
+    {
+      "title": "Eva Gonzalès. Parcours d'une artiste libre",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.866246,
+      "lon": 2.313855,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.petitpalais.paris.fr/expositions/eva-gonzal%C3%A8s",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Petit Palais présente une monographie inédite consacrée à la peintre Eva Gonzalès (1847-1883), avant une étape au Van Gogh Museum d’Amsterdam en février 2027. Contemporaine de Mary Cassatt et de Berthe Morisot, auxquelles elle est souvent associée, Eva Gonzalès n’a pourtant jamais fait l’objet d’une rétrospective d’",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-11b9ea9a94d0166d2e65a1b99f8fb042.png",
+      "aiSummary": "Le Petit Palais à Paris propose une monographie inédite consacrée à la peintre Eva Gonzalès, artiste libre et contemporaine de Berthe Morisot. Les visiteurs pourront découvrir le parcours et les œuvres de cette figure majeure souvent associée aux impressionnistes. Cette exposition offre une belle occasion culturelle de redécouvrir une créatrice méconnue avant qu'elle ne s'envole pour Amsterdam."
+    },
+    {
+      "title": "Les Coffee Talks pour les Parents",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.883826019654,
+      "lon": 2.31523102257179,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.eventbrite.fr/o/121374920414",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des conversations authentiques sur les questions qui préoccupent les parents expatriés parisiens, animées par ABI School.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-a9be01945250ae3464cef75dbdc2dff1.png"
+    },
+    {
+      "title": "Expo « Chiens et chats » à la Cité des sciences",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8972399984008,
+      "lon": 2.38557497150524,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/expo-chiens-et-chats-a-la-cite-des-sciences-79799",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Ils nous tiennent compagnie depuis des millénaires, on en compte près de 23 millions dans les foyers français, ils nous mènent parfois par le bout de la truffe… Chiens et chats mettent la patte sur la Cité des sciences et de l’industrie. Tout, vous saurez tout sur les toutous et les matous dans cette exposition.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/04/huge-c834e6e9985ad633ea9eb45c45afefec.jpg",
+      "aiSummary": "À la Cité des sciences et de l'industrie à Paris, cette exposition invite à tout découvrir sur les chiens et les chats qui partagent notre quotidien par millions. Les enfants exploreront le mode de vie, le comportement et la place de ces fidèles compagnons dans notre société à travers un parcours ludo-éducatif passionnant."
+    },
+    {
+      "title": "Atelier de manipulations de marionnettes par la compagnie Plexus Polaire",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T13:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.830303,
+      "lon": 2.301819,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/pro/agendayourcenar",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Participez à un atelier de manipulations de marionnettes en partenariat avec le théâtre Silvia Monfort.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/19/huge-2293e6cc853f228e086d2217f70a04e9.jpg"
+    },
+    {
+      "title": "Magie",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.cite-sciences.fr/fr/au-programme/expos-temporaires/magie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Entre surprise et émerveillement, l’exposition temporaire Magie n’a pas fini de vous questionner et fasciner ! Comment la magie contemporaine puise-t-elle son inspiration dans les sciences et les techniques ? Comment nous convainc-elle de l'impossible ? Comment peut-elle aiguiser notre sens critique ? La Cité des scien",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg",
+      "aiSummary": "Cette exposition temporaire invite les enfants à explorer les liens surprenants entre la magie contemporaine, les sciences et les techniques. À travers ce parcours fascinant, les jeunes visiteurs découvrent comment les illusions remettent en question notre perception du réel tout en aiguisant leur sens critique face à l'impossible."
+    },
+    {
+      "title": "musée d'art et d'histoire du Judaïsme",
+      "start": "2026-11-14T10:00:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8610102,
+      "lon": 2.3556112,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://mahj.tickeasy.com/fr-FR/produits?famille=2132834270070400042",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Exposition d'une centaine de dessins à l'encre extraite d’une monumentale œuvre dessinée sur l’Occupation à Bruxelles, constituée de plus de cinq mille dessins de Chaïm-Charles Kaliski (1929-2015), être singulier dont l’existence fut à jamais marquée par la Shoah.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/02/06/huge-96721eca153c7619400289f0a46b786c.jpeg",
+      "aiSummary": "Au musée d'art et d 'histoire du Judaïsme à Paris, les jeunes visiteurs découvrent une exposition présentant une centaine de dessins à l'encre de Chaïm-Charles Kaliski. Extraits d'une œuvre monumentale sur l'Occupation à Bruxelles, ces travaux témoignent du parcours singulier de l'artiste marqué par la Shoah. Cette présentation offre un regard mémoriel fort et bouleversant à travers un témoignage graphique exceptionnel."
+    },
+    {
+      "title": "L'heure du conte des grands",
+      "start": "2026-11-14T10:15:00+02:00",
+      "end": "2026-11-14T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.826787,
+      "lon": 2.36644,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-conte-des-grands-64249",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Enroulez le fil, déroulez le fil des histoires et des chansons !",
+      "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-e15218228e232f1d1cff4b04eff45595.jpg"
+    },
+    {
+      "title": "L'heure du conte pour les 0-3 ans",
+      "start": "2026-11-14T10:15:00+02:00",
+      "end": "2026-11-14T10:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.881097,
+      "lon": 2.332299,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-0-3-ans-117255",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des livres, des chansons, des comptines, des jeux de doigts… des tapis, les bras rassurants et enveloppants d'un adulte… et on embarque pour l'heure du conte !",
+      "image": "https://cdn.paris.fr/qfapv4/2022/07/30/huge-31a7c1adc5a140fac05625295d826867.jpg"
+    },
+    {
+      "title": "Racontines",
+      "start": "2026-11-14T10:15:00+02:00",
+      "end": "2026-11-14T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.840208,
+      "lon": 2.278706,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/racontines-113319",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Rejoignez nous pour une heure du conte dédiée aux tout-petits !",
+      "image": "https://cdn.paris.fr/qfapv4/2023/10/04/huge-5f0ec9c73751f82ce1748e7ad9514a10.png"
+    },
+    {
+      "title": "Prépare ton calendrier de l'avent éco-responsable",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T13:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.856188,
+      "lon": 2.355693,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSchyzsI1XP37hyWT_bF7h6XpZYd2Jgh7PXyF1RrXxOcmyrhxQ/viewform",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Confectionner un calendrier de l'avent durable qui comptera 7 poches décorées représentant l'avant dernière semaine de Noël et des petites surprises réalisées grâce au design numérique et aux machines du Fablab (Cricut, imprimantes 3D, Graveuse laser).",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/15/huge-d4cdb327ea8e0c13efc150ed11230272.jpg"
+    },
+    {
+      "title": "Voir Tahiti. Premières photographies 1859-1870",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8614967134136,
+      "lon": 2.29773321295983,
+      "category": "Découverte",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.quaibranly.fr/fr/expositions-evenements/au-musee/expositions/details-de-levenement/e/voir-tahiti",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Deux regards, une décennie d'écart : les tout premiers clichés de la Polynésie française ressurgissent, signés d'un chirurgien de marine méconnu et d'un photographe déjà reconnu. Une redécouverte photographique inédite au musée.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-c1609127056a7c80a6ef96034804c114.png",
+      "aiSummary": "Découvrez l'exposition « Voir Tahiti » à Paris, qui présente les tout premiers clichés de la Polynésie française réalisés entre 1859 et 1870. Les enfants pourront observer les photographies historiques signées par un chirurgien de marine et un photographe reconnu. Cette sortie culturelle inédite offre une occasion unique de redécouvrir des images rares et d'explorer les débuts de la photographie dans le Pacifique."
+    },
+    {
+      "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8624620152928,
+      "lon": 2.40238102264814,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.helloasso.com/associations/le-paysan-urbain-paris",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Paysan Urbain Paris organise des ateliers créatifs ou de bien-être les samedis !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/11/huge-8015db1e8d0a5fa07066ea5515457ac0.jpg"
+    },
+    {
+      "title": "À la manière de… Calder : atelier créatif",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.873432,
+      "lon": 2.340437,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/a-la-maniere-de-calder-125659",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Réalise ton œuvre d'art en t'inspirant de l'univers du célèbre sculpteur américain.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/08/huge-429af916c8891fadbd5d5ef78393279f.png"
+    },
+    {
+      "title": "Lectures inclusives et féministes par les bibliothécaires",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8312310021516,
+      "lon": 2.31166200819968,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/lectures-inclusives-et-feministes-par-les-bibliothecaires-d-aime-cesaire-90392",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un temps de lecture par les bibliothécaires pour découvrir des textes importants sur les minorités de genre",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/10/huge-d6456476e9c3601817ade03cbf66f280.jpg"
+    },
+    {
+      "title": "Histoires pour grands",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836807,
+      "lon": 2.303481,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/pro/agendayourcenar",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Vous êtes trop grands pour les Margotines ? Ça tombe bien, voici venues les histoires pour grands !",
+      "image": "https://cdn.paris.fr/qfapv4/2023/09/13/huge-3fd8acae046a5188e004e879251feb7f.png"
     }
   ]
 }

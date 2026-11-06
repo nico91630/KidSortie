@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-05T19:16:28.673Z",
+  "updatedAt": "2026-11-06T01:30:55.178Z",
   "events": [
-    {
-      "title": "Prix des lecteurs 2026",
-      "start": "2026-11-05T23:00:00+01:00",
-      "end": "2026-11-05T23:59:00+01:00",
-      "city": "Meudon",
-      "lat": 48.812669,
-      "lon": 2.238543,
-      "category": "Événement",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Les médiathèques vous invitent à élire votre roman préféré parmi cinq titres que nous avons adorés . Découvrez la sélection de cette année et laissez-vous embarquer dans des histoires... ![](/Default/basicimagedownload.ashx?itemGuid=4FCD84C4-7A1E-423C-827C-F60538189CF1)  \n\nLes médiathèques vous invitent à élire votre roman préféré parmi cinq titres que nous avons adorés. Découvrez la sélection de cette année et laissez-vous embarquer dans des histoires passionnantes.  \n  \n  \n\nLa sélection  \n\\- [Eclaircie](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=730638&TITLE=eclaircie-carys-davies) de Carys Davies (La Table ronde)  \n\\- [Ma vie sans moustache](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=739243&TITLE=ma-vie-sans-moustache-romain-puertolas) de Romain Puértolas (Albin Michel)  \n\\- [Le Livre de Joan](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=707809&TITLE=le-livre-de-joan-paul-thurin) de Paul Thurin (Stock)  \n\\- [Des enfants uniques](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=726367&TITLE=des-enfants-uniques-gabrielle-de-tournemire) de Gabrielle de Tournemire (Flammarion)  \n\\- [Les Sœurs Field](https://media.mairie-meudon.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=724632&TITLE=les-soeurs-field-dorothy-whipple) de Dorothy Whipple (La Table ron",
-      "image": null,
-      "source": "OpenAgenda · agenda 50008175",
-      "url": "https://openagenda.com/mediatheques-de-meudon/events/78891680_prix-des-lecteurs-2026-4831404",
-      "aiSummary": "Les médiathèques de Meudon vous invitent à découvrir une sélection de cinq romans passionnants pour élire votre livre préféré. Cette animation littéraire permet aux participants de se laisser embarquer dans de belles histoires et de partager leurs coups de cœur de lecture."
-    },
     {
       "title": "Mini Croc'musique",
       "start": "2026-11-06T10:30:00+01:00",
