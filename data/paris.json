@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:37:17.898Z",
+  "updatedAt": "2026-11-06T13:28:26.760Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -93,24 +93,6 @@
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-06T09:30:00+02:00",
-      "end": "2026-11-06T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
-    {
       "title": "Nicolas Flamel. Alchimiste de papier",
       "start": "2026-11-06T09:30:00+02:00",
       "end": "2026-11-06T17:45:00+02:00",
@@ -181,6 +163,24 @@
       "description": "Pour marquer le centième anniversaire de la mort de l’artiste, le musée d’Orsay organise une grande exposition consacrée à Mary Cassatt (1844-1926). Il s’agit, en France, d’un événement attendu : les musées nationaux n’ont encore jamais dédié d’exposition majeure à Mary Cassatt, membre actif du groupe impressionniste e",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-0066fdb5b77c183fab979b53a0857b04.jpg",
       "aiSummary": "Le musée d’Orsay présente une grande exposition consacrée à Mary Cassatt, artiste majeure et membre actif du groupe impressionniste. Cet événement exceptionnel marque le centième anniversaire de sa mort et constitue la première exposition d’envergure que les musées nationaux français lui dédient."
+    },
+    {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-06T10:00:00+02:00",
+      "end": "2026-11-06T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg",
+      "aiSummary": "Découvrez la programmation de la Maison de l’animal à Paris, qui vous accueille du 2 au 7 novembre 2026. Cette session invite le public à explorer le thème original des animaux mal-aimés à travers diverses animations et rendez-vous thématiques. C'est l'occasion idéale pour sensibiliser les enfants à la biodiversité et changer leur regard sur ces espèces méconnues."
     },
     {
       "title": "Studiorama - Séance Photo Cinéma sur les toits de Paris",
@@ -290,23 +290,6 @@
       "aiSummary": "Le Petit Palais à Paris propose une monographie inédite consacrée à la peintre Eva Gonzalès, artiste libre et contemporaine de Berthe Morisot. Les visiteurs pourront découvrir le parcours et les œuvres de cette figure majeure souvent associée aux impressionnistes. Cette exposition offre une belle occasion culturelle de redécouvrir une créatrice méconnue avant qu'elle ne s'envole pour Amsterdam."
     },
     {
-      "title": "QUAND J'ETAIS VIEILLE",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T10:55:00+02:00",
-      "city": "Paris",
-      "lat": 48.8418059883834,
-      "lon": 2.41174696125637,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.paris.fr/evenements/quand-j-etais-vieille-spectacle-jeune-et-vieux-public-au-theatre-douze-123200",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune et vieux public, à découvrir en famille au Théâtre Douze.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-7cd5210ef8a171ce4f59a477998c4e64.jpg"
-    },
-    {
       "title": "Georges Perec modes d'emploi",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T19:00:00+02:00",
@@ -379,24 +362,6 @@
       "aiSummary": "À la Cité des sciences et de l'industrie à Paris, cette exposition invite à tout découvrir sur les chiens et les chats qui partagent notre quotidien par millions. Les enfants exploreront le mode de vie, le comportement et la place de ces fidèles compagnons dans notre société à travers un parcours ludo-éducatif passionnant."
     },
     {
-      "title": "Exposition \"Mosaïque d'atelier\"",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T13:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.835535989532,
-      "lon": 2.32553296830764,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/exposition-mosaique-d-atelier-123635",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À l'occasion de ses vingt ans, le Groupe d'Entraide Mutuelle (GEM) Connexion Plus expose les créations de ses adhérentes et adhérents.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-150d9f515ebe8b17faf7f10296605a85.jpg",
-      "aiSummary": "À Paris, l'exposition « Mosaïque d'atelier » célèbre les vingt ans du Groupe d'Entraide Mutuelle Connexion Plus en présentant les créations artistiques réalisées par ses adhérents. Les visiteurs pourront ainsi découvrir la diversité des œuvres issues de ce travail collectif. Cette sortie culturelle offre l'opportunité d'admirer des réalisations variées et de soutenir l'expression artistique locale."
-    },
-    {
       "title": "Magie",
       "start": "2026-11-06T10:00:00+02:00",
       "end": "2026-11-06T19:00:00+02:00",
@@ -413,24 +378,6 @@
       "description": "Entre surprise et émerveillement, l’exposition temporaire Magie n’a pas fini de vous questionner et fasciner ! Comment la magie contemporaine puise-t-elle son inspiration dans les sciences et les techniques ? Comment nous convainc-elle de l'impossible ? Comment peut-elle aiguiser notre sens critique ? La Cité des scien",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-1c8f55773b34b9ce155dee44c5896f82.jpg",
       "aiSummary": "Cette exposition temporaire invite les enfants à explorer les liens surprenants entre la magie contemporaine, les sciences et les techniques. À travers ce parcours fascinant, les jeunes visiteurs découvrent comment les illusions remettent en question notre perception du réel tout en aiguisant leur sens critique face à l'impossible."
-    },
-    {
-      "title": "La Maison de l'animal : toute la programmation",
-      "start": "2026-11-06T10:00:00+02:00",
-      "end": "2026-11-06T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg",
-      "aiSummary": "Découvrez la programmation de la Maison de l’animal à Paris, qui vous accueille du 2 au 7 novembre 2026. Cette session invite le public à explorer le thème original des animaux mal-aimés à travers diverses animations et rendez-vous thématiques. C'est l'occasion idéale pour sensibiliser les enfants à la biodiversité et changer leur regard sur ces espèces méconnues."
     },
     {
       "title": "Voir Tahiti. Premières photographies 1859-1870",
@@ -647,24 +594,6 @@
       "description": "Pour accompagner en 2025 le 30e anniversaire de la Cité de la musique et le 10e anniversaire de la Philharmonie, le Musée dévoile la nouvelle présentation de sa collection. Plus inclusive, la muséographie favorise la reconnexion des patrimoines musicaux à travers le monde, tout en soulignant leurs évolutions historique",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-fb59d4fc0e3ae46d2dd7e5afc4feb2f3.jpg",
       "aiSummary": "À Paris, le Musée de la musique dévoile la nouvelle présentation de sa collection permanente à l'occasion des anniversaires de la Cité de la musique et de la Philharmonie. Les enfants découvriront un parcours plus inclusif qui relie les patrimoines musicaux du monde entier et met en valeur leurs évolutions historiques. Cette sortie culturelle permet d'explorer la richesse des traditions musicales à travers une muséographie entièrement renouvelée."
-    },
-    {
-      "title": "Atelier écriture et enregistrement d'une musique (tous niveaux)",
-      "start": "2026-11-06T12:00:00+02:00",
-      "end": "2026-11-06T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8401410071366,
-      "lon": 2.35418097225678,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://studio-dmt.fr/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier musical unique pour créer et enregistrer sa propre chanson en studio professionnel ! Accessible aux enfants, aux jeunes, aux entreprises, mais aussi aux artistes débutants et semi-professionnels ou aux simples curieux !",
-      "image": "https://cdn.paris.fr/qfapv4/2025/05/19/huge-3d18753c3d09e84b5d4ca8a0289cf21f.png",
-      "aiSummary": "Lors de cet atelier parisien en studio professionnel, les participants créent et enregistrent leur propre chanson, de l'écriture à la mise en musique. Cette expérience unique s'adresse à tous, des débutants aux plus curieux, permettant de découvrir l'envers du décor de la création musicale."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -1361,7 +1290,8 @@
       "url": "https://www.guichetmontparnasse.com/frederique-le-banc-public/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Assis sur Frédérique, on ne fait jamais que passer… Mais parfois, on y laisse un bout de son histoire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png",
+      "aiSummary": "À Paris, découvrez Frédérique, Le Banc Public, une création où les spectateurs observent les histoires de ceux qui s'y assoient. Cette sortie invite petits et grands à s'interroger sur les moments de vie partagés et les souvenirs laissés par les passants en un lieu du quotidien."
     },
     {
       "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
@@ -1520,7 +1450,8 @@
       "url": "https://folietheatre.com/spectacles/le-poids-de-leau/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans les vestiaires d’une piscine, deux hommes se croisent pour la première fois. Le décor est banal, mais la rencontre, unique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg",
+      "aiSummary": "Dans les vestiaires d'une piscine, deux hommes se croisent pour la toute première fois. Les enfants découvriront cette rencontre unique qui se noue dans ce décor pourtant très banal. Ce spectacle intimiste offre un moment de théâtre singulier, porté par la confrontation surprenante de ces deux personnages au cœur d'un lieu du quotidien."
     },
     {
       "title": "Le Cabaret Burlesque",
@@ -1554,7 +1485,8 @@
       "url": "https://www.institut-cultures-islam.org/evenements/ogresses-en-pieces/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans cet atelier, les participants sont invités à créer leur propre ogresse à partir d’un répertoire de fragments de formes.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-44a6e533b48ee360d2c74caf85328522.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-44a6e533b48ee360d2c74caf85328522.jpg",
+      "aiSummary": "À l'Institut des Cultures d'Islam, les enfants sont invités à créer leur propre ogresse en assemblant différents fragments de formes. Cet atelier créatif et ludique stimule l'imagination des participants tout en leur offrant une approche originale de la composition artistique autour d'un personnage haut en couleur."
     },
     {
       "title": "Le temps des histoires",
@@ -1571,7 +1503,8 @@
       "url": "https://www.paris.fr/evenements/le-temps-des-histoires-118230",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Chaque premier samedi du mois, retrouvez vos bibliothécaires préféré•es pour une heure d'histoires en tout genre au sein de la section jeunesse",
-      "image": "https://cdn.paris.fr/qfapv4/2022/06/29/huge-445c897e0287315e61aeeccf1e28b368.png"
+      "image": "https://cdn.paris.fr/qfapv4/2022/06/29/huge-445c897e0287315e61aeeccf1e28b368.png",
+      "aiSummary": "Chaque premier samedi du mois à Paris, les bibliothécaires accueillent les enfants à la section jeunesse pour une heure de lecture variée. Ce rendez-vous régulier propose de découvrir un large choix de récits, idéal pour partager un moment calme et littéraire en famille."
     },
     {
       "title": "Visite contée adultes de l’expo Semons nos résistances",
@@ -1605,7 +1538,8 @@
       "url": "https://indiv.themisweb.fr/0039/fChoixSeanceWidget.aspx?idstructure=0039&EventId=76&request=QcE+w0WHSuD4b/aOrkslzI84aeFid7NSsMY9E7T6NxRg750yiEnGF/L9GM09hNeb&consent=true&_gl=1*8ag2zl*_gcl_aw*R0NMLjE3OTM2MzA1ODYuQ2p3S0NBaUFocUhYQmhBWEVpd0FUYmtzVTdZUWl1LXpXSXd0ZldLdjNTeVVKWkJVNEluR0lwOHBQTlB2eFRQWl9YaWhuZkdvdFJzdlFSb0NYQnNRQXZEX0J3RQ..*_gcl_au*NDYwOTQ4NjMwLjE3OTEyNzg5MTcuMTI2MjkzODc2Ny4xNzkzNjMwMDkxLjE3OTM2MzA1ODYuMTAyMjI2NzYzNy4xNzkzNjMwMDkxLjE3OTM2MzA1ODY.*_ga*NTMzNTkzMzg1LjE3NTkxMzUyMDQ.*_ga_9MDBEN4MEX*czE3OTM2MzAwOTAkbzQkZzEkdDE3OTM2MzA1ODYkajU4JGwwJGgxMjI0NDg5NTU2*_fplc*Z0lHaXFMcW5KdG1jSlBjbU9UYTRIWjlhbDloZldBam5CSzQzSTBJZjlRUDZ0eHF0SWp0cGgwRzVsSjBwVkhSb1V2OW1lMm1vY1JwQnN0b0VabkdLempHb2hEJTJGZ2dEMmd6QWg3Mm1ZSmN0UTFLUzkzWmNrNzZDWk94eGFrZWclM0QlM0Q.",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Volte fait rimer prouesses et promesses, émotions et sensations sur la piste du Cirque d'Hiver-Bouglione, le plus beau cirque du monde ! Des numéros haut de gamme souvent couronnés de prix et récompensés dans les plus grands festivals internationaux : équestre ou d'acrobatie, de jonglerie, de hula hoop, d'équilibrisme,",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-8ae1eceab94c0a195259ac0fdb51b0a9.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-8ae1eceab94c0a195259ac0fdb51b0a9.jpg",
+      "aiSummary": "Sous le chapiteau du Cirque d'Hiver-Bouglione à Paris, les familles découvrent le nouveau spectacle Volte. Les enfants admirent des numéros haut de gamme et récompensés dans les plus grands festivals internationaux, mêlant acrobaties, arts équestres, jonglerie, hula hoop et équilibrisme. Cette sortie offre un moment magique combinant prouesses techniques, émotions et sensations fortes sur la piste."
     },
     {
       "title": "Salon Marjolaine Bio",
@@ -1622,7 +1556,8 @@
       "url": "https://www.salon-marjolaine.com/votre-entree/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des pionniers du bio des années 70 aux nouvelles générations engagées, le salon Marjolaine révèle depuis un demi-siècle celles et ceux qui proposent des alternatives pour notre quotidien.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/21/huge-d0ae890018390e60ed3ea6f05e739e0a.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/21/huge-d0ae890018390e60ed3ea6f05e739e0a.jpg",
+      "aiSummary": "Ce salon parisien rassemble des pionniers du bio et de nouvelles générations engagées pour présenter des alternatives écoresponsables du quotidien. Cet événement permet aux familles de découvrir des acteurs historiques et actuels de la transition écologique à travers des propositions variées."
     },
     {
       "title": "Week-end en famille, dansez maintenant au musée Picasso",
@@ -1639,7 +1574,8 @@
       "url": "https://www.museepicassoparis.fr/fr/agenda/week-end-famille-dansez-maintenant/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le temps d’un week-end exceptionnel dédié à la danse sous toutes ses formes, venez découvrir ou redécouvrir le musée Picasso. Au programme, initiation au flamenco, au hip-hop et au voguing, spectacle de danse, mais aussi visites dansées et ateliers créatifs : un rendez-vous festif qui ravira les plus jeunes comme les a",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-d55e07eca48c101d6628bb4301380064.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-d55e07eca48c101d6628bb4301380064.jpg",
+      "aiSummary": "Le temps d’un week-end festif, le musée Picasso à Paris propose aux familles de découvrir ses collections à travers la danse. Petits et grands pourront participer à des initiations de flamenco, hip-hop et voguing, assister à des spectacles, ainsi que profiter de visites dansées et d'ateliers créatifs."
     },
     {
       "title": "HAUT-PARLEURS 6 édition",
@@ -1673,7 +1609,8 @@
       "url": "https://www.paris.fr/evenements/paris-sportives-marche-sportive-au-quartier-goutte-d-or-82747",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des séances de marche sportive hebdomadaires pour les adultes, à travers les rues de la Goutte d'Or et les pentes de Montmartre, pour allier activité physique, bien-être et convivialité.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg",
+      "aiSummary": "Participez à des séances de marche sportive hebdomadaires organisées par l'association Les Enfants de la Goutte d'Or. Cette activité permet aux adultes de parcourir les rues de la Goutte d'Or et les pentes de Montmartre, alliant ainsi exercice physique, bien-être et moments de convivialité."
     },
     {
       "title": "Le Ballon de Paris",
@@ -1762,7 +1699,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Lefebvre et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin sur deux à la crèche Lefebvre de Paris. En partenariat avec l'association Je d'enfant et d'adolescent, cet événement invite les parents et leurs enfants à participer ensemble à diverses activités adaptées. C'est l'occasion idéale pour découvrir autrement cet établissement de la ville grâce à des animations matinales conçues pour le partage et l'éveil des tout-petits."
     },
     {
       "title": "Les samedis en famille · Crèche Crimée",
@@ -1779,7 +1717,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Crimée et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Versailles",
@@ -1796,7 +1735,8 @@
       "url": "https://momartre.net/samedis/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
     },
     {
       "title": "Les Samedis en Famille · Crèche Convention",
@@ -1813,7 +1753,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Popincourt",
@@ -2314,23 +2255,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
-      "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
-      "start": "2026-11-07T09:30:00+02:00",
-      "end": "2026-11-07T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.851901,
-      "lon": 2.344948,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche des Prêtres Saint-Séverin propose des activités de 9h30 à 12h avec l'association Môm'Artre.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Villiot",
       "start": "2026-11-07T09:30:00+02:00",
       "end": "2026-11-07T12:00:00+02:00",
@@ -2362,6 +2286,23 @@
       "url": "https://www.crescendo.asso.fr/structures/les-samedis-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche de la Folie Régnault propose des activités en famille les samedis matin de 9h30 à 12h avec l'association Crescendo.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
+      "start": "2026-11-07T09:30:00+02:00",
+      "end": "2026-11-07T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.851901,
+      "lon": 2.344948,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche des Prêtres Saint-Séverin propose des activités de 9h30 à 12h avec l'association Môm'Artre.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
@@ -2414,6 +2355,24 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Cabanis propose des activités en famille de 9h30 à 12h le samedi matin avec l'association Môm'Artre.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+    },
+    {
+      "title": "La Maison de l'animal : toute la programmation",
+      "start": "2026-11-07T10:00:00+02:00",
+      "end": "2026-11-07T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.836209,
+      "lon": 2.382589,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg",
+      "aiSummary": "Découvrez la programmation de la Maison de l’animal à Paris, qui vous accueille du 2 au 7 novembre 2026. Cette session invite le public à explorer le thème original des animaux mal-aimés à travers diverses animations et rendez-vous thématiques. C'est l'occasion idéale pour sensibiliser les enfants à la biodiversité et changer leur regard sur ces espèces méconnues."
     },
     {
       "title": "Jules Verne, le voyage extraordinaire",
@@ -2818,22 +2777,21 @@
       "aiSummary": "Cette exposition temporaire invite les enfants à explorer les liens surprenants entre la magie contemporaine, les sciences et les techniques. À travers ce parcours fascinant, les jeunes visiteurs découvrent comment les illusions remettent en question notre perception du réel tout en aiguisant leur sens critique face à l'impossible."
     },
     {
-      "title": "La Maison de l'animal : toute la programmation",
+      "title": "Pigeoncoq organise un atelier DIY géant pour ses 10 ans, le samedi 7 novembre à Paris",
       "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T17:30:00+02:00",
+      "end": "2026-11-07T18:00:00+02:00",
       "city": "Paris",
-      "lat": 48.836209,
-      "lon": 2.382589,
+      "lat": 48.867982001448,
+      "lon": 2.35093399060469,
       "category": "Loisir",
       "minAge": null,
       "maxAge": null,
       "familyVerified": true,
       "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-de-l-animal-toute-la-programmation-103282",
+      "url": "https://www.eventbrite.fr/e/billets-0711-pigeoncoq-fete-ses-10-ans-x-nona-source-2003417015223",
       "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison de l’animal vous accueille du 2 au 7 novembre 2026, sur le thème des animaux mal-aimés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/20/huge-aebb8c69f4a10abef7e63a88e78139d6.jpg",
-      "aiSummary": "Découvrez la programmation de la Maison de l’animal à Paris, qui vous accueille du 2 au 7 novembre 2026. Cette session invite le public à explorer le thème original des animaux mal-aimés à travers diverses animations et rendez-vous thématiques. C'est l'occasion idéale pour sensibiliser les enfants à la biodiversité et changer leur regard sur ces espèces méconnues."
+      "description": "Pour ses dix ans, Pigeoncoq organise le samedi 7 novembre un atelier « Do It Yourself » géant à Paris, avec 200 kilos de cuirs dormants mis gratuitement à disposition du public.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-ad82a2998680bb3cd228a0fe423a5de6.jpg"
     },
     {
       "title": "Visite-atelier Origami à l'Arc de triomphe",
@@ -2868,23 +2826,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Marcher ensemble pour découvrir Paris et ses environs, mais surtout pour passer de bons moments ensemble !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-94032fd23516ba7753c9c545526ac59d.jpg"
-    },
-    {
-      "title": "Pigeoncoq organise un atelier DIY géant pour ses 10 ans, le samedi 7 novembre à Paris",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.867982001448,
-      "lon": 2.35093399060469,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.eventbrite.fr/e/billets-0711-pigeoncoq-fete-ses-10-ans-x-nona-source-2003417015223",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Pour ses dix ans, Pigeoncoq organise le samedi 7 novembre un atelier « Do It Yourself » géant à Paris, avec 200 kilos de cuirs dormants mis gratuitement à disposition du public.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/22/huge-ad82a2998680bb3cd228a0fe423a5de6.jpg"
     },
     {
       "title": "Samedi des tout-petits",
@@ -3282,23 +3223,6 @@
       "aiSummary": "À la Cité de l'architecture et du patrimoine à Paris, l'exposition dédiée à François Morellet dévoile comment l'artiste a transformé l'espace architectural en un véritable terrain de jeu pour l'art contemporain. Les enfants découvriront ainsi des œuvres singulières et ludiques qui dialoguent avec le bâtiment, offrant un regard original et surprenant sur la création artistique contemporaine."
     },
     {
-      "title": "Heure du conte",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T11:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.860096,
-      "lon": 2.379035,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/les-bons-contes-font-les-bons-amis-123690",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Les bibliothécaires lisent des histoires, font découvrir des albums et des comptines…",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/19/huge-134854067d353dac1461765dbb5db79b.png"
-    },
-    {
       "title": "Visites guidées de l'exposition « L’étoffe de l’artiste »",
       "start": "2026-11-07T11:00:00+02:00",
       "end": "2026-11-07T12:30:00+02:00",
@@ -3315,6 +3239,23 @@
       "description": "Une visite à la découverte de l'exposition temporaire « L’étoffe de l’artiste » au musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9c76ad228639e1e619f4c0ee06f777f4.png",
       "aiSummary": "Le musée Bourdelle propose des visites guidées de son exposition temporaire « L’étoffe de l’artiste ». Cette sortie à Paris permet aux familles de découvrir les œuvres présentées et d'explorer l'univers de l'exposition à travers un parcours commenté adapté."
+    },
+    {
+      "title": "Heure du conte",
+      "start": "2026-11-07T11:00:00+02:00",
+      "end": "2026-11-07T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.860096,
+      "lon": 2.379035,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/les-bons-contes-font-les-bons-amis-123690",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les bibliothécaires lisent des histoires, font découvrir des albums et des comptines…",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/19/huge-134854067d353dac1461765dbb5db79b.png"
     },
     {
       "title": "Samedi des histoires",
@@ -5302,7 +5243,8 @@
       "url": "https://www.guichetmontparnasse.com/frederique-le-banc-public/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Assis sur Frédérique, on ne fait jamais que passer… Mais parfois, on y laisse un bout de son histoire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png",
+      "aiSummary": "À Paris, découvrez Frédérique, Le Banc Public, une création où les spectateurs observent les histoires de ceux qui s'y assoient. Cette sortie invite petits et grands à s'interroger sur les moments de vie partagés et les souvenirs laissés par les passants en un lieu du quotidien."
     },
     {
       "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS EN CINÉ-CONCERT",
@@ -5408,7 +5350,8 @@
       "url": "https://folietheatre.com/spectacles/le-poids-de-leau/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans les vestiaires d’une piscine, deux hommes se croisent pour la première fois. Le décor est banal, mais la rencontre, unique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-2bb351853a4d71e2dda3ea4a71921158.jpg",
+      "aiSummary": "Dans les vestiaires d'une piscine, deux hommes se croisent pour la toute première fois. Les enfants découvriront cette rencontre unique qui se noue dans ce décor pourtant très banal. Ce spectacle intimiste offre un moment de théâtre singulier, porté par la confrontation surprenante de ces deux personnages au cœur d'un lieu du quotidien."
     },
     {
       "title": "Le Cabaret Burlesque",
@@ -8442,6 +8385,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-940efcd33ca8d831479f537ba24213e3.png"
     },
     {
+      "title": "Découvrez le combat sportif avec le Wing-Tsun (cours arts martiaux et sports de combat adultes)",
+      "start": "2026-11-10T20:30:00+02:00",
+      "end": "2026-11-10T22:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8328520203162,
+      "lon": 2.32279895912987,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/decouvrez-le-combat-sportif-avec-le-wing-tsun-cours-arts-martiaux-et-sports-de-combat-adultes-127192",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Initiez-vous au combat sportif et au Wing-Tsun à Paris 14e : un entraînement stimulant pour améliorer votre condition physique, affiner vos réflexes et mettre en place une stratégie de combat intelligente.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-059441e212f47560696423c6841ff023.png"
+    },
+    {
       "title": "Mon côté Wertheimer (Les mères poules ne font pas des mouettes)",
       "start": "2026-11-10T21:00:00+02:00",
       "end": "2026-11-10T22:20:00+02:00",
@@ -8558,7 +8518,8 @@
       "url": "https://www.paris.fr/evenements/paris-sportives-marche-sportive-au-quartier-goutte-d-or-82747",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des séances de marche sportive hebdomadaires pour les adultes, à travers les rues de la Goutte d'Or et les pentes de Montmartre, pour allier activité physique, bien-être et convivialité.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg",
+      "aiSummary": "Participez à des séances de marche sportive hebdomadaires organisées par l'association Les Enfants de la Goutte d'Or. Cette activité permet aux adultes de parcourir les rues de la Goutte d'Or et les pentes de Montmartre, alliant ainsi exercice physique, bien-être et moments de convivialité."
     },
     {
       "title": "Le Ballon de Paris",
@@ -9880,6 +9841,23 @@
       "aiSummary": "Montez à bord du Ballon de Paris, situé dans le parc André Citroën, pour vous élever dans les airs et admirer toute la capitale depuis le ciel. Cette attraction offre une vue imprenable sur les monuments parisiens, permettant aux enfants de découvrir la ville sous un tout nouvel angle lors d'un moment aérien inoubliable."
     },
     {
+      "title": "Cours de Qi gong pensé pour les femmes",
+      "start": "2026-11-12T09:00:00+02:00",
+      "end": "2026-11-12T10:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.824905012187,
+      "lon": 2.32654499929703,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/cours-d-essai-gratuit-de-qi-gong-self-defense-senior-100-feminin-paris-14e-127191",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un cours de bien-être et santé réservé aux femmes seniors. Tous les jeudis de 9h à 10h à Paris 14e.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-3a26e655a31370da7b255a1a2e99d6c6.png"
+    },
+    {
       "title": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
       "start": "2026-11-12T09:00:00+02:00",
       "end": "2026-11-12T21:00:00+02:00",
@@ -10747,7 +10725,7 @@
       "url": "https://www.paris.fr/evenements/reunions-futurs-peres-du-18eme-106045",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Groupe de parole de pères et co-parents pour échanger autour de la grossesse et des premiers temps avec bébé.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/04/04/huge-2dbdbc6163a121a62d603c6bb7b43ef7.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/06/huge-d64608719283a204144bc5f95e483bdd.png"
     },
     {
       "title": "Cours de l'Ecole du Bal à Chateau Landon",
@@ -12224,6 +12202,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/19/huge-fb631b4a6b46361c0f2ef13433a8edfb.jpg"
     },
     {
+      "title": "L'histoire de Pi",
+      "start": "2026-11-13T19:00:00+02:00",
+      "end": "2026-11-13T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860888,
+      "lon": 2.384365,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-histoire-de-pi-126372",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Lecture musicale par la compagnie Reine Pâris Dans le cadre de la 17e édition du festival Lire en délire",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/02/huge-4f6887d8da8889d4c36f28d6e47bf216.png"
+    },
+    {
       "title": "Le Mois du doc : Projection-rencontre autour du film \"Zou\"",
       "start": "2026-11-13T19:00:00+02:00",
       "end": "2026-11-13T20:30:00+02:00",
@@ -12533,7 +12528,8 @@
       "url": "https://www.guichetmontparnasse.com/frederique-le-banc-public/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Assis sur Frédérique, on ne fait jamais que passer… Mais parfois, on y laisse un bout de son histoire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/08/huge-1b3632e3d221021b7f9168ad14a7221e.png",
+      "aiSummary": "À Paris, découvrez Frédérique, Le Banc Public, une création où les spectateurs observent les histoires de ceux qui s'y assoient. Cette sortie invite petits et grands à s'interroger sur les moments de vie partagés et les souvenirs laissés par les passants en un lieu du quotidien."
     },
     {
       "title": "Conservatoire Léo Delibes",
@@ -12790,7 +12786,8 @@
       "url": "https://www.paris.fr/evenements/paris-sportives-marche-sportive-au-quartier-goutte-d-or-82747",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des séances de marche sportive hebdomadaires pour les adultes, à travers les rues de la Goutte d'Or et les pentes de Montmartre, pour allier activité physique, bien-être et convivialité.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/19/huge-e78dfee34df325964073856455c80a17.jpg",
+      "aiSummary": "Participez à des séances de marche sportive hebdomadaires organisées par l'association Les Enfants de la Goutte d'Or. Cette activité permet aux adultes de parcourir les rues de la Goutte d'Or et les pentes de Montmartre, alliant ainsi exercice physique, bien-être et moments de convivialité."
     },
     {
       "title": "Le Ballon de Paris",
@@ -12879,7 +12876,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Lefebvre et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin sur deux à la crèche Lefebvre de Paris. En partenariat avec l'association Je d'enfant et d'adolescent, cet événement invite les parents et leurs enfants à participer ensemble à diverses activités adaptées. C'est l'occasion idéale pour découvrir autrement cet établissement de la ville grâce à des animations matinales conçues pour le partage et l'éveil des tout-petits."
     },
     {
       "title": "Les samedis en famille · Crèche Crimée",
@@ -12896,7 +12894,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Crimée et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Versailles",
@@ -12913,7 +12912,8 @@
       "url": "https://momartre.net/samedis/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
     },
     {
       "title": "Les Samedis en Famille · Crèche Convention",
@@ -12930,7 +12930,8 @@
       "url": "https://jedenfant.fr/samedi-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Popincourt",
@@ -13396,23 +13397,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
-      "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.851901,
-      "lon": 2.344948,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche des Prêtres Saint-Séverin propose des activités de 9h30 à 12h avec l'association Môm'Artre.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Villiot",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -13444,6 +13428,23 @@
       "url": "https://www.crescendo.asso.fr/structures/les-samedis-en-famille/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche de la Folie Régnault propose des activités en famille les samedis matin de 9h30 à 12h avec l'association Crescendo.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.851901,
+      "lon": 2.344948,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche des Prêtres Saint-Séverin propose des activités de 9h30 à 12h avec l'association Môm'Artre.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg"
     },
     {
@@ -13983,6 +13984,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Vous êtes trop grands pour les Margotines ? Ça tombe bien, voici venues les histoires pour grands !",
       "image": "https://cdn.paris.fr/qfapv4/2023/09/13/huge-3fd8acae046a5188e004e879251feb7f.png"
+    },
+    {
+      "title": "Lectures inclusives et féministes par les bibliothécaires",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8312310021516,
+      "lon": 2.31166200819968,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/lectures-inclusives-et-feministes-par-les-bibliothecaires-d-aime-cesaire-90392",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un temps de lecture par les bibliothécaires pour découvrir des textes importants sur les minorités de genre",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/10/huge-d6456476e9c3601817ade03cbf66f280.jpg"
     }
   ]
 }

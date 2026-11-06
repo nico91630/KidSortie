@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-06T07:37:05.293Z",
+  "updatedAt": "2026-11-06T13:28:16.454Z",
   "events": [
-    {
-      "title": "Mini Croc'musique",
-      "start": "2026-11-06T10:30:00+01:00",
-      "end": "2026-11-06T10:50:00+01:00",
-      "city": "Meudon",
-      "lat": 48.812669,
-      "lon": 2.238543,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": "Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires. Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires.",
-      "image": null,
-      "source": "OpenAgenda · agenda 50008175",
-      "url": "https://openagenda.com/mediatheques-de-meudon/events/46897965_mini-crocmusique-7283805",
-      "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
-    },
     {
       "title": "Poste restante, escales sur la ligne - Léna d'Azy",
       "start": "2026-11-06T12:00:00+01:00",
@@ -1491,7 +1473,7 @@
       "price": null,
       "description": "Venez visionner des épisodes et rencontrer l'équipe de production derrière le dessin animé « Petit Malabar » Petit Malabar est un personnage de fiction malicieux et imaginatif qui explore l’univers avec ses amis les animaux. Lors de leurs voyages, ils rencontrent des personnages d’un autre genre : des particules, des animaux primitifs, des étoiles, et même des galaxies. Ce sont souvent des personnages exceptionnellement petits ou grands, terriblement chauds ou froids, aux caractères toujours très amusants.  \nDans des lieux extraordinaires, les jeux enfantins de Petit Malabar se transforment en aventures inattendues : une partie de cache-cache dans les cratères de Mercure, une chasse aux empreintes à travers la Pangée, une course avec Baleine, et du surf sur l’onde de choc d’une supernova ! Ici, tout ce qui est dit sur l’univers repose sur nos connaissances scientifiques actuelles.\n\nL'événement comprendra :\n\n*   \\- Des projections d'épisodes\n*   \\- Une expo des dessins originaux des dessins animés\n*   \\- Une séance dédicace et des temps d'échange avec l'équipe\n\nSeront présents :  \nLa maison de production : TCHACK  \nJean Duprat, astrophysicien, chercheur au CNRS et co-auteur de la série  \nNelly Blumenthal, directrice artistique de la série",
       "image": null,
-      "source": "OpenAgenda · agenda 86184123",
+      "source": "OpenAgenda · agenda 99562952",
       "url": "https://openagenda.com/universite-paris-saclay/events/10902807_le-cine-rencontre-des-enfants-petit-malabar-12-dec-2026-a-15h",
       "aiSummary": "À Gif-sur-Yvette, les enfants découvrent des épisodes du dessin animé Petit Malabar et explorent l'univers aux côtés de personnages amusants et d'animaux. Cette sortie originale propose également une exposition de dessins originaux, une séance de dédicaces et un échange privilégié avec la maison de production, un astrophysicien et la directrice artistique de la série."
     },
