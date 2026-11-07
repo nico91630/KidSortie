@@ -21,3 +21,5 @@ test('conserve les activités véritablement enfantines',()=>{
 test('simple mention des enfants dans une exposition généraliste ne suffit pas',()=>{
  assert.equal(familyRelevant({title:'Exposition de peinture classique',description:'Entrée gratuite pour les enfants accompagnés de leurs parents'}),false);
 });
+
+// La vérification CI rejoue ces cas à chaque évolution du filtrage.
