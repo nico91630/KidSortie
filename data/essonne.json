@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:24:17.947Z",
+  "updatedAt": "2026-11-07T07:13:18.624Z",
   "source": "Essonne Tourisme",
   "events": [
     {
@@ -20,23 +20,6 @@
       "url": "https://www.essonnetourisme.com/p/atelier-signer-avec-bebe/"
     },
     {
-      "title": "Collecte de jouets, jeux et livres pour enfants & Vente solidaire de Noël",
-      "start": "2026-11-15T11:00:00.000Z",
-      "end": "2026-11-15T11:00:00.000Z",
-      "city": "Maisse",
-      "lat": 48.394933,
-      "lon": 2.376475,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": null,
-      "description": " ",
-      "image": null,
-      "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/collecte-de-jouets-jeux-et-livres-pour-enfants-vente-solidaire-de-noel/"
-    },
-    {
       "title": "Eveil Musical – 3 p’tites notes – Saint-Geneviève-des-Bois",
       "start": "2026-11-21T11:00:00.000Z",
       "end": "2026-11-21T11:00:00.000Z",
@@ -52,6 +35,23 @@
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
       "url": "https://www.essonnetourisme.com/p/eveil-musical-3-ptites-notes-saint-genevieve-des-bois/"
+    },
+    {
+      "title": "Agenda des p’tits curieux – Atelier Danse",
+      "start": "2026-11-21T11:00:00.000Z",
+      "end": "2026-11-21T11:00:00.000Z",
+      "city": "Saint-Germain-lès-Arpajon",
+      "lat": 48.610211,
+      "lon": 2.256518,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": 0,
+      "description": " ",
+      "image": null,
+      "source": "Essonne Tourisme (Apidae)",
+      "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-danse/"
     },
     {
       "title": "Agenda des p’tits curieux – Atelier « parents-enfant » créatif",
@@ -71,13 +71,13 @@
       "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-parents-enfant-creatif/"
     },
     {
-      "title": "Fête des Enfants",
-      "start": "2026-12-18T11:00:00.000Z",
-      "end": "2026-12-18T11:00:00.000Z",
-      "city": "Milly-la-Forêt",
-      "lat": 48.40382,
-      "lon": 2.46938,
-      "category": "Découverte",
+      "title": "Atelier d’éveil sonore et corporel",
+      "start": "2026-12-09T11:00:00.000Z",
+      "end": "2026-12-09T11:00:00.000Z",
+      "city": "Étampes",
+      "lat": 48.443969,
+      "lon": 2.166621,
+      "category": "Loisir",
       "familyVerified": true,
       "minAge": null,
       "maxAge": null,
@@ -85,7 +85,7 @@
       "description": " ",
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/fete-des-enfants/"
+      "url": "https://www.essonnetourisme.com/p/atelier-deveil-sonore-et-corporel/"
     }
   ]
 }
