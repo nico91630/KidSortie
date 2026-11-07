@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-07T13:14:49.890Z",
+  "updatedAt": "2026-11-07T19:05:16.466Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-11-07T09:30:00+02:00",
-      "end": "2026-11-07T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
     {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
       "start": "2026-11-07T09:30:00+02:00",
@@ -37,342 +19,6 @@
       "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
       "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
-    {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
-      "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
-      "start": "2026-11-07T10:30:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8624620152928,
-      "lon": 2.40238102264814,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/le-paysan-urbain-paris",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Paysan Urbain Paris organise des ateliers créatifs ou de bien-être les samedis !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/11/huge-8015db1e8d0a5fa07066ea5515457ac0.jpg"
-    },
-    {
-      "title": "Portraits de famille",
-      "start": "2026-11-07T11:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8830410125121,
-      "lon": 2.30771103049989,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://musee-henner.fr/agenda/evenement/portraits-de-famille",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
-      "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
-    },
-    {
-      "title": "EXPOSITION LA MODE AU MOYEN AGE",
-      "start": "2026-11-07T13:30:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.864075,
-      "lon": 2.348127,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://tourjeansanspeursite.wordpress.com/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "L'exposition La mode au Moyen Âge offre un voyage dans l’univers vestimentaire médiéval, où les tailleurs rivalisent d'ingéniosité pour mettre en valeur la silhouette et la richesse du propriétaire. Ce sont là les prémices des phénomènes de mode tels que nous les connaissons aujourd'hui !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-2761810979d58e7374207d54c5c23ad8.jpg",
-      "aiSummary": "Cette exposition à Paris invite à découvrir l'univers vestimentaire médiéval à travers les créations ingénieuses des tailleurs de l'époque. Les enfants exploreront l'histoire des silhouettes et des richesses d'autrefois, révélant les origines des phénomènes de mode actuels dans une visite originale et instructive."
-    },
-    {
-      "title": "Atelier multi-danses",
-      "start": "2026-11-07T14:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8585490076144,
-      "lon": 2.40724302940407,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.theatreideogram.com",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de bouger, de danser et de découvrir de nouvelles façons de vous exprimer ? Le Théâtre Ideogram vous invite à un atelier multi-danses ouvert à tous, le samedi 7 novembre, dans le 20e arrondissement de Paris.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-809a833c52b8172e8c4d2aa13729d73b.png",
-      "aiSummary": "Le Théâtre Ideogram invite les familles du 20e arrondissement de Paris à participer à un atelier multi-danses. Cet événement propose de bouger, de danser et de découvrir de nouvelles façons de s'exprimer à travers la danse. C'est une belle occasion pour se dépenser et explorer différentes pratiques artistiques dans une ambiance conviviale."
-    },
-    {
-      "title": "Atelier Toupies en origami",
-      "start": "2026-11-07T14:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.889783,
-      "lon": 2.319643,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-toupies-en-origami-125702",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Initiez-vous aux pliages selon l'art traditionnel japonais",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-a6d493d0b78298a5365347980d41bc58.jpg"
-    },
-    {
-      "title": "Atelier Scratch : Jeu vidéo",
-      "start": "2026-11-07T14:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.842541,
-      "lon": 2.397477,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-scratch-jeu-video-126009",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier pour s’initier à la programmation (au code) en s’amusant avec le logiciel \"Scratch\".",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-9d46afb9c2fb5b6fd6e7757ae7c4ab4a.jpg",
-      "aiSummary": "Cet atelier à Paris propose aux enfants de s'initier de manière ludique à la programmation informatique grâce au logiciel Scratch. En découvrant les bases du code, ils apprendront à créer leur propre jeu vidéo tout en s'amusant. Une activité originale et stimulante pour stimuler la créativité et la logique des jeunes participants."
-    },
-    {
-      "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
-      "start": "2026-11-07T14:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.9013260085607,
-      "lon": 2.37174600473222,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.le19m.com/fr/agenda",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg",
-      "aiSummary": "À la Galerie du 19M à Paris, l'artiste Sofía Bonilla Otoya invite à explorer le ruban gros-grain à travers des gestes simples comme plier, tordre, nouer et tisser. Cet atelier propose de découvrir autrement ce matériau traditionnellement associé à la chapellerie dans le cadre de l'exposition sur les chapeaux de Maison Michel."
-    },
-    {
-      "title": "La Maison des Petits au CentQuatre",
-      "start": "2026-11-07T14:30:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.889982,
-      "lon": 2.37143379999998,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/la-maison-des-petits-au-centquatre-124890",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg",
-      "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
-    },
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-07T14:30:00+02:00",
-      "end": "2026-11-07T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
-    {
-      "title": "Atelier créatif - Brico électro",
-      "start": "2026-11-07T14:30:00+02:00",
-      "end": "2026-11-07T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8262840028975,
-      "lon": 2.3267080273138,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.laressourceriecreative.com/ateliers-du-samedi",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Vous avez toujours voulu en apprendre plus sur l'électro sans savoir où chercher ? Alors cet atelier d'initiation est fait pour vous !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-7a7e21918886209b0227d847ec1c0118.png",
-      "aiSummary": "Cet atelier d'initiation à l'électronique à Paris permet d'en apprendre plus sur ce domaine souvent mystérieux. Les participants découvrent les bases de l'électro grâce à une approche accessible et ludique. C'est une sortie idéale pour satisfaire la curiosité des jeunes esprits désireux de comprendre comment fonctionnent les objets qui les entourent."
-    },
-    {
-      "title": "Atelier de doublage",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.817383,
-      "lon": 2.359182,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mordus-du-manga-donnez-de-la-voix-112467",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plongez dans les coulisses du doublage et incarnez vos personnages préférés aux côtés du comédien professionnel Alexis Bourtereau.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/05/huge-4416729d2d4d7e6e3d495156dd6bb672.png",
-      "aiSummary": "Cet atelier parisien invite les enfants à plonger dans les coulisses du doublage pour incarner leurs personnages préférés. Ils pratiquent cette activité aux côtés du comédien professionnel Alexis Bourtereau, une belle occasion de découvrir un métier artistique de l'intérieur de manière ludique."
-    },
-    {
-      "title": "Activité manuelle autour des contes",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8335799685067,
-      "lon": 2.31999278068543,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/activite-manuelle-autour-des-contes-124353",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Chantal vous propose un moment magique autour des histoires !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-760aea9260528efca226285b2a1faf1e.jpg"
-    },
-    {
-      "title": "Les oiseaux de chez nous : atelier de dessin naturaliste parents-enfants",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T16:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/les-oiseaux-de-chez-nous-atelier-de-dessin-naturaliste-parents-enfants",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez vous initier en famille au dessin naturaliste. Héron, mésange, pie… Découvrez toutes les étapes nécessaires pour réaliser facilement de beaux dessins des oiseaux parisiens.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-5a64ea90aacab3a54e3ca4b923c59a81.jpg",
-      "aiSummary": "En famille, initiez-vous au dessin naturaliste et apprenez à croquer facilement les oiseaux parisiens comme le héron, la mésange ou la pie. Cet atelier parents-enfants permet de découvrir pas à pas toutes les étapes nécessaires pour réaliser de superbes dessins de notre faune locale."
-    },
-    {
-      "title": "Atelier Quartier Japon",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.836807,
-      "lon": 2.303481,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/pro/agendayourcenar",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre des Mordus du Manga, nous te proposons un atelier de furoshiki.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-f10d58b6b461f6e551457b3f7b8b3a90.jpg"
-    },
-    {
-      "title": "Spectacle : Et si on se racontait des salades ?",
-      "start": "2026-11-07T15:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.840208,
-      "lon": 2.278706,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/et-si-on-se-racontait-des-salades-114796",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre du temps fort jeunesse \"Manger, Être mangé\" - voici un spectacle de contes et chansons sur un jardin potager… très vivant !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-04801bf7080d6cf445ceddbb833776e0.jpg",
-      "aiSummary": "Ce spectacle musical de contes plonge le jeune public dans un jardin potager particulièrement vivant. Cette représentation pleine de fantaisie, proposée lors du temps fort jeunesse sur le thème de l'alimentation, invite les enfants à découvrir des histoires chantées originales et divertissantes au cœur de la nature."
-    },
-    {
-      "title": "Atelier Quartier Japon",
-      "start": "2026-11-07T16:00:00+02:00",
-      "end": "2026-11-07T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.836807,
-      "lon": 2.303481,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/pro/agendayourcenar",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre des Mordus du Manga, nous te proposons un atelier de furoshiki.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-f10d58b6b461f6e551457b3f7b8b3a90.jpg"
-    },
-    {
-      "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
-      "start": "2026-11-07T16:30:00+02:00",
-      "end": "2026-11-07T18:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.9013260085607,
-      "lon": 2.37174600473222,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.le19m.com/fr/agenda",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg",
-      "aiSummary": "À la Galerie du 19M à Paris, l'artiste Sofía Bonilla Otoya invite à explorer le ruban gros-grain à travers des gestes simples comme plier, tordre, nouer et tisser. Cet atelier propose de découvrir autrement ce matériau traditionnellement associé à la chapellerie dans le cadre de l'exposition sur les chapeaux de Maison Michel."
-    },
-    {
-      "title": "Atelier en duo Parent-Enfant Hip-hop 6-10 ans",
-      "start": "2026-11-07T17:00:00+02:00",
-      "end": "2026-11-07T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.874105,
-      "lon": 2.382246,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Atelier Hip-hop en famille Parent-Enfant 6-10 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2022/01/06/huge-46be12abfce7202d054e1f0bc4ee07c4.jpg"
     },
     {
       "title": "Les sons du papier à la Philharmonie des enfants",
@@ -465,24 +111,6 @@
       "aiSummary": "À Paris, participez à des ateliers ludiques et bienveillants en duo parent-enfant autour du théâtre et des émotions. Cette sortie propose de partager un moment privilégié en famille grâce à une approche artistique centrée sur l'expression des sentiments, idéale pour les jeunes participants."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-11-08T10:00:00+02:00",
-      "end": "2026-11-08T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-11-08T10:00:00+02:00",
       "end": "2026-11-08T12:00:00+02:00",
@@ -499,6 +127,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-11-08T10:00:00+02:00",
+      "end": "2026-11-08T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
       "title": "Ateliers en famille Danse-Yoga parent-enfant 3-6 ans",
@@ -1771,24 +1417,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -1823,6 +1451,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -2095,24 +1741,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -2129,6 +1757,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -2520,7 +2166,8 @@
       "url": "https://www.billetweb.fr/bbg-petits-11",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Il n'y a pas d'âge pour prendre goût aux histoires, aux images et à la lecture. Une fois par mois, nous donnons RDV aux bébés et à leurs parents pour un temps de lecture adapté aux toutes petites oreilles. Ce rendez-vous mensuel prisé des tout-petits a lieu le deuxième samedi de chaque mois, à 10h30.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/12/11/huge-b3a1e65a651d3178a863aac98eeaae17.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/11/huge-b3a1e65a651d3178a863aac98eeaae17.jpg",
+      "aiSummary": "Une fois par mois, ce rendez-vous propose aux bébés et à leurs parents un temps de lecture adapté aux tout-petits. Les enfants découvrent ainsi des histoires et des images lors de ce moment privilégié. Cette animation mensuelle, programmée le deuxième samedi du mois à 10h30, permet d'initier les plus jeunes au plaisir de la lecture."
     },
     {
       "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
@@ -2537,7 +2184,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/ateliers-choresigne-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
+      "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
     },
     {
       "title": "L'heure du conte",
@@ -2640,7 +2288,8 @@
       "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
+      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
     },
     {
       "title": "Spectacle jeune public \"Miam ! \"",
@@ -2657,7 +2306,8 @@
       "url": "https://www.paris.fr/evenements/spectacle-jeune-public-miam-124191",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre du temps fort jeunesse \"Manger, être mangé\", la bibliothèque convie le très jeune public à assister à un spectacle de la compagnie La Lune Rousse.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-8bdd9a118025d144557d3ae1f97968ec.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-8bdd9a118025d144557d3ae1f97968ec.jpg",
+      "aiSummary": "La bibliothèque de Paris invite le très jeune public à découvrir un spectacle jeune public de la compagnie La Lune Rousse. Cette représentation s'inscrit dans le cadre du temps fort jeunesse \"Manger, être mangé\", offrant ainsi une proposition culturelle adaptée aux tout-petits autour de cette thématique originale."
     },
     {
       "title": "L'heure du conte pour les 4-7 ans",
@@ -2710,7 +2360,8 @@
       "url": "https://www.paris.fr/lieux/bibliotheque-assia-djebar-19114",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Tu aimes lire et tu as envie de partager tes coups de cœur : romans, mangas, bd… ? Tu as envie de découvrir de nouvelles séries, de nouveaux héros ? Le club lecture t’attend ! Les samedis à 14h15",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-91d4dcde1f75e3b14b9f102171311832.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-91d4dcde1f75e3b14b9f102171311832.jpg",
+      "aiSummary": "Ce club lecture parisien invite les enfants à partager leurs coups de cœur littéraires, qu'il s'agisse de romans, de mangas ou de bandes dessinées. C'est l'occasion idéale pour les jeunes lecteurs de découvrir de nouvelles séries et de nouveaux héros tout en échangeant autour de leurs lectures."
     },
     {
       "title": "La Maison des Petits au CentQuatre",
@@ -2783,23 +2434,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-941cd4dcf657cfc8e994b0d0d020a52a.jpg"
     },
     {
-      "title": "Visite Famille",
-      "start": "2026-11-14T15:00:00+02:00",
-      "end": "2026-11-14T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8629049988756,
-      "lon": 2.28834196100399,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://indiv.themisweb.fr/0218/fChoixSeanceWidget.aspx?idstructure=0218&EventId=1748&request=QcE+w0WHSuBQMpsjSY4ol/xOunNtETpTfrggmmXfKJW/jA9nhimA1bVONAuANSx9FKtxmpRrGoOHc43iz7a2xw==",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Découvrez Chaillot en Famille ! Plongez au cœur du Théâtre national de la Danse avec une visite spécialement conçue pour le jeune public.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/26/huge-dc4092aa9dd3bbb03c54a7e3036b414a.jpg"
-    },
-    {
       "title": "L'atelier du samedi",
       "start": "2026-11-14T15:00:00+02:00",
       "end": "2026-11-14T16:30:00+02:00",
@@ -2817,6 +2451,24 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/01/24/huge-7f908af7d80da1c757b3fe1690196135.jpg"
     },
     {
+      "title": "Visite Famille",
+      "start": "2026-11-14T15:00:00+02:00",
+      "end": "2026-11-14T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8629049988756,
+      "lon": 2.28834196100399,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://indiv.themisweb.fr/0218/fChoixSeanceWidget.aspx?idstructure=0218&EventId=1748&request=QcE+w0WHSuBQMpsjSY4ol/xOunNtETpTfrggmmXfKJW/jA9nhimA1bVONAuANSx9FKtxmpRrGoOHc43iz7a2xw==",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Découvrez Chaillot en Famille ! Plongez au cœur du Théâtre national de la Danse avec une visite spécialement conçue pour le jeune public.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/26/huge-dc4092aa9dd3bbb03c54a7e3036b414a.jpg",
+      "aiSummary": "Partez à la découverte du Théâtre national de la Danse grâce à une visite guidée pensée spécialement pour le jeune public. Cette sortie originale invite les enfants à explorer les coulisses et l'univers fascinant de Chaillot en famille, au cœur de Paris."
+    },
+    {
       "title": "Atelier Arcimboldo",
       "start": "2026-11-14T15:00:00+02:00",
       "end": "2026-11-14T16:30:00+02:00",
@@ -2831,7 +2483,8 @@
       "url": "https://www.paris.fr/evenements/atelier-arcimboldo-par-la-revue-dada-123188",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "A l'occasion du temps fort jeunesse \"Manger, être mangé\", venez réaliser votre autoportrait à la façon d'Arcimboldo !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/05/huge-3beeb96d68401a15428dc167acc8dfc1.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/05/huge-3beeb96d68401a15428dc167acc8dfc1.jpg",
+      "aiSummary": "Lors de cet atelier créatif, les enfants s'inspirent du célèbre artiste Arcimboldo pour composer un autoportrait original à partir d'éléments alimentaires. Cette activité ludique proposée à Paris s'inscrit dans le temps fort jeunesse \"Manger, être mangé\" et permet aux participants d'exprimer leur créativité tout en découvrant l'art du portrait de manière originale et amusante."
     },
     {
       "title": "Atelier d'écriture de chanson avec Comae",
@@ -2882,7 +2535,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Atelier Marionnettes avec Alex Rochereau",
@@ -2950,7 +2604,8 @@
       "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
+      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
     },
     {
       "title": "Ateliers «Histoires & Comptines Signées» : Parents-Enfant 2-5 ans",
@@ -2984,7 +2639,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/garderie-dansee-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants dansent !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg",
+      "aiSummary": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants profitent d'une garderie dansée spécialement conçue pour eux. Cette proposition originale permet à toute la famille de vivre une expérience artistique adaptée à chacun, alliant la découverte culturelle des adultes à une initiation corporelle ludique pour les plus jeunes."
     },
     {
       "title": "Heure du conte mensuelle pour les enfants à partir de 4 ans",
@@ -3001,7 +2657,8 @@
       "url": "https://www.billetweb.fr/bbg-grands-11",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Et si on écoutait des histoires ? Dans le cadre du festival des fiertés, Bidouille et les bibliothécaires ont sélectionné des albums qui célèbrent la diversité des identités et des familles et l'acceptation de la différence. Venez découvrir ou vous régaler à nouveau des trésors de la littérature jeunesse.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/02/huge-603905345880d0ded24a23556ffd702e.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/02/huge-603905345880d0ded24a23556ffd702e.jpg",
+      "aiSummary": "Les enfants à partir de 4 ans sont invités à écouter une sélection d'albums jeunesse choisis avec Bidouille et les bibliothécaires. Proposée dans le cadre du festival des fiertés, cette séance met à l'honneur la diversité des identités et des familles ainsi que l'acceptation de la différence à travers de belles histoires."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -3040,24 +2697,6 @@
       "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-11-15T10:00:00+02:00",
-      "end": "2026-11-15T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-11-15T10:00:00+02:00",
       "end": "2026-11-15T12:00:00+02:00",
@@ -3076,6 +2715,24 @@
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
     },
     {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-11-15T10:00:00+02:00",
+      "end": "2026-11-15T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
+    },
+    {
       "title": "Ateliers en famille YOGA parent-enfant 3-6 ans",
       "start": "2026-11-15T10:00:00+02:00",
       "end": "2026-11-15T11:00:00+02:00",
@@ -3090,7 +2747,8 @@
       "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ateliers en famille dès 3 ans! Dimanche 10h-11h Renseignements: www.compagniemaya.com contact@compagniemaya.com ou 06 12 96 65 98",
-      "image": "https://cdn.paris.fr/qfapv4/2025/12/19/huge-4e72fbb5bf169bf57b1db5cabdac17fe.jpeg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/19/huge-4e72fbb5bf169bf57b1db5cabdac17fe.jpeg",
+      "aiSummary": "Participez à un atelier de yoga ludique spécialement conçu pour les duos parent-enfant de 3 à 6 ans. Ce rendez-vous dominical est l'occasion idéale de partager un moment de complicité et de détente en famille à Paris, guidé par la Compagnie Maya."
     },
     {
       "title": "Concert-éveil « Beethoven et la Nature »",
@@ -3107,7 +2765,8 @@
       "url": "https://www.orchestrecolonne.fr/Beethoven-et-la-nature/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Conçu pour les enfants dès 4 ans, le concert-éveil est une aventure musicale vivante et interactive, pensée comme leur tout premier apprentissage de la musique classique. Vos petits explorateurs apprennent à écouter, ressentir et comprendre les chefs-d’œuvre du répertoire à travers des explications, des jeux et des exp",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/15/huge-7ff4de205874010e253ff7b60680729f.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/15/huge-7ff4de205874010e253ff7b60680729f.jpg",
+      "aiSummary": "Ce concert-éveil interactif invite les enfants dès 4 ans à découvrir les chefs-d'œuvre de la musique classique. À travers des explications, des jeux et des explorations musicales, les petits explorateurs apprennent à écouter et ressentir les mélodies. Cette aventure vivante est conçue pour leur tout premier apprentissage de la musique."
     },
     {
       "title": "Portraits de famille",
@@ -3176,7 +2835,8 @@
       "url": "https://viviarto.com/organisateurs-ateliers-cours-artistiques/compagnie-maya/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Ateliers en famille dès 3 ans! Dimanche 10h-11h Renseignements: www.compagniemaya.com contact@compagniemaya.com ou 06 12 96 65 98",
-      "image": "https://cdn.paris.fr/qfapv4/2025/12/19/huge-4e72fbb5bf169bf57b1db5cabdac17fe.jpeg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/19/huge-4e72fbb5bf169bf57b1db5cabdac17fe.jpeg",
+      "aiSummary": "Participez à un atelier de yoga ludique spécialement conçu pour les duos parent-enfant de 3 à 6 ans. Ce rendez-vous dominical est l'occasion idéale de partager un moment de complicité et de détente en famille à Paris, guidé par la Compagnie Maya."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -3316,7 +2976,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Spectacle de contes gourmands",
@@ -4520,24 +4181,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -4572,6 +4215,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -4844,24 +4505,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -4878,6 +4521,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -5320,23 +4981,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-6f3166d084961e953c4e1767dbd1ca42.jpg"
     },
     {
-      "title": "Journée en Famille.s à Paris",
-      "start": "2026-11-21T14:00:00+02:00",
-      "end": "2026-11-21T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8370792333469,
-      "lon": 2.38174899053997,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/collectif-familles/evenements/une-journee-en-famille-s-a-paris-2026",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Cette Journée en Famille.s est un événement convivial pour favoriser la rencontre des familles aux parentalités LGBTQIA+ ! (Futurs) parents, enfants, grands-parents, allié·es se retrouvent pour une journée festive ensemble !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/09/huge-aa7e5703a0f0f7c165bd15a4affbe2e5.jpg"
-    },
-    {
       "title": "La Maison des Petits au CentQuatre",
       "start": "2026-11-21T14:30:00+02:00",
       "end": "2026-11-21T18:00:00+02:00",
@@ -5540,7 +5184,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Atelier parents-enfants",
@@ -5642,7 +5287,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/garderie-dansee-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants dansent !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg",
+      "aiSummary": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants profitent d'une garderie dansée spécialement conçue pour eux. Cette proposition originale permet à toute la famille de vivre une expérience artistique adaptée à chacun, alliant la découverte culturelle des adultes à une initiation corporelle ludique pour les plus jeunes."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -5681,24 +5327,6 @@
       "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-11-22T10:00:00+02:00",
-      "end": "2026-11-22T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-11-22T10:00:00+02:00",
       "end": "2026-11-22T12:00:00+02:00",
@@ -5715,6 +5343,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-11-22T10:00:00+02:00",
+      "end": "2026-11-22T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
       "title": "Ateliers en duo Parent-Enfant Danse 18 mois-3 ans",
@@ -5941,7 +5587,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Ateliers de découverte instrumentale pour enfants",
@@ -7009,24 +6656,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -7061,6 +6690,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -7333,24 +6980,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -7367,6 +6996,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -7909,7 +7556,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Fête du conte : scène ouverte !",
@@ -8062,7 +7710,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/garderie-dansee-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants dansent !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg",
+      "aiSummary": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants profitent d'une garderie dansée spécialement conçue pour eux. Cette proposition originale permet à toute la famille de vivre une expérience artistique adaptée à chacun, alliant la découverte culturelle des adultes à une initiation corporelle ludique pour les plus jeunes."
     },
     {
       "title": "Chroniques d'une famille ordinaire",
@@ -8135,24 +7784,6 @@
       "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-11-29T10:00:00+02:00",
-      "end": "2026-11-29T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-11-29T10:00:00+02:00",
       "end": "2026-11-29T12:00:00+02:00",
@@ -8169,6 +7800,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-11-29T10:00:00+02:00",
+      "end": "2026-11-29T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
       "title": "Mercoeur en fête, atelier de Kung Fu / Self défense",
@@ -8326,7 +7975,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Broderie simultanée : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
@@ -8490,6 +8140,24 @@
       "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
     },
     {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-12-01T14:30:00+02:00",
+      "end": "2026-12-01T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
+    },
+    {
       "title": "L'heure des bébés - Un temps de lecture partagée pour les tout-petits",
       "start": "2026-12-01T17:00:00+02:00",
       "end": "2026-12-01T18:30:00+02:00",
@@ -8579,6 +8247,23 @@
       "aiSummary": "Chaque mercredi à Paris, les tout-petits et leurs parents profitent d'un accueil privilégié par un ou une bibliothécaire dans l'espace dédié. Ce rendez-vous offre un temps précieux de conseil et un accompagnement personnalisé pour découvrir la lecture individuelle en toute tranquillité."
     },
     {
+      "title": "Mini-sculpteur 1-3 ans en famille",
+      "start": "2026-12-02T10:00:00+02:00",
+      "end": "2026-12-02T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229597135125",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Les tout-petits et leurs parents sont invités à une découverte ludique du musée Bourdelle et à créer leur premier modelage en terre.",
+      "image": "https://cdn.paris.fr/qfapv4/2023/05/04/huge-b3f55f82ac05244f5af33e6f5cde1f1f.jpeg"
+    },
+    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-12-02T10:00:00+02:00",
       "end": "2026-12-02T18:00:00+02:00",
@@ -8595,23 +8280,6 @@
       "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
       "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
       "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
-      "title": "Mini-sculpteur 1-3 ans en famille",
-      "start": "2026-12-02T10:00:00+02:00",
-      "end": "2026-12-02T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.842975,
-      "lon": 2.318588,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229597135125",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Les tout-petits et leurs parents sont invités à une découverte ludique du musée Bourdelle et à créer leur premier modelage en terre.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/05/04/huge-b3f55f82ac05244f5af33e6f5cde1f1f.jpeg"
     },
     {
       "title": "L'heure du conte pour les 0-3 ans",
@@ -8806,23 +8474,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9d85269ff0c637768ed6c2e8d06bc731.jpg"
     },
     {
-      "title": "Atelier flap",
-      "start": "2026-12-02T16:00:00+02:00",
-      "end": "2026-12-02T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.857995,
-      "lon": 2.308717,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-flap-qui-mange-qui-124760",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez participer à un atelier créatif autour de la chaine alimentaire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-e1a69ec4cd3e3cf56c56ed1a0dfe2ae5.jpg"
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-12-02T16:00:00+02:00",
       "end": "2026-12-02T18:30:00+02:00",
@@ -8839,6 +8490,23 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Atelier flap",
+      "start": "2026-12-02T16:00:00+02:00",
+      "end": "2026-12-02T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.857995,
+      "lon": 2.308717,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-flap-qui-mange-qui-124760",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez participer à un atelier créatif autour de la chaine alimentaire.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-e1a69ec4cd3e3cf56c56ed1a0dfe2ae5.jpg"
     },
     {
       "title": "Les P'tits Trucs",
@@ -9269,24 +8937,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -9321,6 +8971,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -9575,24 +9243,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -9609,6 +9259,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -10117,7 +9785,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Cycle Musiques et Exils | Atelier de Konnakol",
@@ -10206,24 +9875,6 @@
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-12-06T10:00:00+02:00",
-      "end": "2026-12-06T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-12-06T10:00:00+02:00",
       "end": "2026-12-06T12:00:00+02:00",
@@ -10240,6 +9891,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-12-06T10:00:00+02:00",
+      "end": "2026-12-06T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
       "title": "Visite dansée en famille",
@@ -10396,7 +10065,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Broderie simultanée : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
@@ -11251,24 +10921,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -11303,6 +10955,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -11485,23 +11155,6 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
-      "title": "Atelier Veggie Burger Parent-Enfant (6-12 ans)",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T13:30:00+02:00",
-      "city": "Meudon",
-      "lat": 48.807489,
-      "lon": 2.233508,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.eco-nature.org/experience/atelier-veggie-burger-parent-enfant-6-12-ans-9766",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez partager un moment convivial et gourmand avec votre enfant, et mettez la main à la pâte pour préparer de délicieux burgers végétariens !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-c24ee9c02a5b2da93411499659744a5c.jpg"
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Bassompierre",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -11518,6 +11171,23 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
+    },
+    {
+      "title": "Atelier Veggie Burger Parent-Enfant (6-12 ans)",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T13:30:00+02:00",
+      "city": "Meudon",
+      "lat": 48.807489,
+      "lon": 2.233508,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.eco-nature.org/experience/atelier-veggie-burger-parent-enfant-6-12-ans-9766",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez partager un moment convivial et gourmand avec votre enfant, et mettez la main à la pâte pour préparer de délicieux burgers végétariens !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-c24ee9c02a5b2da93411499659744a5c.jpg"
     },
     {
       "title": "Les Samedis en Famille · Crèche Pixérécourt",
@@ -11574,24 +11244,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -11608,6 +11260,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -11859,23 +11529,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-91f20e0fbdbf455bb346ed4c8bdbb8cd.jpg"
     },
     {
-      "title": "Spectacle petite enfance : voyage à la mer",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850016,
-      "lon": 2.286431,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/spectacle-petite-enfance-voyage-a-la-mer-117397",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png"
-    },
-    {
       "title": "Samedi des enfants",
       "start": "2026-12-12T10:30:00+02:00",
       "end": "2026-12-12T11:15:00+02:00",
@@ -11891,6 +11544,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
+    },
+    {
+      "title": "Spectacle petite enfance : voyage à la mer",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850016,
+      "lon": 2.286431,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/spectacle-petite-enfance-voyage-a-la-mer-117397",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png"
     },
     {
       "title": "Atelier créatif - Initiation au macramé",
@@ -11924,7 +11594,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/ateliers-choresigne-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
+      "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
     },
     {
       "title": "L'heure du conte des grands",
@@ -12028,7 +11699,8 @@
       "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
+      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -12063,7 +11735,8 @@
       "url": "https://www.paris.fr/lieux/bibliotheque-assia-djebar-19114",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Tu aimes lire et tu as envie de partager tes coups de cœur : romans, mangas, bd… ? Tu as envie de découvrir de nouvelles séries, de nouveaux héros ? Le club lecture t’attend ! Les samedis à 14h15",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-91d4dcde1f75e3b14b9f102171311832.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-91d4dcde1f75e3b14b9f102171311832.jpg",
+      "aiSummary": "Ce club lecture parisien invite les enfants à partager leurs coups de cœur littéraires, qu'il s'agisse de romans, de mangas ou de bandes dessinées. C'est l'occasion idéale pour les jeunes lecteurs de découvrir de nouvelles séries et de nouveaux héros tout en échangeant autour de leurs lectures."
     },
     {
       "title": "La Maison des Petits au CentQuatre",
@@ -12217,7 +11890,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "RAFARA, spectacle conté par le Tatou Théâtre",
@@ -12319,7 +11993,8 @@
       "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
+      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
     },
     {
       "title": "Costume en papier tissé et coloré - Atelier de création en famille, autour de l'exposition « L’étoffe de l’artiste »",
@@ -12353,7 +12028,8 @@
       "url": "https://www.atelierdeparis.org/a-l-affiche/garderie-dansee-26-27/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants dansent !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg",
+      "aiSummary": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants profitent d'une garderie dansée spécialement conçue pour eux. Cette proposition originale permet à toute la famille de vivre une expérience artistique adaptée à chacun, alliant la découverte culturelle des adultes à une initiation corporelle ludique pour les plus jeunes."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -12374,24 +12050,6 @@
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
-      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
-      "start": "2026-12-13T10:00:00+02:00",
-      "end": "2026-12-13T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8581900107014,
-      "lon": 2.3128939803284,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://museedesplansreliefs.fr/familles?page=2",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
-      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
       "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
       "start": "2026-12-13T10:00:00+02:00",
       "end": "2026-12-13T12:00:00+02:00",
@@ -12408,6 +12066,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-12-13T10:00:00+02:00",
+      "end": "2026-12-13T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
       "title": "Portraits de famille",
@@ -12531,7 +12207,8 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
@@ -13012,6 +12689,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
+      "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
+      "start": "2026-12-17T10:00:00+02:00",
+      "end": "2026-12-17T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8581900107014,
+      "lon": 2.3128939803284,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://museedesplansreliefs.fr/familles?page=2",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
+      "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
+    },
+    {
       "title": "Portraits de famille",
       "start": "2026-12-17T11:00:00+02:00",
       "end": "2026-12-17T18:00:00+02:00",
@@ -13350,24 +13045,6 @@
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
     },
     {
-      "title": "Transparence : la première exposition du Palais des enfants",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T19:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8666400168401,
-      "lon": 2.31161004039998,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.grandpalais.fr/fr/billetterie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
-      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Montera",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -13402,6 +13079,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Schloesing et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Schloesing à Paris, en partenariat avec l'association Môm'Artre, ouvre ses portes aux familles le samedi matin pour des animations partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de participer à des activités conviviales avec les tout-petits."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
       "title": "Les Samedis en Famille · Crèche des Prêtres Saint-Séverin",
@@ -13656,24 +13351,6 @@
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Convention",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.839702,
-      "lon": 2.291223,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
-    },
-    {
       "title": "Les samedis en famille · Crèche Cité Lepage",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -13690,6 +13367,24 @@
       "description": "Paris ouvre des cours de crèches au public le samedi. La crèche Cité Lepage et l'association Je d'enfant et d'adolescent vous proposent les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Convention",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.839702,
+      "lon": 2.291223,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -14131,12 +13826,347 @@
       "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
       "start": "2026-12-19T16:00:00+02:00",
       "end": "2026-12-19T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8629459863822,
+      "lon": 2.34240003970564,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229577527325&gtmStepTracking=true",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Conçue en lien avec les expositions de la Bourse de Commerce et guidée par un médiateur, la visite propose aux petits et aux grands d’explorer le musée main dans la main.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-0a570104d5db0ae1a130039838ea6b4c.jpg",
+      "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
+    },
+    {
+      "title": "La lecture, c'est bon pour les bébés ! - Atelier enfants-parents mensuel gratuit",
+      "start": "2026-12-19T16:00:00+02:00",
+      "end": "2026-12-19T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8986899838311,
+      "lon": 2.33691500608666,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://lepetitney.fr/lecture-avec-les-bebes/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "L’atelier de lecture avec les bébés est un temps d’éveil doux et convivial où tout-petits et parents découvrent ensemble le plaisir des livres à travers des lectures à voix haute, des comptines et la manipulation libre.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-81a8c04f7a3f6701768c19ace50f2a9b.jpeg"
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-12-20T09:30:00+02:00",
+      "end": "2026-12-20T19:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Paris sport familles : activités enfants / parents au centre sportif Bréguet",
+      "start": "2026-12-20T10:00:00+02:00",
+      "end": "2026-12-20T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.858082,
+      "lon": 2.374974,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/paris-sport-familles-activites-enfants-parents-au-centre-sportif-breguet-44685",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
+      "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Portraits de famille",
+      "start": "2026-12-20T11:00:00+02:00",
+      "end": "2026-12-20T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8830410125121,
+      "lon": 2.30771103049989,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://musee-henner.fr/agenda/evenement/portraits-de-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
+      "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-20T11:00:00+02:00",
+      "end": "2026-12-20T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
+    },
+    {
+      "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
+      "start": "2026-12-20T11:15:00+02:00",
+      "end": "2026-12-20T12:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.8629459863822,
+      "lon": 2.34240003970564,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229577527325&gtmStepTracking=true",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Conçue en lien avec les expositions de la Bourse de Commerce et guidée par un médiateur, la visite propose aux petits et aux grands d’explorer le musée main dans la main.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-0a570104d5db0ae1a130039838ea6b4c.jpg",
+      "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
+    },
+    {
+      "title": "EXPOSITION LA MODE AU MOYEN AGE",
+      "start": "2026-12-20T13:30:00+02:00",
+      "end": "2026-12-20T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.864075,
+      "lon": 2.348127,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://tourjeansanspeursite.wordpress.com/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "L'exposition La mode au Moyen Âge offre un voyage dans l’univers vestimentaire médiéval, où les tailleurs rivalisent d'ingéniosité pour mettre en valeur la silhouette et la richesse du propriétaire. Ce sont là les prémices des phénomènes de mode tels que nous les connaissons aujourd'hui !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-2761810979d58e7374207d54c5c23ad8.jpg",
+      "aiSummary": "Cette exposition à Paris invite à découvrir l'univers vestimentaire médiéval à travers les créations ingénieuses des tailleurs de l'époque. Les enfants exploreront l'histoire des silhouettes et des richesses d'autrefois, révélant les origines des phénomènes de mode actuels dans une visite originale et instructive."
+    },
+    {
+      "title": "La Maison des Petits au CentQuatre",
+      "start": "2026-12-20T14:30:00+02:00",
+      "end": "2026-12-20T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.889982,
+      "lon": 2.37143379999998,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/la-maison-des-petits-au-centquatre-124890",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg",
+      "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
+    },
+    {
+      "title": "Styliste en herbe : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
+      "start": "2026-12-20T14:30:00+02:00",
+      "end": "2026-12-20T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230047568999",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Après une découverte de l'exposition temporaire « L’étoffe de l’artiste », réalisez la silhouette de votre artiste !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-2f93b4bcfff5be9284691315d5e3c834.jpeg"
+    },
+    {
+      "title": "Atelier \"L-ouvre les yeux !\" au Musée du Louvre",
+      "start": "2026-12-20T15:00:00+02:00",
+      "end": "2026-12-20T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.862724997505,
+      "lon": 2.33483201932853,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+    },
+    {
+      "title": "Ciné-concert pour enfant / Cartoon’est pas si mal !",
+      "start": "2026-12-20T15:00:00+02:00",
+      "end": "2026-12-20T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8259553,
+      "lon": 2.3592185,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.paris.fr/evenements/cine-concert-pour-enfant-cartoon-est-pas-si-mal-126585",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cie 'Cartoon'est pas si mal' propose un ciné-concert pour enfant ! Un spectacle joyeux et festif empreint d'humour et de poésie.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-e7f26a37d8d48a7b5e6223fbea6f0f72.jpeg"
+    },
+    {
+      "title": "Cinéma d'animation à la Porte de Vanves",
+      "start": "2026-12-20T15:00:00+02:00",
+      "end": "2026-12-20T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8261099945875,
+      "lon": 2.30466404105755,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/ahmed-prince-de-l-alhambra-cinema-de-fin-d-annee-pour-les-familles-a-la-porte-de-vanves-125769",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre des fêtes de fin d'année le Ciné Kino d'ARTMELE vous invite à la projection du film d'animation \"Ahmed prince de l'Alhambra\" au Centre Socio culturel Maurice Noguès.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/10/huge-0582f314db21363ec058dab0036a2fcd.jpg"
+    },
+    {
+      "title": "Le spectacle « Fanfare » au Cirque Électrique",
+      "start": "2026-12-20T15:00:00+02:00",
+      "end": "2026-12-20T16:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8777194,
+      "lon": 2.408857,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
+      "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
+    },
+    {
+      "title": "Broderie simultanée : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
+      "start": "2026-12-20T16:00:00+02:00",
+      "end": "2026-12-20T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10230047569001",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier textile en famille, à la découverte de la technique du \"punch needle\"",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-a9c3234f37cfa0c80edfd1761d64b5b4.jpeg"
+    },
+    {
+      "title": "Stage enfants cinéma à Paris – Silence, on tourne !",
+      "start": "2026-12-21T09:30:00+02:00",
+      "end": "2026-12-21T16:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8798200147598,
+      "lon": 2.32417501617417,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.octave-et-arpege.fr/stages/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un stage de cinéma pour les enfants à partir de 6 ans. Tournage d’un court-métrage pendant 3 jours.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-42f0c9f2aa4034047da01af2e8cfab6d.png"
+    },
+    {
+      "title": "Portraits de famille",
+      "start": "2026-12-21T11:00:00+02:00",
+      "end": "2026-12-21T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8830410125121,
+      "lon": 2.30771103049989,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://musee-henner.fr/agenda/evenement/portraits-de-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
+      "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Atelier \"L-ouvre les yeux !\" au Musée du Louvre",
+      "start": "2026-12-21T15:00:00+02:00",
+      "end": "2026-12-21T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.862724997505,
+      "lon": 2.33483201932853,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+    },
+    {
+      "title": "Sport seniors en plein air : Tennis Santé avec La Jeunesse Sportive Européenne Champerret",
+      "start": "2026-12-21T15:00:00+02:00",
+      "end": "2026-12-21T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8887249906029,
+      "lon": 2.2961559902393,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/sport-seniors-en-plein-air-tennis-sante-au-tennis-marguerite-broquedis-81643",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Deux séances hebdomadaires de Tennis Santé, proposées par la Jeunesse Sportive Européenne Champerret, pour pratiquer un sport adapté et bénéfique pour la condition physique des seniors.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/19/huge-a958fcbf48958c9adae7659509d0cacf.jpg",
+      "aiSummary": "À Paris, la Jeunesse Sportive Européenne Champerret propose deux séances hebdomadaires de Tennis Santé en plein air. Ce créneau permet aux seniors de pratiquer une activité sportive spécialement adaptée, idéale pour entretenir leur condition physique et prendre soin de leur santé dans un cadre convivial."
+    },
+    {
+      "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
+      "start": "2026-12-21T16:00:00+02:00",
+      "end": "2026-12-21T17:00:00+02:00",
       "city": "Paris",
       "lat": 48.8629459863822,
       "lon": 2.34240003970564,
