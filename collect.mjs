@@ -2,7 +2,8 @@ import { familyRelevant } from './family-filter.mjs';
 import fs from 'node:fs/promises';
 
 const configuredIds = (process.env.OPENAGENDA_AGENDAS || '').split(',').map(s => s.trim()).filter(Boolean);
-const ids = new Set(configuredIds);
+// Agenda public vérifié : animations Île-de-France Nature (OpenAgenda UID 68165804).
+const ids = new Set([...configuredIds, '68165804']);
 const key = process.env.OPENAGENDA_API_KEY || '';
 const center = [48.611, 2.305]; // Brétigny-sur-Orge
 const now = Date.now();
@@ -27,7 +28,14 @@ const searches = [
  'Montlhéry','Marcoussis','Épinay-sur-Orge','La Ville-du-Bois','Ris-Orangis',
  'Corbeil-Essonnes','Évry-Courcouronnes','Massy','Palaiseau','Dourdan','Étampes',
  'Essonne tourisme','Cœur d’Essonne','Val d’Essonne','Paris-Saclay',
- 'médiathèques Essonne','spectacles jeune public Essonne','agenda des petits curieux'
+ 'médiathèques Essonne','spectacles jeune public Essonne','agenda des petits curieux',
+ 'fêtes foraines Essonne','fêtes de village Essonne','animations enfants Essonne',
+ 'spectacles familles Essonne','théâtre jeune public Essonne','ateliers parents enfants Essonne',
+ 'fermes pédagogiques Essonne','sorties nature enfants Essonne','animations forêt Essonne',
+ 'Le Plan Ris-Orangis','Saison Culturelle Val d’Yerres Val de Seine',
+ 'saison culturelle Marcoussis','festival enfance Essonne','Maison de l environnement Essonne',
+ 'chasses au trésor Essonne','musées jeune public Essonne','médiathèque Arpajon',
+ 'musee ateliers enfants Essonne','Ile-de-France Nature'
 ];
 let discovered = 0;
 const agendaScores = new Map();
@@ -53,8 +61,8 @@ for (const term of searches) {
 console.log('Agendas distincts à explorer : '+ids.size+' ('+discovered+' résultats de recherche)');
 const collected = [];
 let success = 0;
-const ordered=[...ids].sort((a,b)=>(configuredIds.includes(b)?100:0)+(agendaScores.get(b)||0)-(configuredIds.includes(a)?100:0)-(agendaScores.get(a)||0));
-for (const id of ordered.slice(0, 100)) {
+const ordered=[...ids].sort((a,b)=>(configuredIds.includes(b)||b==='68165804'?100:0)+(agendaScores.get(b)||0)-(configuredIds.includes(a)||a==='68165804'?100:0)-(agendaScores.get(a)||0));
+for (const id of ordered.slice(0, 120)) {
   console.log('--- Agenda ' + id + ' ---');
   const startReceived = count.received;
   try {
