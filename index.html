@@ -238,5 +238,5 @@ async function loadOutings(){
    $('status').after(banner);
  }
 }
-import('./event-core.mjs?v=5').then(module=>{eventCore=module;restorePreferences();return loadOutings()}).catch(err=>{$('status').textContent='Erreur de chargement des sorties : '+err.message;console.error(err)});
+import('./event-core.mjs?v=6').then(module=>{eventCore=module;restorePreferences();return loadOutings()}).catch(err=>{$('status').textContent='Erreur de chargement des sorties : '+err.message;console.error(err)});
 </script></body></html>
