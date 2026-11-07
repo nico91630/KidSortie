@@ -1,14 +1,9 @@
+import { familyRelevant } from './family-filter.mjs';
 export const CENTER={lat:48.611,lon:2.305};
 export function distanceKm(e){const lat=Number(e.lat),lon=Number(e.lon);if(e.lat==null||e.lon==null||!Number.isFinite(lat)||!Number.isFinite(lon))return Infinity;const p=Math.PI/180,a=Math.sin((lat-CENTER.lat)*p/2)**2+Math.cos(CENTER.lat*p)*Math.cos(lat*p)*Math.sin((lon-CENTER.lon)*p/2)**2;return 12742*Math.asin(Math.sqrt(a))}
 export function safeUrl(value){try{const u=new URL(value);return u.protocol==='https:'||u.protocol==='http:'?u.href:null}catch{return null}}
 export function normalize(s){return String(s??'').toLocaleLowerCase('fr').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim()}
-export function familyEligible(e){
- if(e.familyVerified===true)return true;
- const value=normalize([e.title,e.description,e.audience,e.tags].filter(Boolean).join(' '));
- if(/reserve aux adultes|interdit aux mineurs|public adulte|pour adultes uniquement|a partir de 18 ans/.test(value))return false;
- if(e.minAge!=null&&Number(e.minAge)>12)return false;
- return /enfants?|famill(?:e|es|ial|iale)|jeune public|tout petit|bebes?|parents? enfants?|marionnettes?|conte pour enfants|\b(?:[2-9]|10|11|12) ans\b|ferme pedagogique|ludotheque|eveil musical|chasse au tresor/.test(value)
-}
+export function familyEligible(e){return familyRelevant(e)}
 export function eventKey(e){return [normalize(e.title),normalize(e.city),Math.round(Number(e.lat)*100)||0,Math.round(Number(e.lon)*100)||0].join('|')}
 export function groupEvents(items,now=Date.now()){
  const groups=new Map();
@@ -53,7 +48,7 @@ export function relevanceScore(e){
 }
 export function worthwhile(e){
  const title=normalize(e.title);
- return !unwanted.test(title)&&relevanceScore(e)>=2;
+ return familyRelevant(e)&&!unwanted.test(title)&&relevanceScore(e)>=2;
 }
 export function filterEvents(events,{q='',category='all',ages=[],price='all',radius=40,sort='date',period='all',favoritesOnly=false,favorites=new Set(),now=new Date()}={}){
  const needle=normalize(q);
