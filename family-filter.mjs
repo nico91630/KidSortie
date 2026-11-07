@@ -42,7 +42,7 @@ export function familyRelevant(e){
  // Pour une activité à durée ponctuelle, accepter une preuve enfant explicite + type d'activité.
  if(any(title,eventKind)&&any([title,tags].join(' '),explicitAudience))return true;
  // Le descriptif seul est admis uniquement si l'âge/public enfant y est clairement formulé.
- if(any(title,eventKind)&&any(description.slice(0,380),explicitAudience))return true;
+ if(any(title,eventKind)&&any(description.slice(0,380),explicitAudience)&&!/(?:entree|tarif|billet|reduction|gratuit|reservation|inscription).{0,48}(?:enfants?|familles?)/.test(description.slice(0,380)))return true;
  // Les titres enfantins courts comme "Mini Croc'musique" sont recevables, les salons génériques non.
  if(any(title,childTitle)&&!any(title,genericAdult)&&/musique|spectacle|conte|atelier|jeu|animation|fete|parc|ferme|decouverte|activite|lecture/.test(full))return true;
  return false;
