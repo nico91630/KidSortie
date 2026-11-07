@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T07:12:58.204Z",
+  "updatedAt": "2026-11-07T07:17:20.255Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -842,7 +842,8 @@
       "url": "https://www.paris.fr/evenements/heures-du-conte-petite-enfance-janvier-juin-117384",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des histoires, des comptines, des jeux de doigts pour les petits et les parents ! Pour les enfants de 18 mois à 3 ans et leurs parents. SUR RÉSERVATION UNE SEMAINE AVANT LA SÉANCE.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/01/06/huge-acde77907272f39cee3f996cc4f77c24.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/01/06/huge-acde77907272f39cee3f996cc4f77c24.jpg",
+      "aiSummary": "À Paris, les tout-petits de 18 mois à 3 ans et leurs parents profitent de moments privilégiés autour d'histoires, de comptines et de jeux de doigts. Cette animation douce et interactive favorise l'éveil des plus jeunes et permet de partager une activité complice en famille. Pensez à réserver votre place une semaine avant la séance."
     },
     {
       "title": "Samedi des enfants",
@@ -928,7 +929,8 @@
       "url": "https://www.paris.fr/evenements/heure-du-conte-75197",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une sélection d'histoires lues par les bibliothécaires pour les enfants de 2 à 5 ans au gré de leurs inspirations, cela pourra être en traduction langue des signes, bilingue anglais, kamishibaï, écoute de musique… le suspens est entier!",
-      "image": "https://cdn.paris.fr/qfapv4/2024/10/31/huge-5b6470eedd4571f15770afdd9ddc464f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2024/10/31/huge-5b6470eedd4571f15770afdd9ddc464f.png",
+      "aiSummary": "Les bibliothécaires invitent les tout-petits à écouter une sélection d'histoires lues au gré de leurs inspirations, avec parfois des formats originaux comme la langue des signes, le bilinguisme anglais, le kamishibaï ou de la musique. Cette sortie propose un moment de découverte littéraire varié et surprenant, adapté aux enfants de 2 à 5 ans."
     },
     {
       "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
@@ -945,7 +947,8 @@
       "url": "https://www.le19m.com/fr/agenda",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg",
+      "aiSummary": "À la Galerie du 19M à Paris, l'artiste Sofía Bonilla Otoya invite à explorer le ruban gros-grain à travers des gestes simples comme plier, tordre, nouer et tisser. Cet atelier propose de découvrir autrement ce matériau traditionnellement associé à la chapellerie dans le cadre de l'exposition sur les chapeaux de Maison Michel."
     },
     {
       "title": "L'heure du conte pour les 4-7 ans",
@@ -962,7 +965,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -997,7 +1001,8 @@
       "url": "https://www.theatreideogram.com",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Envie de bouger, de danser et de découvrir de nouvelles façons de vous exprimer ? Le Théâtre Ideogram vous invite à un atelier multi-danses ouvert à tous, le samedi 7 novembre, dans le 20e arrondissement de Paris.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-809a833c52b8172e8c4d2aa13729d73b.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/27/huge-809a833c52b8172e8c4d2aa13729d73b.png",
+      "aiSummary": "Le Théâtre Ideogram invite les familles du 20e arrondissement de Paris à participer à un atelier multi-danses. Cet événement propose de bouger, de danser et de découvrir de nouvelles façons de s'exprimer à travers la danse. C'est une belle occasion pour se dépenser et explorer différentes pratiques artistiques dans une ambiance conviviale."
     },
     {
       "title": "Atelier Toupies en origami",
@@ -1031,7 +1036,8 @@
       "url": "https://www.paris.fr/evenements/atelier-scratch-jeu-video-126009",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un atelier pour s’initier à la programmation (au code) en s’amusant avec le logiciel \"Scratch\".",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-9d46afb9c2fb5b6fd6e7757ae7c4ab4a.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-9d46afb9c2fb5b6fd6e7757ae7c4ab4a.jpg",
+      "aiSummary": "Cet atelier à Paris propose aux enfants de s'initier de manière ludique à la programmation informatique grâce au logiciel Scratch. En découvrant les bases du code, ils apprendront à créer leur propre jeu vidéo tout en s'amusant. Une activité originale et stimulante pour stimuler la créativité et la logique des jeunes participants."
     },
     {
       "title": "Atelier de création de sculpture en ruban gros grain avec Sofía Bonilla Otoya",
@@ -1048,7 +1054,8 @@
       "url": "https://www.le19m.com/fr/agenda",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg",
+      "aiSummary": "À la Galerie du 19M à Paris, l'artiste Sofía Bonilla Otoya invite à explorer le ruban gros-grain à travers des gestes simples comme plier, tordre, nouer et tisser. Cet atelier propose de découvrir autrement ce matériau traditionnellement associé à la chapellerie dans le cadre de l'exposition sur les chapeaux de Maison Michel."
     },
     {
       "title": "La Maison des Petits au CentQuatre",
@@ -1101,7 +1108,8 @@
       "url": "https://www.laressourceriecreative.com/ateliers-du-samedi",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Vous avez toujours voulu en apprendre plus sur l'électro sans savoir où chercher ? Alors cet atelier d'initiation est fait pour vous !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-7a7e21918886209b0227d847ec1c0118.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-7a7e21918886209b0227d847ec1c0118.png",
+      "aiSummary": "Cet atelier d'initiation à l'électronique à Paris permet d'en apprendre plus sur ce domaine souvent mystérieux. Les participants découvrent les bases de l'électro grâce à une approche accessible et ludique. C'est une sortie idéale pour satisfaire la curiosité des jeunes esprits désireux de comprendre comment fonctionnent les objets qui les entourent."
     },
     {
       "title": "Atelier de doublage",
@@ -1118,7 +1126,8 @@
       "url": "https://www.paris.fr/evenements/mordus-du-manga-donnez-de-la-voix-112467",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plongez dans les coulisses du doublage et incarnez vos personnages préférés aux côtés du comédien professionnel Alexis Bourtereau.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/05/huge-4416729d2d4d7e6e3d495156dd6bb672.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/05/huge-4416729d2d4d7e6e3d495156dd6bb672.png",
+      "aiSummary": "Cet atelier parisien invite les enfants à plonger dans les coulisses du doublage pour incarner leurs personnages préférés. Ils pratiquent cette activité aux côtés du comédien professionnel Alexis Bourtereau, une belle occasion de découvrir un métier artistique de l'intérieur de manière ludique."
     },
     {
       "title": "Activité manuelle autour des contes",
@@ -1152,7 +1161,8 @@
       "url": "https://www.billetweb.fr/les-oiseaux-de-chez-nous-atelier-de-dessin-naturaliste-parents-enfants",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez vous initier en famille au dessin naturaliste. Héron, mésange, pie… Découvrez toutes les étapes nécessaires pour réaliser facilement de beaux dessins des oiseaux parisiens.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-5a64ea90aacab3a54e3ca4b923c59a81.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-5a64ea90aacab3a54e3ca4b923c59a81.jpg",
+      "aiSummary": "En famille, initiez-vous au dessin naturaliste et apprenez à croquer facilement les oiseaux parisiens comme le héron, la mésange ou la pie. Cet atelier parents-enfants permet de découvrir pas à pas toutes les étapes nécessaires pour réaliser de superbes dessins de notre faune locale."
     },
     {
       "title": "Atelier Quartier Japon",
@@ -1186,7 +1196,8 @@
       "url": "https://www.paris.fr/evenements/et-si-on-se-racontait-des-salades-114796",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre du temps fort jeunesse \"Manger, Être mangé\" - voici un spectacle de contes et chansons sur un jardin potager… très vivant !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-04801bf7080d6cf445ceddbb833776e0.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-04801bf7080d6cf445ceddbb833776e0.jpg",
+      "aiSummary": "Ce spectacle musical de contes plonge le jeune public dans un jardin potager particulièrement vivant. Cette représentation pleine de fantaisie, proposée lors du temps fort jeunesse sur le thème de l'alimentation, invite les enfants à découvrir des histoires chantées originales et divertissantes au cœur de la nature."
     },
     {
       "title": "Atelier Quartier Japon",
@@ -1220,7 +1231,8 @@
       "url": "https://www.le19m.com/fr/agenda",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Dans le cadre de l'exposition « Métamorphoses, les chapeaux de Maison Michel » à la Galerie du 19M, l’artiste colombienne Sofía Bonilla Otoya propose d’explorer le ruban gros-grain à travers des gestes simples : plier, tordre, nouer et tisser. Traditionnellement associé à la chapellerie, ce matériau devient ici un moye",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-2090ce3128e6d5b14f90a998d889e201.jpg",
+      "aiSummary": "À la Galerie du 19M à Paris, l'artiste Sofía Bonilla Otoya invite à explorer le ruban gros-grain à travers des gestes simples comme plier, tordre, nouer et tisser. Cet atelier propose de découvrir autrement ce matériau traditionnellement associé à la chapellerie dans le cadre de l'exposition sur les chapeaux de Maison Michel."
     },
     {
       "title": "Atelier en duo Parent-Enfant Hip-hop 6-10 ans",
@@ -1254,7 +1266,8 @@
       "url": "https://philharmoniedeparis.fr/fr/activite/visite-decouverte/29836-les-sons-du-papier",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Froisser, tapoter, caresser, déchirer… autant de gestes qui permettent d’explorer l’incroyable diversité des sons du papier.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/07/huge-d0bb9b63c1202e25c93c4d179b930085.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/07/huge-d0bb9b63c1202e25c93c4d179b930085.png",
+      "aiSummary": "À la Philharmonie des enfants à Paris, les jeunes visiteurs explorent l’incroyable diversité sonore du papier à travers des gestes tactiles comme le froissement, le tapotement, la caresse et le déchirement. Cette sortie originale invite à une découverte sensorielle inédite, transformant une matière du quotidien en un surprenant terrain d’experimentation acoustique."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -3510,7 +3523,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -6088,7 +6102,8 @@
       "url": "https://www.paris.fr/evenements/heure-du-conte-75197",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une sélection d'histoires lues par les bibliothécaires pour les enfants de 2 à 5 ans au gré de leurs inspirations, cela pourra être en traduction langue des signes, bilingue anglais, kamishibaï, écoute de musique… le suspens est entier!",
-      "image": "https://cdn.paris.fr/qfapv4/2024/10/31/huge-5b6470eedd4571f15770afdd9ddc464f.png"
+      "image": "https://cdn.paris.fr/qfapv4/2024/10/31/huge-5b6470eedd4571f15770afdd9ddc464f.png",
+      "aiSummary": "Les bibliothécaires invitent les tout-petits à écouter une sélection d'histoires lues au gré de leurs inspirations, avec parfois des formats originaux comme la langue des signes, le bilinguisme anglais, le kamishibaï ou de la musique. Cette sortie propose un moment de découverte littéraire varié et surprenant, adapté aux enfants de 2 à 5 ans."
     },
     {
       "title": "L'heure du conte pour les 4-7 ans",
@@ -6105,7 +6120,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -8530,7 +8546,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -10639,7 +10656,8 @@
       "url": "https://www.paris.fr/evenements/heures-du-conte-petite-enfance-janvier-juin-117384",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des histoires, des comptines, des jeux de doigts pour les petits et les parents ! Pour les enfants de 18 mois à 3 ans et leurs parents. SUR RÉSERVATION UNE SEMAINE AVANT LA SÉANCE.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/01/06/huge-acde77907272f39cee3f996cc4f77c24.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/01/06/huge-acde77907272f39cee3f996cc4f77c24.jpg",
+      "aiSummary": "À Paris, les tout-petits de 18 mois à 3 ans et leurs parents profitent de moments privilégiés autour d'histoires, de comptines et de jeux de doigts. Cette animation douce et interactive favorise l'éveil des plus jeunes et permet de partager une activité complice en famille. Pensez à réserver votre place une semaine avant la séance."
     },
     {
       "title": "Spectacle pour Enfants",
@@ -10725,7 +10743,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "Cycle Musiques et Exils | Atelier de Konnakol",
@@ -12781,7 +12800,8 @@
       "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "Atelier en famille à la Bourse de Commerce — Pinault Collection",
