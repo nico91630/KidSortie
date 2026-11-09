@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-08T19:04:58.394Z",
+  "updatedAt": "2026-11-09T01:31:18.534Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-08T09:30:00+02:00",
-      "end": "2026-11-08T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
     {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
       "start": "2026-11-09T09:30:00+02:00",
@@ -1059,24 +1041,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -1093,6 +1057,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -1347,24 +1329,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -1399,6 +1363,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -1509,24 +1491,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:15:00+02:00",
@@ -1543,6 +1507,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -1724,24 +1706,6 @@
       "aiSummary": "Lors de cet atelier animé par l'autrice-illustratrice Annette Tamarkin, les enfants découvrent la technique du pop-up pour créer leur propre livre animé. Cette sortie créative est l'occasion idéale d'apprendre les secrets de fabrication des livres en relief directement auprès d'une professionnelle."
     },
     {
-      "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
-      "start": "2026-11-14T10:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.835920006426,
-      "lon": 2.45503496492981,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.atelierdeparis.org/a-l-affiche/ateliers-choresigne-26-27/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
-      "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
-    },
-    {
       "title": "L'Atelier créatif ados-adultes",
       "start": "2026-11-14T10:30:00+02:00",
       "end": "2026-11-14T12:30:00+02:00",
@@ -1758,6 +1722,24 @@
       "description": "Rejoignez-nous lors de nos ateliers créatifs, découvrez de nouvelles techniques ou perfectionnez celles que vous maîtrisez déjà ! Un samedi par mois de 10h30 à 12h30, à partir de 15 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/02/14/huge-8a444e06d42df9f6019fe1abc2ce75f7.jpg",
       "aiSummary": "Lors de cet atelier créatif parisien, les participants dès 15 ans peuvent découvrir de nouvelles techniques artistiques ou perfectionner leur savoir-faire. Cette parenthèse manuelle propose un moment de partage intergénérationnel stimulant, idéal pour exprimer sa créativité un samedi par mois."
+    },
+    {
+      "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
+      "start": "2026-11-14T10:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.835920006426,
+      "lon": 2.45503496492981,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.atelierdeparis.org/a-l-affiche/ateliers-choresigne-26-27/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
+      "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
     },
     {
       "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
@@ -3838,24 +3820,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -3872,6 +3836,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -4126,24 +4108,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -4178,6 +4142,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -4288,24 +4270,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:15:00+02:00",
@@ -4322,6 +4286,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -4823,6 +4805,23 @@
       "aiSummary": "À la bibliothèque Amélie à Paris, venez défier vos proches manette en main lors d'une animation autour d'une sélection de jeux vidéo 100% mangas. Proposée dans le cadre des Mordus du manga, cette sortie ludique invite les enfants à partager un moment convivial et divertissant en famille ou entre amis."
     },
     {
+      "title": "Activité manuelle autour des contes",
+      "start": "2026-11-21T15:00:00+02:00",
+      "end": "2026-11-21T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8335799685067,
+      "lon": 2.31999278068543,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/activite-manuelle-autour-des-contes-124353",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Chantal vous propose un moment magique autour des histoires !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-760aea9260528efca226285b2a1faf1e.jpg"
+    },
+    {
       "title": "Atelier dessin avec Kotimi",
       "start": "2026-11-21T15:00:00+02:00",
       "end": "2026-11-21T17:00:00+02:00",
@@ -4839,23 +4838,6 @@
       "description": "Dessine avec Kotimi, autrice et illustratrice jeunesse, et plonge dans l'univers de Momoko, héroïne de ses albums jeunesse !",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/07/huge-80cbc2727f52895ab810390117ad53bf.png",
       "aiSummary": "Les enfants partagent un moment créatif avec l'autrice et illustratrice jeunesse Kotimi. Ils découvrent et dessinent directement inspirés de l'univers de Momoko, l'héroïne de ses albums. Cet atelier offre une belle occasion de s'initier aux techniques d'illustration aux côtés d'une artiste professionnelle."
-    },
-    {
-      "title": "Activité manuelle autour des contes",
-      "start": "2026-11-21T15:00:00+02:00",
-      "end": "2026-11-21T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8335799685067,
-      "lon": 2.31999278068543,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/activite-manuelle-autour-des-contes-124353",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Chantal vous propose un moment magique autour des histoires !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-760aea9260528efca226285b2a1faf1e.jpg"
     },
     {
       "title": "Ciné-concert : Monte là-dessus par Julien Coulon et Frédéric Pérol",
@@ -5090,24 +5072,6 @@
       "aiSummary": "Participez en famille à une séance de rigologie intergénérationnelle pour vous détendre ensemble à tout âge. Cet atelier insolite se déroule un dimanche par mois au Hasard Ludique, un lieu culturel atypique installé sur l'ancienne Petite Ceinture dans le 18e arrondissement de Paris. Une parenthèse ludique et bienveillante idéale pour partager un moment complice et joyeux entre petits et grands."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-11-22T11:00:00+02:00",
-      "end": "2026-11-22T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-11-22T11:00:00+02:00",
       "end": "2026-11-22T18:00:00+02:00",
@@ -5142,6 +5106,24 @@
       "description": "Ateliers Danse en famille Parent-Enfant 18 mois (marche assurée) – 3 ans Inscription à la séance",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-4e043fb195741c50270f8e80a0fa4fbd.jpg",
       "aiSummary": "Ces ateliers de danse en famille permettent aux tout-petits de 18 mois à 3 ans et à leurs parents de partager un moment privilégié autour du mouvement. Cette sortie originale favorise l'éveil corporel des jeunes enfants dont la marche est assurée, grâce à des séances accessibles sur inscription."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-11-22T11:00:00+02:00",
+      "end": "2026-11-22T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Ça cartonne | Jeune Public",
@@ -6339,24 +6321,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -6373,6 +6337,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -6627,24 +6609,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -6679,6 +6643,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -6789,24 +6771,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:15:00+02:00",
@@ -6823,6 +6787,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -7459,7 +7441,8 @@
       "url": "https://www.paris.fr/evenements/fete-du-conte-la-vengeance-du-grand-murdoch-par-francois-vincent-97762",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Par une forêt sombre qu’il faut traverser, ou en montant dans un vieux grenier. En se glissant la nuit dans le couloir de la maison, ou en plein milieu d’un village de benêts… La peur peut arriver à n’importe quel moment, à n’importe quel endroit ! Marien Tillet s’en occupe. Il jette ses héroïnes en pâture à toutes les",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-4766994032df1d229ed8652ffda339dd.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-4766994032df1d229ed8652ffda339dd.jpg",
+      "aiSummary": "À Paris, plongez dans l'univers mystérieux des peurs enfantines avec ce spectacle mêlant conte et musique, présenté par Marien Tillet. Les enfants exploreront des lieux insolites et sombres à travers des histoires où la peur surgit à l'improviste. Cette sortie originale offre un moment culturel captivant, idéal pour frissonner et s'émerveiller en famille."
     },
     {
       "title": "Bienvenue à la Cité des bébés",
@@ -7565,7 +7548,8 @@
       "url": "https://mercoeur.asso.fr/wpo",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Parents et enfants, découvrez ensemble les bases du self-défense à travers des exercices ludiques et adaptés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/29/huge-1a4859edff277d3be524ed826b0f2020.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/29/huge-1a4859edff277d3be524ed826b0f2020.png",
+      "aiSummary": "À Paris, participez en famille à un atelier de Kung Fu et self-défense. Parents et enfants découvrent ensemble les bases de cette discipline grâce à des exercices ludiques et parfaitement adaptés. Cette sortie originale permet d'allier complicité, dépense physique et apprentissage de techniques de défense de manière amusante."
     },
     {
       "title": "Portraits de famille",
@@ -8012,7 +7996,8 @@
       "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229597135125",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Les tout-petits et leurs parents sont invités à une découverte ludique du musée Bourdelle et à créer leur premier modelage en terre.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/05/04/huge-b3f55f82ac05244f5af33e6f5cde1f1f.jpeg"
+      "image": "https://cdn.paris.fr/qfapv4/2023/05/04/huge-b3f55f82ac05244f5af33e6f5cde1f1f.jpeg",
+      "aiSummary": "Ce parcours ludique au musée Bourdelle invite les tout-petits et leurs parents à découvrir les lieux avant de s'initier ensemble au modelage en terre. Cette activité tactile et sensorielle permet aux plus jeunes de créer leur toute première sculpture tout en partageant un moment privilégié en famille au cœur de l'art."
     },
     {
       "title": "L'heure du conte pour les 0-3 ans",
@@ -8137,7 +8122,8 @@
       "url": "https://www.mcjp.fr/fr/agenda/atelier-chanoyu_2",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Une invitation à l'univers de cérémonie du thé pour les enfants de 8 à 16 ans. Une expérience exceptionnelle !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c4e1a49abdb6af52a7126b962dbf90fd.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c4e1a49abdb6af52a7126b962dbf90fd.jpg",
+      "aiSummary": "Cet atelier invite les enfants et adolescents de 8 à 16 ans à découvrir l'univers de la cérémonie traditionnelle du thé japonaise, le chanoyu. Cette expérience exceptionnelle leur permet de s'initier à cet art fascinant dans une ambiance adaptée à leur âge."
     },
     {
       "title": "Atelier laine cardée spécial Noël",
@@ -8154,7 +8140,8 @@
       "url": "https://www.paris.fr/evenements/atelier-laine-cardee-special-noel-125621",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des décorations pour le sapin de Noël en matière chaude et naturelle grâce à la technique de la laine cardée. Un atelier convivial pour préparer Noël ensemble. Tout public à l'espace jeunesse.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-f202d29e915c8d704acef7e875587188.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-f202d29e915c8d704acef7e875587188.jpg",
+      "aiSummary": "Cet atelier créatif invite les enfants à confectionner leurs propres décorations pour le sapin de Noël en utilisant la technique de la laine cardée. Cette matière chaude et naturelle permet de préparer les fêtes ensemble lors d'un moment convivial à l'espace jeunesse. Une activité manuelle idéale pour s'immerger dans l'ambiance de Noël."
     },
     {
       "title": "Atelier \"L-ouvre les yeux !\" au Musée du Louvre",
@@ -8171,7 +8158,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Créa’kids",
@@ -8244,23 +8232,6 @@
       "aiSummary": "Au musée Bourdelle à Paris, cette visite guidée en famille propose de partir à la découverte de la nouvelle exposition temporaire intitulée « L’étoffe de l’artiste ». Petits et grands pourront ainsi explorer ensemble les œuvres présentées et partager un moment culturel privilégié au cœur de la création artistique."
     },
     {
-      "title": "Atelier flap",
-      "start": "2026-12-02T16:00:00+02:00",
-      "end": "2026-12-02T18:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.857995,
-      "lon": 2.308717,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-flap-qui-mange-qui-124760",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez participer à un atelier créatif autour de la chaine alimentaire.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-e1a69ec4cd3e3cf56c56ed1a0dfe2ae5.jpg"
-    },
-    {
       "title": "Les P'tits Trucs",
       "start": "2026-12-02T16:00:00+02:00",
       "end": "2026-12-02T17:30:00+02:00",
@@ -8293,7 +8264,25 @@
       "url": "https://www.paris.fr/evenements/spectacle-le-petit-chaperon-rouge-ou-la-faim-du-silence-124258",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Par le détour de la musique et du théâtre de marionnette, nous suivons le petit voyage du Chaperon Rouge, enfant téméraire et joyeuxse, plongée dans une histoire cruelle. L’écriture est inspirée du texte de Charles Perrault, et adopte le point de vue du Chaperon.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-26171f2713a3b674155cabc551e60897.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-26171f2713a3b674155cabc551e60897.png",
+      "aiSummary": "Ce spectacle mêlant musique et théâtre de marionnettes revisite le conte classique de Charles Perrault. Les jeunes spectateurs suivront le voyage d'un Chaperon Rouge courageux et joyeux, l'histoire étant racontée du point de vue de l'enfant. Cette création originale offre une approche artistique sensible et touchante d'une histoire traditionnelle."
+    },
+    {
+      "title": "Atelier flap",
+      "start": "2026-12-02T16:00:00+02:00",
+      "end": "2026-12-02T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.857995,
+      "lon": 2.308717,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-flap-qui-mange-qui-124760",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez participer à un atelier créatif autour de la chaine alimentaire.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-e1a69ec4cd3e3cf56c56ed1a0dfe2ae5.jpg"
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -8526,7 +8515,8 @@
       "url": "https://tinyurl.com/ticket-PCCB",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Les Chantiers du Cardinal présentent en concert exceptionnel, le vendredi 4 décembre à 20 h 30 à l'église de la Trinité (Paris 9e), les Petits Chanteurs à la Croix de Bois, l'un des chœurs de garçons les plus réputés au monde. Saluées sur les cinq continents depuis plus d'un siècle, leurs voix cristallines font de cett",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-916cbc8ff8e033162994ab4306f37fc9.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-916cbc8ff8e033162994ab4306f37fc9.jpg",
+      "aiSummary": "Venez écouter les célèbres Petits Chanteurs à la Croix de Bois lors d'un concert exceptionnel à l'église de la Trinité, dans le 9e arrondissement de Paris. Les enfants et leurs familles découvriront les voix cristallines de l'un des chœurs de garçons les plus réputés au monde, salué sur les cinq continents depuis plus d'un siècle."
     },
     {
       "title": "Spectacle : Sous les herbes",
@@ -8543,7 +8533,8 @@
       "url": "https://programmation.maifsocialclub.fr/evenements/sous-les-herbes/",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Au centre du public, un quatuor fait résonner l’espace de poésie et vous invite à découvrir celles et ceux qui habitent sous les herbes.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-aeb51d3b71d1c1687a5712036d5925dc.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-aeb51d3b71d1c1687a5712036d5925dc.png",
+      "aiSummary": "Installez-vous au cœur de la scène pour découvrir un quatuor musical et poétique qui donne vie aux petits habitants cachés sous les herbes. Cette création originale offre aux enfants une immersion artistique poétique et sensorielle au plus près des artistes, idéale pour éveiller leur curiosité envers la nature."
     },
     {
       "title": "Annabelle et Nana : le spectacle musical jeune public avec Annabelle Mouloudji à Eleven Village à Paris",
@@ -8560,7 +8551,8 @@
       "url": "https://www.billetreduc.com/spectacle/annabelle-et-nana-417898",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "«Annabelle et Nana» invite les enfants dès 3 ans à un voyage musical et fantastique du 5 au 31 décembre 2026 dans le 11e arrondissement. «Annabelle et Nana» s'installe à Eleven Village, à Paris, du 5 au 31 décembre 2026, pour faire découvrir aux familles un spectacle musical plein de fantaisie. Interprétée par Annabell",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-79d3324acdea0e1c09c7e45a09d927fa.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-79d3324acdea0e1c09c7e45a09d927fa.jpg",
+      "aiSummary": "Les jeunes spectateurs découvrent un voyage musical et fantastique plein de fantaisie, interprété par Annabelle Mouloudji. Ce spectacle musical ravive l'imaginaire des familles grâce à une parenthèse artistique enchantée à vivre ensemble au cœur de la capitale."
     },
     {
       "title": "Paris Sportives : Marche sportive avec l’association Les Enfants de la Goutte d'Or",
@@ -8671,24 +8663,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -8705,6 +8679,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -8941,24 +8933,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -8993,6 +8967,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -9103,24 +9095,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:15:00+02:00",
@@ -9137,6 +9111,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -9225,7 +9217,8 @@
       "url": "https://www.paris-arc-de-triomphe.fr/agenda/visite-atelier-pop-up-!-vue-sur-la-ville",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez réaliser votre maquette de l'Arc de triomphe, au croisement des plus grandes avenues et des monuments incontournables du paysage parisien.",
-      "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-3ca17f9d697c45e45069d1895e5e1cbe.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-3ca17f9d697c45e45069d1895e5e1cbe.jpg",
+      "aiSummary": "Lors de cette visite-atelier à l'Arc de triomphe, les enfants réalisent leur propre maquette pop-up en volume. Cette activité créative les invite à représenter ce célèbre monument parisien ainsi que son paysage urbain environnant. Une sortie ludique idéale pour découvrir l'architecture de ce lieu incontournable tout en s'amusant."
     },
     {
       "title": "L'heure du conte des tout-petits",
@@ -9295,7 +9288,8 @@
       "url": "https://www.paris.fr/evenements/spectacle-pour-enfants-123703",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "La bibliothèque Toni Morrison propose \"Le Loup en Slip\" un spectacle familial tiré de la fameuse BD !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-9b3f6a2c3df1664d633c8e831028bcc3.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-9b3f6a2c3df1664d633c8e831028bcc3.jpg",
+      "aiSummary": "À la bibliothèque Toni Morrison à Paris, les enfants et leurs familles découvrent \"Le Loup en Slip\", un spectacle adapté de la célèbre bande dessinée. Cette représentation offre une belle occasion de retrouver sur scène les aventures bien connues de ce personnage attachant, pour un moment de détente culturel et ludique à partager tous ensemble."
     },
     {
       "title": "Portraits de famille",
@@ -9820,7 +9814,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Broderie simultanée : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
@@ -10193,7 +10188,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Atelier créatif",
@@ -10657,24 +10653,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -10691,6 +10669,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -10927,24 +10923,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -10979,6 +10957,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -11089,24 +11085,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:15:00+02:00",
@@ -11123,6 +11101,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -11266,6 +11262,23 @@
       "aiSummary": "À Paris, les tout-petits de 0 à 3 ans découvrent des livres, des chansons, des comptines et des jeux de doigts, blottis dans les bras rassurants d’un adulte. Cette animation matinale propose un moment d'éveil doux et partagé, idéal pour plonger les plus jeunes dans l'univers des histoires à travers des tapis de lecture et des moments musicaux adaptés."
     },
     {
+      "title": "Spectacle petite enfance : voyage à la mer",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850016,
+      "lon": 2.286431,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/spectacle-petite-enfance-voyage-a-la-mer-117397",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png"
+    },
+    {
       "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
       "start": "2026-12-12T10:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -11282,23 +11295,6 @@
       "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
       "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
-    },
-    {
-      "title": "Spectacle petite enfance : voyage à la mer",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850016,
-      "lon": 2.286431,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/spectacle-petite-enfance-voyage-a-la-mer-117397",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png"
     },
     {
       "title": "Spectacle - Une amitié",
@@ -11318,23 +11314,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-91f20e0fbdbf455bb346ed4c8bdbb8cd.jpg"
     },
     {
-      "title": "Atelier créatif - Initiation au macramé",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T12:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8262840028975,
-      "lon": 2.3267080273138,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.laressourceriecreative.com/ateliers-du-samedi",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez vous initier à la technique du macramé !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-b251a55eaec9669e87bac83dc9f95fc0.jpg"
-    },
-    {
       "title": "Samedi des enfants",
       "start": "2026-12-12T10:30:00+02:00",
       "end": "2026-12-12T11:15:00+02:00",
@@ -11350,6 +11329,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
+    },
+    {
+      "title": "Atelier créatif - Initiation au macramé",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T12:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8262840028975,
+      "lon": 2.3267080273138,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.laressourceriecreative.com/ateliers-du-samedi",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez vous initier à la technique du macramé !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-b251a55eaec9669e87bac83dc9f95fc0.jpg"
     },
     {
       "title": "Samedi des tout-petits",
@@ -11615,23 +11611,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-760aea9260528efca226285b2a1faf1e.jpg"
     },
     {
-      "title": "RAFARA, spectacle conté par le Tatou Théâtre",
-      "start": "2026-12-12T15:00:00+02:00",
-      "end": "2026-12-12T15:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/spectacle-conte-par-le-tatou-theatre",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "RAFARA tapis de conte et marionnettes de tissus pour les 3-6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c84ee90d8c9e4d5b104ff300df241d93.jpg"
-    },
-    {
       "title": "Atelier diorama \"Scènes d'Agatha\"",
       "start": "2026-12-12T15:00:00+02:00",
       "end": "2026-12-12T17:00:00+02:00",
@@ -11664,6 +11643,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un petit bébé hibou part courageusement à la recherche de son papa disparu et rencontre, au fil de son aventure, plusieurs papas animaux aussi gentils qu’extraordinaires. Un spectacle tendre, drôle et participatif, où les enfants l’accompagnent à travers la forêt et découvrent avec lui ce qui fait un vrai papa.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-983bd45015b198fe5c5bc8a3c07bf5ed.jpg"
+    },
+    {
+      "title": "RAFARA, spectacle conté par le Tatou Théâtre",
+      "start": "2026-12-12T15:00:00+02:00",
+      "end": "2026-12-12T15:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.826787,
+      "lon": 2.36644,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/spectacle-conte-par-le-tatou-theatre",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "RAFARA tapis de conte et marionnettes de tissus pour les 3-6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c84ee90d8c9e4d5b104ff300df241d93.jpg"
     },
     {
       "title": "Jeux vidéo",
@@ -11842,24 +11838,6 @@
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-13T11:00:00+02:00",
-      "end": "2026-12-13T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-13T11:00:00+02:00",
       "end": "2026-12-13T18:00:00+02:00",
@@ -11876,6 +11854,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-13T11:00:00+02:00",
+      "end": "2026-12-13T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -11964,7 +11960,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
@@ -12303,7 +12300,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Animation Jeux vidéo à la bibliothèque Amélie",
@@ -12803,24 +12801,6 @@
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Rambuteau",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.860222,
-      "lon": 2.356482,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Chanzy",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -12837,6 +12817,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Rambuteau",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.860222,
+      "lon": 2.356482,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Rambuteau propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Rambuteau à Paris ouvre ses portes aux familles le samedi matin pour des animations ludiques encadrées par l'association Je d'enfant et d'adolescent. Cette initiative originale permet aux tout-petits et à leurs parents de partager un moment privilégié de découverte au sein d'un espace d'accueil spécialement ouvert au public."
     },
     {
       "title": "Les Samedis en Famille · Crèche Bichat",
@@ -13073,24 +13071,6 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Aubervilliers",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.887122,
-      "lon": 2.366728,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Garancière",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -13125,6 +13105,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Convention et l'association Je d'enfant et d'adolescent vous proposent des activités en famille les samedis matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Convention ouvre ses portes le samedi matin pour proposer des animations partagées aux familles, en collaboration avec l'association Je d'enfant et d'adolescent. Les participants profitent ainsi d'activités adaptées aux tout-petits dans un cadre inhabituel. C'est une belle occasion de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique ensemble."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Aubervilliers",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.887122,
+      "lon": 2.366728,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Aubervilliers et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager un moment ludique en famille un samedi matin par mois au sein de la crèche Aubervilliers, grâce à des animations proposées avec l'association Môm'Artre. Cette initiative originale permet de découvrir les espaces d'accueil de la petite enfance autrement tout en profitant d'activités partagées avec vos enfants dans un cadre chaleureux."
     },
     {
       "title": "Les Samedis en Famille · Crèche de la Folie Régnault",
@@ -13235,24 +13233,6 @@
       "aiSummary": "La crèche Pereire à Paris accueille les familles le samedi matin, en partenariat avec l'association Môm'Artre, pour participer à des activités partagées. Cette initiative originale permet de découvrir un lieu d'accueil de la petite enfance autrement et de partager un moment ludique et convivial avec son enfant."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Dagorno",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8553019840528,
-      "lon": 2.40503800213571,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Versailles",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:15:00+02:00",
@@ -13269,6 +13249,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Versailles et l'association Môm'Artre proposent le samedi matin des activités en famille de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin. En partenariat avec l'association Môm'Artre, la structure de la rue de Versailles propose des animations variées à partager en famille pour bien commencer le week-end."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Dagorno",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8553019840528,
+      "lon": 2.40503800213571,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
     },
     {
       "title": "Les Samedis en Famille · Crèche Mariniers",
@@ -13588,7 +13586,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Activité manuelle autour des contes",
@@ -13680,24 +13679,6 @@
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-20T11:00:00+02:00",
-      "end": "2026-12-20T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-20T11:00:00+02:00",
       "end": "2026-12-20T18:00:00+02:00",
@@ -13714,6 +13695,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-20T11:00:00+02:00",
+      "end": "2026-12-20T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -13855,7 +13854,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Broderie simultanée : atelier textile en famille autour de l'exposition « L’étoffe de l’artiste »",
@@ -13942,7 +13942,8 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -14243,7 +14244,26 @@
       "url": "https://www.louvre.fr/expositions-et-evenements/evenements-activites/l-ouvre-les-yeux",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
+    },
+    {
+      "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
+      "start": "2026-12-23T16:00:00+02:00",
+      "end": "2026-12-23T18:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8850620150962,
+      "lon": 2.354566958898,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/paris-sportives-football-au-tep-goutte-d-or-82749",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
+      "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     }
   ]
 }
