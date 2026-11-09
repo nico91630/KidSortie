@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:49:10.612Z",
+  "updatedAt": "2026-11-09T13:35:57.492Z",
   "source": "Essonne Tourisme",
   "events": [
     {
@@ -20,23 +20,6 @@
       "url": "https://www.essonnetourisme.com/p/atelier-signer-avec-bebe/"
     },
     {
-      "title": "Eveil Musical – 3 p’tites notes – Saint-Geneviève-des-Bois",
-      "start": "2026-11-21T11:00:00.000Z",
-      "end": "2026-11-21T11:00:00.000Z",
-      "city": "Sainte-Geneviève-des-Bois",
-      "lat": 48.641386,
-      "lon": 2.344684,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": 0,
-      "description": " ",
-      "image": null,
-      "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/eveil-musical-3-ptites-notes-saint-genevieve-des-bois/"
-    },
-    {
       "title": "Agenda des p’tits curieux – Atelier Danse",
       "start": "2026-11-21T11:00:00.000Z",
       "end": "2026-11-21T11:00:00.000Z",
@@ -52,6 +35,23 @@
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
       "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-danse/"
+    },
+    {
+      "title": "Eveil Musical – 3 p’tites notes – Saint-Geneviève-des-Bois",
+      "start": "2026-11-21T11:00:00.000Z",
+      "end": "2026-11-21T11:00:00.000Z",
+      "city": "Sainte-Geneviève-des-Bois",
+      "lat": 48.641386,
+      "lon": 2.344684,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": 0,
+      "description": " ",
+      "image": null,
+      "source": "Essonne Tourisme (Apidae)",
+      "url": "https://www.essonnetourisme.com/p/eveil-musical-3-ptites-notes-saint-genevieve-des-bois/"
     },
     {
       "title": "Agenda des p’tits curieux – Atelier « parents-enfant » créatif",
