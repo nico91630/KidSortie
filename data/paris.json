@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-10T07:32:48.585Z",
+  "updatedAt": "2026-11-10T13:27:10.772Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-10T09:30:00+02:00",
-      "end": "2026-11-10T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-11-10T09:30:00+02:00",
@@ -37,24 +19,6 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
-      "title": "Balade oiseaux dans le Bois de Vincennes",
-      "start": "2026-11-10T09:30:00+02:00",
-      "end": "2026-11-10T11:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.834921,
-      "lon": 2.443769,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/balade-oiseaux-dans-le-bois-de-vincennes-125867",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "[Sortie] Venez découvrir les espèces d’oiseaux qui fréquentent le bois de Vincennes en cette saison lors d’une sortie matinale. Départ de la Maison Paris nature, prêt de jumelles possible.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/20/huge-0525a47d10900e16bfc5721eb03114ee.jpg",
-      "aiSummary": "Partez tôt le matin depuis la Maison Paris nature pour une balade guidée au cœur du bois de Vincennes. Petits et grands observeront les différentes espèces d'oiseaux présentes en cette saison, avec la possibilité d'emprunter des jumelles sur place pour ne rien rater de cette découverte naturaliste en plein air."
     },
     {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
@@ -862,24 +826,6 @@
       "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-14T09:30:00+02:00",
-      "end": "2026-11-14T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Mariniers",
       "start": "2026-11-14T09:30:00+02:00",
       "end": "2026-11-14T12:00:00+02:00",
@@ -896,6 +842,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Mariniers et l'association Môm'Artre proposent tous les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
+    },
+    {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-11-14T09:30:00+02:00",
+      "end": "2026-11-14T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
       "title": "Les Samedis en Famille · Crèche Cabanis",
@@ -2022,6 +1986,23 @@
       "aiSummary": "Lors de cet atelier créatif, les enfants s'inspirent du célèbre artiste Arcimboldo pour composer un autoportrait original à partir d'éléments alimentaires. Cette activité ludique proposée à Paris s'inscrit dans le temps fort jeunesse \"Manger, être mangé\" et permet aux participants d'exprimer leur créativité tout en découvrant l'art du portrait de manière originale et amusante."
     },
     {
+      "title": "Atelier d'écriture de chanson avec Comae",
+      "start": "2026-11-14T15:00:00+02:00",
+      "end": "2026-11-14T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.851596,
+      "lon": 2.38396,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-d-ecriture-de-chanson-124041",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier avec la chanteuse Comae pour initier les enfants à l'écriture de chanson.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-1db32e7e4a68813bad810ff0db0a9504.jpg"
+    },
+    {
       "title": "Activité manuelle autour des contes",
       "start": "2026-11-14T15:00:00+02:00",
       "end": "2026-11-14T16:00:00+02:00",
@@ -2055,23 +2036,6 @@
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
       "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
-    },
-    {
-      "title": "Atelier d'écriture de chanson avec Comae",
-      "start": "2026-11-14T15:00:00+02:00",
-      "end": "2026-11-14T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.851596,
-      "lon": 2.38396,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-d-ecriture-de-chanson-124041",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier avec la chanteuse Comae pour initier les enfants à l'écriture de chanson.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-1db32e7e4a68813bad810ff0db0a9504.jpg"
     },
     {
       "title": "Spectacle Le Petit Chaperon Rouge ou la faim du silence",
@@ -3641,24 +3605,6 @@
       "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Mariniers",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -3675,6 +3621,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Mariniers et l'association Môm'Artre proposent tous les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
+    },
+    {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
       "title": "Les Samedis en Famille · Crèche Cabanis",
@@ -6178,24 +6142,6 @@
       "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Mariniers",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -6212,6 +6158,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Mariniers et l'association Môm'Artre proposent tous les samedis matin de 9h30 à 12h des activités en famille",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Les familles sont invitées à profiter d'activités partagées chaque samedi matin au sein de la crèche Mariniers, grâce à une initiative proposée avec l'association Môm'Artre. Cette ouverture exceptionnelle des structures de la petite enfance offre aux parents et aux enfants un moment privilégié pour se retrouver et participer ensemble à des animations ludiques au cœur de Paris."
+    },
+    {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
       "title": "Les Samedis en Famille · Crèche Cabanis",
@@ -6844,24 +6808,6 @@
       "aiSummary": "À Paris, les tout-petits de 0 à 3 ans découvrent des livres, des chansons, des comptines et des jeux de doigts, blottis dans les bras rassurants d’un adulte. Cette animation matinale propose un moment d'éveil doux et partagé, idéal pour plonger les plus jeunes dans l'univers des histoires à travers des tapis de lecture et des moments musicaux adaptés."
     },
     {
-      "title": "Spectacle de Delphine Leleu",
-      "start": "2026-11-28T10:30:00+02:00",
-      "end": "2026-11-28T11:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8455290202263,
-      "lon": 2.38711103908116,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/manger-ou-etre-mange-contes-du-monde-entier-lsf-fr-124333",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À l'occasion du temps fort jeunesse \"Manger, être mangé\", la comédienne Delphine Leleu vient conter pour vous !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-b7159a481e326680788e512e37c7f60d.jpg",
-      "aiSummary": "À l'occasion du temps fort jeunesse \"Manger, être mangé\", la comédienne Delphine Leleu propose un spectacle de contes à Paris. Les enfants pourront ainsi écouter ses récits artistiques et profiter d'un moment culturel captivant, idéal pour éveiller leur imagination autour de cette thématique originale."
-    },
-    {
       "title": "Festival Sido&Co : éveil musical au son d'un violon",
       "start": "2026-11-28T10:30:00+02:00",
       "end": "2026-11-28T11:30:00+02:00",
@@ -6878,6 +6824,24 @@
       "description": "Comptines et musique classique pour jeunes oreilles vous sont proposées dans le cadre du festival Monte le Son 2026",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-b6359fcc83ed02f792a13351bf3a5ac2.png",
       "aiSummary": "Ce spectacle musical propose des comptines et des morceaux de musique classique joués au violon pour éveiller l'écoute des plus jeunes. Cet événement s'inscrit dans la programmation du festival Monte le Son 2026 à Paris, offrant une belle occasion de partager une première expérience culturelle adaptée aux enfants."
+    },
+    {
+      "title": "Spectacle de Delphine Leleu",
+      "start": "2026-11-28T10:30:00+02:00",
+      "end": "2026-11-28T11:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8455290202263,
+      "lon": 2.38711103908116,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/manger-ou-etre-mange-contes-du-monde-entier-lsf-fr-124333",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À l'occasion du temps fort jeunesse \"Manger, être mangé\", la comédienne Delphine Leleu vient conter pour vous !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-b7159a481e326680788e512e37c7f60d.jpg",
+      "aiSummary": "À l'occasion du temps fort jeunesse \"Manger, être mangé\", la comédienne Delphine Leleu propose un spectacle de contes à Paris. Les enfants pourront ainsi écouter ses récits artistiques et profiter d'un moment culturel captivant, idéal pour éveiller leur imagination autour de cette thématique originale."
     },
     {
       "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
@@ -8232,6 +8196,24 @@
       "aiSummary": "Au musée Bourdelle à Paris, cette visite guidée en famille propose de partir à la découverte de la nouvelle exposition temporaire intitulée « L’étoffe de l’artiste ». Petits et grands pourront ainsi explorer ensemble les œuvres présentées et partager un moment culturel privilégié au cœur de la création artistique."
     },
     {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-12-03T09:30:00+02:00",
+      "end": "2026-12-03T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
+    },
+    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-03T09:30:00+02:00",
       "end": "2026-12-03T17:00:00+02:00",
@@ -8320,6 +8302,23 @@
       "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg",
       "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
+    },
+    {
+      "title": "Festival Les Enfants d'abord !",
+      "start": "2026-12-04T00:00:00+00:00",
+      "end": "2026-12-19T23:59:59+00:00",
+      "city": "Paris",
+      "lat": 48.8895069802597,
+      "lon": 2.38100197277078,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://festivalenfantsdabord.org/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le festival de spectacle vivant des tout-petits !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-445901a40b674d72dbc5c7c81b088b31.png"
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -9522,6 +9521,23 @@
       "aiSummary": "Cet atelier d'initiation au Konnakol, animé par le joueur de mridangam Balakumar Paramalingam, permet de découvrir l'art de vocaliser les cycles rythmiques de la musique carnatique. Cette sortie originale à la Médiathèque Musicale de Paris offre une immersion culturelle unique, idéale pour s'initier aux traditions musicales du monde en famille."
     },
     {
+      "title": "Spectacle jeunesse \"Bien sûr oui OK”",
+      "start": "2026-12-05T16:00:00+02:00",
+      "end": "2026-12-05T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.876568,
+      "lon": 2.395622,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/spectacle-oui-bien-sur-ok-de-nicole-genovese",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La médiathèque accueille le spectacle \"Bien sûr oui OK\" dans le cadre du temps fort jeunesse \"Manger et être mangé\" ! Un type se lance dans une recette de gâteau. Cuisson : 15 minutes. Tout en fouettant les œufs et en blanchissant le sucre, il s’embourbe dans des considérations digressives et tâche du mieux qu’il peu",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-6728e07e1571128336f62356832e3059.jpg"
+    },
+    {
       "title": "Petits contes hivernaux de la pensée ordinaire",
       "start": "2026-12-05T16:00:00+02:00",
       "end": "2026-12-05T17:15:00+02:00",
@@ -10166,6 +10182,24 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/01/18/huge-02f49b960a9dc863c6a05a5f9f6c16c7.jpg"
     },
     {
+      "title": "Festival Les enfants d'abord : \"Une amitié\"",
+      "start": "2026-12-09T16:00:00+02:00",
+      "end": "2026-12-09T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.877205,
+      "lon": 2.370797,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/festival-les-enfants-d-abord-une-amitie-115893",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle librement inspiré de l'album \"Loulou\" de Grégoire Solotareff, par la compagnie \"Chouette il pleut!\". Dès 3 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-69da3f7c510e44140cee373fec25fda6.png",
+      "aiSummary": "Découvrez une adaptation théâtrale de l'album \"Loulou\" de Grégoire Solotareff proposée par la compagnie Chouette il pleut ! lors de ce festival parisien. Ce spectacle jeune public aborde la thématique de la différence et de l'amitié. Une sortie culturelle idéale à partager en famille dès trois ans."
+    },
+    {
       "title": "Animation jeux de société",
       "start": "2026-12-09T16:00:00+02:00",
       "end": "2026-12-09T17:00:00+02:00",
@@ -10200,24 +10234,6 @@
       "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
       "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
-      "title": "Festival Les enfants d'abord : \"Une amitié\"",
-      "start": "2026-12-09T16:00:00+02:00",
-      "end": "2026-12-09T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.877205,
-      "lon": 2.370797,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/festival-les-enfants-d-abord-une-amitie-115893",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle librement inspiré de l'album \"Loulou\" de Grégoire Solotareff, par la compagnie \"Chouette il pleut!\". Dès 3 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-69da3f7c510e44140cee373fec25fda6.png",
-      "aiSummary": "Découvrez une adaptation théâtrale de l'album \"Loulou\" de Grégoire Solotareff proposée par la compagnie Chouette il pleut ! lors de ce festival parisien. Ce spectacle jeune public aborde la thématique de la différence et de l'amitié. Une sortie culturelle idéale à partager en famille dès trois ans."
     },
     {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
@@ -11383,24 +11399,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2025/09/20/huge-5e7ab60fc37d0ca09a7d86feae47d63c.png"
     },
     {
-      "title": "Atelier en famille à la Bourse de Commerce — Pinault Collection",
-      "start": "2026-12-12T11:15:00+02:00",
-      "end": "2026-12-12T12:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.8629459863822,
-      "lon": 2.34240003970564,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
-      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
-    },
-    {
       "title": "L'heure du conte pour les 4-7 ans",
       "start": "2026-12-12T11:15:00+02:00",
       "end": "2026-12-12T11:45:00+02:00",
@@ -11417,6 +11415,24 @@
       "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
       "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
       "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
+    },
+    {
+      "title": "Atelier en famille à la Bourse de Commerce — Pinault Collection",
+      "start": "2026-12-12T11:15:00+02:00",
+      "end": "2026-12-12T12:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.8629459863822,
+      "lon": 2.34240003970564,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229581733360&gtmStepTracking=true&lang=fr",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
+      "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -11509,6 +11525,24 @@
       "aiSummary": "Venez participer en famille à un atelier de modelage directement inspiré de la nouvelle exposition temporaire du musée Bourdelle à Paris. Cette activité créative invite les enfants à manipuler la matière et à s'approprier les techniques artistiques mises à l'honneur dans le parcours. C'est une belle occasion de lier découverte culturelle et expression manuelle, en lien direct avec les œuvres présentées."
     },
     {
+      "title": "Atelier \"A toi de créer ! A la manière de Sonia Delaunay\"",
+      "start": "2026-12-12T15:00:00+02:00",
+      "end": "2026-12-12T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842020020281,
+      "lon": 2.39796803444528,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-a-toi-de-creer-a-la-maniere-de-sonia-delaunay-127377",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Et si les couleurs vibrantes et les formes géométriques de Sonia Delaunay inspiraient votre prochaine création ? A l’occasion de ce nouvel atelier créatif, explorez l’univers abstrait et coloré de Sonia Delaunay.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-d8c89970585f62a2e389523399d0952d.png",
+      "aiSummary": "Cet atelier créatif invite les enfants à s'initier à l'univers abstrait et coloré de l'artiste Sonia Delaunay. En s'inspirant de ses formes géométriques et de ses teintes vibrantes, les participants exploreront de nouvelles pistes pour réaliser leur propre création artistique."
+    },
+    {
       "title": "L'atelier du samedi",
       "start": "2026-12-12T15:00:00+02:00",
       "end": "2026-12-12T16:30:00+02:00",
@@ -11524,23 +11558,6 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Un samedi par mois, nous t'invitons à un atelier créatif.",
       "image": "https://cdn.paris.fr/qfapv4/2024/01/24/huge-7f908af7d80da1c757b3fe1690196135.jpg"
-    },
-    {
-      "title": "RAFARA, spectacle conté par le Tatou Théâtre",
-      "start": "2026-12-12T15:00:00+02:00",
-      "end": "2026-12-12T15:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/spectacle-conte-par-le-tatou-theatre",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "RAFARA tapis de conte et marionnettes de tissus pour les 3-6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c84ee90d8c9e4d5b104ff300df241d93.jpg"
     },
     {
       "title": "Papa !! : spectacle de la compagnie Les Frères Ducasse",
@@ -11559,6 +11576,23 @@
       "description": "Un petit bébé hibou part courageusement à la recherche de son papa disparu et rencontre, au fil de son aventure, plusieurs papas animaux aussi gentils qu’extraordinaires. Un spectacle tendre, drôle et participatif, où les enfants l’accompagnent à travers la forêt et découvrent avec lui ce qui fait un vrai papa.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-983bd45015b198fe5c5bc8a3c07bf5ed.jpg",
       "aiSummary": "Dans ce spectacle tendre, drôle et participatif de la compagnie Les Frères Ducasse, les enfants accompagnent un petit bébé hibou à la recherche de son papa disparu à travers la forêt. Au fil de son aventure, ils découvrent à ses côtés plusieurs papas animaux aussi gentils qu'extraordinaires et apprennent ce qui fait un vrai papa."
+    },
+    {
+      "title": "RAFARA, spectacle conté par le Tatou Théâtre",
+      "start": "2026-12-12T15:00:00+02:00",
+      "end": "2026-12-12T15:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.826787,
+      "lon": 2.36644,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/spectacle-conte-par-le-tatou-theatre",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "RAFARA tapis de conte et marionnettes de tissus pour les 3-6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c84ee90d8c9e4d5b104ff300df241d93.jpg"
     },
     {
       "title": "A la manière d'Andy Warhol : atelier de création plastique bilingue LSF/FR",
@@ -12364,6 +12398,23 @@
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     },
     {
+      "title": "Le petit atelier",
+      "start": "2026-12-16T16:00:00+02:00",
+      "end": "2026-12-16T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.863702,
+      "lon": 2.359974,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/le-petit-atelier-115562",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "le rendez-vous mensuel des enfants créatifs",
+      "image": "https://cdn.paris.fr/qfapv4/2026/02/05/huge-49b79ea2dec3a79816fde75369782a35.jpg"
+    },
+    {
       "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
       "start": "2026-12-16T16:00:00+02:00",
       "end": "2026-12-16T17:30:00+02:00",
@@ -12380,23 +12431,6 @@
       "description": "Une visite guidée en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9d85269ff0c637768ed6c2e8d06bc731.jpg",
       "aiSummary": "Au musée Bourdelle à Paris, cette visite guidée en famille propose de partir à la découverte de la nouvelle exposition temporaire intitulée « L’étoffe de l’artiste ». Petits et grands pourront ainsi explorer ensemble les œuvres présentées et partager un moment culturel privilégié au cœur de la création artistique."
-    },
-    {
-      "title": "Le petit atelier",
-      "start": "2026-12-16T16:00:00+02:00",
-      "end": "2026-12-16T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.863702,
-      "lon": 2.359974,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/le-petit-atelier-115562",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "le rendez-vous mensuel des enfants créatifs",
-      "image": "https://cdn.paris.fr/qfapv4/2026/02/05/huge-49b79ea2dec3a79816fde75369782a35.jpg"
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -14262,42 +14296,6 @@
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et guidée par un médiateur, la visite propose aux petits et aux grands d’explorer le musée main dans la main.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-0a570104d5db0ae1a130039838ea6b4c.jpg",
       "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
-    },
-    {
-      "title": "Les P'tits Trucs",
-      "start": "2026-12-23T16:00:00+02:00",
-      "end": "2026-12-23T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
-      "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
-      "start": "2026-12-23T16:00:00+02:00",
-      "end": "2026-12-23T18:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8850620150962,
-      "lon": 2.354566958898,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sportives-football-au-tep-goutte-d-or-82749",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
-      "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     }
   ]
 }
