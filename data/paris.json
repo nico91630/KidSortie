@@ -1,42 +1,7 @@
 {
-  "updatedAt": "2026-11-09T19:16:28.915Z",
+  "updatedAt": "2026-11-10T01:25:51.482Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-09T09:30:00+02:00",
-      "end": "2026-11-09T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
-    {
-      "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
-      "start": "2026-11-09T18:45:00+02:00",
-      "end": "2026-11-09T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8624620152928,
-      "lon": 2.40238102264814,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/le-paysan-urbain-paris",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Paysan Urbain Paris organise des ateliers créatifs ou de bien-être les samedis !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/11/huge-8015db1e8d0a5fa07066ea5515457ac0.jpg"
-    },
     {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
       "start": "2026-11-10T09:30:00+02:00",
@@ -14297,6 +14262,42 @@
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et guidée par un médiateur, la visite propose aux petits et aux grands d’explorer le musée main dans la main.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-0a570104d5db0ae1a130039838ea6b4c.jpg",
       "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-12-23T16:00:00+02:00",
+      "end": "2026-12-23T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
+    },
+    {
+      "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
+      "start": "2026-12-23T16:00:00+02:00",
+      "end": "2026-12-23T18:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8850620150962,
+      "lon": 2.354566958898,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/paris-sportives-football-au-tep-goutte-d-or-82749",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
+      "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     }
   ]
 }
