@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-11-10T19:17:38.414Z",
+  "updatedAt": "2026-11-11T01:26:59.810Z",
   "source": "Essonne Tourisme",
   "events": [
-    {
-      "title": "Atelier signer avec bébé",
-      "start": "2026-11-10T11:00:00.000Z",
-      "end": "2026-11-10T11:00:00.000Z",
-      "city": "Forges-les-Bains",
-      "lat": 48.628187,
-      "lon": 2.097895,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": 0,
-      "description": " ",
-      "image": null,
-      "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/atelier-signer-avec-bebe/"
-    },
     {
       "title": "Agenda des p’tits curieux – Atelier Danse",
       "start": "2026-11-21T11:00:00.000Z",

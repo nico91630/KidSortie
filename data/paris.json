@@ -1,43 +1,7 @@
 {
-  "updatedAt": "2026-11-10T19:17:17.536Z",
+  "updatedAt": "2026-11-11T01:26:38.089Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-10T09:30:00+02:00",
-      "end": "2026-11-10T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
-    {
-      "title": "Le Giornate del Cinema Muto, sélection du festival de Pordenone 2026",
-      "start": "2026-11-11T00:00:00+00:00",
-      "end": "2026-12-01T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.8333880011148,
-      "lon": 2.35453502384692,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.fondation-jeromeseydoux-pathe.com/event/3353",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Fondation Jérôme Seydoux-Pathé propose, comme chaque année, une sélection de films programmés lors de la 45e édition des Giornate del cinema muto de Pordenone, conçue en collaboration avec le directeur du festival Jay Weissberg qui présentera plusieurs séances du 17 au 20 novembre.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/28/huge-f454ebd2fa0cadf9a1b459023c28ae1d.jpg",
-      "aiSummary": "La Fondation Jérôme Seydoux-Pathé présente une sélection de films issus de la 45e édition du festival de Pordenone. Les enfants découvriront ces œuvres du cinéma muet projetées à Paris, avec la présence exceptionnelle du directeur du festival Jay Weissberg pour animer plusieurs séances. Cette sortie culturelle unique permet de plonger dans l'histoire du septième art à travers une programmation rare et commentée par un spécialiste."
-    },
     {
       "title": "Paris Sportives : Marche sportive avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-11-11T08:00:00+02:00",
@@ -14297,6 +14261,42 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
+      "start": "2026-12-23T16:00:00+02:00",
+      "end": "2026-12-23T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371080",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Une visite guidée en famille, à la découverte de la nouvelle exposition temporaire du musée Bourdelle",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-9d85269ff0c637768ed6c2e8d06bc731.jpg",
+      "aiSummary": "Au musée Bourdelle à Paris, cette visite guidée en famille propose de partir à la découverte de la nouvelle exposition temporaire intitulée « L’étoffe de l’artiste ». Petits et grands pourront ainsi explorer ensemble les œuvres présentées et partager un moment culturel privilégié au cœur de la création artistique."
+    },
+    {
+      "title": "Ciné-spectacle : La lanterne des tout-petits",
+      "start": "2026-12-23T16:30:00+02:00",
+      "end": "2026-12-23T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Connaissez-vous la lanterne magique ? Considérée comme l’ancêtre du cinéma, cette machine fut la première à pouvoir projeter des images lumineuses, agrandies sur un écran. Une fois glissés dans la lanterne, des simples dessins peints sur plaque de verre devenaient le support d’histoires fabuleuses, voire même fantasmag",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/20/huge-276acbd779c7ca042fbf0e119d5d204b.jpg",
+      "aiSummary": "Les jeunes spectateurs découvrent la lanterne magique, l'ancêtre du cinéma, qui permet de projeter et d'agrandir des images lumineuses sur un écran. Cette sortie originale leur fait voir comment de simples dessins peints sur plaque de verre se transforment en supports pour des histoires fabuleuses et fantastiques."
     }
   ]
 }
