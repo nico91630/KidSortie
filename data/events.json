@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:37:18.368Z",
+  "updatedAt": "2026-11-11T13:31:37.518Z",
   "events": [
     {
       "title": "Le Palais des enfants",
@@ -594,6 +594,24 @@
       "source": "OpenAgenda · agenda 78042370",
       "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
+    },
+    {
+      "title": "Ciné des enfants : Hola Frida",
+      "start": "2026-12-06T15:00:00+01:00",
+      "end": "2026-12-06T17:00:00+01:00",
+      "city": "Issy-les-Moulineaux",
+      "lat": 48.8178,
+      "lon": 2.262234,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": 6,
+      "maxAge": 99,
+      "price": null,
+      "description": "La Halle des Épinettes propose une séance de cinéma en famille, dès 6 ans, autour de l’enfance de Frida Kahlo. **Ciné des enfants : Hola Frida**\n\nDans le cadre du cycle « Mémoire et Citoyenneté », consacré cette année à la lutte contre toutes les formes de discrimination, le mois de décembre aborde la question du handicap.\n\nLa Halle des Épinettes vous propose une séance du Ciné des enfants à découvrir en famille, à partir de 6 ans.\n\n**Synopsis :**\n\nC’est l’histoire d’une petite fille différente. Son monde, c’est Coyoacán, au Mexique. Pétillante, vibrante, tout l’intéresse. Et lorsque les épreuves se présentent, elle leur fait face grâce à un imaginaire débordant. Cette petite fille s’appelle Frida Kahlo !\n\nInspiré de l’enfance de la célèbre artiste mexicaine, ce film d’animation célèbre la créativité, l’affirmation de soi et la richesse des différences.\n\nUne invitation sensible à découvrir le parcours de Frida Kahlo et à comprendre comment l’art peut devenir une formidable force de résilience face aux épreuves de la vie.\n\n_Long-métrage d’animation d’André Kadi et Karine Vézina (2024, Canada/France). Version française. Durée : 1 h 22._  \n_**En famille, à partir de 6 ans**_  \n_**Entrée gratuite – Réservation conseillée**_  \n**En cas d’empêchement, merci d’annuler votre réservation afin de permettre à d’autres participants de profiter de la séance.**  \n_**Dimanche 6 décembre à 15h",
+      "image": null,
+      "source": "OpenAgenda · agenda 41998231",
+      "url": "https://openagenda.com/espacejeunes-annefrank/events/40290440_projection-hola-frida",
+      "aiSummary": "À la Halle des Épinettes, les familles découvrent un film d’animation inspiré de l'enfance de Frida Kahlo. Ce long-métrage invite les enfants à suivre le parcours d'une petite fille pleine d'imagination face à la différence. Cette séance gratuite met en valeur la créativité et la résilience à travers l'art."
     },
     {
       "title": "Le Palais des enfants",

@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-11T07:37:28.893Z",
+  "updatedAt": "2026-11-11T13:31:43.126Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-11T09:30:00+02:00",
-      "end": "2026-11-11T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
-    },
     {
       "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
       "start": "2026-11-11T09:30:00+02:00",
@@ -55,24 +37,6 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
-    },
-    {
-      "title": "Mercredis des tout-petits",
-      "start": "2026-11-11T10:00:00+02:00",
-      "end": "2026-11-11T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.88486,
-      "lon": 2.382934,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mercredis-des-tout-petits-11047",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis, un·e bibliothécaire vous accueille dans l’espace des tout-petits pour un temps de conseil et d’accompagnement à la lecture individuelle",
-      "image": "https://cdn.paris.fr/qfapv4/2022/12/23/huge-8d80960ef80f52ad5f10e62aa098cdee.jpg",
-      "aiSummary": "Chaque mercredi à Paris, les tout-petits et leurs parents profitent d'un accueil privilégié par un ou une bibliothécaire dans l'espace dédié. Ce rendez-vous offre un temps précieux de conseil et un accompagnement personnalisé pour découvrir la lecture individuelle en toute tranquillité."
     },
     {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
@@ -8178,6 +8142,24 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-445901a40b674d72dbc5c7c81b088b31.png"
     },
     {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-12-04T09:30:00+02:00",
+      "end": "2026-12-04T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
+    },
+    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-04T09:30:00+02:00",
       "end": "2026-12-04T17:00:00+02:00",
@@ -14297,6 +14279,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-24T11:00:00+02:00",
+      "end": "2026-12-24T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     }
   ]
 }
