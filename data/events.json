@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-12T13:34:55.932Z",
+  "updatedAt": "2026-11-12T19:16:55.576Z",
   "events": [
-    {
-      "title": "Le Palais des enfants",
-      "start": "2026-11-12T09:30:00+01:00",
-      "end": "2026-11-12T17:00:00+01:00",
-      "city": "Paris",
-      "lat": 48.866996,
-      "lon": 2.311552,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": 2,
-      "maxAge": 10,
-      "price": null,
-      "description": "Le Palais de la découverte et le Grand Palais Rmn s'associent pour vous présenter le Palais des enfants un nouvel espace conçu pour les enfants de 2 à 10 ans accompagnés, en famille ou en groupe. Entre scénographie immersive, manipulations, dispositifs scientifiques et œuvres d’art, cette offre inédite développe le regard des plus jeunes sur le monde, en fai\u0002sant appel à la curiosité comme à la sensibilité et en aigui\u0002sant l’esprit scientifique ainsi que l’émotion esthétique.  \nLe jeune public y trouve de quoi s’amuser, déployer son imaginaire et s’inspirer pour inventer l’avenir.  \nLes expositions du Palais des enfants valorisent la posture du curieux, qui est le dénominateur commun entre les artistes, les scientifiques et les enfants. Elles ont à cœur d’offrir aux plus jeunes une expérience nouvelle mêlant culture artistique et culture scientifique, faisant tomber les barrières entre arts et sciences.  \nDes médiations scientifiques et artistiques sont réguliè\u0002rement proposées par les équipes du Palais de la décou\u0002verte et de GrandPalaisRmn.",
-      "image": null,
-      "source": "OpenAgenda · agenda 78042370",
-      "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
-      "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
-    },
     {
       "title": "Le Palais des enfants",
       "start": "2026-11-13T09:30:00+01:00",
@@ -682,7 +664,8 @@
       "description": "Spectacle de contes et comptines dès 1 an Des histoires incontournables à redécouvrir, à danser et à rire, à chanter ou à dire pour les tout-petits. Les mots rythment les images, les percussions chahutent et les enfants s’amusent.  \nPour le confort de tous, aucune entrée ne sera possible après le début de l'animation. Merci de votre compréhension.",
       "image": null,
       "source": "OpenAgenda · agenda 16624806",
-      "url": "https://openagenda.com/mediatheques-issy/events/46258813_3-petits-contes-2956367"
+      "url": "https://openagenda.com/mediatheques-issy/events/46258813_3-petits-contes-2956367",
+      "aiSummary": "À Issy-les-Moulineaux, les tout-petits découvrent un spectacle de contes et comptines rythmé par des percussions. Ils profitent d'histoires incontournables à redécouvrir à travers la danse, le rire et le chant. Cette sortie interactive et musicale éveille les jeunes enfants grâce au mariage des mots et des images."
     },
     {
       "title": "Ado'Sphère : Atelier créatif avant Noël",
@@ -755,6 +738,24 @@
       "source": "OpenAgenda · agenda 16624806",
       "url": "https://openagenda.com/mediatheques-issy/events/78199011_les-ptits-ateliers-eveil-musical-8825661",
       "aiSummary": "À Issy-les-Moulineaux, les tout-petits de 0 à 3 ans découvrent l'univers sonore aux côtés de la musicienne Marie-Laure Fessler. À travers des objets du quotidien, leur voix, des percussions et divers instruments, ils s'initient à la musique en s'amusant. Cet atelier offre un moment privilégié de partage et de complicité en musique entre l'enfant et son parent."
+    },
+    {
+      "title": "Petits champions de la lecture",
+      "start": "2026-12-12T15:00:00+01:00",
+      "end": "2026-12-12T17:00:00+01:00",
+      "city": "Issy-les-Moulineaux",
+      "lat": 48.822908,
+      "lon": 2.254294,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Inscriptions pour l'opération Petits Champions de la lecture. Ouvert aux élèves du primaire en CM1 ou CM2. La Médiathèque des Chartreux constitue pour la 10ème fois son équipe de « Petits Champions de la lecture » ! Ce grand concours national met à l’honneur la lecture à voix haute en faisant lire aux enfants un extrait de leur livre favori.\n\nDate limite d’inscription : samedi 5 décembre. Attention : places limitées !",
+      "image": null,
+      "source": "OpenAgenda · agenda 16624806",
+      "url": "https://openagenda.com/mediatheques-issy/events/16844837_petits-champions-de-la-lecture-9068698",
+      "aiSummary": "À Issy-les-Moulineaux, les élèves de CM1 et CM2 inscrits à la Médiathèque des Chartreux peuvent participer à la dixième édition du concours national des Petits Champions de la lecture. Les enfants partagent leur passion en lisant à voix haute un extrait de leur livre favori. Ce grand projet valorise l'art de la lecture et permet de constituer l'équipe officielle de la médiathèque avant la date limite du 5 décembre."
     },
     {
       "title": "Le Palais des enfants",
