@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-11T19:21:11.876Z",
+  "updatedAt": "2026-11-12T01:35:09.305Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-11T09:30:00+02:00",
-      "end": "2026-11-11T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
     {
       "title": "Bienvenue à la Cité des bébés",
       "start": "2026-11-12T09:30:00+02:00",
@@ -10365,24 +10347,6 @@
       "aiSummary": "Venez partager un moment privilégié en famille le samedi matin au sein de la crèche La Vieuville à Paris. En partenariat avec l'association Môm'Artre, cet événement propose diverses activités ludiques adaptées aux enfants et à leurs parents dans un cadre habituellement réservé aux tout-petits."
     },
     {
-      "title": "Atelier Veggie Burger Parent-Enfant (6-12 ans)",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T13:30:00+02:00",
-      "city": "Meudon",
-      "lat": 48.807489,
-      "lon": 2.233508,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.eco-nature.org/experience/atelier-veggie-burger-parent-enfant-6-12-ans-9766",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez partager un moment convivial et gourmand avec votre enfant, et mettez la main à la pâte pour préparer de délicieux burgers végétariens !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-c24ee9c02a5b2da93411499659744a5c.jpg",
-      "aiSummary": "À Meudon, cet atelier parent-enfant invite les familles à partager un moment convivial et gourmand en cuisinant ensemble. Petits et grands mettent la main à la pâte pour préparer de délicieux burgers végétariens. Cette sortie originale permet d'allier complicité et apprentissage culinaire à travers une activité créative et savoureuse."
-    },
-    {
       "title": "Les Samedis en Famille · Crèche Louis Blanc",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -10435,6 +10399,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Madeleine Rebérioux et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La Ville de Paris ouvre exceptionnellement ses crèches au public le samedi matin pour des moments privilégiés en famille. En partenariat avec l'association Môm'Artre, la crèche Madeleine Rebérioux propose ainsi des activités variées à partager petits et grands. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance à travers des animations adaptées."
+    },
+    {
+      "title": "Atelier Veggie Burger Parent-Enfant (6-12 ans)",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T13:30:00+02:00",
+      "city": "Meudon",
+      "lat": 48.807489,
+      "lon": 2.233508,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.eco-nature.org/experience/atelier-veggie-burger-parent-enfant-6-12-ans-9766",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez partager un moment convivial et gourmand avec votre enfant, et mettez la main à la pâte pour préparer de délicieux burgers végétariens !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-c24ee9c02a5b2da93411499659744a5c.jpg",
+      "aiSummary": "À Meudon, cet atelier parent-enfant invite les familles à partager un moment convivial et gourmand en cuisinant ensemble. Petits et grands mettent la main à la pâte pour préparer de délicieux burgers végétariens. Cette sortie originale permet d'allier complicité et apprentissage culinaire à travers une activité créative et savoureuse."
     },
     {
       "title": "Les Samedis en Famille · Crèche Fontaine à Mulard",
@@ -11291,24 +11273,6 @@
       "aiSummary": "Guidés par les artistes Delphine Huard et Armelle Antier, les participants plongent dans l'univers d'Andy Warhol pour créer leur propre œuvre plastique lors de cet atelier bilingue en LSF et français. Cette sortie originale à Paris offre une immersion artistique créative et accessible à tous, permettant de s'approprier les techniques du célèbre maître du pop art."
     },
     {
-      "title": "Atelier \"A toi de créer ! A la manière de Sonia Delaunay\"",
-      "start": "2026-12-12T15:00:00+02:00",
-      "end": "2026-12-12T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.842020020281,
-      "lon": 2.39796803444528,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/atelier-a-toi-de-creer-a-la-maniere-de-sonia-delaunay-127377",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Et si les couleurs vibrantes et les formes géométriques de Sonia Delaunay inspiraient votre prochaine création ? A l’occasion de ce nouvel atelier créatif, explorez l’univers abstrait et coloré de Sonia Delaunay.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-d8c89970585f62a2e389523399d0952d.png",
-      "aiSummary": "Cet atelier créatif invite les enfants à s'initier à l'univers abstrait et coloré de l'artiste Sonia Delaunay. En s'inspirant de ses formes géométriques et de ses teintes vibrantes, les participants exploreront de nouvelles pistes pour réaliser leur propre création artistique."
-    },
-    {
       "title": "Papa !! : spectacle de la compagnie Les Frères Ducasse",
       "start": "2026-12-12T15:00:00+02:00",
       "end": "2026-12-12T15:40:00+02:00",
@@ -11325,6 +11289,24 @@
       "description": "Un petit bébé hibou part courageusement à la recherche de son papa disparu et rencontre, au fil de son aventure, plusieurs papas animaux aussi gentils qu’extraordinaires. Un spectacle tendre, drôle et participatif, où les enfants l’accompagnent à travers la forêt et découvrent avec lui ce qui fait un vrai papa.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/13/huge-983bd45015b198fe5c5bc8a3c07bf5ed.jpg",
       "aiSummary": "Dans ce spectacle tendre, drôle et participatif de la compagnie Les Frères Ducasse, les enfants accompagnent un petit bébé hibou à la recherche de son papa disparu à travers la forêt. Au fil de son aventure, ils découvrent à ses côtés plusieurs papas animaux aussi gentils qu'extraordinaires et apprennent ce qui fait un vrai papa."
+    },
+    {
+      "title": "Atelier \"A toi de créer ! A la manière de Sonia Delaunay\"",
+      "start": "2026-12-12T15:00:00+02:00",
+      "end": "2026-12-12T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.842020020281,
+      "lon": 2.39796803444528,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/atelier-a-toi-de-creer-a-la-maniere-de-sonia-delaunay-127377",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Et si les couleurs vibrantes et les formes géométriques de Sonia Delaunay inspiraient votre prochaine création ? A l’occasion de ce nouvel atelier créatif, explorez l’univers abstrait et coloré de Sonia Delaunay.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/10/huge-d8c89970585f62a2e389523399d0952d.png",
+      "aiSummary": "Cet atelier créatif invite les enfants à s'initier à l'univers abstrait et coloré de l'artiste Sonia Delaunay. En s'inspirant de ses formes géométriques et de ses teintes vibrantes, les participants exploreront de nouvelles pistes pour réaliser leur propre création artistique."
     },
     {
       "title": "Le spectacle « Fanfare » au Cirque Électrique",
@@ -14298,6 +14280,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "EXPOSITION LA MODE AU MOYEN AGE",
+      "start": "2026-12-25T13:30:00+02:00",
+      "end": "2026-12-25T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.864075,
+      "lon": 2.348127,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://tourjeansanspeursite.wordpress.com/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "L'exposition La mode au Moyen Âge offre un voyage dans l’univers vestimentaire médiéval, où les tailleurs rivalisent d'ingéniosité pour mettre en valeur la silhouette et la richesse du propriétaire. Ce sont là les prémices des phénomènes de mode tels que nous les connaissons aujourd'hui !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/05/20/huge-2761810979d58e7374207d54c5c23ad8.jpg",
+      "aiSummary": "Cette exposition à Paris invite à découvrir l'univers vestimentaire médiéval à travers les créations ingénieuses des tailleurs de l'époque. Les enfants exploreront l'histoire des silhouettes et des richesses d'autrefois, révélant les origines des phénomènes de mode actuels dans une visite originale et instructive."
     }
   ]
 }
