@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-12T19:17:06.528Z",
+  "updatedAt": "2026-11-13T01:29:43.240Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Exposition : Lady Liberty, derrière l’icône, le génie d’Eiffel",
-      "start": "2026-11-12T09:30:00+02:00",
-      "end": "2026-11-12T23:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.toureiffel.paris/fr/actualites/evenements/lady-liberty-lexposition-dediee-la-statue-de-la-liberte",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Une exposition sur la terrasse du 1er étage de la tour Eiffel À l’occasion des 140 ans de la Statue de la Liberté",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-0f23a1799bff3f5b092030d58b0bca32.jpg",
-      "aiSummary": "Découvrez sur la terrasse du premier étage de la tour Eiffel une exposition gratuite dédiée à la célèbre Statue de la Liberté. À l'occasion de ses 140 ans, les familles pourront en apprendre davantage sur l'histoire de ce monument emblématique et le rôle de Gustave Eiffel."
-    },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-11-13T09:30:00+02:00",
@@ -14296,6 +14278,24 @@
       "description": "La Maison des Petits accueille gratuitement les enfants de 0 à 5 ans et leurs parents. Elle propose un espace de jeux, d'échange, de partage et d'écoute, dans un lieu au design original.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/18/huge-74c32fbbe911e9189df0017d7c2c30ca.jpg",
       "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
+    },
+    {
+      "title": "Atelier \"L-ouvre les yeux !\" au Musée du Louvre",
+      "start": "2026-12-25T15:00:00+02:00",
+      "end": "2026-12-25T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.862724997505,
+      "lon": 2.33483201932853,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.louvre.fr/agenda/l-ouvre-les-yeux-0",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Zoom, cadre, clic ! Challenges photographiques, parcours ludique et éducation du regard sont au rendez-vous de cet atelier dans les collections permanentes du musée.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-1eff26883de951e4e71ef16de66c61ba.jpg",
+      "aiSummary": "Au cœur des collections permanentes du Musée du Louvre, cet atelier propose un parcours ludique axé sur l'éducation du regard et des challenges photographiques. Les enfants apprendront à zoomer, cadrer et déclencher pour aiguiser leur sens de l'observation. Cette sortie offre une approche originale et active pour découvrir les œuvres autrement en famille."
     }
   ]
 }
