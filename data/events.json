@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-13T13:30:45.230Z",
+  "updatedAt": "2026-11-13T19:17:00.298Z",
   "events": [
-    {
-      "title": "Le Palais des enfants",
-      "start": "2026-11-13T09:30:00+01:00",
-      "end": "2026-11-13T17:00:00+01:00",
-      "city": "Paris",
-      "lat": 48.866996,
-      "lon": 2.311552,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": 2,
-      "maxAge": 10,
-      "price": null,
-      "description": "Le Palais de la découverte et le Grand Palais Rmn s'associent pour vous présenter le Palais des enfants un nouvel espace conçu pour les enfants de 2 à 10 ans accompagnés, en famille ou en groupe. Entre scénographie immersive, manipulations, dispositifs scientifiques et œuvres d’art, cette offre inédite développe le regard des plus jeunes sur le monde, en fai\u0002sant appel à la curiosité comme à la sensibilité et en aigui\u0002sant l’esprit scientifique ainsi que l’émotion esthétique.  \nLe jeune public y trouve de quoi s’amuser, déployer son imaginaire et s’inspirer pour inventer l’avenir.  \nLes expositions du Palais des enfants valorisent la posture du curieux, qui est le dénominateur commun entre les artistes, les scientifiques et les enfants. Elles ont à cœur d’offrir aux plus jeunes une expérience nouvelle mêlant culture artistique et culture scientifique, faisant tomber les barrières entre arts et sciences.  \nDes médiations scientifiques et artistiques sont réguliè\u0002rement proposées par les équipes du Palais de la décou\u0002verte et de GrandPalaisRmn.",
-      "image": null,
-      "source": "OpenAgenda · agenda 78042370",
-      "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
-      "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
-    },
     {
       "title": "Le Palais des enfants",
       "start": "2026-11-14T09:30:00+01:00",
