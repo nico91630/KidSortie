@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:17:08.328Z",
+  "updatedAt": "2026-11-14T01:25:56.850Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -19,24 +19,6 @@
       "description": "Mais qui a dit que les premiers films étaient tout gris et ennuyeux ? Voici une séance spéciale qui vous démontre l’inverse et vous en met plein les yeux !",
       "image": "https://cdn.paris.fr/qfapv4/2026/01/26/huge-28b9cbb7934e4c2864cd4c7c8dceb837.jpg",
       "aiSummary": "Découvrez une séance de cinéma spéciale qui casse les clichés en dévoilant des premiers films hauts en couleur et pleins de magie. Les enfants pourront ainsi profiter d'une projection visuellement surprenante qui leur en mettra plein les yeux, idéale pour redécouvrir le cinéma sous un jour nouveau et ludique à Paris."
-    },
-    {
-      "title": "Lire dans le 20e : prix littéraire jeunesse",
-      "start": "2026-11-14T00:00:00+00:00",
-      "end": "2027-03-20T23:59:59+00:00",
-      "city": "Paris",
-      "lat": 48.872026,
-      "lon": 2.399816,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://liredansle20e.wordpress.com/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le prix littéraire destiné aux jeunes à partir de 7 ans revient cette année pour cinq bibliothèques du 20e : Assia Djebar, Marguerite Duras, Maryse Condé, Naguib Mahfouz et Oscar Wilde !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/04/huge-447b48a78fa21f80d977ac238efe607b.png",
-      "aiSummary": "Les jeunes lecteurs de cinq bibliothèques du 20e arrondissement de Paris, dont Assia Djebar et Marguerite Duras, peuvent participer à un prix littéraire jeunesse. Cette initiative propose aux enfants de découvrir une sélection de livres et de s'engager activement dans la lecture autour de plusieurs structures culturelles locales."
     },
     {
       "title": "Paris Sportives : Marche sportive avec l’association Les Enfants de la Goutte d'Or",
@@ -14295,6 +14277,24 @@
       "description": "Connaissez-vous la lanterne magique ? Considérée comme l’ancêtre du cinéma, cette machine fut la première à pouvoir projeter des images lumineuses, agrandies sur un écran. Une fois glissés dans la lanterne, des simples dessins peints sur plaque de verre devenaient le support d’histoires fabuleuses, voire même fantasmag",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/20/huge-276acbd779c7ca042fbf0e119d5d204b.jpg",
       "aiSummary": "Les jeunes spectateurs découvrent la lanterne magique, l'ancêtre du cinéma, qui permet de projeter et d'agrandir des images lumineuses sur un écran. Cette sortie originale leur fait voir comment de simples dessins peints sur plaque de verre se transforment en supports pour des histoires fabuleuses et fantastiques."
+    },
+    {
+      "title": "Transparence : la première exposition du Palais des enfants",
+      "start": "2026-12-24T09:30:00+02:00",
+      "end": "2026-12-24T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8666400168401,
+      "lon": 2.31161004039998,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.grandpalais.fr/fr/billetterie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
+      "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     }
   ]
 }
