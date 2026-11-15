@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-11-14T19:05:19.119Z",
+  "updatedAt": "2026-11-15T01:30:05.696Z",
   "source": "Essonne Tourisme",
   "events": [
-    {
-      "title": "Eveil Musical – 3 p’tites notes – Saint-Geneviève-des-Bois",
-      "start": "2026-11-21T11:00:00.000Z",
-      "end": "2026-11-21T11:00:00.000Z",
-      "city": "Sainte-Geneviève-des-Bois",
-      "lat": 48.641386,
-      "lon": 2.344684,
-      "category": "Loisir",
-      "familyVerified": true,
-      "minAge": null,
-      "maxAge": null,
-      "price": 0,
-      "description": " ",
-      "image": null,
-      "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/eveil-musical-3-ptites-notes-saint-genevieve-des-bois/"
-    },
     {
       "title": "Agenda des p’tits curieux – Atelier Danse",
       "start": "2026-11-21T11:00:00.000Z",
@@ -35,6 +18,23 @@
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
       "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-danse/"
+    },
+    {
+      "title": "Eveil Musical – 3 p’tites notes – Saint-Geneviève-des-Bois",
+      "start": "2026-11-21T11:00:00.000Z",
+      "end": "2026-11-21T11:00:00.000Z",
+      "city": "Sainte-Geneviève-des-Bois",
+      "lat": 48.641386,
+      "lon": 2.344684,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": 0,
+      "description": " ",
+      "image": null,
+      "source": "Essonne Tourisme (Apidae)",
+      "url": "https://www.essonnetourisme.com/p/eveil-musical-3-ptites-notes-saint-genevieve-des-bois/"
     },
     {
       "title": "Agenda des p’tits curieux – Atelier « parents-enfant » créatif",
@@ -103,6 +103,23 @@
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
       "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-jeux-danses-et-chantes/"
+    },
+    {
+      "title": "Jeu de Piste",
+      "start": "2027-01-23T11:00:00.000Z",
+      "end": "2027-01-23T11:00:00.000Z",
+      "city": "Morigny-Champigny",
+      "lat": 48.446295,
+      "lon": 2.181846,
+      "category": "Découverte",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": 0,
+      "description": " ",
+      "image": null,
+      "source": "Essonne Tourisme (Apidae)",
+      "url": "https://www.essonnetourisme.com/p/jeu-de-piste/"
     }
   ]
 }
