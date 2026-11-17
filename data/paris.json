@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-11-16T19:19:20.179Z",
+  "updatedAt": "2026-11-17T01:34:52.363Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
-      "start": "2026-11-16T18:45:00+02:00",
-      "end": "2026-11-16T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8624620152928,
-      "lon": 2.40238102264814,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/le-paysan-urbain-paris",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Paysan Urbain Paris organise des ateliers créatifs ou de bien-être les samedis !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/11/huge-8015db1e8d0a5fa07066ea5515457ac0.jpg"
-    },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-11-17T09:30:00+02:00",
@@ -14312,6 +14295,24 @@
       "description": "« Fanfare (expérience) électrique » en met plein la vue à l'inégalable Cirque Électrique, du 13 novembre au 30 décembre. Un spectacle à partir de 3 ans !",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/02/huge-63b38da9ca3a70b559625c6fa99c2716.jpg",
       "aiSummary": "Au Cirque Électrique de Paris, découvrez « Fanfare », un spectacle visuel et musical proposé du 13 novembre au 30 décembre. Cette expérience immersive et haute en couleur séduira particulièrement les jeunes spectateurs dès 3 ans grâce à une ambiance festive et étonnante qui en met plein la vue."
+    },
+    {
+      "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
+      "start": "2026-12-26T16:00:00+02:00",
+      "end": "2026-12-26T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8629459863822,
+      "lon": 2.34240003970564,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.pinaultcollection.com/selection/timeslotpass?productId=10229577527325&gtmStepTracking=true",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Conçue en lien avec les expositions de la Bourse de Commerce et guidée par un médiateur, la visite propose aux petits et aux grands d’explorer le musée main dans la main.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-0a570104d5db0ae1a130039838ea6b4c.jpg",
+      "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
     }
   ]
 }
