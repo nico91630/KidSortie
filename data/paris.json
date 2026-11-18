@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:25:47.969Z",
+  "updatedAt": "2026-11-18T01:40:48.273Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -360,6 +360,24 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-06903bc6f232602f4e6691db3adc492c.jpg"
     },
     {
+      "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
+      "start": "2026-11-18T16:00:00+02:00",
+      "end": "2026-11-18T18:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.8850620150962,
+      "lon": 2.354566958898,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/paris-sportives-football-au-tep-goutte-d-or-82749",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
+      "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
       "title": "L'ours et son orchestre : concert découverte",
       "start": "2026-11-18T16:00:00+02:00",
       "end": "2026-11-18T16:45:00+02:00",
@@ -394,24 +412,6 @@
       "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
       "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
-      "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
-      "start": "2026-11-18T16:00:00+02:00",
-      "end": "2026-11-18T18:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.8850620150962,
-      "lon": 2.354566958898,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/paris-sportives-football-au-tep-goutte-d-or-82749",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
-      "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     },
     {
       "title": "L'atelier des petits jardiniers",
@@ -3148,24 +3148,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/18/huge-c9165059bec376b590253a8dc5463e6b.jpg"
     },
     {
-      "title": "Les P'tits Trucs",
-      "start": "2026-11-25T16:00:00+02:00",
-      "end": "2026-11-25T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-11-25T16:00:00+02:00",
       "end": "2026-11-25T18:30:00+02:00",
@@ -3182,6 +3164,24 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-11-25T16:00:00+02:00",
+      "end": "2026-11-25T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
     },
     {
       "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
@@ -5791,24 +5791,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-e1a69ec4cd3e3cf56c56ed1a0dfe2ae5.jpg"
     },
     {
-      "title": "Les P'tits Trucs",
-      "start": "2026-12-02T16:00:00+02:00",
-      "end": "2026-12-02T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-12-02T16:00:00+02:00",
       "end": "2026-12-02T18:30:00+02:00",
@@ -5825,6 +5807,24 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-12-02T16:00:00+02:00",
+      "end": "2026-12-02T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
     },
     {
       "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
@@ -8514,24 +8514,6 @@
       "aiSummary": "À la bibliothèque Aimé Césaire à Paris, les enfants à partir de 8 ans sont conviés à un atelier de jeux de société. Cette animation promet des moments de partage et des fous rires garantis, parfaits pour découvrir de nouveaux jeux en famille ou entre amis."
     },
     {
-      "title": "Les P'tits Trucs",
-      "start": "2026-12-09T16:00:00+02:00",
-      "end": "2026-12-09T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-12-09T16:00:00+02:00",
       "end": "2026-12-09T18:30:00+02:00",
@@ -8548,6 +8530,24 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-12-09T16:00:00+02:00",
+      "end": "2026-12-09T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
     },
     {
       "title": "La Voix de Noël, le spectacle immersif",
@@ -10107,24 +10107,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-c84ee90d8c9e4d5b104ff300df241d93.jpg"
     },
     {
-      "title": "A la manière d'Andy Warhol : atelier de création plastique bilingue LSF/FR",
-      "start": "2026-12-12T15:00:00+02:00",
-      "end": "2026-12-12T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.847914,
-      "lon": 2.327471,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/a-la-maniere-de-leonora-carrington-atelier-de-creation-surrealiste-117590",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Avec les artistes Delphine Huard et Armelle Antier, plongez dans l'univers d'Andy Warhol en créant votre propre œuvre plastique.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/02/huge-72bf770d85ed41acd57e9b4bf2a1344a.jpg",
-      "aiSummary": "Guidés par les artistes Delphine Huard et Armelle Antier, les participants plongent dans l'univers d'Andy Warhol pour créer leur propre œuvre plastique lors de cet atelier bilingue en LSF et français. Cette sortie originale à Paris offre une immersion artistique créative et accessible à tous, permettant de s'approprier les techniques du célèbre maître du pop art."
-    },
-    {
       "title": "Atelier diorama \"Scènes d'Agatha\"",
       "start": "2026-12-12T15:00:00+02:00",
       "end": "2026-12-12T17:00:00+02:00",
@@ -10141,6 +10123,24 @@
       "description": "Croisière fâcheuse sur le Nil ? Voyage tumultueux sur l'Orient Express ? Scène de crime dans une bibliothèque ?",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-c20ca6f6a0a06d7e10eeaa07bfb2e4d5.jpg",
       "aiSummary": "Lors de cet atelier créatif parisien, les enfants imaginent et réalisent un diorama inspiré des célèbres enquêtes d'Agatha Christie, comme une scène de crime ou un voyage en train. Cette activité manuelle originale et ludique permet aux jeunes participants de concevoir leur propre décor miniature en s'amusant."
+    },
+    {
+      "title": "A la manière d'Andy Warhol : atelier de création plastique bilingue LSF/FR",
+      "start": "2026-12-12T15:00:00+02:00",
+      "end": "2026-12-12T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.847914,
+      "lon": 2.327471,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/a-la-maniere-de-leonora-carrington-atelier-de-creation-surrealiste-117590",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Avec les artistes Delphine Huard et Armelle Antier, plongez dans l'univers d'Andy Warhol en créant votre propre œuvre plastique.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/02/huge-72bf770d85ed41acd57e9b4bf2a1344a.jpg",
+      "aiSummary": "Guidés par les artistes Delphine Huard et Armelle Antier, les participants plongent dans l'univers d'Andy Warhol pour créer leur propre œuvre plastique lors de cet atelier bilingue en LSF et français. Cette sortie originale à Paris offre une immersion artistique créative et accessible à tous, permettant de s'approprier les techniques du célèbre maître du pop art."
     },
     {
       "title": "L'atelier du samedi",
@@ -11087,24 +11087,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/01/18/huge-02f49b960a9dc863c6a05a5f9f6c16c7.jpg"
     },
     {
-      "title": "Les P'tits Trucs",
-      "start": "2026-12-16T16:00:00+02:00",
-      "end": "2026-12-16T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-12-16T16:00:00+02:00",
       "end": "2026-12-16T18:30:00+02:00",
@@ -11121,6 +11103,24 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-12-16T16:00:00+02:00",
+      "end": "2026-12-16T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
     },
     {
       "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
@@ -13164,24 +13164,6 @@
       "aiSummary": "Accompagnés d'un médiateur, les petits et les grands explorent ensemble le musée et ses expositions lors d'un parcours adapté. Cette visite guidée interactive permet de partager une découverte culturelle privilégiée en famille au cœur de la Bourse de Commerce."
     },
     {
-      "title": "Les P'tits Trucs",
-      "start": "2026-12-23T16:00:00+02:00",
-      "end": "2026-12-23T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
-      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
-    },
-    {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
       "start": "2026-12-23T16:00:00+02:00",
       "end": "2026-12-23T18:30:00+02:00",
@@ -13198,6 +13180,24 @@
       "description": "Des séances de football adaptées à tous les âges, pour s’amuser, progresser et partager un moment collectif dans le quartier de la Goutte d’Or.",
       "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-cc96d1d2ebd0b988c56ac8f712cf16dd.jpg",
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
+    },
+    {
+      "title": "Les P'tits Trucs",
+      "start": "2026-12-23T16:00:00+02:00",
+      "end": "2026-12-23T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-jacqueline-de-romilly-1745",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
+      "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
     },
     {
       "title": "Silhouettes d'artistes : visites guidées de l'exposition « L’étoffe de l’artiste » en famille",
