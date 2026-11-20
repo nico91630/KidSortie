@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:21:44.834Z",
+  "updatedAt": "2026-11-20T01:29:54.941Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -398,6 +398,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -432,24 +450,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -596,6 +596,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-11-21T09:30:00+02:00",
+      "end": "2026-11-21T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-11-21T09:30:00+02:00",
       "end": "2026-11-21T12:00:00+02:00",
@@ -648,24 +666,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-11-21T09:30:00+02:00",
-      "end": "2026-11-21T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
@@ -3185,6 +3185,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -3219,24 +3237,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -3383,6 +3383,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -3435,24 +3453,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
@@ -6116,6 +6116,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -6150,24 +6168,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -6314,6 +6314,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -6366,24 +6384,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
@@ -8822,6 +8822,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -8856,24 +8874,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -9038,6 +9038,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -9090,24 +9108,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
@@ -11283,6 +11283,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -11317,24 +11335,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -11481,6 +11481,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -11533,24 +11551,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
@@ -13448,6 +13448,24 @@
       "aiSummary": "Venez participer aux activités en famille proposées chaque samedi matin par la crèche Laure Diebold et l'association Crescendo. Cette initiative originale permet aux parents et à leurs tout-petits de partager un moment ludique au sein d'une structure d'accueil habituellement réservée aux professionnels de la petite enfance."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Monplaisir",
+      "start": "2026-12-26T09:30:00+02:00",
+      "end": "2026-12-26T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.865738,
+      "lon": 2.385994,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Cabanis",
       "start": "2026-12-26T09:30:00+02:00",
       "end": "2026-12-26T12:00:00+02:00",
@@ -13482,24 +13500,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Marguerite Long et l'association Môm'Artre proposent des activités en famille de 9h30 à 12h le samedi matin.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Marguerite Long et l'association Môm'Artre ouvrent leurs portes aux familles le samedi matin pour partager des activités ensemble. Cette initiative originale permet de découvrir un accueil collectif sous un autre angle et de profiter de moments ludiques partagés en toute convivialité au cœur de Paris."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Monplaisir",
-      "start": "2026-12-26T09:30:00+02:00",
-      "end": "2026-12-26T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.865738,
-      "lon": 2.385994,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Monplaisir propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux matinées ludiques organisées par l'association Je d'enfant et d'adolescent au sein de la crèche Monplaisir à Paris. Cette initiative permet aux familles de profiter d'activités partagées dans un espace habituellement réservé aux tout-petits. C'est une belle occasion de découvrir un lieu d'accueil municipal sous un autre angle le temps d'une matinée."
     },
     {
       "title": "Les Samedis en Famille · Crèche Dagorno",
@@ -13646,6 +13646,24 @@
       "aiSummary": "La crèche La Garenne à Paris invite les familles à participer à des activités organisées en collaboration avec l'association Môm'Artre. Cette initiative permet aux parents et aux enfants de profiter ensemble d'un moment ludique au sein de la structure municipale un samedi matin."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Pixérécourt",
+      "start": "2026-12-26T09:30:00+02:00",
+      "end": "2026-12-26T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8745659863924,
+      "lon": 2.39565697610175,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
       "start": "2026-12-26T09:30:00+02:00",
       "end": "2026-12-26T12:00:00+02:00",
@@ -13698,24 +13716,6 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Chanzy avec l'association Crescendo proposent tous les samedis matin de 9h30 à 12h des activités en famille.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "La crèche Chanzy ouvre ses portes aux familles tous les samedis matin pour proposer des animations partagées. C’est l’occasion pour les parents et les tout-petits de participer ensemble à des activités ludiques dans un cadre adapté à la petite enfance."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Pixérécourt",
-      "start": "2026-12-26T09:30:00+02:00",
-      "end": "2026-12-26T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8745659863924,
-      "lon": 2.39565697610175,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi. La crèche Pixérécourt propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez participer aux animations matinales proposées par l'association Je d'enfant et d'adolescent au sein de la crèche Pixérécourt. Cette initiative municipale permet aux familles de découvrir un lieu d'accueil de la petite enfance autrement en profitant d'activités partagées le samedi matin."
     },
     {
       "title": "Les Samedis en Famille · Crèche Garancière",
