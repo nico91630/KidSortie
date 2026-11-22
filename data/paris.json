@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-21T19:10:23.390Z",
+  "updatedAt": "2026-11-22T01:31:03.294Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Atelier de découverte de Sun Wukong, le Roi Singe",
-      "start": "2026-11-21T00:00:00+02:00",
-      "end": "2026-11-21T23:59:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/pro/melville",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "L'association LinguiST'ART propose aux enfants de découvrir un personnage emblématique de la culture chinoise \" Sun Wukong, le Roi Singe \" et ses aventures périlleuses vers l'ouest. Les enfants auront le plaisir de créer une marionnette du fameux roi singe.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/24/huge-f4c14737b055bcd62ada3a278cc90dfe.png",
-      "aiSummary": "Cet atelier invite les enfants à partir sur les traces de Sun Wukong, le célèbre Roi Singe, à travers le récit de ses aventures périlleuses vers l'ouest. Durant cette animation culturelle proposée par l'association LinguiST'ART, les participants ont le plaisir de fabriquer leur propre marionnette à l'effigie de ce personnage emblématique de la culture chinoise."
-    },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-11-22T09:30:00+02:00",
@@ -182,24 +164,6 @@
       "aiSummary": "Participez en famille à une séance de rigologie intergénérationnelle pour vous détendre ensemble à tout âge. Cet atelier insolite se déroule un dimanche par mois au Hasard Ludique, un lieu culturel atypique installé sur l'ancienne Petite Ceinture dans le 18e arrondissement de Paris. Une parenthèse ludique et bienveillante idéale pour partager un moment complice et joyeux entre petits et grands."
     },
     {
-      "title": "Ça cartonne | Jeune Public",
-      "start": "2026-11-22T11:00:00+02:00",
-      "end": "2026-11-22T11:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.8461370015732,
-      "lon": 2.37111903837467,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://theatre-traversiere.mapado.com/event/761443-ca-cartonne-cie-matic",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Venez découvrir les aventures de Lucien dans son univers extraordinaire qui saura émerveiller les petits et les grands !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-6f3166d084961e953c4e1767dbd1ca42.jpg",
-      "aiSummary": "Plongez dans l'univers extraordinaire de Lucien et suivez ses aventures captivantes. Ce spectacle jeune public promet d'émerveiller petits et grands grâce à une histoire pleine de magie et de poésie. C'est une sortie idéale à Paris pour partager un beau moment de divertissement en famille et s'évader dans un monde imaginaire surprenant."
-    },
-    {
       "title": "Ateliers en duo Parent-Enfant Danse 18 mois-3 ans",
       "start": "2026-11-22T11:00:00+02:00",
       "end": "2026-11-22T12:00:00+02:00",
@@ -234,6 +198,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Ça cartonne | Jeune Public",
+      "start": "2026-11-22T11:00:00+02:00",
+      "end": "2026-11-22T11:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.8461370015732,
+      "lon": 2.37111903837467,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://theatre-traversiere.mapado.com/event/761443-ca-cartonne-cie-matic",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Venez découvrir les aventures de Lucien dans son univers extraordinaire qui saura émerveiller les petits et les grands !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/23/huge-6f3166d084961e953c4e1767dbd1ca42.jpg",
+      "aiSummary": "Plongez dans l'univers extraordinaire de Lucien et suivez ses aventures captivantes. Ce spectacle jeune public promet d'émerveiller petits et grands grâce à une histoire pleine de magie et de poésie. C'est une sortie idéale à Paris pour partager un beau moment de divertissement en famille et s'évader dans un monde imaginaire surprenant."
     },
     {
       "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
@@ -859,24 +841,6 @@
       "aiSummary": "Pendant cet après-midi convivial à Paris, les enfants auront l'occasion de découvrir de nouveaux jeux sur consoles ou PC. Cette sortie offre une chouette parenthèse ludique pour partager un bon moment autour du jeu vidéo en milieu de semaine."
     },
     {
-      "title": "À chacun son style - Atelier de modelage en famille, autour de l'exposition « L’étoffe de l’artiste »",
-      "start": "2026-11-25T14:30:00+02:00",
-      "end": "2026-11-25T16:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.842975,
-      "lon": 2.318588,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371075",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un atelier de modelage en famille autour de la nouvelle exposition temporaire du musée Bourdelle",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-bf01d6c0afc455248ab5fad0e4fe4f11.jpg",
-      "aiSummary": "Venez participer en famille à un atelier de modelage directement inspiré de la nouvelle exposition temporaire du musée Bourdelle à Paris. Cette activité créative invite les enfants à manipuler la matière et à s'approprier les techniques artistiques mises à l'honneur dans le parcours. C'est une belle occasion de lier découverte culturelle et expression manuelle, en lien direct avec les œuvres présentées."
-    },
-    {
       "title": "Goûter-lecture pour les enfants « Le jardin au fil des saisons »",
       "start": "2026-11-25T14:30:00+02:00",
       "end": "2026-11-25T16:00:00+02:00",
@@ -893,6 +857,24 @@
       "description": "Découvrez des histoires et des ouvrages jeunesse issus de notre bibliothèque spécialisée autour du jardinage et du compostage. Puis participez à une animation sur la vie du sol.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/29/huge-73984621a8490a2d9532eed9317a46aa.jpeg",
       "aiSummary": "À Paris, participez à un goûter-lecture autour de la bibliothèque spécialisée en jardinage et compostage, suivi de la découverte d'histoires et d'ouvrages jeunesse. Les enfants prolongeront l'expérience en prenant part à une animation ludique consacrée à la vie du sol. Cette sortie originale leur permet d'allier lecture et découverte de la nature à travers des activités thématiques enrichissantes."
+    },
+    {
+      "title": "À chacun son style - Atelier de modelage en famille, autour de l'exposition « L’étoffe de l’artiste »",
+      "start": "2026-11-25T14:30:00+02:00",
+      "end": "2026-11-25T16:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.842975,
+      "lon": 2.318588,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229967371075",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un atelier de modelage en famille autour de la nouvelle exposition temporaire du musée Bourdelle",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-bf01d6c0afc455248ab5fad0e4fe4f11.jpg",
+      "aiSummary": "Venez participer en famille à un atelier de modelage directement inspiré de la nouvelle exposition temporaire du musée Bourdelle à Paris. Cette activité créative invite les enfants à manipuler la matière et à s'approprier les techniques artistiques mises à l'honneur dans le parcours. C'est une belle occasion de lier découverte culturelle et expression manuelle, en lien direct avec les œuvres présentées."
     },
     {
       "title": "Tressage de paille : un atelier collaboratif imaginé par Emma Bruschi à la Galerie du 19M",
@@ -2468,24 +2450,6 @@
       "aiSummary": "Participez en famille à un atelier de pratique photographique à Paris, guidé par l'artiste Claire Pathé. Petits et grands découvrent ensemble une technique artistique et laissent libre cours à leur créativité autour du portrait. Ce moment privilégié permet de partager une véritable expérience de création artistique aux côtés d'un professionnel."
     },
     {
-      "title": "Téléthon 2026 Ateliers créatifs et solidaires",
-      "start": "2026-11-28T15:00:00+02:00",
-      "end": "2026-11-28T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.862191,
-      "lon": 2.345248,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.animactisce.org",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre des actions menées pour le Téléthon 2026, les équipes jeunesse des centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg proposent aux jeunes âgés de 13 à 26 ans de participer à des ateliers créatifs solidaires.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-4cdae185ba4f48106775fd541540b120.jpg",
-      "aiSummary": "Les jeunes de 13 à 26 ans sont invités à participer à des ateliers créatifs et solidaires organisés par les centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg. Cette initiative solidaire, menée dans le cadre du Téléthon 2026 à Paris, permet de s'investir dans un projet collectif et utile."
-    },
-    {
       "title": "Atelier brico déco de Noël",
       "start": "2026-11-28T15:00:00+02:00",
       "end": "2026-11-28T17:00:00+02:00",
@@ -2589,6 +2553,24 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez partager un moment d'amusement autour du jeu de société avec vos enfants de 6 à 10 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/01/27/huge-cba8ecea83b1df8e95d2319b1a776cc0.jpg"
+    },
+    {
+      "title": "Téléthon 2026 Ateliers créatifs et solidaires",
+      "start": "2026-11-28T15:00:00+02:00",
+      "end": "2026-11-28T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.862191,
+      "lon": 2.345248,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.animactisce.org",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre des actions menées pour le Téléthon 2026, les équipes jeunesse des centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg proposent aux jeunes âgés de 13 à 26 ans de participer à des ateliers créatifs solidaires.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-4cdae185ba4f48106775fd541540b120.jpg",
+      "aiSummary": "Les jeunes de 13 à 26 ans sont invités à participer à des ateliers créatifs et solidaires organisés par les centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg. Cette initiative solidaire, menée dans le cadre du Téléthon 2026 à Paris, permet de s'investir dans un projet collectif et utile."
     },
     {
       "title": "Fête du conte : scène ouverte !",
@@ -4254,24 +4236,6 @@
       "aiSummary": "À Paris, ce nouveau spectacle immersif signé Bruno Seillier invite à vivre la magie de l'Avent sous les voûtes de l'ancienne église Saint-Honoré-d’Eylau. Les enfants y découvriront des chefs-d’œuvre de la peinture qui s'animent pour raconter une grande histoire de Noël. Cette création originale offre une expérience visuelle unique dans un lieu patrimonial d'exception."
     },
     {
-      "title": "Téléthon 2026 Ateliers créatifs et solidaires",
-      "start": "2026-12-04T18:00:00+02:00",
-      "end": "2026-12-04T20:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.862191,
-      "lon": 2.345248,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.animactisce.org",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre des actions menées pour le Téléthon 2026, les équipes jeunesse des centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg proposent aux jeunes âgés de 13 à 26 ans de participer à des ateliers créatifs solidaires.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-4cdae185ba4f48106775fd541540b120.jpg",
-      "aiSummary": "Les jeunes de 13 à 26 ans sont invités à participer à des ateliers créatifs et solidaires organisés par les centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg. Cette initiative solidaire, menée dans le cadre du Téléthon 2026 à Paris, permet de s'investir dans un projet collectif et utile."
-    },
-    {
       "title": "Soirées jeux des bibliothèques du 10e",
       "start": "2026-12-04T18:00:00+02:00",
       "end": "2026-12-04T21:00:00+02:00",
@@ -4288,6 +4252,24 @@
       "description": "Le vendredi, en soirée, venez découvrir nos jeux de société et passer une belle soirée en compagnie de joueurs de tous les âges",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/21/huge-51877df794a3d325f8376a849e90c769.jpg",
       "aiSummary": "Venez passer une belle soirée en famille un vendredi par mois dans les bibliothèques du 10e arrondissement de Paris. Petits et grands pourront découvrir et tester une grande variété de jeux de société. C'est une belle occasion de partager un moment convivial et ludique en compagnie de joueurs de tous les âges."
+    },
+    {
+      "title": "Téléthon 2026 Ateliers créatifs et solidaires",
+      "start": "2026-12-04T18:00:00+02:00",
+      "end": "2026-12-04T20:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.862191,
+      "lon": 2.345248,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.animactisce.org",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre des actions menées pour le Téléthon 2026, les équipes jeunesse des centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg proposent aux jeunes âgés de 13 à 26 ans de participer à des ateliers créatifs solidaires.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/17/huge-4cdae185ba4f48106775fd541540b120.jpg",
+      "aiSummary": "Les jeunes de 13 à 26 ans sont invités à participer à des ateliers créatifs et solidaires organisés par les centres Paris Anim’ Richard Wright et Ruth Bader Ginsburg. Cette initiative solidaire, menée dans le cadre du Téléthon 2026 à Paris, permet de s'investir dans un projet collectif et utile."
     },
     {
       "title": "La Voix de Noël, le spectacle immersif",
@@ -5100,23 +5082,6 @@
       "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
-      "title": "L'heure du conte des tout-petits",
-      "start": "2026-12-05T10:15:00+02:00",
-      "end": "2026-12-05T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/l-heure-du-conte-des-tout-petits-64248",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Enroulez le fil, déroulez le fil des histoires et des chansons !",
-      "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-f579a15db78c4c56c247dc95c69c12cf.jpg"
-    },
-    {
       "title": "L'heure du conte pour les 0-3 ans",
       "start": "2026-12-05T10:15:00+02:00",
       "end": "2026-12-05T10:45:00+02:00",
@@ -5133,6 +5098,23 @@
       "description": "Des livres, des chansons, des comptines, des jeux de doigts… des tapis, les bras rassurants et enveloppants d'un adulte… et on embarque pour l'heure du conte !",
       "image": "https://cdn.paris.fr/qfapv4/2022/07/30/huge-31a7c1adc5a140fac05625295d826867.jpg",
       "aiSummary": "À Paris, les tout-petits de 0 à 3 ans découvrent des livres, des chansons, des comptines et des jeux de doigts, blottis dans les bras rassurants d’un adulte. Cette animation matinale propose un moment d'éveil doux et partagé, idéal pour plonger les plus jeunes dans l'univers des histoires à travers des tapis de lecture et des moments musicaux adaptés."
+    },
+    {
+      "title": "L'heure du conte des tout-petits",
+      "start": "2026-12-05T10:15:00+02:00",
+      "end": "2026-12-05T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.826787,
+      "lon": 2.36644,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-conte-des-tout-petits-64248",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Enroulez le fil, déroulez le fil des histoires et des chansons !",
+      "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-f579a15db78c4c56c247dc95c69c12cf.jpg"
     },
     {
       "title": "Heures du conte Petite enfance (octobre-décembre)",
@@ -5344,7 +5326,7 @@
       "url": "https://www.billetweb.fr/atelier-creatif-decos-de-noel",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Venez réaliser des décorations originales et une carte de Noël",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/20/huge-c87ad3bd62ce10b7d7208b5f39b32e52.jpg"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/21/huge-f1aeaf880ff83ef8757c53e2e03ccad6.jpg"
     },
     {
       "title": "Philo en famille – Les vêtements ont-ils un pouvoir ?",
@@ -7858,41 +7840,6 @@
       "aiSummary": "À Paris, les tout-petits de 0 à 3 ans découvrent des livres, des chansons, des comptines et des jeux de doigts, blottis dans les bras rassurants d’un adulte. Cette animation matinale propose un moment d'éveil doux et partagé, idéal pour plonger les plus jeunes dans l'univers des histoires à travers des tapis de lecture et des moments musicaux adaptés."
     },
     {
-      "title": "Samedi des enfants",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T11:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.875597,
-      "lon": 2.353896,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/le-samedi-des-enfants-92079",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
-    },
-    {
-      "title": "Spectacle - Une amitié",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T11:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.899422,
-      "lon": 2.33642,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/spectacle-une-amitie",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Dans le cadre du festival Les Enfants d'abord, venez (re)découvrir l'histoire d'amitié entre Loulou et Tom.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-91f20e0fbdbf455bb346ed4c8bdbb8cd.jpg",
-      "aiSummary": "Dans le cadre du festival Les Enfants d'abord à Paris, venez découvrir ou redécouvrir l'histoire touchante de l'amitié entre les personnages de Loulou et Tom. Ce spectacle jeune public offre un beau moment de partage autour de la relation attachante de ces deux héros."
-    },
-    {
       "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
       "start": "2026-12-12T10:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -7927,6 +7874,41 @@
       "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png",
       "aiSummary": "La compagnie Lilliput invite les tout-petits à découvrir un spectacle de marionnettes sur le thème de la mer. Cette représentation s'adresse aux enfants de 1 an à 5 ans, avec des inscriptions ouvertes à partir du 12 novembre 2026. Une jolie découverte artistique à vivre en famille à Paris."
+    },
+    {
+      "title": "Spectacle - Une amitié",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.899422,
+      "lon": 2.33642,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/spectacle-une-amitie",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Dans le cadre du festival Les Enfants d'abord, venez (re)découvrir l'histoire d'amitié entre Loulou et Tom.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-91f20e0fbdbf455bb346ed4c8bdbb8cd.jpg",
+      "aiSummary": "Dans le cadre du festival Les Enfants d'abord à Paris, venez découvrir ou redécouvrir l'histoire touchante de l'amitié entre les personnages de Loulou et Tom. Ce spectacle jeune public offre un beau moment de partage autour de la relation attachante de ces deux héros."
+    },
+    {
+      "title": "Samedi des enfants",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.875597,
+      "lon": 2.353896,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/le-samedi-des-enfants-92079",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
     },
     {
       "title": "Atelier créatif - Initiation au macramé",
@@ -7998,24 +7980,6 @@
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
     },
     {
-      "title": "L'heure du conte pour les 4-7 ans",
-      "start": "2026-12-12T11:15:00+02:00",
-      "end": "2026-12-12T11:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.881097,
-      "lon": 2.332299,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
-      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
-    },
-    {
       "title": "Atelier en famille à la Bourse de Commerce — Pinault Collection",
       "start": "2026-12-12T11:15:00+02:00",
       "end": "2026-12-12T12:45:00+02:00",
@@ -8032,6 +7996,24 @@
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
       "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
+    },
+    {
+      "title": "L'heure du conte pour les 4-7 ans",
+      "start": "2026-12-12T11:15:00+02:00",
+      "end": "2026-12-12T11:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.881097,
+      "lon": 2.332299,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-2-4-ans-117254",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Plein de personnages sortent des bacs à albums de la bibliothèque. Tenez-vous prêt à écouter leurs histoires… et bien d'autres encore.",
+      "image": "https://cdn.paris.fr/qfapv4/2023/07/26/huge-4173cf45917e56121715bde3d82e08c5.jpg",
+      "aiSummary": "À Paris, cette animation invite les 4 à 7 ans à écouter les récits de nombreux personnages qui s'échappent des bacs à albums de la bibliothèque. Ce moment de lecture offre aux enfants une belle découverte littéraire et narrative grâce à des histoires captivantes à écouter sur place."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -8283,23 +8265,6 @@
       "aiSummary": "Lors de cet atelier créatif parisien, les enfants imaginent et réalisent un diorama inspiré des célèbres enquêtes d'Agatha Christie, comme une scène de crime ou un voyage en train. Cette activité manuelle originale et ludique permet aux jeunes participants de concevoir leur propre décor miniature en s'amusant."
     },
     {
-      "title": "Jeux vidéo",
-      "start": "2026-12-12T15:30:00+02:00",
-      "end": "2026-12-12T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.875597,
-      "lon": 2.353896,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/multi_event.php?user=268538",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "À vos manettes ! Venez jouer avec d'autres participants à la médiathèque !",
-      "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-8433a3d6740faaf10dcca867f5d491cc.png"
-    },
-    {
       "title": "Atelier parents-enfants",
       "start": "2026-12-12T15:30:00+02:00",
       "end": "2026-12-12T17:00:00+02:00",
@@ -8316,6 +8281,23 @@
       "description": "L'association Corps à Cœur vous invite à un atelier parent-enfant, parfait pour partager un moment en famille avec des activités créatives, loin des écrans et en musique.. Entrée libre.",
       "image": "https://cdn.paris.fr/qfapv4/2026/02/18/huge-7e18ff7cf56b99252aeda736af5c9f99.png",
       "aiSummary": "Venez partager un moment complice en famille lors de cet atelier créatif et musical, pensé pour petits et grands loin des écrans. Proposé par l'association Corps à Cœur à Paris, cet événement en entrée libre est l'occasion idéale de s'amuser ensemble et de tisser des liens privilégiés à travers des activités artistiques adaptées."
+    },
+    {
+      "title": "Jeux vidéo",
+      "start": "2026-12-12T15:30:00+02:00",
+      "end": "2026-12-12T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.875597,
+      "lon": 2.353896,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/multi_event.php?user=268538",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "À vos manettes ! Venez jouer avec d'autres participants à la médiathèque !",
+      "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-8433a3d6740faaf10dcca867f5d491cc.png"
     },
     {
       "title": "Ateliers de découverte instrumentale pour enfants",
@@ -9177,6 +9159,23 @@
       "aiSummary": "Participez en famille à un tournoi d'échecs en cadence blitz de 6 rondes, accessible aux grands débutants comme aux initiés de tous niveaux. Cette sortie originale vous invite à jouer aux échecs directement au cœur des collections du musée, offrant ainsi une confrontation ludique et stratégique dans un cadre culturel inattendu à Paris."
     },
     {
+      "title": "Atelier de bruitage",
+      "start": "2026-12-16T15:00:00+02:00",
+      "end": "2026-12-16T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.875597,
+      "lon": 2.353896,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/et-si-on-racontait-des-salades-de-fabienne-morel1?multi=u268538&margin=no_margin&ref=u268538&color=635BFF&parent=1",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Atelier de découverte autour du métier de bruiteur",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-8e239c37e66fd9d0942590cd773d9562.png"
+    },
+    {
       "title": "Animation Jeux vidéo à la bibliothèque Amélie",
       "start": "2026-12-16T15:00:00+02:00",
       "end": "2026-12-16T16:30:00+02:00",
@@ -9193,23 +9192,6 @@
       "description": "A l'occasion des Mordus du manga venez défier vos amis et votre famille manette en main autour d'une sélection de jeux 100% mangas !",
       "image": "https://cdn.paris.fr/qfapv4/2026/06/24/huge-f401900dcd61600ce3d68a7044d23bdc.png",
       "aiSummary": "À la bibliothèque Amélie à Paris, venez défier vos proches manette en main lors d'une animation autour d'une sélection de jeux vidéo 100% mangas. Proposée dans le cadre des Mordus du manga, cette sortie ludique invite les enfants à partager un moment convivial et divertissant en famille ou entre amis."
-    },
-    {
-      "title": "Atelier de bruitage",
-      "start": "2026-12-16T15:00:00+02:00",
-      "end": "2026-12-16T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.875597,
-      "lon": 2.353896,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.billetweb.fr/et-si-on-racontait-des-salades-de-fabienne-morel1?multi=u268538&margin=no_margin&ref=u268538&color=635BFF&parent=1",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Atelier de découverte autour du métier de bruiteur",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-8e239c37e66fd9d0942590cd773d9562.png"
     },
     {
       "title": "Atelier \"L-ouvre les yeux !\" au Musée du Louvre",
@@ -10353,9 +10335,9 @@
       "price": 0,
       "url": "https://www.billetweb.fr/atelier-creatif-linogravure",
       "source": "Que faire à Paris — Ville de Paris",
-      "description": "Rejoignez-nous lors de nos ateliers créatifs, découvrez de nouvelles techniques ou perfectionnez celles que vous maîtrisez déjà ! Un samedi par mois de 10h30 à 12h30, à partir de 15 ans",
+      "description": "Rejoignez-nous lors de nos ateliers créatifs, découvrez de nouvelles techniques ou perfectionnez celles que vous maîtrisez déjà ! Un samedi par mois de 10h30 à 12h30, à partir de 12 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/02/14/huge-8a444e06d42df9f6019fe1abc2ce75f7.jpg",
-      "aiSummary": "Lors de cet atelier créatif parisien, les participants dès 15 ans peuvent découvrir de nouvelles techniques artistiques ou perfectionner leur savoir-faire. Cette parenthèse manuelle propose un moment de partage intergénérationnel stimulant, idéal pour exprimer sa créativité un samedi par mois."
+      "aiSummary": "Lors de cet atelier créatif mensuel à Paris, les participants dès 12 ans découvrent de nouvelles techniques artistiques ou perfectionnent leurs compétences. Cette activité manuelle offre un moment d'expression et de partage accessible aux adolescents comme aux adultes."
     },
     {
       "title": "Graine de livres bébés",
@@ -10394,23 +10376,6 @@
       "aiSummary": "Les bibliothécaires invitent les tout-petits à écouter une sélection d'histoires lues au gré de leurs inspirations, avec parfois des formats originaux comme la langue des signes, le bilinguisme anglais, le kamishibaï ou de la musique. Cette sortie propose un moment de découverte littéraire varié et surprenant, adapté aux enfants de 2 à 5 ans."
     },
     {
-      "title": "L'heure du conte des tout-petits",
-      "start": "2026-12-19T11:00:00+02:00",
-      "end": "2026-12-19T11:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.826787,
-      "lon": 2.36644,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/l-heure-du-conte-des-tout-petits-64248",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Enroulez le fil, déroulez le fil des histoires et des chansons !",
-      "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-f579a15db78c4c56c247dc95c69c12cf.jpg"
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-19T11:00:00+02:00",
       "end": "2026-12-19T18:00:00+02:00",
@@ -10427,6 +10392,23 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "L'heure du conte des tout-petits",
+      "start": "2026-12-19T11:00:00+02:00",
+      "end": "2026-12-19T11:45:00+02:00",
+      "city": "Paris",
+      "lat": 48.826787,
+      "lon": 2.36644,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/l-heure-du-conte-des-tout-petits-64248",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Enroulez le fil, déroulez le fil des histoires et des chansons !",
+      "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-f579a15db78c4c56c247dc95c69c12cf.jpg"
     },
     {
       "title": "L'heure du conte pour les 4-7 ans",
@@ -10465,6 +10447,23 @@
       "aiSummary": "Cette exposition à Paris invite à découvrir l'univers vestimentaire médiéval à travers les créations ingénieuses des tailleurs de l'époque. Les enfants exploreront l'histoire des silhouettes et des richesses d'autrefois, révélant les origines des phénomènes de mode actuels dans une visite originale et instructive."
     },
     {
+      "title": "Jeux en famille",
+      "start": "2026-12-19T14:00:00+02:00",
+      "end": "2026-12-19T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.83062,
+      "lon": 2.379738,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/jeux-en-famille-127759",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Après midi jeux en Famille, gratuit, ouvert à tous-tes.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/18/huge-8626ce1547bc0d79b80bf1ae716eecb8.jpeg"
+    },
+    {
       "title": "À chacun son style - Atelier de modelage en famille, autour de l'exposition « L’étoffe de l’artiste »",
       "start": "2026-12-19T14:00:00+02:00",
       "end": "2026-12-19T16:00:00+02:00",
@@ -10481,23 +10480,6 @@
       "description": "Un atelier de modelage en famille autour de la nouvelle exposition temporaire du musée Bourdelle",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/05/huge-bf01d6c0afc455248ab5fad0e4fe4f11.jpg",
       "aiSummary": "Venez participer en famille à un atelier de modelage directement inspiré de la nouvelle exposition temporaire du musée Bourdelle à Paris. Cette activité créative invite les enfants à manipuler la matière et à s'approprier les techniques artistiques mises à l'honneur dans le parcours. C'est une belle occasion de lier découverte culturelle et expression manuelle, en lien direct avec les œuvres présentées."
-    },
-    {
-      "title": "Jeux en famille",
-      "start": "2026-12-19T14:00:00+02:00",
-      "end": "2026-12-19T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.83062,
-      "lon": 2.379738,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/jeux-en-famille-127759",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Après midi jeux en Famille, gratuit, ouvert à tous-tes.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/18/huge-8626ce1547bc0d79b80bf1ae716eecb8.jpeg"
     },
     {
       "title": "La Maison des Petits au CentQuatre",
@@ -14314,6 +14296,24 @@
       "description": "Une offre qui permet aux parents et à leurs enfants âgés de 3 à 7 ans de pratiquer diverses activités gratuitement, les samedis et dimanches, sans nécessité de réservation préalable. Cette offre exclusive est réservée aux familles parisiennes.",
       "image": "https://cdn.paris.fr/qfapv4/2024/03/28/huge-e4ec66dd5c2fcf975ad0b68b727284dc.jpg",
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
+    },
+    {
+      "title": "Portraits de famille",
+      "start": "2027-01-03T11:00:00+02:00",
+      "end": "2027-01-03T18:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8830410125121,
+      "lon": 2.30771103049989,
+      "category": "Événement",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://musee-henner.fr/agenda/evenement/portraits-de-famille",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
+      "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
     }
   ]
 }
