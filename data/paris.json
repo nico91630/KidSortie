@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:12:36.429Z",
+  "updatedAt": "2026-11-23T01:38:49.742Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -1093,24 +1093,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T19:00:00+02:00",
@@ -1127,6 +1109,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
@@ -4007,24 +4007,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T19:00:00+02:00",
@@ -4041,6 +4023,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
@@ -4690,23 +4690,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/06/29/huge-f579a15db78c4c56c247dc95c69c12cf.jpg"
     },
     {
-      "title": "Fabriquez votre nichoir à oiseaux en duo parent-enfant",
-      "start": "2026-12-05T10:30:00+02:00",
-      "end": "2026-12-05T12:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.888184,
-      "lon": 2.3624873,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.eco-nature.org/experience/nichoir-a-oiseaux-9592",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Apprenez à fabriquer un abri pour nos amis ailés.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/06/22/huge-c70a9b8a2df0da756ac4a8c44abf0e37.jpg"
-    },
-    {
       "title": "Atelier jeu \"qui mange qui!\"",
       "start": "2026-12-05T10:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -4722,6 +4705,23 @@
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Atelier jeu autour du thème \"manger et être mangé\" avec le labmobile",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/15/huge-059b4c75971e676a756f9237856a87cc.jpg"
+    },
+    {
+      "title": "Fabriquez votre nichoir à oiseaux en duo parent-enfant",
+      "start": "2026-12-05T10:30:00+02:00",
+      "end": "2026-12-05T12:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.888184,
+      "lon": 2.3624873,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.eco-nature.org/experience/nichoir-a-oiseaux-9592",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Apprenez à fabriquer un abri pour nos amis ailés.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/06/22/huge-c70a9b8a2df0da756ac4a8c44abf0e37.jpg"
     },
     {
       "title": "Heures du conte Petite enfance (octobre-décembre)",
@@ -4938,24 +4938,6 @@
       "aiSummary": "La Maison des Petits au CentQuatre à Paris accueille gratuitement les enfants de zéro à cinq ans et leurs parents. Dans un espace au design original, les familles profitent d'un lieu chaleureux dédié aux jeux, aux échanges et au partage. Cette sortie favorise l'écoute et la découverte au cœur d'un environnement artistique et convivial pensé pour les tout-petits."
     },
     {
-      "title": "Philo en famille – Les vêtements ont-ils un pouvoir ?",
-      "start": "2026-12-05T14:30:00+02:00",
-      "end": "2026-12-05T16:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.85508,
-      "lon": 2.359244,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.mep-fr.org/atelier-philo-en-famille-les-vetements-ont-ils-un-pouvoir.html",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Profitez d’un moment en famille à la MEP pour partager et échanger ensemble autour d’une thématique philosophique liée aux expositions, et accessible aux plus jeunes.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/12/huge-f5ae3de1ce776d3d701bacc1edc27444.png",
-      "aiSummary": "À la Maison Européenne de la Photographie à Paris, les familles participent à un atelier de philosophie accessible aux plus jeunes. Parents et enfants partagent un moment d'échange et de discussion autour de la question du pouvoir des vêtements, en lien direct avec les expositions du lieu. Cette sortie originale favorise la réflexion et le dialogue en famille autour de thématiques artistiques et de société."
-    },
-    {
       "title": "Bienvenue à la Cité des bébés",
       "start": "2026-12-05T14:30:00+02:00",
       "end": "2026-12-05T17:30:00+02:00",
@@ -4972,6 +4954,24 @@
       "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
       "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
+    },
+    {
+      "title": "Philo en famille – Les vêtements ont-ils un pouvoir ?",
+      "start": "2026-12-05T14:30:00+02:00",
+      "end": "2026-12-05T16:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.85508,
+      "lon": 2.359244,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.mep-fr.org/atelier-philo-en-famille-les-vetements-ont-ils-un-pouvoir.html",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Profitez d’un moment en famille à la MEP pour partager et échanger ensemble autour d’une thématique philosophique liée aux expositions, et accessible aux plus jeunes.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/12/huge-f5ae3de1ce776d3d701bacc1edc27444.png",
+      "aiSummary": "À la Maison Européenne de la Photographie à Paris, les familles participent à un atelier de philosophie accessible aux plus jeunes. Parents et enfants partagent un moment d'échange et de discussion autour de la question du pouvoir des vêtements, en lien direct avec les expositions du lieu. Cette sortie originale favorise la réflexion et le dialogue en famille autour de thématiques artistiques et de société."
     },
     {
       "title": "Atelier créatif - Crazy patchwork",
@@ -6731,24 +6731,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T19:00:00+02:00",
@@ -6765,6 +6747,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
@@ -7873,23 +7873,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-8433a3d6740faaf10dcca867f5d491cc.png"
     },
     {
-      "title": "Ateliers de découverte instrumentale pour enfants",
-      "start": "2026-12-12T16:00:00+02:00",
-      "end": "2026-12-12T17:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.856578,
-      "lon": 2.351828,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/atelier-de-decouverte-instrumentale-26-27",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Pavillon de la Sirène met en place des ateliers de découverte pour les 7 -12 ans.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-db04a2cf684e88eb605517ea1eecd734.jpg"
-    },
-    {
       "title": "Atelier en famille à la Bourse de Commerce — Pinault Collection",
       "start": "2026-12-12T16:00:00+02:00",
       "end": "2026-12-12T17:30:00+02:00",
@@ -7906,6 +7889,23 @@
       "description": "Conçue en lien avec les expositions de la Bourse de Commerce et encadré par un médiateur, l'atelier en famille invite petits et grands à expérimenter des pratiques artistiques et à découvrir des techniques et des gestes créatifs avec la plus grande liberté.",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-fdec60baa547ecfe3cf96dc746468a9e.jpg",
       "aiSummary": "Accompagnés par un médiateur, petits et grands découvrent de nouvelles techniques artistiques et s'initient à des gestes créatifs en lien avec les expositions du musée. Cet atelier en famille offre un espace de liberté pour expérimenter l'art ensemble et partager un moment de création original au cœur de Paris."
+    },
+    {
+      "title": "Ateliers de découverte instrumentale pour enfants",
+      "start": "2026-12-12T16:00:00+02:00",
+      "end": "2026-12-12T17:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.856578,
+      "lon": 2.351828,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/atelier-de-decouverte-instrumentale-26-27",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Le Pavillon de la Sirène met en place des ateliers de découverte pour les 7 -12 ans.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/07/07/huge-db04a2cf684e88eb605517ea1eecd734.jpg"
     },
     {
       "title": "Papa !! : spectacle de la compagnie Les Frères Ducasse",
@@ -8140,24 +8140,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/17/huge-d3fedd39a51e1f5ba6c85c4e0f699bd9.jpg"
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-13T11:00:00+02:00",
-      "end": "2026-12-13T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-13T11:00:00+02:00",
       "end": "2026-12-13T18:00:00+02:00",
@@ -8174,6 +8156,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-13T11:00:00+02:00",
+      "end": "2026-12-13T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -8873,23 +8873,6 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/01/18/huge-02f49b960a9dc863c6a05a5f9f6c16c7.jpg"
     },
     {
-      "title": "Le petit atelier spécial Noël",
-      "start": "2026-12-16T16:00:00+02:00",
-      "end": "2026-12-16T17:30:00+02:00",
-      "city": "Paris",
-      "lat": 48.863702,
-      "lon": 2.359974,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/le-petit-atelier-115562",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "le rendez-vous mensuel des enfants créatifs",
-      "image": "https://cdn.paris.fr/qfapv4/2026/02/05/huge-49b79ea2dec3a79816fde75369782a35.jpg"
-    },
-    {
       "title": "Les P'tits Trucs",
       "start": "2026-12-16T16:00:00+02:00",
       "end": "2026-12-16T17:30:00+02:00",
@@ -8906,6 +8889,23 @@
       "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
       "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
+    },
+    {
+      "title": "Le petit atelier spécial Noël",
+      "start": "2026-12-16T16:00:00+02:00",
+      "end": "2026-12-16T17:30:00+02:00",
+      "city": "Paris",
+      "lat": 48.863702,
+      "lon": 2.359974,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/le-petit-atelier-115562",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "le rendez-vous mensuel des enfants créatifs",
+      "image": "https://cdn.paris.fr/qfapv4/2026/02/05/huge-49b79ea2dec3a79816fde75369782a35.jpg"
     },
     {
       "title": "Paris Sportives : Football avec l’association Les Enfants de la Goutte d'Or",
@@ -9301,24 +9301,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T19:00:00+02:00",
@@ -9335,6 +9317,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
@@ -10287,24 +10287,6 @@
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-20T11:00:00+02:00",
-      "end": "2026-12-20T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-20T11:00:00+02:00",
       "end": "2026-12-20T18:00:00+02:00",
@@ -10321,6 +10303,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-20T11:00:00+02:00",
+      "end": "2026-12-20T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -11089,24 +11089,6 @@
       "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-24T11:00:00+02:00",
-      "end": "2026-12-24T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-24T11:00:00+02:00",
       "end": "2026-12-24T18:00:00+02:00",
@@ -11123,6 +11105,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-24T11:00:00+02:00",
+      "end": "2026-12-24T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -11412,24 +11412,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2026-12-26T09:30:00+02:00",
-      "end": "2026-12-26T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2026-12-26T09:30:00+02:00",
       "end": "2026-12-26T19:00:00+02:00",
@@ -11446,6 +11428,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2026-12-26T09:30:00+02:00",
+      "end": "2026-12-26T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
@@ -12202,24 +12202,6 @@
       "aiSummary": "Les familles parisiennes avec des enfants de 3 à 7 ans peuvent participer gratuitement à diverses activités sportives partagées au centre sportif Bréguet, les samedis et dimanches. Cette sortie accessible sans réservation préalable permet aux parents et aux tout-petits de bouger ensemble et de profiter de moments ludiques en toute liberté."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-27T11:00:00+02:00",
-      "end": "2026-12-27T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-27T11:00:00+02:00",
       "end": "2026-12-27T18:00:00+02:00",
@@ -12236,6 +12218,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-27T11:00:00+02:00",
+      "end": "2026-12-27T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -12847,24 +12847,6 @@
       "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
     },
     {
-      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
-      "start": "2026-12-31T11:00:00+02:00",
-      "end": "2026-12-31T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8667269790856,
-      "lon": 2.32293902073192,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
-      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
-    },
-    {
       "title": "Portraits de famille",
       "start": "2026-12-31T11:00:00+02:00",
       "end": "2026-12-31T18:00:00+02:00",
@@ -12881,6 +12863,24 @@
       "description": "La famille de Jean-Jacques Henner occupe une place essentielle dans son œuvre. Après la mort de son père, Georges Guillaume Henner, ses proches lui témoignent un soutien indéfectible et l’accompagnent tout au long de sa carrière.",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-9fc32438e931f3f78f804f38dfa2e7c6.jpg",
       "aiSummary": "À Paris, l'exposition « Portraits de famille » met en lumière les proches de Jean-Jacques Henner, qui ont soutenu et accompagné l'artiste tout au long de sa carrière. Les visiteurs découvriront comment la famille occupe une place essentielle dans l'œuvre du peintre à travers les toiles présentées. Cette sortie culturelle offre un regard touchant sur l'histoire intime et artistique de ce créateur."
+    },
+    {
+      "title": "Conte tout petits : Animalia. Zimba et le bracelet perdu - Hôtel de la Marine",
+      "start": "2026-12-31T11:00:00+02:00",
+      "end": "2026-12-31T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.8667269790856,
+      "lon": 2.32293902073192,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://www.hotel-de-la-marine.paris/agenda/animalia/conte-tout-petits-animalia.-zimba-et-le-bracelet-perdu",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Un spectacle jeune public en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" !",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/06/huge-2f2047f1a7077ef7897c6c8ace185962.jpeg",
+      "aiSummary": "Les tout-petits découvrent un spectacle jeune public spécialement créé en lien avec l'exposition \"Animalia. Bestiaire de la Collection Al Thani\" à l'Hôtel de la Marine à Paris. Cette représentation, intitulée Zimba et le bracelet perdu, offre aux enfants une jolie sortie culturelle adaptée à leur âge au cœur du musée."
     },
     {
       "title": "EXPOSITION LA MODE AU MOYEN AGE",
@@ -13134,24 +13134,6 @@
       "aiSummary": "La crèche Cité Lepage à Paris vous invite à participer à des matinées d'activités en famille le samedi, en collaboration avec l'association Je d'enfant et d'adolescent. Cette initiative originale permet au grand public d'accéder exceptionnellement aux espaces de la crèche. C'est une belle occasion de partager un moment ludique et convivial avec les plus jeunes dans un cadre adapté."
     },
     {
-      "title": "Les Samedis en Famille · Crèche Bassompierre",
-      "start": "2027-01-02T09:30:00+02:00",
-      "end": "2027-01-02T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.850961,
-      "lon": 2.366657,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://jedenfant.fr/samedi-en-famille/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
-    },
-    {
       "title": "Transparence : la première exposition du Palais des enfants",
       "start": "2027-01-02T09:30:00+02:00",
       "end": "2027-01-02T19:00:00+02:00",
@@ -13168,6 +13150,24 @@
       "description": "Le Palais des enfants invite, pour sa première exposition, la transparence ! Un parcours ludique et sensoriel à vivre en famille, où œuvres artistiques et expériences scientifiques jouent avec la lumière pour éveiller la curiosité et l’émerveillement des plus jeunes.",
       "image": "https://cdn.paris.fr/qfapv4/2025/09/04/huge-bd751aff7a5144010d0787fc301320d2.jpg",
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche Bassompierre",
+      "start": "2027-01-02T09:30:00+02:00",
+      "end": "2027-01-02T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.850961,
+      "lon": 2.366657,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://jedenfant.fr/samedi-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Bassompierre propose des activités de 9h30 à 12h le samedi matin avec l'association Je d'enfant et d'adolescent.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "La crèche Bassompierre de Paris ouvre exceptionnellement ses portes au public le samedi matin pour des animations ludiques. Accompagnés par l'association Je d'enfant et d'adolescent, les tout-petits profitent d'activités adaptées dans un cadre familier. Cette initiative originale permet de découvrir autrement un lieu d'accueil de la petite enfance au cœur de la capitale."
     },
     {
       "title": "Les Samedis en Famille · Crèche Chanzy",
