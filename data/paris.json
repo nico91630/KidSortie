@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-11-23T19:23:36.896Z",
+  "updatedAt": "2026-11-24T01:36:56.428Z",
   "source": "Ville de Paris, ODbL",
   "events": [
-    {
-      "title": "Les ateliers créatifs du Paysan Urbain Paris : le programme de Octobre",
-      "start": "2026-11-23T18:45:00+02:00",
-      "end": "2026-11-23T22:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.8624620152928,
-      "lon": 2.40238102264814,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.helloasso.com/associations/le-paysan-urbain-paris",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Le Paysan Urbain Paris organise des ateliers créatifs ou de bien-être les samedis !",
-      "image": "https://cdn.paris.fr/qfapv4/2026/05/11/huge-8015db1e8d0a5fa07066ea5515457ac0.jpg"
-    },
     {
       "title": "Bienvenue à la Cité des bébés",
       "start": "2026-11-24T09:30:00+02:00",
@@ -14317,6 +14300,24 @@
       "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
+      "title": "Les Samedis en Famille · Crèche La Rochefoucauld",
+      "start": "2027-01-09T09:30:00+02:00",
+      "end": "2027-01-09T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.878839,
+      "lon": 2.334512,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.crescendo.asso.fr/structures/les-samedis-en-famille/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La La Rochefoucauld et l'association Crescendo proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "À Paris, la crèche La Rochefoucauld et l'association Crescendo ouvrent leurs portes au public pour des matinées d'activités partagées. Cette initiative permet aux familles de profiter d'un moment convivial ensemble au sein d'une structure dédiée aux tout-petits, idéal pour découvrir un nouvel espace de jeux et d'éveil le samedi matin."
     }
   ]
 }
