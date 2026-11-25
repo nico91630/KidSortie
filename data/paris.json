@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:21:57.938Z",
+  "updatedAt": "2026-11-25T01:43:04.823Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -1149,6 +1149,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2026-11-28T09:30:00+02:00",
+      "end": "2026-11-28T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2026-11-28T09:30:00+02:00",
       "end": "2026-11-28T12:00:00+02:00",
@@ -1183,24 +1201,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2026-11-28T09:30:00+02:00",
-      "end": "2026-11-28T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
@@ -4063,6 +4063,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2026-12-05T09:30:00+02:00",
+      "end": "2026-12-05T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2026-12-05T09:30:00+02:00",
       "end": "2026-12-05T12:00:00+02:00",
@@ -4097,24 +4115,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2026-12-05T09:30:00+02:00",
-      "end": "2026-12-05T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
@@ -6823,6 +6823,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2026-12-12T09:30:00+02:00",
+      "end": "2026-12-12T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2026-12-12T09:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -6857,24 +6875,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2026-12-12T09:30:00+02:00",
-      "end": "2026-12-12T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
@@ -9465,6 +9465,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2026-12-19T09:30:00+02:00",
+      "end": "2026-12-19T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2026-12-19T09:30:00+02:00",
       "end": "2026-12-19T12:00:00+02:00",
@@ -9499,24 +9517,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2026-12-19T09:30:00+02:00",
-      "end": "2026-12-19T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
@@ -10140,7 +10140,8 @@
       "url": "https://www.paris.fr/evenements/the-reed-conservation-society-tramble-concert-dessine-128099",
       "source": "Que faire à Paris — Ville de Paris",
       "description": "Le groupe viendra vous présenter ses ballades folk rêveuses en français mises en illustration en direct.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-56931ff167ea0a8ecd4517af9d80c5f4.png"
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/24/huge-56931ff167ea0a8ecd4517af9d80c5f4.png",
+      "aiSummary": "Ce concert dessiné invite les enfants à découvrir des ballades folk rêveuses en français, accompagnées d'illustrations créées en direct. Cette proposition artistique originale offre un beau moment d'évasion et permet au jeune public d'associer la musique à la magie du dessin instantané."
     },
     {
       "title": "Visite en famille à la Bourse de Commerce — Pinault Collection",
@@ -11664,6 +11665,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2026-12-26T09:30:00+02:00",
+      "end": "2026-12-26T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2026-12-26T09:30:00+02:00",
       "end": "2026-12-26T12:00:00+02:00",
@@ -11698,24 +11717,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2026-12-26T09:30:00+02:00",
-      "end": "2026-12-26T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
@@ -13369,6 +13370,24 @@
       "aiSummary": "À Paris, la crèche Crimée et l'association Je d'enfant et d'adolescent ouvrent leurs portes le samedi matin pour des activités partagées en famille. Cette initiative originale permet de découvrir un espace habituellement réservé aux tout-petits et de participer à des moments d'éveil et de loisirs tous ensemble."
     },
     {
+      "title": "Les Samedis en Famille · Crèche Garancière",
+      "start": "2027-01-02T09:30:00+02:00",
+      "end": "2027-01-02T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.849399,
+      "lon": 2.336037,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://momartre.net/samedis/",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
+      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
+      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
+    },
+    {
       "title": "Les Samedis en Famille · Crèche Rambuteau",
       "start": "2027-01-02T09:30:00+02:00",
       "end": "2027-01-02T12:00:00+02:00",
@@ -13403,24 +13422,6 @@
       "description": "Paris ouvre des crèches au public le samedi. La crèche Dagorno propose des activités en famille le samedi matin avec l'association Je d'enfant et d'adolescent de 9h30 à 12h.",
       "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
       "aiSummary": "Venez partager une matinée ludique en famille au cœur de la crèche Dagorno à Paris, ouverte exceptionnellement au public le samedi. Encadrés par l'association Je d'enfant et d'adolescent, les enfants participeront à des activités variées adaptées aux moments partagés avec leurs proches. Cette initiative originale permet de découvrir autrement ce lieu d'accueil à travers des temps d'éveil stimulants."
-    },
-    {
-      "title": "Les Samedis en Famille · Crèche Garancière",
-      "start": "2027-01-02T09:30:00+02:00",
-      "end": "2027-01-02T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.849399,
-      "lon": 2.336037,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://momartre.net/samedis/",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Paris ouvre des crèches au public le samedi matin. La crèche Garancière et l'association Môm'Artre proposent des activités en famille le samedi matin de 9h30 à 12h.",
-      "image": "https://cdn.paris.fr/qfapv4/2024/09/24/huge-41f7f727bb32a0bbaed9dcd71ea3e786.jpg",
-      "aiSummary": "Venez profiter des samedis en famille à la crèche Garancière à Paris, où l'association Môm'Artre propose des activités adaptées aux enfants et à leurs parents. Cette initiative originale permet de découvrir autrement un lieu de la petite enfance à travers des moments de partage et d'animation créative ou ludique organisés un samedi matin sur deux."
     },
     {
       "title": "Les samedis en famille · Crèche Cité Lepage",
