@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:47:08.494Z",
+  "updatedAt": "2026-11-25T13:44:00.490Z",
   "source": "Ville de Paris, ODbL",
   "events": [
     {
@@ -19,24 +19,6 @@
       "description": "Chasse au trésor, ateliers créatifs et jeux en liberté sur le thème des contes et légendes, inclus dans l’entrée (les mercredis, jeudis et vendredis).",
       "image": "https://cdn.paris.fr/qfapv4/2026/11/13/huge-a7c5d55f88eb1d6e2c39812c2b4b241e.jpg",
       "aiSummary": "À Paris, cette sortie propose aux enfants de participer à une chasse au trésor, des ateliers créatifs et des jeux en liberté autour des contes et légendes. Ces animations thématiques, incluses dans le billet d'entrée, sont organisées les mercredis, jeudis et vendredis pour le plus grand plaisir des jeunes visiteurs."
-    },
-    {
-      "title": "Bienvenue à la Cité des bébés",
-      "start": "2026-11-25T09:30:00+02:00",
-      "end": "2026-11-25T12:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.89568,
-      "lon": 2.387654,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
-      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
-      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
@@ -73,59 +55,6 @@
       "description": "Envie de fêter votre anniversaire ou celui de votre enfant dans un musée ? C'est possible au musée des Plans-Reliefs ! Choisissez parmi une dizaine d'activités pour une visite et atelier ludique dans un musée insolite, situé au cœur de Paris, à l'Hôtel des Invalides.",
       "image": "https://cdn.paris.fr/qfapv4/2025/03/10/huge-7cc5d0d352728a30e57082505d154345.jpg",
       "aiSummary": "Le musée des Plans-Reliefs à Paris propose de fêter les anniversaires des enfants et des adultes grâce à un choix d'une dizaine d'activités. Cette formule permet de profiter d'une visite et d'un atelier ludique au cœur de l'Hôtel des Invalides, offrant ainsi une découverte originale de ce musée insolite."
-    },
-    {
-      "title": "Mercredis des tout-petits",
-      "start": "2026-11-25T10:00:00+02:00",
-      "end": "2026-11-25T11:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.88486,
-      "lon": 2.382934,
-      "category": "Événement",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/mercredis-des-tout-petits-11047",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Tous les mercredis, un·e bibliothécaire vous accueille dans l’espace des tout-petits pour un temps de conseil et d’accompagnement à la lecture individuelle",
-      "image": "https://cdn.paris.fr/qfapv4/2022/12/23/huge-8d80960ef80f52ad5f10e62aa098cdee.jpg",
-      "aiSummary": "Chaque mercredi à Paris, les tout-petits et leurs parents profitent d'un accueil privilégié par un ou une bibliothécaire dans l'espace dédié. Ce rendez-vous offre un temps précieux de conseil et un accompagnement personnalisé pour découvrir la lecture individuelle en toute tranquillité."
-    },
-    {
-      "title": "Copier, Créer : atelier de modelage pour adultes et adolescents",
-      "start": "2026-11-25T10:00:00+02:00",
-      "end": "2026-11-25T14:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.842975,
-      "lon": 2.318588,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": null,
-      "url": "https://www.billetterie-parismusees.paris.fr/selection/timeslotpass?productId=10229597135113",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Atelier d'initiation à la technique du modelage en terre pour adultes et adolescents.",
-      "image": "https://cdn.paris.fr/qfapv4/2023/07/28/huge-057e68bcc9ab39db42e4301b1863c9ae.jpg"
-    },
-    {
-      "title": "L'heure du conte pour les 0-3 ans",
-      "start": "2026-11-25T10:15:00+02:00",
-      "end": "2026-11-25T10:45:00+02:00",
-      "city": "Paris",
-      "lat": 48.881097,
-      "lon": 2.332299,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/l-heure-du-conte-pour-les-0-3-ans-117255",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des livres, des chansons, des comptines, des jeux de doigts… des tapis, les bras rassurants et enveloppants d'un adulte… et on embarque pour l'heure du conte !",
-      "image": "https://cdn.paris.fr/qfapv4/2022/07/30/huge-31a7c1adc5a140fac05625295d826867.jpg",
-      "aiSummary": "À Paris, les tout-petits de 0 à 3 ans découvrent des livres, des chansons, des comptines et des jeux de doigts, blottis dans les bras rassurants d’un adulte. Cette animation matinale propose un moment d'éveil doux et partagé, idéal pour plonger les plus jeunes dans l'univers des histoires à travers des tapis de lecture et des moments musicaux adaptés."
     },
     {
       "title": "Portraits de famille",
@@ -3076,23 +3005,6 @@
       "aiSummary": "Dans le quartier de la Goutte d'Or à Paris, l'association Les Enfants de la Goutte d'Or propose des séances de football adaptées à tous. Les participants peuvent s'amuser, progresser sportivement et partager un moment collectif agréable. Cette sortie est idéale pour faire du sport et vivre une expérience conviviale en groupe."
     },
     {
-      "title": "Atelier philo",
-      "start": "2026-12-02T16:00:00+02:00",
-      "end": "2026-12-02T17:00:00+02:00",
-      "city": "Paris",
-      "lat": 48.884341,
-      "lon": 2.322094,
-      "category": "Loisir",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/lieux/bibliotheque-des-batignolles-1739",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "mercredi 2 décembre à 16h salle bleue sur inscription - pour les enfants de 7 à 11 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-92ed1e70a635ac580f3d1735d46eead2.png"
-    },
-    {
       "title": "Les P'tits Trucs",
       "start": "2026-12-02T16:00:00+02:00",
       "end": "2026-12-02T17:30:00+02:00",
@@ -3109,6 +3021,23 @@
       "description": "Tous les mercredis après-midi, à Romilly, on joue, on crée, on bidouille, bref : on s'amuse ! À 16h dans la salle d'animation, à partir de 6 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-0deef0d50f277f4996684c645ca5b447.png",
       "aiSummary": "Chaque mercredi après-midi à Romilly, les enfants dès 6 ans se retrouvent pour jouer, créer et bidouiller ensemble dans la salle d'animation. Ce rendez-vous ludique et manuel à 16h offre un moment idéal pour s'amuser, imaginer et développer sa créativité à travers des activités variées."
+    },
+    {
+      "title": "Atelier philo",
+      "start": "2026-12-02T16:00:00+02:00",
+      "end": "2026-12-02T17:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.884341,
+      "lon": 2.322094,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-des-batignolles-1739",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "mercredi 2 décembre à 16h salle bleue sur inscription - pour les enfants de 7 à 11 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2026/10/30/huge-92ed1e70a635ac580f3d1735d46eead2.png"
     },
     {
       "title": "Atelier flap",
@@ -6247,6 +6176,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose sa toute première exposition dédiée à la transparence. Les familles découvrent un parcours ludique et sensoriel mêlant œuvres artistiques et expériences scientifiques autour de la lumière. Cette sortie originale éveille la curiosité et l'émerveillement des plus jeunes à travers une approche interactive et visuelle."
     },
     {
+      "title": "Môme en famille",
+      "start": "2026-12-11T10:00:00+02:00",
+      "end": "2026-12-11T11:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.849256,
+      "lon": 2.412159,
+      "category": "Loisir",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/lieux/bibliotheque-assia-djebar-19114",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Pour les parents et enfants de moins de trois ans, rendez-vous avec l'association Môme en famille pour échanger autour d'un moment ludique.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/11/18/huge-4cebc4073166e320006a5907e9b790b0.jpg",
+      "aiSummary": "Les parents et leurs tout-petits de moins de trois ans ont rendez-vous avec l'association Môme en famille pour partager un moment ludique. Cet événement offre un espace d'échanges privilégié et convivial, idéal pour s'amuser et se rencontrer en famille autour d'activités adaptées aux plus jeunes."
+    },
+    {
       "title": "Fêter son anniversaire au musée des Plans-Reliefs (enfants et adultes !)",
       "start": "2026-12-11T10:00:00+02:00",
       "end": "2026-12-11T18:00:00+02:00",
@@ -7217,6 +7164,23 @@
       "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-2f99f32496805e7b2a43a80c99beee3b.jpg"
     },
     {
+      "title": "Samedi des enfants",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:15:00+02:00",
+      "city": "Paris",
+      "lat": 48.875597,
+      "lon": 2.353896,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.paris.fr/evenements/le-samedi-des-enfants-92079",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
+      "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
+    },
+    {
       "title": "Ateliers chorésigne pour enfants sourd·es (7-12 ans), avec Thumette Léon",
       "start": "2026-12-12T10:30:00+02:00",
       "end": "2026-12-12T12:00:00+02:00",
@@ -7233,23 +7197,6 @@
       "description": "À destination des enfants sourds et malentendants (7 à 12 ans). Entrez dans l'univers de la danse, et de ses liens avec la LSF !",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/08/huge-c222836424be2f8f675b1b7f7ac9e5c8.jpeg",
       "aiSummary": "Les enfants sourds et malentendants de 7 à 12 ans découvrent l'univers de la danse à travers des ateliers de chorésigne animés par Thumette Léon à Paris. Cette sortie originale explore les liens créatifs entre le mouvement corporel et la Langue des Signes Française pour offrir une expérience artistique adaptée et enrichissante."
-    },
-    {
-      "title": "Samedi des enfants",
-      "start": "2026-12-12T10:30:00+02:00",
-      "end": "2026-12-12T11:15:00+02:00",
-      "city": "Paris",
-      "lat": 48.875597,
-      "lon": 2.353896,
-      "category": "Spectacle",
-      "minAge": null,
-      "maxAge": null,
-      "familyVerified": true,
-      "price": 0,
-      "url": "https://www.paris.fr/evenements/le-samedi-des-enfants-92079",
-      "source": "Que faire à Paris — Ville de Paris",
-      "description": "Des contes, des lectures et des comptines pour les 0- 6 ans",
-      "image": "https://cdn.paris.fr/qfapv4/2022/08/26/huge-126e4187e68a7a08ba162cc78be438c4.png"
     },
     {
       "title": "Atelier créatif - Initiation au macramé",
@@ -7285,6 +7232,24 @@
       "description": "La compagnie Lilliput propose un spectacle de marionnettes pour le plus plus grand plaisir des petits. Sur inscription à partir du 12 novembre 2026, pour les 1 ans à 5 ans",
       "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-fc53312189ecce68b13e7531a5ba5bd0.png",
       "aiSummary": "La compagnie Lilliput invite les tout-petits à découvrir un spectacle de marionnettes sur le thème de la mer. Cette représentation s'adresse aux enfants de 1 an à 5 ans, avec des inscriptions ouvertes à partir du 12 novembre 2026. Une jolie découverte artistique à vivre en famille à Paris."
+    },
+    {
+      "title": "Heure du conte mensuelle pour les tout-petits",
+      "start": "2026-12-12T10:30:00+02:00",
+      "end": "2026-12-12T11:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.83825,
+      "lon": 2.319986,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/bbg-petits-12",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Il n'y a pas d'âge pour prendre goût aux histoires, aux images et à la lecture. Une fois par mois, nous donnons RDV aux bébés et à leurs parents pour un temps de lecture adapté aux toutes petites oreilles. Ce rendez-vous mensuel prisé des tout-petits a lieu le deuxième samedi de chaque mois, à 10h30.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/11/huge-b3a1e65a651d3178a863aac98eeaae17.jpg",
+      "aiSummary": "Une fois par mois, ce rendez-vous propose aux bébés et à leurs parents un temps de lecture adapté aux tout-petits. Les enfants découvrent ainsi des histoires et des images lors de ce moment privilégié. Cette animation mensuelle, programmée le deuxième samedi du mois à 10h30, permet d'initier les plus jeunes au plaisir de la lecture."
     },
     {
       "title": "Spectacle - Une amitié",
@@ -7799,6 +7764,24 @@
       "description": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants dansent !",
       "image": "https://cdn.paris.fr/qfapv4/2026/10/26/huge-acb3bbe53c7b98b4ae24b188e5330802.jpg",
       "aiSummary": "Pendant que les parents assistent à un spectacle de danse contemporaine à l'Atelier de Paris / CDCN, les enfants profitent d'une garderie dansée spécialement conçue pour eux. Cette proposition originale permet à toute la famille de vivre une expérience artistique adaptée à chacun, alliant la découverte culturelle des adultes à une initiation corporelle ludique pour les plus jeunes."
+    },
+    {
+      "title": "Heure du conte mensuelle pour les enfants à partir de 4 ans",
+      "start": "2026-12-12T17:00:00+02:00",
+      "end": "2026-12-12T17:40:00+02:00",
+      "city": "Paris",
+      "lat": 48.83825,
+      "lon": 2.319986,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": 0,
+      "url": "https://www.billetweb.fr/bbg-grands-12",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "Et si on écoutait des histoires ? Chaque 2ème samedi du mois, à 17h, Bidouille et ses bibliothécaires lisent une sélection d'albums pour les enfants à partir de 4 ans. Venez découvrir ou vous régaler à nouveau des trésors de la littérature jeunesse.",
+      "image": "https://cdn.paris.fr/qfapv4/2025/12/11/huge-0dc26c4a6346f8532b6ce23ab955ab31.jpg",
+      "aiSummary": "Chaque deuxième samedi du mois, les bibliothécaires de Bidouille invitent les enfants dès 4 ans à écouter une sélection d'albums jeunesse. Ce rendez-vous régulier à Paris permet de découvrir ou de redécouvrir des trésors de la littérature à travers des lectures d'histoires captivantes."
     },
     {
       "title": "La Voix de Noël, le spectacle immersif",
@@ -8979,6 +8962,24 @@
       "description": "Expérience sensorielle remarquable, Dans ma paume : premier voyage vous reconduit à l’enfance du geste artistique : celui qui invente, surprend et rassemble.",
       "image": "https://cdn.paris.fr/qfapv4/2026/09/16/huge-4b275f97e56277bd7dcb4d503049e24c.png",
       "aiSummary": "Ce spectacle propose une expérience sensorielle remarquable qui plonge les enfants au cœur de la genèse du geste artistique. Cette création originale offre un moment de découverte surprenant et rassembleur, idéal pour éveiller la curiosité des tout-petits à Paris à travers une approche poétique et visuelle unique."
+    },
+    {
+      "title": "Bienvenue à la Cité des bébés",
+      "start": "2026-12-18T09:30:00+02:00",
+      "end": "2026-12-18T12:00:00+02:00",
+      "city": "Paris",
+      "lat": 48.89568,
+      "lon": 2.387654,
+      "category": "Spectacle",
+      "minAge": null,
+      "maxAge": null,
+      "familyVerified": true,
+      "price": null,
+      "url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=396&cHash=468734c2d5b11d6a225a1dc7ddff4605",
+      "source": "Que faire à Paris — Ville de Paris",
+      "description": "La Cité des bébés accueille les tout-petits et leurs accompagnateurs dans un espace chaleureux et coloré, conçu sans plastique ni écran. Dans ce lieu unique en son genre, les bébés ouvrent grand les yeux sur leur environnement et l'explorent à leur guise.",
+      "image": "https://cdn.paris.fr/qfapv4/2026/09/25/huge-feec5e80e7c9e724c226fefdd44b4f62.jpg",
+      "aiSummary": "Les tout-petits et leurs accompagnateurs découvrent un espace chaleureux, coloré, sans plastique ni écran. Dans ce lieu unique, les enfants ouvrent grand les yeux et explorent leur environnement à leur guise, favorisant ainsi leur éveil en toute liberté."
     },
     {
       "title": "Transparence : la première exposition du Palais des enfants",
