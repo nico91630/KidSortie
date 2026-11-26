@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:42:43.433Z",
+  "updatedAt": "2026-11-26T07:44:45.067Z",
   "events": [
     {
       "title": "Le Palais des enfants",
@@ -758,6 +758,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
     },
     {
+      "title": "Mini Croc'musique",
+      "start": "2027-01-08T10:30:00+01:00",
+      "end": "2027-01-08T10:50:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires. Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/7482237_mini-crocmusique-9753566",
+      "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
+    },
+    {
       "title": "Le Palais des enfants",
       "start": "2027-01-09T09:30:00+01:00",
       "end": "2027-01-09T19:00:00+01:00",
@@ -974,6 +992,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
     },
     {
+      "title": "Mini Croc'musique",
+      "start": "2027-01-22T10:30:00+01:00",
+      "end": "2027-01-22T10:50:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires. Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/75225061_mini-crocmusique-947680",
+      "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
+    },
+    {
       "title": "Le Palais des enfants",
       "start": "2027-01-23T09:30:00+01:00",
       "end": "2027-01-23T19:00:00+01:00",
@@ -1152,6 +1188,24 @@
       "source": "OpenAgenda · agenda 78042370",
       "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
+    },
+    {
+      "title": "Mini croc'lectures",
+      "start": "2027-02-03T09:45:00+01:00",
+      "end": "2027-02-03T10:00:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter... Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter pleinement de ce moment privilégié entre adulte et enfant.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/73088829_mini-croclectures-6292618",
+      "aiSummary": "À Meudon, les tout-petits et leurs accompagnateurs partagent un moment privilégié autour de lectures et de chansons. Les bibliothécaires guident les familles dans le choix des livres pour profiter pleinement de cet instant de partage."
     },
     {
       "title": "Le Palais des enfants",
@@ -1532,6 +1586,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
     },
     {
+      "title": "Mini croc'lectures",
+      "start": "2027-02-27T09:45:00+01:00",
+      "end": "2027-02-27T10:00:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter... Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter pleinement de ce moment privilégié entre adulte et enfant.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/58217929_mini-croclectures-2088490",
+      "aiSummary": "À Meudon, les tout-petits et leurs accompagnateurs partagent un moment privilégié autour de lectures et de chansons. Les bibliothécaires guident les familles dans le choix des livres pour profiter pleinement de cet instant de partage."
+    },
+    {
       "title": "Le Palais des enfants",
       "start": "2027-02-28T09:30:00+01:00",
       "end": "2027-02-28T19:00:00+01:00",
@@ -1620,6 +1692,24 @@
       "source": "OpenAgenda · agenda 78042370",
       "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
+    },
+    {
+      "title": "Mini Croc'musique",
+      "start": "2027-03-05T10:30:00+01:00",
+      "end": "2027-03-05T10:50:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires. Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/88916602_mini-crocmusique-604160",
+      "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
     },
     {
       "title": "Le Palais des enfants",
@@ -1838,6 +1928,24 @@
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
     },
     {
+      "title": "Mini Croc'musique",
+      "start": "2027-03-19T10:30:00+01:00",
+      "end": "2027-03-19T10:50:00+01:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Loisir",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires. Un temps de partage autour de comptines, jeux de doigts et histoires mises en musique pour les tout-petits avec les bibliothécaires.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/68513998_mini-crocmusique-2070424",
+      "aiSummary": "À la bibliothèque de Meudon, les tout-petits profitent d'un moment d'éveil partagé en compagnie des bibliothécaires. Ils découvrent des comptines, des jeux de doigts et des histoires rythmées par de la musique. Cette sortie sensorielle et chaleureuse favorise l'écoute et le plaisir des mots dès le plus jeune âge."
+    },
+    {
       "title": "Le Palais des enfants",
       "start": "2027-03-20T09:30:00+01:00",
       "end": "2027-03-20T19:00:00+01:00",
@@ -2016,6 +2124,24 @@
       "source": "OpenAgenda · agenda 78042370",
       "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
+    },
+    {
+      "title": "Mini croc'lectures",
+      "start": "2027-03-31T09:45:00+02:00",
+      "end": "2027-03-31T10:00:00+02:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter... Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter pleinement de ce moment privilégié entre adulte et enfant.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/65940136_mini-croclectures-2525215",
+      "aiSummary": "À Meudon, les tout-petits et leurs accompagnateurs partagent un moment privilégié autour de lectures et de chansons. Les bibliothécaires guident les familles dans le choix des livres pour profiter pleinement de cet instant de partage."
     },
     {
       "title": "Le Palais des enfants",
@@ -2394,6 +2520,24 @@
       "source": "OpenAgenda · agenda 78042370",
       "url": "https://openagenda.com/palais-de-la-decouverte/events/64600223_le-palais-des-enfants",
       "aiSummary": "Le Palais des enfants à Paris propose aux familles un espace inédit mêlant culture artistique et scientifique. Les enfants de 2 à 10 ans y découvrent des expositions immersives, des manipulations et des œuvres d'art grâce à des dispositifs adaptés. Cette sortie originale éveille leur curiosité, stimule leur esprit scientifique et développe leur sensibilité artistique à travers des parcours interactifs."
+    },
+    {
+      "title": "Mini croc'lectures",
+      "start": "2027-04-24T09:45:00+02:00",
+      "end": "2027-04-24T10:00:00+02:00",
+      "city": "Meudon",
+      "lat": 48.812669,
+      "lon": 2.238543,
+      "category": "Événement",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": null,
+      "description": "Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter... Un temps entre les adultes et leurs tout-petits pour leur lire et leur chanter des histoires. Les bibliothécaires vous accompagnent dans le choix des livres que vous raconterez afin de profiter pleinement de ce moment privilégié entre adulte et enfant.",
+      "image": null,
+      "source": "OpenAgenda · agenda 50008175",
+      "url": "https://openagenda.com/mediatheques-de-meudon/events/48224497_mini-croclectures-687301",
+      "aiSummary": "À Meudon, les tout-petits et leurs accompagnateurs partagent un moment privilégié autour de lectures et de chansons. Les bibliothécaires guident les familles dans le choix des livres pour profiter pleinement de cet instant de partage."
     },
     {
       "title": "Le Palais des enfants",
