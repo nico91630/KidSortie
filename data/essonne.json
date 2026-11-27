@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:43:44.772Z",
+  "updatedAt": "2026-11-27T07:44:04.394Z",
   "source": "Essonne Tourisme",
   "events": [
     {
@@ -54,21 +54,21 @@
       "url": "https://www.essonnetourisme.com/p/agenda-des-ptits-curieux-atelier-jeux-danses-et-chantes/"
     },
     {
-      "title": "Jeu de Piste",
-      "start": "2027-01-23T11:00:00.000Z",
-      "end": "2027-01-23T11:00:00.000Z",
-      "city": "Morigny-Champigny",
-      "lat": 48.446295,
-      "lon": 2.181846,
-      "category": "Découverte",
+      "title": "Atelier créatif – Le Merveilleux noël de Tom le chat",
+      "start": "2026-12-22T11:00:00.000Z",
+      "end": "2026-12-22T11:00:00.000Z",
+      "city": "Chilly-Mazarin",
+      "lat": 48.703098,
+      "lon": 2.315471,
+      "category": "Loisir",
       "familyVerified": true,
       "minAge": null,
       "maxAge": null,
-      "price": 0,
+      "price": null,
       "description": " ",
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
-      "url": "https://www.essonnetourisme.com/p/jeu-de-piste/"
+      "url": "https://www.essonnetourisme.com/p/atelier-creatif-le-merveilleux-noel-de-tom-le-chat/"
     }
   ]
 }
