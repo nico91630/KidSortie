@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:20:36.967Z",
+  "updatedAt": "2026-11-28T01:40:12.790Z",
   "source": "Essonne Tourisme",
   "events": [
     {
@@ -69,6 +69,23 @@
       "image": null,
       "source": "Essonne Tourisme (Apidae)",
       "url": "https://www.essonnetourisme.com/p/atelier-creatif-le-merveilleux-noel-de-tom-le-chat/"
+    },
+    {
+      "title": "Jeu de Piste",
+      "start": "2027-01-23T11:00:00.000Z",
+      "end": "2027-01-23T11:00:00.000Z",
+      "city": "Morigny-Champigny",
+      "lat": 48.446295,
+      "lon": 2.181846,
+      "category": "Découverte",
+      "familyVerified": true,
+      "minAge": null,
+      "maxAge": null,
+      "price": 0,
+      "description": " ",
+      "image": null,
+      "source": "Essonne Tourisme (Apidae)",
+      "url": "https://www.essonnetourisme.com/p/jeu-de-piste/"
     }
   ]
 }
